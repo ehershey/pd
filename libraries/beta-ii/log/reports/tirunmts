@@ -1,0 +1,45 @@
+Bug reported by Yakko:
+/d/tirunmts/rooms/tirunmts_5: /d/tirunmts/rooms/tirunmts_12.c line 13: parse
+error before the  end of line  
+Typo reported by Ramen:
+/d/tirunmts/rooms/tirunmts_5: Heh in one of the new rooms,(heck if i could
+tell ya where it says 'near the path is a sheer cliff going traight up.' at
+the end of the room desc which should be straight  
+Bug reported by Venenum:
+/d/tirunmts/rooms/tirunmts_287: here This room has no exits.
+Praise given by Dovorn Fri Jul 16 15:12:20 2004
+/d/tirunmts/rooms/tirunmts_158: damn, that figure 8 was hard to map :P
+Typo reported by Nestest:
+/d/tirunmts/rooms/tirunmts_171: one of the goblins in this area has an extra
+space in its name "The corpse of Goblin  is here."
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_145: vear instead of veer
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_128: should be plateau instead of plateu
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_109: also plateau instead of plateu
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_198: plateau instead of plateu
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_198: I believe it is occurred, not occured.
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_174: should be sparse instead of sparce
+Typo reported by Boco:
+/d/tirunmts/rooms/tirunmts_174: substantially instead of substancially and
+occurred instead of occured
+Bug reported by Maerdyn:
+/d/tirunmts/rooms/tirunmts_148: I have had trouble getting meat back out from
+containers  eg At the pit in tirun[] I typed 'get meat from pit' and it says
+there was no meat from pit here.  When I tried the same with a pouch it said
+there was no meat from pouch here.  Maerdyn. 
+Typo reported by Cortoth:
+/d/tirunmts/rooms/tirunmts_293: cliff going traight up. - should be straight :p
+Typo reported by Escobar:
+/d/tirunmts/rooms/tirunmts_345: should be nearby, not neardy.
+Typo reported by Escobar:
+/d/tirunmts/rooms/tirunmts_308: should be nearby, not neardy
+Typo reported by Sabbathiel:
+/d/tirunmts/rooms/tirunmts_68: vear should be veer
+Bug reported by Randalar:
+/d/tirunmts/rooms/tirunmts_173: if I don't autofight when resting, I shouldn't
+be able to 'kill'

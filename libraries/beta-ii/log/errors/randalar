@@ -1,0 +1,16 @@
+/wizards/randalar/workroom.c line 1: Cannot #include wizards/randalar/std/mydefs.h before #include <locations.
+/wizards/randalar/workroom.c line 1: Cannot #include wizards/randalar/std/mydefs.h before #include <locations.
+/wizards/randalar/workroom.c line 5: Cannot #include wizards/randalar/std/mydefs.h before #include <std.h>
+/wizards/randalar/workroom.c line 6: Cannot #include wizards/randalar/std/mydefs.h before the end of line
+/wizards/randalar/workroom.c line 6: Cannot #include wizards/randalar/std/mydefs.h before the end of line
+/wizards/randalar/test/std/mon.c line 61: Undefined function member before  >= 0)
+/wizards/randalar/test/std/mon.c line 99: parse error before  (!is_fighting())
+/wizards/randalar/island/std/rmonster.c line 1: parse error before  "std/monster";
+/wizards/randalar/island/std/rmonster.c line 20: Type of returned value doesn't match function return type ( object vs int ) before the end of line
+/wizards/randalar/island/std/rmonster.c line 82: Undefined function member before  >= 0)
+/wizards/randalar/island/std/rmonster.c line 142: Undefined function is_fight before  && friends && point
+/wizards/randalar/island/std/array.c line 9: Undefined variable 'array' before i]))
+/wizards/randalar/island/std/array.c line 18: Undefined variable 'str' before  "arraything"; }
+/wizards/randalar/cmds/_people.c line 119: Undefined variable 'str2' before  == 1) field = "~"+s
+/wizards/randalar/cmds/_people.c line 119: Illegal lvalue before  == 1) field = "~"+s
+/wizards/randalar/cmds/_people.c line 250: Missing #endif at the end of the file

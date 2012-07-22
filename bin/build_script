@@ -1,0 +1,13 @@
+#!/bin/sh
+
+if test $# -ne 1
+then
+        echo "usage: $0 mud_name"
+        exit 1
+fi
+ 
+while true 
+do
+        /home/primal/mud/bin/driver_14 $1.mud
+done
+

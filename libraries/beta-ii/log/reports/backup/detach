@@ -1,0 +1,545 @@
+Typo reported by Syphon Tue Feb 22 15:45:25 2000
+/wizards/detach/C_room5: you suck
+Bug reported by Shadow:
+/wizards/detach/roston/r_crack: "/wizards/detach/roston/r_crack has tons of
+spelling errors!
+Bug reported by Sirrion:
+/wizards/detach/C_room2: body damage isnt going up
+Typo reported by Stormbringer Wed Jun 28 16:57:00 2000
+/wizards/detach/roston/roston34: You look over the male yetti. A giant white colored Yetti with huge pawsand giant legs, he looks to be very
+Typo reported by Stormbringer Wed Jun 28 16:57:18 2000
+/wizards/detach/roston/roston34: You look over the male yetti. A giant white colored Yetti with huge pawsand giant legs, he looks to be very strong. In room: /wizards/detach/roston/roston34
+Bug reported by Nightshade:
+/wizards/detach/roston/r_crack12: the cave south of lodos has a bug.  when you
+enter it, there's no way out, second, if you go 1 east, then enter, you're back
+at the cave beginning
+Bug reported by Methulas:
+/wizards/detach/roston/r_crack7: the mobs in this room with snow snakes
+multiply
+Typo reported by Nightshade Thu Jul  6 11:17:33 2000
+/wizards/detach/roston/r_crack: on the way to roston, at the top of the pit, it says "you man enter;it if you wish"..  should be "you may"
+Bug reported by Stormbringer:
+/wizards/detach/roston/roston23: the bard here losses his heartbeat......they
+have voided his heartbeat in the mob code
+Bug reported by Nightshade:
+/wizards/detach/roston/roston16: if I go 1 north of the roston bum, and try ro
+acid rain, I get an error
+Bug reported by Stormbringer:
+/wizards/detach/roston/roston33: dwarven hunter is 6 feet tall
+Bug reported by Arius:
+/wizards/detach/roston/roston8: *Failed to locate file
+wizards/detach/roston/rostonstorage 
+Typo reported by Staver Sat Jul 22 20:47:25 2000
+/wizards/detach/roston/statue#14474: long desc the is a made? the statue is made perhaps?
+Typo reported by Staver Sat Jul 22 20:47:45 2000
+/wizards/detach/roston/statue#14474: long desc himself not him self
+Bug reported by Staver:
+/wizards/detach/roston/roston15: even though there is a west exit, that class
+hall shield thingie blocks it 
+Bug reported by Staver:
+/wizards/detach/roston/roston23: another of those class hall shield things
+blocks the west exit. , 
+Bug reported by Staver:
+/wizards/detach/roston/weaponshop: last of the call hall shield things in
+this area that I know of 
+Bug reported by Staver:
+/wizards/detach/roston/roston7: east exit here is blocked as well 
+Bug reported by Staver:
+/wizards/detach/roston/roston8: west exit here is blocked off 
+Typo reported by Sulphur Fri Jul 28 22:05:50 2000
+/wizards/detach/roston/b_yetti#30100: is yeti (Abominable snowman, right?)
+Typo reported by Sulphur:
+/wizards/detach/roston/garden: colorfull is colorfull
+Typo reported by Sulphur:
+/wizards/detach/roston/garden: colorfull is colorful
+Bug reported by Staver:
+/wizards/detach/roston/roston43: room description says hole to the west, but
+there is nothing there. 
+Bug reported by Orian:
+/wizards/detach/C_room1: -21 thorns rip out of Male's skin, then retract back
+into it! thornwrack is wierd 
+Typo reported by Sulphur:
+/wizards/detach/roston/roston22: hole is whole
+Typo reported by Staver:
+/wizards/detach/roston/roston39: long rooms desc hole is a hudge instead of
+huge... 
+Typo reported by Staver:
+/wizards/detach/roston/roston38: room ong desc its is it's your is you're
+long desc doesn't make much sense either... to the west is a monster...but no
+western exit... 
+Typo reported by Staver:
+/wizards/detach/roston/roston20: room long desc whole not hole 
+Typo reported by Staver:
+/wizards/detach/roston/garden: when you look at the flowers it says
+colorfull, it it's supposed to be colorful 
+Typo reported by Deathshroud:
+/wizards/detach/roston/roston34: in roston it says There seems to be a giant
+holy in the face of the hill instead of just hole
+Bug reported by Zander:
+/wizards/detach/roston/r_enter: vestment cannot use vestment if you are a
+demonic dark monk
+Bug reported by Powerman:
+/wizards/detach/roston/roston2: charge monster is charge horse
+Typo reported by Staver:
+/wizards/detach/roston/Church: priest nor pirest in bag long descrip two
+spaces after made  not space after the period in pictures.The 
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room1: "buffer" you can buffer yourself more than
+once and it doesn't do ANYTHING
+Typo reported by Enyo:
+/wizards/detach/roston/cave/cave20: passEge...should passage 
+Bug reported by Powerman:
+/wizards/detach/roston/r_crack: charge can be done after mob death in multi mob
+situations
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room88: you guys never check bug logs
+Praise given by Deathshroud Fri Oct 20 19:04:23 2000
+/wizards/detach/roston/drow/room88: drows are big
+Praise given by Deathshroud Fri Oct 20 19:04:29 2000
+/wizards/detach/roston/drow/room88: caverns are huge
+Praise given by Deathshroud Fri Oct 20 19:04:33 2000
+/wizards/detach/roston/drow/room88: roston is kewl
+Bug reported by Marley:
+/wizards/detach/roston/roston23: no exits in this room..n w from roston [] 
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room77: clam = calm
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room17: lazey should be lazy
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room17: slak of should be slack off
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room87: clam calm
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Deathshroud:
+/wizards/detach/roston/drow/room3: you can buffer
+alot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Meilin:
+/wizards/detach/roston/roston44: when a monster has wimpy and runs to the next
+room, it dies there and i get no experience. this has happened several times.
+Bug reported by Deathshroud:
+/wizards/detach/roston/roston20: the battleaxes the knight and such carry are
+skill 'blunt'
+Bug reported by Deathshroud:
+/wizards/detach/roston/r_crack9: the black axes are skill 'blunt'
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room16: slak should be slack
+Idea reported by Deathshroud Tue Dec 12 06:09:12 2000
+/wizards/detach/roston/drow/path1: give conjerors more spells I haven't gotten a spell 10-29
+Bug reported by Deathshroud:
+/wizards/detach/roston/r_crack5: it bairly takes any mp to no mp to cast the
+spell 'earthmaw'
+Bug reported by Misery:
+/wizards/detach/roston/roston49: bloodlust only gives attack boost for 1/4
+the duration of the spell 
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room16: slak slack
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room16: lazey lazy
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room17: lazey lazy
+Typo reported by Powerman:
+/wizards/detach/roston/drow/room17: slak slack
+Bug reported by Nightshade:
+/wizards/detach/forbiden/rooms/room120: whenever it says "Strange berries",
+there's a hard return after 'Strange' and 'dense' in that sentance
+Typo reported by Nightshade:
+/wizards/detach/forbiden/rooms/room120: whenever it says "Strange berries",
+there's a hard return after 'Strange' and 'dense' in that sentance (found in
+server.c)
+Typo reported by Nightshade:
+/wizards/detach/forbiden/rooms/room120: same with reset
+Typo reported by Nightshade:
+/wizards/detach/forbiden/rooms/room120: doh.  ignore the above
+Typo reported by Cookie:
+/wizards/detach/forbiden/rooms/room146: you attack the "black snake" in the
+forbidden forest, and is says "you slash bear" and "bear drops dead before you."
+Should be snake.
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room180: when forbidden cutlasses stun me after i
+cast a spell the damage from the spell wont hit and it will consider me still
+casting a spell until i leave the room
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room160: swamp trolls abilities dont check for
+para. he hits me with spells/abilities even when i paralyze him
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room133: cure me all doesnt cure body damage at
+all
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room193: mobs that have a command that
+auto-executes on entering (Like the assassin in wraith's throne room) get a free
+round + ability before you enter the room even when combat is started. Wraith's
+mob quad stabs me and gets a bunch of normal attacks before i even enter the
+room
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room71: i can para people under lvl 20 outside of
+the arena... this is way tooo tempting for me hehe
+Idea reported by Ashram Wed Jul 24 17:53:47 2002
+/wizards/detach/forbiden/rooms/room18: after a certain point mobs should stop having exp cuts. For example a 52k mob on the bfields will always be plenty hard to kill even if i'm level 100. The damage they do alone slows people down as much as an exp cut would. I say mobs bigger than 50K shouldnt get cut. just my thoughts tho
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room179: cure me all and heal me all are not
+working right. with 366 healing it takes 3 heals to get my torso damage down 1%.
+Detach set himself to have 10 mil healing last night and still 1 heal only took
+my damage down by 1%
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room154: levin is listed under abilities instead
+of spells
+Bug reported by Wraith:
+/wizards/detach/workroom: paralyze needs to be taken out of druids spells
+listing, or give them a healing skill, That is why everytime a druid tries to
+paralyze it gives them they dont have the knoledge for it because that return is
+from a healing skill query
+Typo reported by Wraith:
+/wizards/detach/workroom: dance of the fang  Detachdances carefully while
+balancing its fang on its arm (spacing)  Detachbends its arm around and takes a
+slice at Yettiwith its fand! (spacing and words "fand" needs to be fang)
+Bug reported by Yakko:
+/wizards/detach/forbiden/rooms/room189: trying to go into sother forrest of
+helgrath
+Typo reported by Tyste:
+/wizards/detach/forbiden/obj/a9#117: boots magican is spelt wrong i think its
+magician
+Bug reported by Ashram:
+/wizards/detach/forbiden/rooms/room137: clerics can cure out of negatives to 1
+life. with triggers this makes a cleric (or paladin) unkillable
+Typo reported by Rethlan:
+/wizards/detach/forbiden/rooms/room193: fat tigger - should it be a fat tiger?
+Idea reported by Yakko Tue Sep 24 15:03:14 2002
+/wizards/detach/forbiden/rooms/room86: guild wars
+Bug reported by Eios:
+/wizards/detach/forbiden/obj/skull#54605: Skull Bracers are ment for two arms
+but 2 cannot be worn at the same time
+Bug reported by Prator:
+/wizards/detach/forbiden/rooms/room195: I have no idea what is going on in this
+room. But I think you can go west to enter it from two places. One is an exit
+east from here, and the other is west. If I keep walking west I cycle through
+two rooms.
+Bug reported by Hermes:
+/wizards/detach/forbiden/rooms/room38: Partylist in bear form bugs
+Bug reported by Rubicante:
+/wizards/detach/forbiden/rooms/room34: there is no message from when ruby
+amulet's effect wears off
+Bug reported by Rubicante:
+/wizards/detach/darkmouth/1: shadow dragons attack everything with their breathe
+attack
+Bug reported by Yakko:
+/wizards/detach/forbiden/rooms/room40: i can get stuff from diamond as i BS
+Idea reported by Yakko Fri May  2 13:48:58 2003
+/wizards/detach/forbiden/rooms/room89: super powered ointments
+Idea reported by Glance Sat May  3 03:49:34 2003
+/wizards/detach/forbiden/obj/a8#51228: Why should I have to have a right arm to where a cloak they fit around your neck and drape over you.
+Typo reported by Wolfspirit:
+/wizards/detach/forbiden/obj/boots#1708: boots There are two full stops after
+this item.
+Typo reported by Wolfspirit:
+/wizards/detach/forbiden/obj/boots#1708: boots Magician is spelt wrongly on
+these boots.
+Idea reported by Yakko Mon Oct  6 20:19:55 2003
+/wizards/detach/forbiden/rooms/room182: super powered ointments

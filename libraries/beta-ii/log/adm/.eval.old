@@ -1,0 +1,2964 @@
+nulvect under euid nulvect Wed Dec  1 05:17:05 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "right") );
+nulvect under euid nulvect Wed Dec  1 05:17:09 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:18:23 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:18:57 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:19:13 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 05:19:19 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"a","b","crap","derp","egg","grakkle","fraggle","hork"}), 3, 80, " | ", "right") );
+nulvect under euid nulvect Wed Dec  1 05:20:35 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 3, 80, " | ", "right") );
+nulvect under euid nulvect Wed Dec  1 05:20:39 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 3, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:20:57 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:21:03 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 5, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:21:33 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:21:41 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","crap","derp","eggy","grakle","fraggles","hork"}), 5, 150, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:22:57 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","gk","fr","ho"}), 5, 150, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:23:03 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","gk","fr","ho"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:23:17 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","gk","fr","ho"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:24:09 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","gk","fr","ho","za"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:24:25 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","gk","fr","ho","za"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:34:35 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg"}), 2, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:34:41 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg"}), 3, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:34:53 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg"}), 2, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:35:17 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt"}), 2, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:35:23 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt"}), 3, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:35:57 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:36:49 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv","ja","wk"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:39:51 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv","ja","wk"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:40:07 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv","ja","wk"}), 3, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:40:21 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:41:39 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:41:59 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az","bx","cr","de","eg","za","yt","so","lv","xx","yk"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:43:41 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:43:51 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 4, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:44:01 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 3, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:44:05 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 2, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:44:45 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 5, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:44:53 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 3, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:46:00 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"az"}), 6, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:46:05 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"abracadabra"}), 6, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 05:46:14 2010
+write( "/wizards/nulvect/bin/format_columns.c"->format_columns( ({"abracadabra biatch"}), 6, 100, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 14:48:49 2010
+int cols = 2; int items = 4; for ( ; cols <= 10; cols++) { printf("cols %2d, items %2d, percol %2d, percol*cols %3d\n", cols, items, items/cols, (items/cols)*cols); }
+nulvect under euid nulvect Wed Dec  1 14:49:53 2010
+for (int cols = 2; cols <= 10; cols++) { for (int items = 4; items <= 20; items++) { printf("cols %2d, items %2d, percol %2d, percol*cols %3d\n", cols, items, items/cols, (items/cols)*cols); } }
+nulvect under euid nulvect Wed Dec  1 14:54:45 2010
+for (int cols = 2; cols <= 10; cols++) { for (int items = 4; items <= 20; items++) { printf("cols %2d, items %2d, percol %2d, percol*cols %2d, items/cols %2.2f\n", cols, items, items/cols, (items/cols)*cols, to_float(items)/to_float(cols)); } }
+nulvect under euid nulvect Wed Dec  1 15:03:47 2010
+for (int cols = 2; cols <= 10; cols++) { for (int items = 4; items <= 20; items++) { printf("cols %2d, items %2d, percol %2d, percol*cols %2d, items%%cols %2d, items/cols %2.2f\n", cols, items, items/cols, (items/cols)*cols, items%cols, to_float(items)/to_float(cols)); } }
+nulvect under euid nulvect Wed Dec  1 15:18:01 2010
+return environment(find_player("scoff"));
+nulvect under euid nulvect Wed Dec  1 15:28:31 2010
+for (int cols = 2; cols <= 10; cols++) { for (int items = 4; items <= 20; items++) { printf("cols %2d, items %2d, rows %2d (%2d), rows*cols %2d, items%%cols %2d, items/cols %2.2f\n", cols, items, items/cols, (cols > 2 && cols < items ? (items/cols)+1 : items/cols), (items/cols)*cols, items%cols, to_float(items)/to_float(cols)); } }
+nulvect under euid nulvect Wed Dec  1 15:38:17 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( ({ "ax", "by", "cz", "dq", "ej", "fl", "gp" }), 3, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 15:39:03 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( ({ "ax", "by", "cz", "dq", "ej", "fl", "gp", "hn", "iw" }), 4, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 15:40:43 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( ({ "ax", "by", "cz", "dq", "ej", "fl", "gp", "hn", "iw" }), 4, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 15:41:09 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( ({ "ax", "by", "cz", "dq", "ej", "fl", "gp", "hn", "iw", "js", "kr" }), 5, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 15:42:44 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( explode(repeat_string("ax.", 17), ".") , 5, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 15:43:10 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( explode(repeat_string("ax.", 16), ".") , 5, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 16:17:47 2010
+write( "/wizards/nulvect/bin/format_columns"->format_columns( explode(repeat_string("ax.", 9), ".") , 2, 100, " | ", "left") );
+nulvect under euid nulvect Wed Dec  1 18:35:06 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( explode(repeat_string("ax.", 12), "."), 3, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:35:14 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( explode(repeat_string("ax.", 12), "."), 2, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:36:02 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( explode(repeat_string("ax.", 6)+repeat_string("by.", 6), "."), 2, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:36:34 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( explode((repeat_string("ax.", 6)+repeat_string("by.", 6)), "."), 2, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:36:40 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( explode((repeat_string("ax.", 6)+repeat_string("by.", 6)), "."), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:37:34 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:38:54 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:40:12 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:42:48 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:44:40 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:44:48 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", "ls" }), 5, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:45:26 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip", "jw", "kp", }), 5, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:45:38 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip" }), 5, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:45:44 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:49:06 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Wed Dec  1 18:49:58 2010
+write( "/wizards/nulvect/bin/format_rows"->format_rows( ({ "ax", "by", "cz", "dq", "ev", "fl", "gr", "hk", "ip" }), 4, 80, " | ", "center") );
+nulvect under euid nulvect Thu Dec  2 00:06:07 2010
+return environment(find_player("amon"));
+nulvect under euid nulvect Thu Dec  2 00:11:53 2010
+return environment(find_player("amon"));
+stormbringer under euid stormbringer Thu Dec  2 02:37:54 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Thu Dec  2 02:38:14 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+nulvect under euid nulvect Thu Dec  2 22:32:10 2010
+return file_name(this_player());
+nulvect under euid nulvect Thu Dec  2 23:07:41 2010
+return environment(find_player("stormbringer"));
+stormbringer under euid stormbringer Thu Dec  2 23:55:32 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Thu Dec  2 23:55:40 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("9");
+stormbringer under euid stormbringer Thu Dec  2 23:55:52 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("9");
+nulvect under euid nulvect Fri Dec  3 01:13:37 2010
+return environment(find_player("ironman"));
+nulvect under euid nulvect Fri Dec  3 01:13:41 2010
+return environment(find_player("stormbringer"));
+nulvect under euid nulvect Fri Dec  3 18:42:04 2010
+return environment(find_player("yun"));
+nulvect under euid nulvect Fri Dec  3 18:44:52 2010
+return environment(find_player("yun"));
+nulvect under euid nulvect Fri Dec  3 19:14:08 2010
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Dec  4 02:25:30 2010
+return environment(find_player("yun"));
+nulvect under euid nulvect Sat Dec  4 02:28:36 2010
+return environment(find_player("scoff"));
+nulvect under euid nulvect Sat Dec  4 11:53:11 2010
+return environment(find_player("snow"));
+nulvect under euid nulvect Sat Dec  4 12:59:35 2010
+printf("%O\n", ([ "b": ([ "q" : 80 ]) ]) );
+nulvect under euid nulvect Sat Dec  4 13:00:15 2010
+printf("%@20O\n", ([ "b": ([ "q" : 80 ]) ]) );
+nulvect under euid nulvect Sat Dec  4 13:10:20 2010
+string a; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:24 2010
+string a = ""; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:32 2010
+float a; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:38 2010
+float a = 0.0; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:44 2010
+string *a; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:48 2010
+string *a = ({}); return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:10:58 2010
+string *a; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:11:00 2010
+string *a; return intp(a);
+nulvect under euid nulvect Sat Dec  4 13:11:08 2010
+string *a; return arrayp(a);
+nulvect under euid nulvect Sat Dec  4 13:11:14 2010
+string *a; return stringp(a);
+nulvect under euid nulvect Sat Dec  4 13:12:40 2010
+mixed *a = ({ 5 }); return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:12:54 2010
+mixed a = "a"; return typeof(a);
+nulvect under euid nulvect Sat Dec  4 13:56:15 2010
+return ({5,7,3,9})[0..-1]
+nulvect under euid nulvect Sat Dec  4 13:56:26 2010
+return ({5,7,3,9})[0..2]
+nulvect under euid nulvect Sat Dec  4 13:56:29 2010
+return ({5,7,3,9})[-1..2]
+nulvect under euid nulvect Sat Dec  4 13:56:31 2010
+return ({5,7,3,9})[<1..2]
+nulvect under euid nulvect Sat Dec  4 13:57:15 2010
+return ({5,7,3,9})[-2..2]
+nulvect under euid nulvect Sat Dec  4 13:57:59 2010
+int x = 3; int a = ({ 5,7,3,9,2,8,1,0 }); return a[0..x] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 13:58:49 2010
+int x; int a = ({5,7,3,9,2,8,1,0}); return a[0..x] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 13:59:17 2010
+int x; int a = ({5,7,3,9,2,8,1}); return a[0..x] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 13:59:23 2010
+int x = 3; int *a = ({5,7,3,9,2,8,1}); return a[0..x] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 13:59:40 2010
+int x = 3; int *a = ({5,7,3,9,2,8,1}); x -= 2; return a[0..x] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:00:00 2010
+int x = 3; int *a = ({5,7,3,9,2,8,1}); x -= 2; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:00:16 2010
+int x = 3; int *a = ({5,7,3,9,2,8,1}); x -= 1; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:01:30 2010
+int x = 2; int *a = ({5,7,3,9,2,8,1}); x -= 1; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:01:34 2010
+int x = 1; int *a = ({5,7,3,9,2,8,1}); x -= 1; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:01:50 2010
+int x = 7; int *a = ({5,7,3,9,2,8,1}); x -= 1; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 14:01:56 2010
+int x = 9; int *a = ({5,7,3,9,2,8,1}); x -= 1; return a[0..x-1] + a[x+1..];
+nulvect under euid nulvect Sat Dec  4 15:37:00 2010
+return ({5,7}) & ({5,4,7,2,3});
+nulvect under euid nulvect Sat Dec  4 15:37:06 2010
+return ({5,7}) & ({5,4,2,3});
+nulvect under euid nulvect Sat Dec  4 18:36:39 2010
+return environment(find_player("kon"));
+nulvect under euid nulvect Sat Dec  4 19:22:52 2010
+return environment(find_player("scoff"));
+nulvect under euid nulvect Sat Dec  4 19:52:56 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("test"));
+nulvect under euid nulvect Sat Dec  4 19:56:36 2010
+printf("%O\n", "/adm/daemon/alchemy_d"->query_recipe("test"));
+nulvect under euid nulvect Sat Dec  4 20:03:12 2010
+"/adm/daemon/alchemy_d"->add_step("test", 3, "crush", ({"glop","crud"}), ({"gunk"}), ({"medium"}), "/wizards/nulvect/multiwep.c");
+nulvect under euid nulvect Sat Dec  4 20:03:14 2010
+printf("%O\n", "/adm/daemon/alchemy_d"->query_recipe("test"));
+nulvect under euid nulvect Sat Dec  4 20:04:28 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("test"));
+nulvect under euid nulvect Sat Dec  4 20:05:34 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("test"));
+nulvect under euid nulvect Sat Dec  4 20:13:55 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("test"));
+nulvect under euid nulvect Sat Dec  4 20:13:59 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("test2"));
+nulvect under euid nulvect Sun Dec  5 03:26:46 2010
+return present("darkmail", find_player("sopboo"));
+nulvect under euid nulvect Sun Dec  5 03:51:40 2010
+"/adm/include/alchemy_d"->add_recipe("nuke", "/d/nopk/tirun/obj/misc/backpack", ([]) );
+nulvect under euid nulvect Sun Dec  5 03:51:48 2010
+"/adm/daemon/alchemy_d"->add_recipe("nuke", "/d/nopk/tirun/obj/misc/backpack", ([]) );
+nulvect under euid nulvect Sun Dec  5 03:53:36 2010
+"/adm/daemon/alchemy_d"->add_step("nuke", 4, "mix", ({"unobtanium"}), ({}), ({"normal"}), "/wizards/daboura/black_dagger");
+nulvect under euid nulvect Sun Dec  5 03:53:56 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("nuke"));
+stormbringer under euid stormbringer Sun Dec  5 03:54:34 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("nuke"));
+nulvect under euid nulvect Sun Dec  5 04:05:23 2010
+"/adm/daemon/alchemy_d"->add_recipe("dragon healing salve", "/wizards/vian/event/salve", ([]) );
+nulvect under euid nulvect Sun Dec  5 04:06:53 2010
+"/adm/daemon/alchemy_d"->add_step("dragon healing salve", 4, "mix", ({ "herb/jalisk flower", "herb/welterwort", "herb/crying damsel", "herb/white dittany", "herb/bitterblossom" }), ({}), ({"normal"}), 0);
+nulvect under euid nulvect Sun Dec  5 04:07:13 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("dragon healing salve"));
+vian under euid vian Sun Dec  5 04:07:45 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("dragon healing salve"));
+stormbringer under euid stormbringer Sun Dec  5 04:07:47 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("dragon
+stormbringer under euid stormbringer Sun Dec  5 04:08:11 2010
+write("/adm/daemon/alchemy_d"->query_recipe_string("dragon
+nulvect under euid nulvect Sun Dec  5 04:37:46 2010
+return environment(find_player("orcha"));
+nulvect under euid nulvect Sun Dec  5 04:50:14 2010
+string s = "blah, bleh, and bluh"; s = replace_string(s, " and ", ","); s = replace_string(s, ", ", ","); s = replace_string(s, " ,", ","); return explode(s, ",");
+nulvect under euid nulvect Sun Dec  5 04:50:34 2010
+string s = "blah, bleh, and bluh"; s = replace_string(s, " and ", ""); s = replace_string(s, ", ", ","); s = replace_string(s, " ,", ","); return explode(s, ",");
+stormbringer under euid stormbringer Sun Dec  5 16:44:38 2010
+return "/daemon/last_d"->get_tell("vian")
+stormbringer under euid stormbringer Sun Dec  5 16:50:47 2010
+return "/daemon/last_d"->get_tell("geddoe")
+nulvect under euid nulvect Sun Dec  5 21:28:07 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Sun Dec  5 21:28:11 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Dec  5 21:30:37 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Dec  5 21:31:21 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Dec  5 21:41:35 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Dec  5 22:08:11 2010
+return environment(find_player("orcha"));
+nulvect under euid nulvect Sun Dec  5 23:57:23 2010
+return environment(find_player("abraxas"));
+stormbringer under euid stormbringer Mon Dec  6 01:04:29 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 01:04:33 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 01:25:37 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("15");
+stormbringer under euid stormbringer Mon Dec  6 01:25:43 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 01:25:51 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+nulvect under euid nulvect Mon Dec  6 02:02:56 2010
+return oldcrypt("d1rka d1rka", 0);
+nulvect under euid nulvect Mon Dec  6 02:03:48 2010
+return oldcrypt("d1rka d1rka", 0);
+nulvect under euid nulvect Mon Dec  6 02:43:15 2010
+return ordinal(1);
+nulvect under euid nulvect Mon Dec  6 02:43:19 2010
+return cardinal(1);
+nulvect under euid nulvect Mon Dec  6 03:43:02 2010
+return environment(find_player("yang"));
+nulvect under euid nulvect Mon Dec  6 11:51:12 2010
+return children("/d/pastarlon/mobs/drowinvader");
+nulvect under euid nulvect Mon Dec  6 13:06:40 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec  6 13:06:42 2010
+return environment(find_player("uzamaki"));
+nulvect under euid nulvect Mon Dec  6 13:07:14 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec  6 13:09:57 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec  6 13:13:39 2010
+return filter(0, (: $1 :) );
+nulvect under euid nulvect Mon Dec  6 13:52:14 2010
+return environment(find_player("baine"));
+stormbringer under euid stormbringer Mon Dec  6 16:08:19 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:08:23 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("15");
+stormbringer under euid stormbringer Mon Dec  6 16:08:41 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("13");
+stormbringer under euid stormbringer Mon Dec  6 16:08:52 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("14");
+stormbringer under euid stormbringer Mon Dec  6 16:25:46 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:27:24 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:30:40 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:37:04 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:39:04 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:40:46 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:41:54 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:46:06 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:46:26 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:47:02 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("$1");
+stormbringer under euid stormbringer Mon Dec  6 16:47:06 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:47:22 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("15");
+stormbringer under euid stormbringer Mon Dec  6 16:47:26 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("14");
+stormbringer under euid stormbringer Mon Dec  6 16:54:36 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("14");
+stormbringer under euid stormbringer Mon Dec  6 16:58:26 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 16:58:40 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("12");
+stormbringer under euid stormbringer Mon Dec  6 16:59:28 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+stormbringer under euid stormbringer Mon Dec  6 17:00:06 2010
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+nulvect under euid nulvect Wed Dec  8 13:39:07 2010
+return environment(find_player("rommel"));
+nulvect under euid nulvect Wed Dec  8 13:40:59 2010
+return environment(find_player("rommel"));
+nulvect under euid nulvect Wed Dec  8 13:45:49 2010
+return 2548/16;
+nulvect under euid nulvect Wed Dec  8 14:35:07 2010
+return environment(find_player("morcerf"));
+nulvect under euid nulvect Wed Dec  8 16:30:05 2010
+return strip_colors("");
+nulvect under euid nulvect Wed Dec  8 16:30:07 2010
+return strip_color("");
+nulvect under euid nulvect Wed Dec  8 17:48:43 2010
+return environment(find_player("adrym"));
+nulvect under euid nulvect Fri Dec 10 02:43:29 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Fri Dec 10 02:54:20 2010
+return environment(find_player("yang"));
+nulvect under euid nulvect Fri Dec 10 11:46:06 2010
+int *a = ({ 4, 9, 3, 0, 2 }); int x = 2; a = a[0..x-1] + a[x+1..]; return a;
+nulvect under euid nulvect Fri Dec 10 11:46:14 2010
+int *a = ({ 4, 9, 3, 0, 2 }); int x = 0; a = a[0..x-1] + a[x+1..]; return a;
+nulvect under euid nulvect Fri Dec 10 11:46:46 2010
+int *a = ({ 4, 9, 3, 0, 2 }); int x = 1; a = a[0..x-2] + a[x..]; return a;
+nulvect under euid nulvect Fri Dec 10 11:46:52 2010
+int *a = ({ 4, 9, 3, 0, 2 }); int x = 2; a = a[0..x-2] + a[x..]; return a;
+nulvect under euid nulvect Fri Dec 10 11:46:56 2010
+int *a = ({ 4, 9, 3, 0, 2 }); int x = 3; a = a[0..x-2] + a[x..]; return a;
+nulvect under euid nulvect Fri Dec 10 12:53:47 2010
+int *a; return sizeof(a);
+nulvect under euid nulvect Sat Dec 11 17:12:09 2010
+return environment(find_player("smokey"));
+nulvect under euid nulvect Sun Dec 12 00:47:05 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Sun Dec 12 01:15:44 2010
+return environment(find_player("cenn"));
+nulvect under euid nulvect Sun Dec 12 11:03:30 2010
+return environment(find_player("il"));
+nulvect under euid nulvect Sun Dec 12 11:08:18 2010
+return environment(find_player("strafer"));
+stormbringer under euid stormbringer Sun Dec 12 14:49:38 2010
+return "/daemon/last_d"->get_tell("yang")
+nulvect under euid nulvect Sun Dec 12 17:23:50 2010
+return filter(all_inventory(find_player("sopboo")), (: $1->query_worn() :) );
+nulvect under euid nulvect Sun Dec 12 17:24:30 2010
+return filter(all_inventory(find_player("sopboo")), (: $1->query_type() == "ring" :) );
+nulvect under euid nulvect Mon Dec 13 13:32:57 2010
+return environment(find_player("enska"));
+nulvect under euid nulvect Mon Dec 13 13:33:03 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 13 13:33:05 2010
+return environment(find_player("vanlikapa"));
+nulvect under euid nulvect Tue Dec 14 12:50:44 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Dec 14 20:49:20 2010
+return environment(find_player("skrymer"));
+nulvect under euid nulvect Tue Dec 14 21:19:46 2010
+return environment(find_player("star"));
+nulvect under euid nulvect Tue Dec 14 21:19:48 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 14 21:39:39 2010
+return environment(find_player("star"));
+nulvect under euid nulvect Tue Dec 14 21:40:23 2010
+return filter(all_inventory(find_player("star")), (: $1->id("scone") :) )
+nulvect under euid nulvect Tue Dec 14 21:40:25 2010
+return filter(all_inventory(find_player("star")), (: $1->id("scone") :) );
+nulvect under euid nulvect Tue Dec 14 21:40:29 2010
+return filter(all_inventory(find_player("star")), (: $1->id("food") :) );
+nulvect under euid nulvect Tue Dec 14 21:40:47 2010
+return filter(all_inventory(find_player("sopboo")), (: $1->id("food") :) );
+nulvect under euid nulvect Tue Dec 14 22:28:55 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Dec 14 22:38:22 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Dec 14 22:38:24 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 14 22:57:55 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 14 23:03:36 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 14 23:04:18 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 14 23:43:30 2010
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Dec 15 00:00:47 2010
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Dec 15 00:06:01 2010
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Dec 15 00:07:24 2010
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Dec 15 00:11:44 2010
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Dec 15 02:39:28 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Dec 15 17:13:18 2010
+return 1140/18;
+nulvect under euid nulvect Wed Dec 15 17:15:32 2010
+return 2050/18;
+nulvect under euid nulvect Wed Dec 15 17:17:24 2010
+return 17*8;
+nulvect under euid nulvect Wed Dec 15 17:17:36 2010
+return 2600/18;
+nulvect under euid nulvect Fri Dec 17 03:43:06 2010
+return environment(find_player("vanlikapa"));
+ironman under euid ironman Fri Dec 17 15:59:57 2010
+return get_object("staff")->query_worn();
+ironman under euid ironman Fri Dec 17 16:00:17 2010
+return get_object("staff")->query_worn();
+vian under euid vian Sat Dec 18 09:44:59 2010
+return rm("/log/adm/exp")
+vian under euid vian Sat Dec 18 09:49:15 2010
+return rm("/log/adm/exp")
+vian under euid vian Sat Dec 18 09:50:49 2010
+return write_file("/log/adm/ed", read_file"/wizards/vian/blarg.c"))
+vian under euid vian Sat Dec 18 09:51:25 2010
+return rm("/log/adm/exp")
+vian under euid vian Sat Dec 18 09:51:51 2010
+return rm("/log/adm/exp")
+vian under euid vian Sat Dec 18 10:05:05 2010
+return query_privs(environment(this_player()))
+vian under euid vian Sat Dec 18 10:23:59 2010
+set_privs(environment(this_player()), "SECURE")
+nulvect under euid nulvect Sat Dec 18 20:17:43 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sat Dec 18 21:50:47 2010
+return environment(find_player("zair"));
+nulvect under euid nulvect Sun Dec 19 01:32:25 2010
+mixed a = 5; return sizeof(a);
+nulvect under euid nulvect Sun Dec 19 01:33:48 2010
+int a; return typeof(a);
+nulvect under euid nulvect Sun Dec 19 01:33:49 2010
+int *a; return typeof(a);
+nulvect under euid nulvect Sun Dec 19 01:34:04 2010
+int *a = ({}); return typeof(a);
+nulvect under euid nulvect Sun Dec 19 01:34:22 2010
+mapping a; return typeof(a);
+nulvect under euid nulvect Sun Dec 19 01:34:28 2010
+mapping a = ([]); return typeof(a);
+nulvect under euid nulvect Sun Dec 19 01:44:55 2010
+return environment(find_player("cenn"));
+nulvect under euid nulvect Sun Dec 19 22:55:28 2010
+return environment(find_player("eios"));
+nulvect under euid nulvect Sun Dec 19 22:55:36 2010
+return environment(find_player("cenn"));
+nulvect under euid nulvect Mon Dec 20 11:21:50 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 11:30:38 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 11:47:20 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 11:47:34 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Mon Dec 20 11:47:48 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Mon Dec 20 12:12:55 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Mon Dec 20 12:35:56 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 14:29:41 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 14:34:53 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 14:56:21 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 14:58:21 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Mon Dec 20 14:58:27 2010
+return environment(find_player("tyrann"));
+nulvect under euid nulvect Mon Dec 20 15:15:03 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 15:18:45 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 15:18:49 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Mon Dec 20 15:43:48 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 20 15:43:50 2010
+return environment(find_player("cenn"));
+nulvect under euid nulvect Mon Dec 20 16:23:15 2010
+return 63*63*3;
+nulvect under euid nulvect Mon Dec 20 16:23:27 2010
+return 63*63*3*1000;
+nulvect under euid nulvect Mon Dec 20 16:29:21 2010
+return 63*63*300/100;
+nulvect under euid nulvect Mon Dec 20 16:29:39 2010
+return 63*63*63*63;
+nulvect under euid nulvect Mon Dec 20 16:29:43 2010
+return 63*63*63;
+nulvect under euid nulvect Mon Dec 20 16:29:49 2010
+return 63*63*63*3;
+nulvect under euid nulvect Mon Dec 20 16:30:05 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Mon Dec 20 16:34:09 2010
+return 62 * 62 * 62 * 62;
+nulvect under euid nulvect Mon Dec 20 16:34:17 2010
+return 61 * 61 * 61 * 61;
+nulvect under euid nulvect Mon Dec 20 16:34:23 2010
+return 61 * 61 * 61 * 3;
+nulvect under euid nulvect Mon Dec 20 16:34:29 2010
+return 62 * 62 * 62 * 3;
+nulvect under euid nulvect Mon Dec 20 16:46:50 2010
+return 65*65*3;
+nulvect under euid nulvect Mon Dec 20 16:47:04 2010
+return 65*65*6;
+nulvect under euid nulvect Mon Dec 20 16:47:12 2010
+return 65*65*5;
+nulvect under euid nulvect Mon Dec 20 16:47:40 2010
+return 65*65*50;
+nulvect under euid nulvect Mon Dec 20 16:48:00 2010
+return 5*5*50;
+nulvect under euid nulvect Mon Dec 20 17:18:47 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:05:00 2010
+return sizeof(filter(all_inventory(find_player("mez")), (: $1->query_enchanted() :) ));
+nulvect under euid nulvect Tue Dec 21 04:14:11 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:14:13 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:14:33 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:14:37 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:18:37 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:19:59 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:20:27 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:20:27 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:21:09 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:23:01 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:24:45 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:25:05 2010
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Dec 21 04:25:07 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Tue Dec 21 04:28:21 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:31:25 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:32:21 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:34:08 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:34:14 2010
+return environment(find_player("mez"));
+nulvect under euid nulvect Tue Dec 21 04:34:16 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:35:32 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:36:00 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:41:54 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:46:12 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 04:51:03 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 05:07:47 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 05:19:17 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 05:20:21 2010
+return environment(find_player("mez"));
+nulvect under euid nulvect Tue Dec 21 05:36:53 2010
+return environment(find_player("smokey"));
+nulvect under euid nulvect Tue Dec 21 05:36:55 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 05:49:52 2010
+return environment(find_player("mez"));
+nulvect under euid nulvect Tue Dec 21 19:56:59 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 22:39:24 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Dec 21 22:39:30 2010
+return environment(find_player("enska"));
+nulvect under euid nulvect Wed Dec 22 01:52:44 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Wed Dec 22 19:17:28 2010
+return environment(find_player("zair"));
+nulvect under euid nulvect Thu Dec 23 12:59:54 2010
+return environment(find_player("rohl"));
+nulvect under euid nulvect Sat Dec 25 00:03:33 2010
+printf("%O\n", find_player("zair")->query_aliases());
+nulvect under euid nulvect Sat Dec 25 00:21:28 2010
+printf("%O\n", this_player()->query("recipe_manage_tmp"));
+nulvect under euid nulvect Sat Dec 25 00:23:24 2010
+printf("%O\n", this_player()->query("recipe_manage_tmp"));
+nulvect under euid nulvect Sat Dec 25 00:26:41 2010
+printf("%O\n", this_player()->query("recipe_manage_tmp"));
+nulvect under euid nulvect Sat Dec 25 01:10:32 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Sat Dec 25 01:46:04 2010
+printf("%O\n", this_player()->query("recipe_manage_tmp"));
+nulvect under euid nulvect Sat Dec 25 01:50:33 2010
+printf("%O\n", this_player()->query("recipe_manage_tmp"));
+nulvect under euid nulvect Sat Dec 25 01:58:31 2010
+return "/adm/daemon/recipe_d"->query_recipe_string(this_player()->query("recipe_manage_tmp")[0]);
+nulvect under euid nulvect Sat Dec 25 02:06:34 2010
+return environment(find_player("micky"));
+nulvect under euid nulvect Sat Dec 25 22:36:05 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Sun Dec 26 01:30:35 2010
+return environment(find_player("ialdabode"));
+nulvect under euid nulvect Mon Dec 27 13:11:28 2010
+printf("%O\n", "recipe_d"->query_all_recipes());
+nulvect under euid nulvect Mon Dec 27 13:11:36 2010
+printf("%O\n", "/adm/daemon/recipe_d"->query_all_recipes());
+nulvect under euid nulvect Mon Dec 27 13:43:57 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 27 13:45:25 2010
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Dec 27 14:02:47 2010
+return environment(find_player("tom"));
+nulvect under euid nulvect Mon Dec 27 14:03:45 2010
+return environment(find_player("adrym"));
+nulvect under euid nulvect Mon Dec 27 14:43:25 2010
+return environment(find_player("skunk"));
+nulvect under euid nulvect Mon Dec 27 14:45:05 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Mon Dec 27 14:49:29 2010
+master()->load_privs();
+nulvect under euid nulvect Mon Dec 27 14:56:30 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Mon Dec 27 15:23:33 2010
+return environment(find_player("smokey"));
+nulvect under euid nulvect Mon Dec 27 15:23:43 2010
+return environment(find_player("adrym"));
+nulvect under euid nulvect Mon Dec 27 15:28:21 2010
+return environment(find_player("smokey"));
+nulvect under euid nulvect Tue Dec 28 04:18:29 2010
+return environment(find_player("vian"));
+nulvect under euid nulvect Tue Dec 28 11:55:42 2010
+return environment(find_player("kon"));
+nulvect under euid nulvect Tue Dec 28 13:07:13 2010
+return environment(find_player("majere"));
+nulvect under euid nulvect Wed Dec 29 02:39:21 2010
+return environment(find_player("wally"));
+nulvect under euid nulvect Thu Dec 30 13:05:04 2010
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Thu Dec 30 13:14:00 2010
+return 152*152*1000;
+nulvect under euid nulvect Thu Dec 30 13:14:10 2010
+return 152*152*700;
+nulvect under euid nulvect Thu Dec 30 13:14:50 2010
+return 152*152*800;
+nulvect under euid nulvect Thu Dec 30 14:28:21 2010
+return environment(find_player("frisky"));
+nulvect under euid nulvect Thu Dec 30 14:28:23 2010
+return environment(find_player("yun"));
+nulvect under euid nulvect Thu Dec 30 14:29:27 2010
+return query_heart_beat(find_player("frisky"));
+nulvect under euid nulvect Thu Dec 30 14:30:09 2010
+return query_heart_beat(find_player("frisky"));
+nulvect under euid nulvect Fri Dec 31 13:19:27 2010
+return environment(find_player("phear"));
+stormbringer under euid stormbringer Mon Jan  3 23:45:13 2011
+return "/daemon/last_d"->get_tell("smokey")
+stormbringer under euid stormbringer Mon Jan  3 23:50:29 2011
+return "/daemon/last_d"->get_tell("frisky")
+stormbringer under euid stormbringer Mon Jan  3 23:50:57 2011
+return "/daemon/last_d"->get_tell("baine")
+stormbringer under euid stormbringer Mon Jan  3 23:51:51 2011
+return "/daemon/last_d"->get_tell("mez")
+stormbringer under euid stormbringer Mon Jan  3 23:53:03 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Mon Jan  3 23:54:23 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Mon Jan  3 23:54:41 2011
+return "/daemon/last_d"->get_tell("enigma")
+stormbringer under euid stormbringer Mon Jan  3 23:54:55 2011
+return "/daemon/last_d"->get_say("frisky")
+stormbringer under euid stormbringer Wed Jan  5 14:45:41 2011
+return "/daemon/last_d"->get_tell("baine")
+stormbringer under euid stormbringer Wed Jan  5 14:45:49 2011
+return "/daemon/last_d"->get_tell("frisky")
+stormbringer under euid stormbringer Wed Jan  5 14:45:55 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Wed Jan  5 14:46:07 2011
+return "/daemon/last_d"->get_tell("rohl")
+nulvect under euid nulvect Thu Jan  6 00:59:02 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Jan  6 01:04:28 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 03:46:08 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Sat Jan  8 03:46:19 2011
+return users();
+nulvect under euid nulvect Sat Jan  8 03:46:25 2011
+return users()->query_party();
+nulvect under euid nulvect Sat Jan  8 03:59:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 11:52:23 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Sat Jan  8 12:17:15 2011
+return environment(find_player("rohl"));
+nulvect under euid nulvect Sat Jan  8 12:17:17 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Sat Jan  8 12:17:55 2011
+return environment(find_player("rohl"));
+stormbringer under euid stormbringer Sat Jan  8 12:21:43 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Sat Jan  8 12:48:21 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+nulvect under euid nulvect Sat Jan  8 15:03:18 2011
+return (60 - 50)*1000 + 60000;
+stormbringer under euid stormbringer Sat Jan  8 15:20:36 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 15:21:36 2011
+return "/daemon/last_d"->get_tell("rohl")
+stormbringer under euid stormbringer Sat Jan  8 15:22:47 2011
+return "/daemon/last_d"->get_say("rohl")
+stormbringer under euid stormbringer Sat Jan  8 15:22:55 2011
+return "/daemon/last_d"->get_say("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 15:26:40 2011
+return "/daemon/last_d"->get_tell("vanlikapa")
+stormbringer under euid stormbringer Sat Jan  8 15:28:02 2011
+return "/daemon/last_d"->get_tell("vanlikapa")
+stormbringer under euid stormbringer Sat Jan  8 15:41:18 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 15:42:48 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:11:13 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:18:19 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Sat Jan  8 16:39:50 2011
+return "/daemon/last_d"->get_tell("yinn")
+stormbringer under euid stormbringer Sat Jan  8 16:40:48 2011
+return "/daemon/last_d"->get_tell("yinn")
+stormbringer under euid stormbringer Sat Jan  8 16:41:04 2011
+return "/daemon/last_d"->get_tell("abraxas")
+stormbringer under euid stormbringer Sat Jan  8 16:42:41 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:43:39 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:44:45 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:45:29 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 16:47:58 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sat Jan  8 17:29:28 2011
+return "/daemon/last_d"->get_tell("frisky")
+nulvect under euid nulvect Sat Jan  8 17:44:27 2011
+return check_memory(1);
+nulvect under euid nulvect Sat Jan  8 18:07:21 2011
+return query_notify_fail();
+nulvect under euid nulvect Sat Jan  8 18:07:37 2011
+return sizeof(heart_beats());
+nulvect under euid nulvect Sat Jan  8 18:08:49 2011
+return query_ip_port();
+nulvect under euid nulvect Sat Jan  8 18:09:55 2011
+return num_classes(this_player());
+nulvect under euid nulvect Sat Jan  8 18:20:52 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Jan  8 18:27:27 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 18:28:21 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 18:29:47 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 21:09:54 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Sat Jan  8 21:35:06 2011
+return environment(find_player("tom"));
+nulvect under euid nulvect Sat Jan  8 21:35:24 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Jan  8 22:36:05 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Jan  8 23:45:22 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan  8 23:52:15 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sun Jan  9 00:50:14 2011
+return sizeof("/daemon/authenticate"->get_data());
+nulvect under euid nulvect Sun Jan  9 00:50:30 2011
+return sizeof("/daemon/authenticate.c"->get_data());
+nulvect under euid nulvect Sun Jan  9 00:50:39 2011
+return "/daemon/authenticate.c"->get_data();
+nulvect under euid nulvect Sun Jan  9 13:13:59 2011
+return sizeof("/daemon/authenticate"->get_data());
+nulvect under euid nulvect Sun Jan  9 22:44:20 2011
+return exclude_array( ({ 5, 3 }), 3);
+nulvect under euid nulvect Sun Jan  9 22:44:22 2011
+return exclude_array( ({ 5, 3 }), 1);
+nulvect under euid nulvect Wed Jan 12 22:16:56 2011
+return query_heart_beat(find_player("eios"));
+nulvect under euid nulvect Thu Jan 13 03:10:05 2011
+return environment(find_player("kon"));
+nulvect under euid nulvect Thu Jan 13 13:05:47 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Thu Jan 13 13:38:07 2011
+return environment(find_player("adrym"));
+nulvect under euid nulvect Thu Jan 13 13:38:13 2011
+return environment(find_player("gwedogrem"));
+nulvect under euid nulvect Thu Jan 13 21:19:41 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Thu Jan 13 21:19:59 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Fri Jan 14 12:38:36 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Fri Jan 14 12:38:57 2011
+return environment(find_player("bellos"));
+nulvect under euid nulvect Fri Jan 14 12:38:59 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 14 12:39:03 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 14 12:39:05 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 14 12:39:09 2011
+return environment(find_player("bellos"));
+nulvect under euid nulvect Fri Jan 14 12:53:10 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Fri Jan 14 13:08:14 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Fri Jan 14 14:25:21 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Fri Jan 14 14:25:23 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Fri Jan 14 14:31:42 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Fri Jan 14 14:33:28 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Fri Jan 14 14:37:04 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Fri Jan 14 17:59:00 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Sat Jan 15 03:00:03 2011
+return environment(find_player("vanlikapa"));
+nulvect under euid nulvect Sat Jan 15 03:05:49 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Sat Jan 15 03:07:05 2011
+return environment(find_player("bellos"));
+nulvect under euid nulvect Sat Jan 15 14:22:02 2011
+return time();
+nulvect under euid nulvect Sat Jan 15 14:22:12 2011
+return ctime(1290403933);
+nulvect under euid nulvect Sat Jan 15 14:34:29 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Jan 15 14:52:21 2011
+return users()->query_party();
+nulvect under euid nulvect Sat Jan 15 15:14:51 2011
+return query_allies(this_player());
+nulvect under euid nulvect Sat Jan 15 23:53:39 2011
+return environment(find_player("vanlikapa"));
+nulvect under euid nulvect Sat Jan 15 23:53:45 2011
+return environment(find_player("lilka"));
+nulvect under euid nulvect Sat Jan 15 23:53:48 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Sun Jan 16 00:26:00 2011
+return environment(find_player("rohl"));
+nulvect under euid nulvect Sun Jan 16 02:22:57 2011
+return environment(find_player("louis"));
+stormbringer under euid stormbringer Sun Jan 16 15:20:10 2011
+return "/daemon/last_d"->get_tell("lilka")
+stormbringer under euid stormbringer Sun Jan 16 19:04:30 2011
+return "/daemon/last_d"->get_tell("vian")
+nulvect under euid nulvect Mon Jan 17 01:53:42 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Mon Jan 17 03:57:13 2011
+return environment(find_player("luca"));
+nulvect under euid nulvect Mon Jan 17 04:05:29 2011
+return environment(find_player("luca"));
+nulvect under euid nulvect Mon Jan 17 14:14:36 2011
+return users()->query_original_guild();
+nulvect under euid nulvect Mon Jan 17 14:14:40 2011
+return users()->query_guild();
+nulvect under euid nulvect Mon Jan 17 14:15:06 2011
+return users();
+nulvect under euid nulvect Mon Jan 17 15:28:02 2011
+return "/daemon/events_d"->query_month(time());
+nulvect under euid nulvect Mon Jan 17 15:28:06 2011
+return "/daemon/events_d"->query_month_name(time());
+nulvect under euid nulvect Mon Jan 17 16:16:41 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Mon Jan 17 16:16:43 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Tue Jan 18 03:57:09 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Tue Jan 18 03:57:11 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Tue Jan 18 03:57:49 2011
+return environment(find_player("michael"));
+nulvect under euid nulvect Tue Jan 18 03:59:55 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Tue Jan 18 04:06:49 2011
+return environment(find_player("louis"));
+nulvect under euid nulvect Tue Jan 18 04:12:26 2011
+return environment(find_player("vanlikapa"));
+nulvect under euid nulvect Wed Jan 19 12:53:10 2011
+return environment(find_player("max"));
+nulvect under euid nulvect Wed Jan 19 13:02:36 2011
+return environment(find_player("lilka"));
+nulvect under euid nulvect Wed Jan 19 13:11:12 2011
+return environment(find_player("alive"));
+nulvect under euid nulvect Wed Jan 19 13:21:32 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:29:18 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:34:06 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:37:14 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:37:18 2011
+return environment(find_player("knuckle"));
+nulvect under euid nulvect Wed Jan 19 13:39:44 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:44:01 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:48:33 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:50:25 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 13:53:47 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 14:00:29 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 14:09:35 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 14:15:33 2011
+return environment(find_player("joel"));
+nulvect under euid nulvect Wed Jan 19 15:03:45 2011
+return environment(find_player("fulana"));
+nulvect under euid nulvect Wed Jan 19 16:04:03 2011
+return environment(find_player("mez"));
+nulvect under euid nulvect Wed Jan 19 19:30:12 2011
+return environment(find_player("nicolas"));
+nulvect under euid nulvect Wed Jan 19 20:04:12 2011
+return environment(find_player("rohl"));
+nulvect under euid nulvect Wed Jan 19 20:04:14 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Wed Jan 19 20:09:15 2011
+return environment(find_player("nicolas"));
+nulvect under euid nulvect Fri Jan 21 03:08:39 2011
+return environment(find_player("edward"));
+nulvect under euid nulvect Fri Jan 21 03:24:21 2011
+return environment(find_player("edward"));
+nulvect under euid nulvect Fri Jan 21 12:01:58 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:04:13 2011
+return environment(find_player("amaki"));
+nulvect under euid nulvect Fri Jan 21 12:04:17 2011
+return environment(find_player("lilka"));
+nulvect under euid nulvect Fri Jan 21 12:13:19 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:13:29 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:13:31 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:13:31 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:13:35 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:13:41 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Jan 21 12:41:10 2011
+return environment(find_player("edward"));
+nulvect under euid nulvect Fri Jan 21 12:48:07 2011
+return environment(find_player("nicolas"));
+nulvect under euid nulvect Fri Jan 21 12:48:09 2011
+return environment(find_player("edward"));
+nulvect under euid nulvect Fri Jan 21 12:58:27 2011
+return environment(find_player("nicolas"));
+nulvect under euid nulvect Fri Jan 21 12:58:31 2011
+return environment(find_player("edward"));
+nulvect under euid nulvect Sat Jan 22 00:28:05 2011
+return environment(find_player("kiklu"));
+nulvect under euid nulvect Sat Jan 22 00:28:07 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Sat Jan 22 01:24:12 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Sat Jan 22 01:24:16 2011
+return environment(find_player("kiklu"));
+nulvect under euid nulvect Sat Jan 22 13:06:40 2011
+return 1 << 6;
+nulvect under euid nulvect Sat Jan 22 13:06:52 2011
+return 1 << 8;
+nulvect under euid nulvect Sat Jan 22 13:29:59 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Sat Jan 22 13:37:38 2011
+return environment(find_player("baine"));
+whit under euid whit Sat Jan 22 13:52:34 2011
+crypt("bleh");
+whit under euid whit Sat Jan 22 13:55:03 2011
+oldcrypt("bleh", 0)
+whit under euid whit Sat Jan 22 13:55:10 2011
+return oldcrypt("bleh", 0)
+whit under euid whit Sat Jan 22 13:55:14 2011
+return oldcrypt("bleh", 0)
+whit under euid whit Sat Jan 22 15:03:03 2011
+return oldcrypt("blehh", 0)
+nulvect under euid nulvect Sun Jan 23 21:45:47 2011
+return environment(find_player("crystal"));
+nulvect under euid nulvect Tue Jan 25 19:36:17 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Jan 25 20:43:34 2011
+return environment(find_player("rohl"));
+nulvect under euid nulvect Wed Jan 26 13:50:42 2011
+return environment(find_player("jaenus"));
+nulvect under euid nulvect Wed Jan 26 14:02:19 2011
+return 1<<5;
+nulvect under euid nulvect Wed Jan 26 14:04:27 2011
+return environment(find_player("vian"));
+nulvect under euid nulvect Wed Jan 26 14:21:40 2011
+return users()->query_resistances();
+nulvect under euid nulvect Wed Jan 26 14:22:04 2011
+return users()->query_name();
+nulvect under euid nulvect Wed Jan 26 14:35:14 2011
+return users()->query_resistances();
+nulvect under euid nulvect Wed Jan 26 14:38:08 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jan 26 14:54:39 2011
+return environment(find_player("kiklu"));
+nulvect under euid nulvect Wed Jan 26 14:54:43 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Wed Jan 26 14:56:39 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Wed Jan 26 14:57:33 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jan 26 14:58:15 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Jan 26 17:21:42 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jan 26 17:21:45 2011
+return environment(find_player("star"));
+nulvect under euid nulvect Wed Jan 26 17:33:44 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jan 26 17:44:35 2011
+return environment(find_player("star"));
+nulvect under euid nulvect Wed Jan 26 17:44:39 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jan 26 20:42:34 2011
+return header_line("Blah");
+nulvect under euid nulvect Wed Jan 26 20:43:00 2011
+write(header_line("Blah")+"\n");
+nulvect under euid nulvect Wed Jan 26 20:43:04 2011
+write(header_line("Blah"));
+nulvect under euid nulvect Wed Jan 26 20:52:44 2011
+return ({1,2,3,4,5,6})[<5..<1];
+nulvect under euid nulvect Wed Jan 26 20:55:46 2011
+return ctime(time());
+nulvect under euid nulvect Thu Jan 27 00:39:17 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Jan 27 00:39:19 2011
+return environment(find_player("cyan"));
+nulvect under euid nulvect Thu Jan 27 00:39:23 2011
+return environment(find_player("cowl"));
+nulvect under euid nulvect Thu Jan 27 01:12:40 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Jan 27 01:24:43 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Jan 27 02:37:01 2011
+return users()->query_resistances();
+nulvect under euid nulvect Thu Jan 27 04:15:45 2011
+return environment(find_player("gin"));
+nulvect under euid nulvect Thu Jan 27 04:15:48 2011
+return environment(find_player("renji"));
+nulvect under euid nulvect Fri Jan 28 12:07:10 2011
+return users()->query_resistances();
+nulvect under euid nulvect Sat Jan 29 01:00:21 2011
+return query_allies(this_player());
+stormbringer under euid stormbringer Sat Jan 29 13:24:05 2011
+return "/daemon/last_d"->get_tell("lilka")
+stormbringer under euid stormbringer Sat Jan 29 13:24:13 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+nulvect under euid nulvect Sat Jan 29 14:16:50 2011
+return ({ 2, 6, 4, 9, 7 }) | ({ 6, 3, 0, 9 });
+nulvect under euid nulvect Sat Jan 29 14:16:54 2011
+return ({ 2, 6, 4, 9, 7 }) ^ ({ 6, 3, 0, 9 });
+nulvect under euid nulvect Sat Jan 29 14:17:00 2011
+return ({ 2, 6, 4, 9, 7 }) & ({ 6, 3, 0, 9 });
+nulvect under euid nulvect Sat Jan 29 14:17:38 2011
+return ({ 6, 9, 7 }) & ({ 6, 3, 0, 9, 7 });
+nulvect under euid nulvect Sun Jan 30 11:17:22 2011
+return environment(find_player("morgana"));
+stormbringer under euid stormbringer Sun Jan 30 17:17:57 2011
+return "/daemon/last_d"->get_say("sugarcandy")
+nulvect under euid nulvect Tue Feb  1 23:23:14 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Feb  1 23:28:04 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Wed Feb  2 00:35:25 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Wed Feb  2 00:35:27 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Wed Feb  2 00:35:33 2011
+return environment(find_player("rohl"));
+nulvect under euid nulvect Wed Feb  2 00:50:03 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Wed Feb  2 02:15:29 2011
+return ({ 5, 4 })[0..0];
+nulvect under euid nulvect Wed Feb  2 02:54:34 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Wed Feb  2 21:08:18 2011
+return filter(all_inventory(find_player("lilka")), (: $1->query_worn() :) );
+nulvect under euid nulvect Wed Feb  2 22:46:02 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Wed Feb  2 22:51:56 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Feb  2 22:52:04 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  2 23:01:40 2011
+printf("%O\n", present("ring of wizardry", this_player())->query_post_wear_func());
+nulvect under euid nulvect Wed Feb  2 23:04:56 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Feb  2 23:04:58 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  2 23:05:02 2011
+return environment(find_player("lilka"));
+nulvect under euid nulvect Wed Feb  2 23:05:04 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Wed Feb  2 23:05:08 2011
+return environment(find_player("crenshinibon"));
+nulvect under euid nulvect Wed Feb  2 23:05:12 2011
+return environment(find_player("rendan"));
+nulvect under euid nulvect Wed Feb  2 23:05:16 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Wed Feb  2 23:05:18 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Feb  2 23:16:58 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Feb  2 23:17:03 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  2 23:17:04 2011
+return environment(find_player("halucoost"));
+nulvect under euid nulvect Wed Feb  2 23:17:06 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Wed Feb  2 23:17:11 2011
+return environment(find_player("larry"));
+nulvect under euid nulvect Wed Feb  2 23:32:53 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Feb  2 23:35:35 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Feb  3 00:29:22 2011
+return map(all_inventory(this_player()), (: inherits("/std/armour.c", $1) :) );
+nulvect under euid nulvect Thu Feb  3 00:29:42 2011
+return map(all_inventory(this_player()), (: inherits("/std/armour.c", $1) :) );
+nulvect under euid nulvect Thu Feb  3 00:43:51 2011
+return query_heart_beat(present("ring", this_player()));
+nulvect under euid nulvect Thu Feb  3 00:43:53 2011
+return query_heart_beat(present("ring", this_player()));
+nulvect under euid nulvect Thu Feb  3 00:43:57 2011
+return query_heart_beat(present("ring", this_player()));
+nulvect under euid nulvect Thu Feb  3 12:00:33 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Feb  3 12:55:29 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Feb  3 12:55:37 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Thu Feb  3 12:55:38 2011
+return environment(find_player("enyo"));
+nulvect under euid nulvect Thu Feb  3 23:20:29 2011
+return ([ "a" : 1, "x" : 9 ]) | ([ "a" : 3 ]);
+nulvect under euid nulvect Thu Feb  3 23:20:58 2011
+mapping q = ([ "a" : 1, "x" : 9 ]); mapping z = ([ "a" : 3 ]); return q | z;
+nulvect under euid nulvect Thu Feb  3 23:21:02 2011
+mapping q = ([ "a" : 1, "x" : 9 ]); mapping z = ([ "a" : 3 ]); return q & z;
+nulvect under euid nulvect Thu Feb  3 23:21:18 2011
+mapping q = ([ "a" : 1, "x" : 9 ]); mapping z = ([ "a" : 3 ]); return q + z;
+nulvect under euid nulvect Thu Feb  3 23:33:45 2011
+return master()->load_privs();
+nulvect under euid nulvect Thu Feb  3 23:39:14 2011
+return "/adm/daemon/identity_d"->new_identity("nulvect","nulvect@primaldarkness.com","24.4.147.117");
+nulvect under euid nulvect Thu Feb  3 23:41:33 2011
+printf("%O\n", "/adm/daemon/identity_d"->query_identity("nulvect"));
+nulvect under euid nulvect Thu Feb  3 23:42:47 2011
+return "/adm/daemon/identity_d"->delete_identity("nulvect");
+nulvect under euid nulvect Thu Feb  3 23:44:09 2011
+return "/adm/daemon/identity_d"->new_player("nulvect", "nulvect@primaldarkness.com", "24.4.147.117");
+nulvect under euid nulvect Thu Feb  3 23:45:03 2011
+return "/adm/daemon/identity_d"->new_identity("nulvect", "nulvect@primaldarkness.com", "24.4.147.117");
+nulvect under euid nulvect Thu Feb  3 23:47:07 2011
+return "/adm/daemon/identity_d"->delete_identity("nulvect");
+nulvect under euid nulvect Thu Feb  3 23:47:31 2011
+return "/adm/daemon/identity_d"->new_identity("nulvect", "nulvect@primaldarkness.com", "24.4.147.117");
+nulvect under euid nulvect Thu Feb  3 23:51:41 2011
+return "/adm/daemon/identity_d"->new_identity("vian", "vian@primaldarkness.com", "24.121.95.66");
+nulvect under euid nulvect Fri Feb  4 12:10:57 2011
+return "/adm/daemon/identity_d"->new_identity("stormbringer", "stormbringer@primaldarkness.com", "74.192.248.38");
+nulvect under euid nulvect Fri Feb  4 12:35:14 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "rull");
+nulvect under euid nulvect Fri Feb  4 12:38:02 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "tarfand");
+nulvect under euid nulvect Fri Feb  4 12:38:06 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "oiche");
+nulvect under euid nulvect Fri Feb  4 12:38:10 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "otto");
+nulvect under euid nulvect Fri Feb  4 12:38:14 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "koresto");
+nulvect under euid nulvect Fri Feb  4 12:39:10 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "dovorn");
+nulvect under euid nulvect Fri Feb  4 12:39:14 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "felzan");
+nulvect under euid nulvect Fri Feb  4 12:39:18 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "falzen");
+nulvect under euid nulvect Fri Feb  4 12:39:22 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "tlenk");
+nulvect under euid nulvect Fri Feb  4 12:39:26 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "lodhain");
+nulvect under euid nulvect Fri Feb  4 12:40:04 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "ceril");
+nulvect under euid nulvect Fri Feb  4 12:40:08 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "wurt");
+nulvect under euid nulvect Fri Feb  4 12:40:16 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "dryssum");
+nulvect under euid nulvect Fri Feb  4 12:40:20 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "ferrizh");
+nulvect under euid nulvect Fri Feb  4 12:40:26 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "ilretha");
+nulvect under euid nulvect Fri Feb  4 12:41:34 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "fabio");
+nulvect under euid nulvect Fri Feb  4 12:41:38 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "harvey");
+nulvect under euid nulvect Fri Feb  4 12:41:44 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "rissol");
+nulvect under euid nulvect Fri Feb  4 12:41:48 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "xille");
+nulvect under euid nulvect Fri Feb  4 12:41:56 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "fhandarelle");
+nulvect under euid nulvect Fri Feb  4 12:42:38 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "asonti");
+nulvect under euid nulvect Fri Feb  4 12:42:42 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "jarta");
+nulvect under euid nulvect Fri Feb  4 12:42:46 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "saohl");
+nulvect under euid nulvect Fri Feb  4 12:42:52 2011
+return "/adm/daemon/identity_d"->add_character("nulvect", "darfen");
+nulvect under euid nulvect Fri Feb  4 12:44:32 2011
+return wrap("this is a very long string that I want to wrap so it is shorter", 50);
+nulvect under euid nulvect Fri Feb  4 12:46:08 2011
+return wrap("this is a very long string that I want to wrap so it is shorter", 30);
+nulvect under euid nulvect Fri Feb  4 12:50:26 2011
+return wrap("blah", 80);
+nulvect under euid nulvect Fri Feb  4 12:50:54 2011
+return wrap("blah", 80)[0..<2];
+nulvect under euid nulvect Fri Feb  4 12:51:06 2011
+return wrap("this is a very long string that I want to wrap so it is shorter", 30);
+nulvect under euid nulvect Fri Feb  4 13:01:30 2011
+printf("%O\n", "/adm/daemon/identity_d"->query_identity("rull"));
+nulvect under euid nulvect Fri Feb  4 13:02:23 2011
+return "/adm/daemon/identity_d"->query_primary("nulvect");
+nulvect under euid nulvect Fri Feb  4 13:02:33 2011
+return "/adm/daemon/identity_d"->query_primary("rull");
+nulvect under euid nulvect Fri Feb  4 13:03:57 2011
+return "/adm/daemon/identity_d"->add_character("rull", "nulvect");
+nulvect under euid nulvect Fri Feb  4 13:03:59 2011
+return "/adm/daemon/identity_d"->query_primary("nulvect");
+nulvect under euid nulvect Fri Feb  4 13:22:04 2011
+return sscanf("blah test 5", "%*s %*s %*s");
+nulvect under euid nulvect Fri Feb  4 13:22:08 2011
+return sscanf("blah test 5", "%*s %*s %*d");
+nulvect under euid nulvect Fri Feb  4 13:22:10 2011
+return sscanf("blah test 5", "%*s %*s %*f");
+nulvect under euid nulvect Fri Feb  4 13:22:14 2011
+return sscanf("blah test 5", "%*s %*s %*s");
+nulvect under euid nulvect Fri Feb  4 13:22:20 2011
+return sscanf("blah test g", "%*s %*s %*d");
+nulvect under euid nulvect Fri Feb  4 13:42:19 2011
+return map( ([ "a" : 5 ]), (: $1+": "+$2 :) );
+nulvect under euid nulvect Fri Feb  4 13:42:33 2011
+return values(map( ([ "a" : 5 ]), (: $1+": "+$2 :) ));
+nulvect under euid nulvect Fri Feb  4 13:51:15 2011
+return "/adm/daemon/identity_d"->new_identity("nultest", "nulvect@primaldarkness.com", "24.4.147.117");
+nulvect under euid nulvect Fri Feb  4 13:52:23 2011
+return "/adm/daemon/identity_d"->transfer_identity("nulvect", "nultest");
+nulvect under euid nulvect Fri Feb  4 13:56:06 2011
+return "/adm/daemon/identity_d"->delete_identity("nultest");
+stormbringer under euid stormbringer Fri Feb  4 21:29:48 2011
+"/wizards/pyro/bin/_areacheck.c"->cmd_areacheck("10");
+nulvect under euid nulvect Sat Feb  5 14:03:06 2011
+master()->load_privs();
+nulvect under euid nulvect Sat Feb  5 14:13:14 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Sat Feb  5 16:07:18 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Sun Feb  6 13:09:02 2011
+return environment(find_player("nanaimo"));
+stormbringer under euid stormbringer Sun Feb  6 17:11:11 2011
+return "/daemon/last_d"->get_tell("lilka")
+stormbringer under euid stormbringer Sun Feb  6 17:12:15 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sun Feb  6 17:13:23 2011
+return "/daemon/last_d"->get_tell("bellos")
+nulvect under euid nulvect Mon Feb  7 02:48:09 2011
+return query_ip_number(this_player());
+nulvect under euid nulvect Mon Feb  7 11:09:25 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Feb  7 11:43:55 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Mon Feb  7 13:15:52 2011
+string a = ""; return a[0..0];
+nulvect under euid nulvect Tue Feb  8 20:28:50 2011
+return sizeof(this_player()->query_aliases());
+nulvect under euid nulvect Tue Feb  8 20:46:31 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  9 02:30:05 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  9 11:43:04 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Feb  9 11:43:06 2011
+return environment(find_player("thaedrin"));
+nulvect under euid nulvect Wed Feb  9 17:11:32 2011
+return filter(find_player("sugarcandy")->local_commands(), (: $1[0] == "improve" :) );
+nulvect under euid nulvect Wed Feb  9 17:11:52 2011
+return map(find_player("sugarcandy")->local_commands(), (: $1[0] :) );
+nulvect under euid nulvect Wed Feb  9 17:57:51 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Thu Feb 10 13:16:04 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Thu Feb 10 13:16:08 2011
+return environment(find_player("sopboo"));
+vian under euid vian Thu Feb 10 23:48:11 2011
+return "/daemon/guild_d"->promote("yun", "leader")
+nulvect under euid nulvect Fri Feb 11 12:30:49 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Feb 11 12:39:43 2011
+"/adm/daemon/identity_d"->manage_identity(0, this_player(), "login check");
+nulvect under euid nulvect Fri Feb 11 12:42:41 2011
+"/adm/daemon/identity_d"->manage_identity(0, this_player(), "login check");
+nulvect under euid nulvect Fri Feb 11 12:43:57 2011
+"/adm/daemon/identity_d"->manage_identity(0, this_player(), "login check");
+nulvect under euid nulvect Fri Feb 11 12:48:43 2011
+printf("%O\n", "/adm/daemon/identity_d"->search_identity(this_player()) );
+nulvect under euid nulvect Fri Feb 11 12:49:21 2011
+printf("%O\n", "/adm/daemon/identity_d"->search_identity(this_player()) );
+nulvect under euid nulvect Fri Feb 11 12:50:29 2011
+printf("%O\n", "/adm/daemon/identity_d"->search_identity(this_player()) );
+nulvect under euid nulvect Fri Feb 11 12:50:49 2011
+"/adm/daemon/identity_d"->manage_identity(0, this_player(), "login check");
+nulvect under euid nulvect Fri Feb 11 12:57:00 2011
+"/adm/daemon/identity_d"->manage_identity(0, find_player("rull"), "login check")
+nulvect under euid nulvect Fri Feb 11 13:00:08 2011
+"/adm/daemon/identity_d"->manage_identity(0, find_player("nultest"), "login check")
+nulvect under euid nulvect Fri Feb 11 13:13:27 2011
+"/adm/daemon/identity_d"->manage_identity(0, this_player(), "login check");
+nulvect under euid nulvect Fri Feb 11 13:14:35 2011
+"/adm/daemon/identity_d"->manage_identity(0, find_player("nultest"), "login check");
+nulvect under euid nulvect Fri Feb 11 13:18:19 2011
+"/adm/daemon/identity_d"->manage_identity(0, find_player("nultest"), "deleting");
+nulvect under euid nulvect Fri Feb 11 13:25:13 2011
+"/adm/daemon/identity_d"->manage_identity(0, find_player("nultest"), "login check");
+nulvect under euid nulvect Sat Feb 12 23:01:12 2011
+return environment(find_player("derzac"));
+nulvect under euid nulvect Sat Feb 12 23:01:32 2011
+return query_ip_number(find_player("derzac"));
+nulvect under euid nulvect Sat Feb 12 23:01:36 2011
+return query_ip_number(find_player("sky"));
+nulvect under euid nulvect Sat Feb 12 23:01:40 2011
+return query_ip_number(find_player("ramona"));
+stormbringer under euid stormbringer Sun Feb 13 19:11:05 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Sun Feb 13 19:11:11 2011
+return "/daemon/last_d"->get_honey("sugarcandy")
+stormbringer under euid stormbringer Sun Feb 13 19:13:43 2011
+return "/daemon/last_d"->get_tell("majere")
+stormbringer under euid stormbringer Sun Feb 13 19:14:55 2011
+return "/daemon/last_d"->get_tell("sky")
+stormbringer under euid stormbringer Sun Feb 13 19:16:01 2011
+return "/daemon/last_d"->get_tell("yang")
+stormbringer under euid stormbringer Sun Feb 13 19:17:02 2011
+return "/daemon/last_d"->get_tell("sopboo")
+stormbringer under euid stormbringer Sun Feb 13 19:18:38 2011
+return "/daemon/last_d"->get_tell("baine")
+stormbringer under euid stormbringer Sun Feb 13 19:19:58 2011
+return "/daemon/last_d"->get_tell("vent")
+stormbringer under euid stormbringer Sun Feb 13 19:20:04 2011
+return "/daemon/last_d"->get_tell("vian")
+nulvect under euid nulvect Mon Feb 14 12:34:25 2011
+master()->load_privs();
+nulvect under euid nulvect Mon Feb 14 12:57:31 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Mon Feb 14 12:57:33 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Mon Feb 14 13:59:47 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Mon Feb 14 15:12:34 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Mon Feb 14 15:12:40 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Mon Feb 14 15:24:10 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Mon Feb 14 15:28:10 2011
+return present("wed_ring", find_player("sugarcandy"));
+nulvect under euid nulvect Mon Feb 14 15:28:18 2011
+return present("wedding ring", find_player("sugarcandy"));
+nulvect under euid nulvect Mon Feb 14 15:28:26 2011
+return present("wedding ring", find_player("sugarcandy"))->remove();
+nulvect under euid nulvect Mon Feb 14 16:46:55 2011
+return users()->query_married();
+nulvect under euid nulvect Tue Feb 15 13:04:33 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Tue Feb 15 13:04:35 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Tue Feb 15 20:32:37 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Tue Feb 15 20:41:03 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Tue Feb 15 20:41:07 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue Feb 15 20:41:11 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Tue Feb 15 20:41:27 2011
+return environment(find_player("seratul"));
+nulvect under euid nulvect Thu Feb 17 13:26:57 2011
+return environment(find_player("ankou"));
+nulvect under euid nulvect Thu Feb 17 13:31:24 2011
+return environment(find_player("ankou"));
+nulvect under euid nulvect Sat Feb 26 00:46:58 2011
+return environment(find_player("sugarcandy"));
+stormbringer under euid stormbringer Sat Feb 26 11:43:54 2011
+return "/daemon/last_d"->get_tell("shacklles")
+stormbringer under euid stormbringer Mon Feb 28 12:34:44 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+nulvect under euid nulvect Mon Feb 28 13:16:00 2011
+return this_player()->query_limbs();
+nulvect under euid nulvect Mon Feb 28 13:16:44 2011
+return this_player()->query_limbs() / 3;
+nulvect under euid nulvect Mon Feb 28 15:09:04 2011
+return list( ({ "a", "b", "c", "d" }), 0, "or");
+nulvect under euid nulvect Mon Feb 28 15:09:18 2011
+return list( ({ "a", "b", "c", "d" }), 0, "");
+nulvect under euid nulvect Mon Feb 28 15:09:44 2011
+return replace_string(list( ({ "a", "b", "c", "d" }), 0, ""), ", ", " | ";
+nulvect under euid nulvect Mon Feb 28 15:09:48 2011
+return replace_string(list( ({ "a", "b", "c", "d" }), 0, ""), ", ", " | ");
+nulvect under euid nulvect Tue Mar  1 03:33:13 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Mar  1 03:48:50 2011
+return environment(find_player("parson"));
+nulvect under euid nulvect Tue Mar  1 03:50:22 2011
+return environment(find_player("parson"));
+nulvect under euid nulvect Tue Mar  1 03:50:24 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Tue Mar  1 04:03:33 2011
+return environment(find_player("enska"));
+stormbringer under euid stormbringer Tue Mar  1 12:53:48 2011
+return "/daemon/last_d"->get_tell("yang")
+stormbringer under euid stormbringer Tue Mar  1 12:54:00 2011
+return "/daemon/last_d"->get_tell("yang")
+stormbringer under euid stormbringer Tue Mar  1 12:54:18 2011
+return "/daemon/last_d"->get_tell("yang")
+stormbringer under euid stormbringer Tue Mar  1 13:00:36 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+nulvect under euid nulvect Tue Mar  1 13:15:49 2011
+return environment(find_player("abraxas"));
+stormbringer under euid stormbringer Tue Mar  1 13:52:03 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Tue Mar  1 13:55:09 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Tue Mar  1 15:33:47 2011
+return "/daemon/last_d"->get_tell("ironman")
+nulvect under euid nulvect Tue Mar  1 20:55:41 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar  1 21:49:11 2011
+return ({3,6,4,8,1,9})[<3..<1];
+nulvect under euid nulvect Tue Mar  1 21:49:21 2011
+return ({3,6,})[<3..<1];
+nulvect under euid nulvect Wed Mar  2 02:22:10 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Mar  2 02:23:25 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Wed Mar  2 02:23:29 2011
+return environment(find_player("mathiu"));
+nulvect under euid nulvect Wed Mar  2 13:48:42 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Fri Mar  4 00:46:16 2011
+return oldcrypt("mynewP4SS", 0);
+nulvect under euid nulvect Mon Mar  7 12:42:31 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Mon Mar  7 16:16:54 2011
+return oldcrypt("l1b1d0m4x", 0);
+nulvect under euid nulvect Tue Mar  8 01:05:50 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Mar  8 01:05:56 2011
+return environment(find_player("thaedrin"));
+nulvect under euid nulvect Tue Mar  8 01:06:44 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Tue Mar  8 12:49:28 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Tue Mar  8 12:50:56 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Wed Mar  9 11:48:24 2011
+return environment(find_player("hissatsu"));
+stormbringer under euid stormbringer Wed Mar  9 12:06:21 2011
+return "/daemon/last_d"->get_tell("hissatsu")
+stormbringer under euid stormbringer Wed Mar  9 12:11:11 2011
+return "/daemon/last_d"->get_tell("sopboo")
+nulvect under euid nulvect Thu Mar 10 00:54:33 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return query_heart_beat(this_player());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return uptime();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return heart_beats();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("ironman"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return ctime(time());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return time();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return heart_beats();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return function_profile();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return function_exists("heart_beat");
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return function_exists("heart_beat", this_player());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return function_exists("heart_beat", this_player(), 1);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return interactive(this_player());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return interactive(find_player("ironman"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return lpc_info
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return lpc_info();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return malloc_status();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return mud_status();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return memory_info();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return debug_info();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return debug_info(0, this_player());
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return query_idle(find_player("ironman"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return rusage();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return call_out_info();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("keiser"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("keiser"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("vian"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("friky"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("yahwen"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("keiser"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("tai"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+users()->set_disable(0);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+users()->set_magic_round(0);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return users()->force_me("save");
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+users()->set_disable(0);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+users()->set_magic_round(0);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random();
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+nulvect under euid nulvect Thu Mar 10 01:32:11 2011
+return random(10);
+ironman under euid ironman Thu Mar 10 01:32:11 2011
+return time();
+ironman under euid ironman Thu Mar 10 01:32:11 2011
+return time();
+whit under euid whit Fri Mar 11 18:55:28 2011
+time()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return time()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return time()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return time()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return localtime()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return time()
+whit under euid whit Fri Mar 11 18:55:28 2011
+return time()
+whit under euid whit Fri Mar 11 20:13:40 2011
+return time()
+whit under euid whit Fri Mar 11 20:13:42 2011
+return time()
+whit under euid whit Fri Mar 11 20:13:44 2011
+return time()
+whit under euid whit Fri Mar 11 20:14:32 2011
+return time()
+whit under euid whit Fri Mar 11 20:14:34 2011
+return time()
+whit under euid whit Fri Mar 11 20:14:36 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:52 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:54 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:56 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:56 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:56 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:56 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:58 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:58 2011
+return time()
+whit under euid whit Fri Mar 11 20:18:58 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:30 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:32 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:33 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:35 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:35 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:37 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:39 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:40 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:41 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:42 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:43 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:43 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:44 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:45 2011
+return time()
+whit under euid whit Sat Mar 12 00:00:45 2011
+return time()
+nulvect under euid nulvect Sat Mar 12 14:39:56 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Mar 12 14:40:00 2011
+return environment(find_player("thaedrin"));
+whit under euid whit Sat Mar 12 22:02:26 2011
+return crypt("bleh")
+whit under euid whit Sat Mar 12 22:02:30 2011
+return crypt("bleh", "")
+whit under euid whit Sat Mar 12 22:05:28 2011
+return oldcrypt("asf", 0)
+whit under euid whit Sat Mar 12 22:05:30 2011
+return oldcrypt("asf", 0)
+whit under euid whit Sat Mar 12 22:05:41 2011
+return oldcrypt("asf", 0)
+whit under euid whit Sat Mar 12 23:35:44 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:45 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:45 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:46 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:47 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:47 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:48 2011
+return crypt("a", "a");
+whit under euid whit Sat Mar 12 23:35:55 2011
+return crypt("a", "get_password");
+whit under euid whit Sat Mar 12 23:36:13 2011
+return crypt("a", "kCDDTiPIbHJ/");
+whit under euid whit Sat Mar 12 23:36:14 2011
+return crypt("a", "kCDDTiPIbHJ/");
+whit under euid whit Sat Mar 12 23:36:20 2011
+return crypt("a", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:36:22 2011
+return crypt("a", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:36:26 2011
+return crypt("asdf", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:36:29 2011
+return crypt("asdf", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:36:29 2011
+return crypt("asdf", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:36:30 2011
+return crypt("asdf", "kCDDTiPIbHJ/k");
+whit under euid whit Sat Mar 12 23:38:19 2011
+return oldcrypt("asdf", 0);
+whit under euid whit Sat Mar 12 23:38:21 2011
+return oldcrypt("asdf", "asdfdsfsa");
+whit under euid whit Sat Mar 12 23:38:36 2011
+return oldcrypt("asdf", "KZ5bD00vZEyxQ");
+whit under euid whit Sat Mar 12 23:40:16 2011
+return oldcrypt("asdf", "asdf");
+whit under euid whit Sun Mar 13 15:45:47 2011
+return write(1)
+whit under euid whit Sun Mar 13 15:45:50 2011
+return write("1")
+whit under euid whit Sun Mar 13 15:45:52 2011
+return write(3)
+whit under euid whit Sun Mar 13 15:45:55 2011
+return write((string)3)
+whit under euid whit Sun Mar 13 15:46:04 2011
+return itos()
+whit under euid whit Sun Mar 13 15:46:05 2011
+return itos(2)
+whit under euid whit Sun Mar 13 15:55:53 2011
+return fopen()
+whit under euid whit Sun Mar 13 16:05:55 2011
+return find_living()
+whit under euid whit Sun Mar 13 16:05:57 2011
+return find_living("whit")
+nulvect under euid nulvect Mon Mar 14 11:38:11 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Mon Mar 14 11:47:45 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Mon Mar 14 13:50:16 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Mon Mar 14 13:50:35 2011
+return environment(find_player("duera"));
+stormbringer under euid stormbringer Tue Mar 15 11:45:51 2011
+return "/daemon/last_d"->get_say("ironman")
+nulvect under euid nulvect Tue Mar 15 11:50:17 2011
+environment(this_player())->show_zone(this_player());
+nulvect under euid nulvect Tue Mar 15 11:50:31 2011
+environment(this_player())->show_zone(this_player());
+nulvect under euid nulvect Tue Mar 15 11:50:36 2011
+environment(this_player())->show_zone(this_player());
+nulvect under euid nulvect Tue Mar 15 11:50:41 2011
+environment(this_player())->show_zone(this_player());
+nulvect under euid nulvect Tue Mar 15 11:51:52 2011
+environment(this_player())->show_zone(({this_player(),find_player("nultest")}));
+nulvect under euid nulvect Tue Mar 15 11:52:02 2011
+environment(this_player())->show_zone(({this_player(),find_player("nultest")}));
+nulvect under euid nulvect Tue Mar 15 12:00:38 2011
+return "blah"[0..50];
+nulvect under euid nulvect Tue Mar 15 12:13:12 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Tue Mar 15 12:13:15 2011
+return environment(find_player("agnidev"));
+nulvect under euid nulvect Tue Mar 15 19:03:21 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Tue Mar 15 19:31:12 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Tue Mar 15 19:38:37 2011
+return environment(find_player("duera"));
+nulvect under euid nulvect Thu Mar 17 11:06:47 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:47 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:48 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:50 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:50 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:51 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:52 2011
+return time();
+nulvect under euid nulvect Thu Mar 17 11:06:53 2011
+return time();
+ironman under euid ironman Fri Mar 18 20:44:33 2011
+to_object("ironman")->set_class("Clergy");
+ironman under euid ironman Fri Mar 18 20:45:09 2011
+return to_object("ironman")->query_class("Clergy");
+ironman under euid ironman Fri Mar 18 20:45:22 2011
+return to_object("ironman")->query_class();
+ironman under euid ironman Fri Mar 18 20:46:40 2011
+return to_object("bellos")->query_class("Clergy");
+ironman under euid ironman Fri Mar 18 20:47:05 2011
+return to_object("ironman")->set_class("clergy");
+ironman under euid ironman Fri Mar 18 20:48:50 2011
+return to_object("ironman")->query_class();
+ironman under euid ironman Fri Mar 18 20:52:56 2011
+return to_object("ironman")->query_sub_class();
+ironman under euid ironman Fri Mar 18 20:53:17 2011
+return to_object("ironman")->set_sub_class("cleric");
+ironman under euid ironman Fri Mar 18 20:53:29 2011
+return to_object("ironman")->query_sub_class();
+ironman under euid ironman Fri Mar 18 20:53:36 2011
+return to_object("ironman")->qery_sub_class();
+nulvect under euid nulvect Fri Mar 18 23:18:36 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Fri Mar 18 23:18:44 2011
+return environment(find_player("vanlikapa"));
+nulvect under euid nulvect Sat Mar 19 14:35:31 2011
+return environment(find_player("vian"));
+nulvect under euid nulvect Sat Mar 19 14:40:00 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Sun Mar 20 09:17:11 2011
+return environment(find_player("shu"));
+nulvect under euid nulvect Sun Mar 20 09:18:05 2011
+return environment(find_player("shu"));
+nulvect under euid nulvect Sun Mar 20 09:21:30 2011
+return environment(find_player("shu"));
+nulvect under euid nulvect Sun Mar 20 09:22:52 2011
+return environment(find_player("shu"));
+nulvect under euid nulvect Sun Mar 20 09:32:26 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Sun Mar 20 09:34:11 2011
+return environment(find_player("shu"));
+nulvect under euid nulvect Sun Mar 20 09:36:19 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:37:55 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:50:00 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:52:16 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:52:19 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:52:20 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:52:21 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 22 18:52:25 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Mar 23 01:38:19 2011
+return environment(find_player("nezo"));
+nulvect under euid nulvect Wed Mar 23 01:41:12 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Wed Mar 23 01:41:17 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Wed Mar 23 01:42:26 2011
+return environment(find_player("nezo"));
+nulvect under euid nulvect Wed Mar 23 10:34:58 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Wed Mar 23 10:35:03 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Mar 23 10:42:17 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Mar 23 10:59:40 2011
+return environment(find_player("rooke"));
+nulvect under euid nulvect Wed Mar 23 11:51:53 2011
+return environment(find_player("freddie"));
+nulvect under euid nulvect Wed Mar 23 12:13:11 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Mar 23 14:50:35 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Mar 23 14:50:37 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Mar 23 14:50:41 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Wed Mar 23 14:50:46 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Wed Mar 23 14:51:40 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Mar 23 15:03:37 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Mar 23 15:22:17 2011
+return "/d/freepk/ridarin/virtual"->find_server("9,11,0")
+nulvect under euid nulvect Wed Mar 23 15:22:21 2011
+return "/d/freepk/ridarin/virtual"->find_server("9,11,0");
+nulvect under euid nulvect Wed Mar 23 15:23:22 2011
+return "/d/freepk/ridarin/virtual"->query_map();
+nulvect under euid nulvect Wed Mar 23 15:23:32 2011
+return "/d/freepk/ridarin/virtual"->query_room_count();
+nulvect under euid nulvect Wed Mar 23 15:30:35 2011
+"/d/freepk/ridarin/virtual"->find_server("9,11,0");
+nulvect under euid nulvect Wed Mar 23 15:31:00 2011
+"/d/freepk/ridarin/virtual"->find_server("9,10,0");
+nulvect under euid nulvect Wed Mar 23 15:31:27 2011
+"/d/freepk/ridarin/virtual"->find_server("9,9,0");
+nulvect under euid nulvect Wed Mar 23 15:31:40 2011
+return "/d/freepk/ridarin/virtual"->find_server("9,9,0");
+nulvect under euid nulvect Wed Mar 23 15:31:43 2011
+return "/d/freepk/ridarin/virtual"->find_server("9,10,0");
+nulvect under euid nulvect Wed Mar 23 15:31:46 2011
+return "/d/freepk/ridarin/virtual"->find_server("9,11,0");
+nulvect under euid nulvect Wed Mar 23 15:32:09 2011
+object o = "/d/freepk/ridarin/virtual"->find_server("9,11,0"); return (o ? 1 : 0 );
+nulvect under euid nulvect Wed Mar 23 15:32:17 2011
+object o = "/d/freepk/ridarin/virtual"->find_server("9,10,0"); return (o ? 1 : 0 );
+nulvect under euid nulvect Wed Mar 23 15:41:19 2011
+string a = "0,11,0 - 14,30,0"; int *c; "/d/freepk/ridarin/virtual"->format_coords(ref a, ref c); return a;
+nulvect under euid nulvect Wed Mar 23 15:41:23 2011
+string a = "0,11,0 - 14,30,0"; int *c; "/d/freepk/ridarin/virtual"->format_coords(ref a, ref c); return c;
+nulvect under euid nulvect Wed Mar 23 15:41:38 2011
+string a = "0,11,0 - 14,30,0"; int *c = ({}); "/d/freepk/ridarin/virtual"->format_coords(ref a, ref c); return c;
+nulvect under euid nulvect Wed Mar 23 15:46:14 2011
+return "/d/freepk/ridarin/virtual"->query_room(9,11,0);
+nulvect under euid nulvect Wed Mar 23 15:46:33 2011
+return file_name(environment(this_player()));
+nulvect under euid nulvect Wed Mar 23 15:46:41 2011
+return environment(this_player());
+nulvect under euid nulvect Wed Mar 23 15:47:15 2011
+return find_object("/std/virtual/vmaproom#202638");
+nulvect under euid nulvect Wed Mar 23 15:47:28 2011
+return this_player()->move(find_object("/std/virtual/vmaproom#202638"));
+nulvect under euid nulvect Wed Mar 23 15:49:54 2011
+return "/d/freepk/ridarin/virtual"->debugserver();
+nulvect under euid nulvect Wed Mar 23 15:49:58 2011
+return "/d/freepk/ridarin/virtual"->debugservers();
+nulvect under euid nulvect Wed Mar 23 16:14:03 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:05 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:05 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:05 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:06 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:07 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:07 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:08 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:09 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:09 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:10 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:11 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:11 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:12 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:13 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:13 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:14 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:14 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:15 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:15 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:16 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:17 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:17 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:18 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:18 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:19 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:20 2011
+return time();
+nulvect under euid nulvect Wed Mar 23 16:14:20 2011
+return time();
+nulvect under euid nulvect Thu Mar 24 01:30:53 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Thu Mar 24 18:23:49 2011
+return environment(find_player("hissatsu"));
+nulvect under euid nulvect Fri Mar 25 11:10:32 2011
+return environment(find_player("sugarcandy"));
+stormbringer under euid stormbringer Fri Mar 25 19:29:02 2011
+return "/daemon/last_d"->get_tell("baine")
+stormbringer under euid stormbringer Fri Mar 25 19:29:11 2011
+return "/daemon/last_d"->get_tell("frisky")
+stormbringer under euid stormbringer Fri Mar 25 19:44:36 2011
+return "/daemon/last_d"->get_tell("vian")
+stormbringer under euid stormbringer Fri Mar 25 19:44:48 2011
+return "/daemon/last_d"->get_tell("juju")
+nulvect under euid nulvect Sat Mar 26 03:46:37 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Mar 26 04:01:09 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Mar 26 04:02:01 2011
+return environment(find_player("escobar"));
+nulvect under euid nulvect Sat Mar 26 04:02:03 2011
+return environment(find_player("escobar"));
+nulvect under euid nulvect Sat Mar 26 14:02:30 2011
+return environment(find_player("frisky"));
+nulvect under euid nulvect Sat Mar 26 14:02:32 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Sat Mar 26 14:04:21 2011
+return environment(find_player("baine"));
+stormbringer under euid stormbringer Sun Mar 27 08:58:45 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+stormbringer under euid stormbringer Sun Mar 27 09:00:24 2011
+return "/daemon/last_d"->get_tell("sugarcandy")
+nulvect under euid nulvect Sun Mar 27 09:22:18 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Mar 29 23:46:07 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Mar 29 23:48:09 2011
+return environment(find_player("thaedrin"));
+nulvect under euid nulvect Wed Mar 30 14:40:18 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Wed Mar 30 14:48:31 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Wed Mar 30 15:51:39 2011
+return environment(find_player("dantes"));
+nulvect under euid nulvect Wed Mar 30 15:51:42 2011
+return environment(find_player("freddie"));
+nulvect under euid nulvect Wed Mar 30 17:05:36 2011
+return environment(find_player("morgana"));
+nulvect under euid nulvect Mon Apr  4 03:49:05 2011
+return environment(find_player("escobar"));
+nulvect under euid nulvect Mon Apr  4 15:09:25 2011
+return environment(find_player("thaedrin"));
+nulvect under euid nulvect Mon Apr  4 15:46:18 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Mon Apr  4 16:36:58 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Apr  5 12:41:59 2011
+return environment(find_player("amaki"));
+nulvect under euid nulvect Tue Apr  5 12:53:47 2011
+return environment(find_player("amaki"));
+nulvect under euid nulvect Tue Apr  5 20:43:31 2011
+return environment(find_player("tai"));
+nulvect under euid nulvect Tue Apr  5 21:00:48 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Apr  6 12:09:44 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Apr  6 12:15:46 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Apr  6 12:50:40 2011
+return environment(find_player("dantes"));
+ironman under euid ironman Wed Apr  6 19:24:54 2011
+return get_object("ring")
+ironman under euid ironman Wed Apr  6 19:25:13 2011
+return environment(get_object("ring"));
+ironman under euid ironman Wed Apr  6 19:25:49 2011
+return is_user(environment(get_object("ring")));
+ironman under euid ironman Wed Apr  6 19:26:00 2011
+return user(environment(get_object("ring")));
+ironman under euid ironman Wed Apr  6 19:26:54 2011
+return environment(get_object("ring"))->is_user();
+ironman under euid ironman Wed Apr  6 19:27:52 2011
+return environment(get_object("ring"))->is_player();
+ironman under euid ironman Wed Apr  6 19:28:05 2011
+return environment(get_object("ring"))->is_player();
+ironman under euid ironman Wed Apr  6 19:28:25 2011
+return get_object("ring")
+nulvect under euid nulvect Thu Apr  7 12:18:38 2011
+return environment(find_player("nanaimo"));
+nulvect under euid nulvect Mon Apr 11 15:07:30 2011
+return environment(find_player("cortoth"));
+nulvect under euid nulvect Wed Apr 13 19:54:29 2011
+return environment(find_player("vang"));
+nulvect under euid nulvect Wed Apr 13 20:17:47 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Wed Apr 13 20:18:35 2011
+return all_inventory(environment(find_player("sugarcandy")));
+nulvect under euid nulvect Fri Apr 15 17:13:21 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Fri Apr 15 22:39:25 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Sat Apr 16 01:00:14 2011
+return master()->load_groups();
+nulvect under euid nulvect Sat Apr 16 01:01:16 2011
+return member_group("nultest", "usertest");
+nulvect under euid nulvect Sat Apr 16 01:01:33 2011
+return inherit_list(find_player("nultest"));
+nulvect under euid nulvect Sat Apr 16 01:01:55 2011
+return deep_inherit_list(find_player("nultest"));
+nulvect under euid nulvect Sat Apr 16 01:02:31 2011
+return inherits("/std/usertest.c", find_player("nultest"));
+nulvect under euid nulvect Sat Apr 16 01:02:37 2011
+return users();
+nulvect under euid nulvect Sat Apr 16 01:45:02 2011
+return environment(find_player("terek"));
+nulvect under euid nulvect Sun Apr 17 21:53:54 2011
+return environment(find_player("cortoth"));
+nulvect under euid nulvect Tue Apr 19 20:37:08 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Tue Apr 19 21:41:23 2011
+return environment(find_player("sugarcandy"));
+nulvect under euid nulvect Tue Apr 19 21:41:43 2011
+return filter(all_inventory(find_player("sugarcandy")), (: $1->id("seal") :) );
+nulvect under euid nulvect Tue Apr 19 21:42:29 2011
+return filter(all_inventory(find_player("sugarcandy")), (: $1->id("seal") :) )->query_marked_label();
+nulvect under euid nulvect Tue Apr 19 21:42:40 2011
+return filter(all_inventory(find_player("sugarcandy")), (: $1->id("seal") :) )->query_marked_filename();
+nulvect under euid nulvect Tue Apr 26 12:26:43 2011
+master()->load_privs();
+nulvect under euid nulvect Tue Apr 26 12:41:49 2011
+"/adm/daemon/war_d"->add_faction("archangels");
+nulvect under euid nulvect Tue Apr 26 12:41:53 2011
+"/adm/daemon/war_d"->add_faction("demons");
+nulvect under euid nulvect Tue Apr 26 12:42:46 2011
+return "/adm/daemon/war_d"->add_criteria("archangels", "lfun", "query_race", 0, "archangel");
+nulvect under euid nulvect Tue Apr 26 12:42:57 2011
+return "/adm/daemon/war_d"->add_criteria("demons", "lfun", "query_race", 0, "demon");
+nulvect under euid nulvect Tue Apr 26 12:44:10 2011
+printf( "/adm/daemon/war_d"->query_criteria("archangel"), "%O\n");
+nulvect under euid nulvect Tue Apr 26 12:44:27 2011
+printf( "%O\n", "/adm/daemon/war_d"->query_criteria("archangel") );
+nulvect under euid nulvect Tue Apr 26 12:45:27 2011
+printf( "%O\n", "/adm/daemon/war_d"->query_faction("archangels") );
+nulvect under euid nulvect Tue Apr 26 12:45:43 2011
+printf( "%O\n", "/adm/daemon/war_d"->query_criteria("archangels") );
+nulvect under euid nulvect Tue Apr 26 12:46:51 2011
+return "/adm/daemon/war_d"->query_player_factions(this_player());
+nulvect under euid nulvect Tue Apr 26 12:48:06 2011
+return "/adm/daemon/war_d"->query_player_factions(find_player("sopboo"));
+nulvect under euid nulvect Tue Apr 26 12:55:52 2011
+return "/adm/daemon/war_d"->query_player_factions(this_player());
+nulvect under euid nulvect Tue Apr 26 12:55:59 2011
+return "/adm/daemon/war_d"->query_player_factions(find_player("sopboo"));
+nulvect under euid nulvect Tue Apr 26 12:56:10 2011
+return "/adm/daemon/war_d"->query_player_factions(find_player("agnidev"));
+nulvect under euid nulvect Tue Apr 26 12:57:29 2011
+return "/adm/daemon/war_d"->add_alliance("holy forces");
+nulvect under euid nulvect Tue Apr 26 12:59:05 2011
+return "/adm/daemon/war_d"->add_alliance("holy forces");
+nulvect under euid nulvect Tue Apr 26 12:59:19 2011
+return "/adm/daemon/war_d"->add_alliance("abyssal forces");
+nulvect under euid nulvect Tue Apr 26 13:00:10 2011
+return "/adm/daemon/war_d"->set_allies("holy forces", ({ "archangels" }) );
+nulvect under euid nulvect Tue Apr 26 13:00:21 2011
+return "/adm/daemon/war_d"->set_allies("abyssal forces", ({ "demons" }) );
+nulvect under euid nulvect Tue Apr 26 13:00:43 2011
+return "/adm/daemon/war_d"->set_enemies("abyssal forces", ({ "archangels" }) );
+nulvect under euid nulvect Tue Apr 26 13:00:53 2011
+return "/adm/daemon/war_d"->set_enemies("holy forces", ({ "demons" }) );
+nulvect under euid nulvect Tue Apr 26 13:01:11 2011
+return "/adm/daemon/war_d"->query_allies("holy forces");
+nulvect under euid nulvect Tue Apr 26 13:01:15 2011
+return "/adm/daemon/war_d"->query_enemies("holy forces");
+nulvect under euid nulvect Tue Apr 26 13:01:21 2011
+return "/adm/daemon/war_d"->query_enemies("abyssal forces");
+nulvect under euid nulvect Tue Apr 26 13:01:25 2011
+return "/adm/daemon/war_d"->query_allies("abyssal forces");
+nulvect under euid nulvect Tue Apr 26 13:01:49 2011
+return "/adm/daemon/war_d"->query_faction_alliances("archangels");
+nulvect under euid nulvect Tue Apr 26 13:01:53 2011
+return "/adm/daemon/war_d"->query_faction_alliances("demons");
+nulvect under euid nulvect Tue Apr 26 13:02:52 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("agnidev"), find_player("sopboo"));
+nulvect under euid nulvect Tue Apr 26 13:03:38 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("agnidev"), find_player("sopboo"));
+vian under euid vian Wed Apr 27 02:00:25 2011
+find_player(nulvect)->force_me(expbonus 125)
+vian under euid vian Wed Apr 27 02:01:38 2011
+find_player("nulvect")->force_me("expbonus 125")
+vian under euid vian Wed Apr 27 02:03:20 2011
+find_player("nulvect")->force_me("newbie test")
+vian under euid vian Wed Apr 27 02:04:28 2011
+find_player("nulvect")->cmd_hook("newbie test")
+vian under euid vian Wed Apr 27 02:04:40 2011
+find_player("nulvect")->cmd_hook("expbonus 125")
+nulvect under euid nulvect Wed Apr 27 14:15:18 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Tue May  3 03:50:57 2011
+return environment(find_player("leeroy"));
+nulvect under euid nulvect Tue May  3 15:47:03 2011
+return "/adm/daemon/war_d"->query_player_factions(find_player("briar"));
+nulvect under euid nulvect Tue May  3 15:48:03 2011
+return "/adm/daemon/war_d"->query_player_factions(find_player("nulvect"));
+nulvect under euid nulvect Tue May  3 15:48:16 2011
+return "/adm/daemon/war_d"->query_alliances("demons");
+nulvect under euid nulvect Tue May  3 15:48:22 2011
+return "/adm/daemon/war_d"->query_faction_alliances("demons");
+nulvect under euid nulvect Tue May  3 15:48:25 2011
+return "/adm/daemon/war_d"->query_faction_alliances("archangels");
+nulvect under euid nulvect Tue May  3 15:48:58 2011
+return "/adm/daemon/war_d"->query_enemies("holy forces");
+nulvect under euid nulvect Tue May  3 15:49:09 2011
+return "/adm/daemon/war_d"->query_enemies("abyssal forces");
+nulvect under euid nulvect Tue May  3 15:49:57 2011
+return "/adm/daemon/war_d"->set_enemies("abyssal forces", ({ "holy forces" }) );
+nulvect under euid nulvect Tue May  3 15:50:04 2011
+return "/adm/daemon/war_d"->set_enemies("holy forces", ({ "abyssal forces" }) );
+nulvect under euid nulvect Tue May  3 15:50:27 2011
+return "/adm/daemon/war_d"->query_allies("abyssal forces");
+nulvect under euid nulvect Tue May  3 15:50:31 2011
+return "/adm/daemon/war_d"->query_allies("holy forces");
+nulvect under euid nulvect Tue May  3 15:50:56 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("briar"), find_player("nulvect"));
+nulvect under euid nulvect Tue May  3 15:56:31 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("briar"), find_player("nulvect"));
+nulvect under euid nulvect Tue May  3 16:16:51 2011
+int *a = ({ 7, 4, 9 }); return sort_array(a, (: $1 < $2 ? -1 : ($1 > $2 ? 1 : 0) :) );
+nulvect under euid nulvect Tue May  3 16:25:41 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("nulvect"), find_player("briar"));
+nulvect under euid nulvect Tue May  3 16:27:53 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("nulvect"), find_player("briar"));
+nulvect under euid nulvect Tue May  3 16:36:16 2011
+return "/adm/daemon/war_d"->set_death("holy forces", "abyssal forces", 90);
+nulvect under euid nulvect Tue May  3 16:36:26 2011
+return "/adm/daemon/war_d"->set_death("abyssal forces", "holy forces", 90);
+nulvect under euid nulvect Tue May  3 16:41:04 2011
+return "/adm/daemon/war_d"->query_conflict(find_player("nulvect"), find_player("briar"));
+nulvect under euid nulvect Tue May  3 19:03:08 2011
+return sizeof(this_player()->query_history());
+nulvect under euid nulvect Tue May  3 19:20:49 2011
+return explode("blarf", " ");
+nulvect under euid nulvect Tue May  3 19:20:56 2011
+return explode("", " ");
+nulvect under euid nulvect Tue May  3 19:21:02 2011
+return explode("blarf ", " ");
+nulvect under euid nulvect Tue May  3 19:21:06 2011
+return explode("blarf sauce", " ");
+nulvect under euid nulvect Tue May  3 19:21:08 2011
+return explode("blarf sauce ", " ");
+nulvect under euid nulvect Tue May  3 19:21:11 2011
+return explode(" blarf sauce ", " ");
+nulvect under euid nulvect Wed May  4 14:44:53 2011
+return environment(find_player("briar"));
+nulvect under euid nulvect Mon May  9 17:09:59 2011
+return heart_beats();
+nulvect under euid nulvect Mon May  9 17:10:09 2011
+return sizeof(heart_beats());
+nulvect under euid nulvect Mon May  9 17:36:26 2011
+return sizeof(heart_beats());
+nulvect under euid nulvect Mon May  9 17:36:57 2011
+return sizeof(filter(heart_beats(), (: $1->is_monster() :)));
+ironman under euid ironman Tue May 10 01:33:41 2011
+0
+ironman under euid ironman Tue May 10 01:33:41 2011
+0
+ironman under euid ironman Tue May 10 01:34:00 2011
+return sizeof(objects());
+ironman under euid ironman Tue May 10 01:34:21 2011
+return sizeof(livings());
+nulvect under euid nulvect Mon May 23 03:27:08 2011
+return environment(find_player("tauran"));
+nulvect under euid nulvect Tue May 24 15:12:42 2011
+return environment(find_player("baine"));
+nulvect under euid nulvect Tue May 24 15:44:22 2011
+mapping a = ([ "q" : ({}), "z" : ({}) ]); return keys(a);
+nulvect under euid nulvect Tue May 24 16:48:20 2011
+return pluralize("oil");
+nulvect under euid nulvect Tue May 24 16:48:25 2011
+return pluralize("oil") - "oil";
+nulvect under euid nulvect Tue May 24 16:48:34 2011
+return pluralize("oil") - "o";
+nulvect under euid nulvect Tue May 24 16:48:37 2011
+return pluralize("oil") - 'o';
+nulvect under euid nulvect Tue May 24 16:48:59 2011
+return pluralize("oil") ^ "oil";
+nulvect under euid nulvect Tue May 24 16:49:12 2011
+return pluralize("oil") | "oil";
+nulvect under euid nulvect Sat Jun  4 00:12:13 2011
+return regexp( ({ "blah", "crap", "stuff" }), "blah and yeah");
+nulvect under euid nulvect Sat Jun  4 00:12:33 2011
+return regexp( ({ "blah", "crap", "stuff" }), "blah");
+nulvect under euid nulvect Sat Jun  4 00:12:39 2011
+return regexp( ({ "blah and yeah", "crap", "stuff" }), "blah");
+nulvect under euid nulvect Sat Jun  4 00:13:21 2011
+return regexp( ({ "/d/guilds/", "/wizards/" }), "/wizards/nulvect/workroom.c");
+nulvect under euid nulvect Sat Jun  4 00:13:44 2011
+return regexp( "/wizards/nulvect/workroom.c", "/d/guilds/|/wizards/");
+nulvect under euid nulvect Sat Jun  4 00:13:54 2011
+return regexp( "/wizards/nulvect/workroom.c", "^/d/guilds/|^/wizards/");
+nulvect under euid nulvect Sat Jun  4 00:16:55 2011
+return regexp( "/wizards/nulvect/workroom.c", "^(" + implode( ({"/d/guilds/","/wizards/","/d/nopk/immortal_hall/"}), "|") + ")" );
+nulvect under euid nulvect Sat Jun  4 01:29:17 2011
+return time();
+nulvect under euid nulvect Sat Jun  4 02:43:16 2011
+return environment(find_player("yang"));
+nulvect under euid nulvect Sun Jun  5 21:19:35 2011
+return mud_status();
+nulvect under euid nulvect Sun Jun  5 21:19:43 2011
+write(mud_status());
+nulvect under euid nulvect Sun Jun  5 21:20:02 2011
+write(mud_status(1));
+nulvect under euid nulvect Sun Jun  5 21:22:01 2011
+write(dump_socket_status());
+nulvect under euid nulvect Mon Jun  6 14:06:49 2011
+return crypt("blahcrap", "GG");
+nulvect under euid nulvect Mon Jun  6 14:06:52 2011
+return crypt("blahcrap", "GG");
+nulvect under euid nulvect Mon Jun  6 14:07:00 2011
+return crypt("blehcrap", "GG");
+nulvect under euid nulvect Mon Jun  6 14:07:06 2011
+return crypt("blahcrap1", "GG");
+nulvect under euid nulvect Mon Jun  6 14:07:14 2011
+return crypt("blahcrap13", "GG");
+nulvect under euid nulvect Mon Jun  6 14:20:54 2011
+return crypt("my test", "GG");
+nulvect under euid nulvect Mon Jun  6 14:20:57 2011
+return crypt("my test 1", "GG");
+nulvect under euid nulvect Mon Jun  6 14:52:22 2011
+return 13 % 5;
+nulvect under euid nulvect Wed Jun  8 13:16:07 2011
+return cardinal("thirty");
+nulvect under euid nulvect Wed Jun  8 13:16:13 2011
+return ordinal("thirty");
+nulvect under euid nulvect Tue Jun 14 12:50:31 2011
+return malloc_status();
+nulvect under euid nulvect Tue Jun 14 13:00:50 2011
+return query_privs(this_player());
+nulvect under euid nulvect Tue Jun 14 19:23:57 2011
+message("idle", "", this_player());
+nulvect under euid nulvect Tue Jun 14 20:10:35 2011
+return inherit_list(find_player("nultest"));
+nulvect under euid nulvect Tue Jun 14 20:10:45 2011
+return deep_inherit_list(find_player("nultest"));
+nulvect under euid nulvect Tue Jun 14 20:11:05 2011
+return inherits("/std/usertest", find_player("nultest"));
+nulvect under euid nulvect Tue Jun 14 20:11:08 2011
+return inherits("/std/usertest.c", find_player("nultest"));
+nulvect under euid nulvect Tue Jun 14 20:11:23 2011
+return users();
+nulvect under euid nulvect Wed Jun 15 00:44:28 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:44:31 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:44:33 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:44:35 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:44:46 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:44:48 2011
+int a = 1500; return a > random(a+1501)
+nulvect under euid nulvect Wed Jun 15 00:45:24 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:27 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:27 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:28 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:28 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:29 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:29 2011
+return random(-5);
+nulvect under euid nulvect Wed Jun 15 00:45:29 2011
+return random(-5);
+nulvect under euid nulvect Tue Jun 21 03:28:45 2011
+return environment(find_player("moraleo"));
+nulvect under euid nulvect Tue Jun 21 14:20:50 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Jun 22 14:16:22 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Wed Jun 22 14:16:24 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Jun 23 12:25:04 2011
+return environment(find_player("moraleo"));
+nulvect under euid nulvect Mon Jun 27 12:36:27 2011
+return variables(this_player());
+nulvect under euid nulvect Sun Jul  3 03:08:08 2011
+return environment(find_player("khory"));
+nulvect under euid nulvect Sun Jul 17 15:27:27 2011
+return environment(find_player("sky"));
+nulvect under euid nulvect Sun Jul 17 15:27:29 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Mon Jul 18 14:01:14 2011
+return environment(find_player("adele"));
+nulvect under euid nulvect Sat Jul 23 18:39:47 2011
+return environment(find_player("tarent"));
+nulvect under euid nulvect Sun Jul 24 05:29:46 2011
+return environment(find_player("raknid"));
+nulvect under euid nulvect Sun Jul 24 05:29:52 2011
+return environment(find_player("yinn"));
+nulvect under euid nulvect Mon Jul 25 15:09:00 2011
+return sprintf("%c", 50);
+nulvect under euid nulvect Mon Jul 25 15:09:04 2011
+return sprintf("%c", 57);
+nulvect under euid nulvect Mon Jul 25 15:09:08 2011
+return sprintf("%c", 64);
+nulvect under euid nulvect Mon Jul 25 15:09:10 2011
+return sprintf("%c", 90);
+nulvect under euid nulvect Mon Aug  8 17:33:14 2011
+return time();
+nulvect under euid nulvect Tue Aug  9 13:24:03 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:04 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:05 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:05 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:06 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:06 2011
+return !random(5);
+nulvect under euid nulvect Tue Aug  9 13:24:07 2011
+return !random(5);
+nulvect under euid nulvect Sun Aug 21 02:34:37 2011
+return find_object("lava helm");
+nulvect under euid nulvect Sun Aug 21 02:34:55 2011
+return objects((: $1->id("lava helm") :));
+nulvect under euid nulvect Sun Aug 21 02:46:17 2011
+return file_name(present("helm", this_player())
+nulvect under euid nulvect Sun Aug 21 02:46:21 2011
+return file_name(present("helm", this_player()))
+nulvect under euid nulvect Thu Aug 25 18:12:59 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Aug 27 02:35:30 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Aug 27 18:02:16 2011
+return users()->query_resistances();
+nulvect under euid nulvect Sat Aug 27 23:50:34 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Aug 28 20:27:30 2011
+return filter(all_inventory(find_player("gob")), (: $1->id("dull_brass_armour_piece") :) );
+nulvect under euid nulvect Sun Aug 28 20:27:41 2011
+return filter(all_inventory(find_player("gob")), (: $1->id("crystal_armour_piece") :) );
+nulvect under euid nulvect Sun Aug 28 21:39:19 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Sun Aug 28 22:43:06 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Aug 30 21:06:49 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Tue Aug 30 21:06:51 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Aug 30 21:33:59 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Aug 30 21:34:02 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Aug 30 21:34:04 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Wed Aug 31 03:59:17 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 03:59:25 2011
+return sizeof(objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) ));
+nulvect under euid nulvect Wed Aug 31 03:59:37 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Aug 31 03:59:40 2011
+return sizeof(objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) ));
+nulvect under euid nulvect Wed Aug 31 03:59:48 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 12:59:53 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 12:59:57 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Aug 31 13:00:00 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 13:00:02 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Aug 31 13:00:03 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 13:08:33 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Aug 31 13:26:18 2011
+printf("%O\n", environment(this_player())->query_read("menu"));
+nulvect under euid nulvect Wed Aug 31 14:02:57 2011
+return destroy(present("nymph", environment(this_player())))
+nulvect under euid nulvect Wed Aug 31 14:03:02 2011
+return destruct(present("nymph", environment(this_player())))
+nulvect under euid nulvect Wed Aug 31 14:03:11 2011
+return present("nymph", environment(this_player()))->remove()
+nulvect under euid nulvect Wed Aug 31 14:14:05 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Aug 31 14:14:11 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Wed Aug 31 23:03:43 2011
+return deep_inherit_list(environment(this_player()));
+nulvect under euid nulvect Thu Sep  1 00:03:18 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Thu Sep  1 00:03:27 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Thu Sep  1 00:03:30 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) );
+nulvect under euid nulvect Thu Sep  1 02:41:09 2011
+all_inventory(present("nymph", environment(this_player())))->move(this_player());
+nulvect under euid nulvect Thu Sep  1 02:43:37 2011
+present("necklace", present("nymph", environment(this_player())))->move(this_player());
+nulvect under euid nulvect Thu Sep  1 02:56:10 2011
+return children("/d/saahr/mobs/lenna");
+nulvect under euid nulvect Thu Sep  1 03:18:32 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Thu Sep  1 14:45:57 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Thu Sep  1 14:53:31 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Thu Sep  1 19:44:57 2011
+return environment(find_player("dregs"));
+nulvect under euid nulvect Sat Sep  3 02:55:29 2011
+return base_name(environment(this_player()));
+nulvect under euid nulvect Sat Sep  3 02:59:03 2011
+return get_dir("/d/saahr/rooms/river*_*.c");
+nulvect under euid nulvect Mon Sep  5 00:46:05 2011
+return oldcrypt("R3m3mb3R", 0);
+daos under euid daos Mon Sep  5 00:48:23 2011
+return VIRTUALMPA
+daos under euid daos Mon Sep  5 00:48:25 2011
+return VIRTUALMAP
+nulvect under euid nulvect Tue Sep  6 21:45:30 2011
+return list( ({ "blah" }) );
+nulvect under euid nulvect Tue Sep  6 21:47:39 2011
+return get_dir("/d/saahr/rooms/river*_*.c");
+nulvect under euid nulvect Tue Sep  6 21:52:13 2011
+"/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 21:54:15 2011
+"/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 21:54:18 2011
+"/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 21:54:21 2011
+"/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 21:54:33 2011
+"/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 21:57:38 2011
+return path_file("/blah/crap/stuff.c");
+nulvect under euid nulvect Tue Sep  6 22:08:19 2011
+return "/d/saahr/rooms/vplainserv"->check_river_dir(environment(this_player()));
+nulvect under euid nulvect Tue Sep  6 23:24:31 2011
+return objects( (: strsrch(base_name($1), "/d/saahr/") == 0 :) )->remove();
+nulvect under euid nulvect Wed Sep  7 00:56:47 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 00:56:51 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Wed Sep  7 00:56:54 2011
+return environment(find_player("dhubbya"));
+nulvect under euid nulvect Wed Sep  7 01:07:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:16:16 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:21:56 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:26:44 2011
+return environment(find_player("jake"));
+nulvect under euid nulvect Wed Sep  7 01:26:46 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Wed Sep  7 01:27:53 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:31:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:36:31 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:40:40 2011
+return environment(find_player("vian"));
+nulvect under euid nulvect Wed Sep  7 01:40:41 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 01:42:29 2011
+return children("/d/saahr/mobs/hare");
+nulvect under euid nulvect Wed Sep  7 01:42:34 2011
+return children("/d/saahr/mobs/hare")->remove();
+nulvect under euid nulvect Wed Sep  7 01:42:38 2011
+return children("/d/saahr/mobs/fhare")->remove();
+nulvect under euid nulvect Wed Sep  7 01:55:13 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 02:01:21 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 02:01:23 2011
+return environment(find_player("darelle"));
+nulvect under euid nulvect Wed Sep  7 02:01:35 2011
+return children("/d/saahr/mobs/fhare")->remove();
+nulvect under euid nulvect Wed Sep  7 02:04:13 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep  7 02:18:51 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:19:36 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:21:27 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:26:59 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:32:01 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:34:39 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:40:16 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 02:49:12 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 03:11:34 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Wed Sep  7 03:12:26 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Wed Sep  7 03:44:38 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Wed Sep  7 10:33:38 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Wed Sep  7 10:33:41 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Wed Sep  7 10:50:14 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Wed Sep  7 10:50:19 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Wed Sep  7 10:57:20 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Wed Sep  7 16:22:34 2011
+return environment(find_player("solas"));
+nulvect under euid nulvect Wed Sep  7 16:22:37 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Thu Sep  8 02:11:30 2011
+return oldcrypt("R3m3mb3R", 0);
+nulvect under euid nulvect Thu Sep  8 17:00:31 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Thu Sep  8 17:00:34 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Thu Sep  8 17:00:39 2011
+return environment(find_player("solas"));
+nulvect under euid nulvect Thu Sep  8 17:00:45 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep  8 17:00:48 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Thu Sep  8 17:18:44 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Thu Sep  8 17:18:46 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Thu Sep  8 19:16:35 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep  8 19:16:38 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep  8 19:25:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep  8 19:58:52 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Sep  9 01:06:59 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Sep  9 01:07:01 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Fri Sep  9 01:14:30 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Sep  9 01:14:33 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Fri Sep  9 01:14:38 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Fri Sep  9 01:18:18 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Fri Sep  9 01:23:02 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Fri Sep  9 01:23:05 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Fri Sep  9 01:23:07 2011
+return environment(find_player("gob"));
+nulvect under euid nulvect Fri Sep  9 11:31:33 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Fri Sep  9 12:28:50 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Fri Sep  9 12:28:52 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Fri Sep  9 12:28:56 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Fri Sep  9 12:51:00 2011
+return environment(find_player("aethion"));
+ironman under euid ironman Fri Sep  9 20:46:40 2011
+return environment(get_object());
+ironman under euid ironman Fri Sep  9 20:46:57 2011
+return environment(get_object("ironman"));
+ironman under euid ironman Fri Sep  9 20:47:16 2011
+return environment(get_object("ironman"))->query_exits()
+ironman under euid ironman Fri Sep  9 20:48:48 2011
+return environment(get_object("ironman"))->query_exit("north");
+ironman under euid ironman Fri Sep  9 20:49:36 2011
+return all_inventory(environment(get_object("ironman"))->query_exit("north"));
+ironman under euid ironman Fri Sep  9 20:51:20 2011
+return all_inventory(get_object(environment(get_object("ironman"))->query_exit("north")));
+ironman under euid ironman Fri Sep  9 20:52:07 2011
+return get_object(environment(get_object("ironman"))->query_exit("north"));
+nulvect under euid nulvect Sat Sep 10 14:35:31 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Sat Sep 10 14:35:39 2011
+return environment(find_player("knuckle"));
+nulvect under euid nulvect Sat Sep 10 14:35:42 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Sat Sep 10 14:35:45 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Sat Sep 10 14:35:47 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Sat Sep 10 16:30:43 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Sep 10 16:30:47 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Sat Sep 10 16:30:49 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Sat Sep 10 16:34:09 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Sat Sep 10 22:07:27 2011
+return environment(find_player("solar"));
+nulvect under euid nulvect Sat Sep 10 22:07:29 2011
+return environment(find_player("solas"));
+nulvect under euid nulvect Sat Sep 10 22:07:32 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Sat Sep 10 22:07:34 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Sat Sep 10 22:07:35 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Sun Sep 11 02:28:15 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sun Sep 11 02:56:31 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Sep 11 03:06:09 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Sun Sep 11 03:06:10 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Sun Sep 11 03:06:12 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sun Sep 11 03:06:17 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sun Sep 11 10:40:46 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Sun Sep 11 16:12:46 2011
+return environment(find_player("stagger"));
+nulvect under euid nulvect Sun Sep 11 16:12:48 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Sun Sep 11 16:12:51 2011
+return environment(find_player("aethion"));
+nulvect under euid nulvect Sun Sep 11 16:13:20 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Wed Sep 14 21:52:59 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 01:49:45 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 01:49:48 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 01:49:49 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 01:49:50 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 01:53:43 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep 15 01:53:57 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep 15 01:53:58 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep 15 01:54:00 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep 15 01:54:01 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Thu Sep 15 01:57:17 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Thu Sep 15 02:08:23 2011
+return environment(find_player("smite"));
+nulvect under euid nulvect Sat Sep 17 03:40:10 2011
+return environment(find_player("smite"));
+nulvect under euid nulvect Sat Sep 17 03:40:12 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Sat Sep 17 03:40:16 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Sat Sep 17 03:40:18 2011
+return environment(find_player("enska"));
+nulvect under euid nulvect Mon Sep 19 13:52:45 2011
+return this_player()->query_remort_data()["red"];
+nulvect under euid nulvect Mon Sep 19 14:07:25 2011
+write(header_line());
+nulvect under euid nulvect Mon Sep 19 14:08:50 2011
+return header_line();
+nulvect under euid nulvect Mon Sep 19 14:46:13 2011
+return this_player()->query_remort_data()["druid"]
+nulvect under euid nulvect Mon Sep 19 15:37:30 2011
+message("no_wrap", "Blah? ", this_player());
+nulvect under euid nulvect Mon Sep 19 15:37:37 2011
+message("info", "Blah? ", this_player());
+nulvect under euid nulvect Tue Sep 20 03:43:47 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Tue Sep 20 03:49:11 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 12:05:30 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 12:30:16 2011
+return inherits("/std/living.c", find_player("nultest"));
+nulvect under euid nulvect Tue Sep 20 12:37:06 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 12:37:08 2011
+return environment(find_player("davyn"));
+nulvect under euid nulvect Tue Sep 20 12:37:13 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Tue Sep 20 13:54:28 2011
+return time() - 1316775684;
+nulvect under euid nulvect Tue Sep 20 13:57:20 2011
+return 1316775684 - time();
+nulvect under euid nulvect Tue Sep 20 17:35:17 2011
+return implode(keys(SKILLS_D->query_all_classes()), "|");
+nulvect under euid nulvect Tue Sep 20 17:36:41 2011
+return environment(find_player("davyn"));
+nulvect under euid nulvect Tue Sep 20 17:49:41 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 20:29:34 2011
+return "/adm/simul_efun/format_time"->format_time(3805);
+nulvect under euid nulvect Tue Sep 20 20:29:57 2011
+return "/adm/simul_efun/format_time"->format_time(3805, "ms");
+nulvect under euid nulvect Tue Sep 20 20:30:39 2011
+return "/adm/simul_efun/format_time"->format_time(3805, "ms");
+nulvect under euid nulvect Tue Sep 20 20:31:23 2011
+return "/adm/simul_efun/format_time"->format_time(3805, "ms");
+nulvect under euid nulvect Tue Sep 20 20:31:28 2011
+return "/adm/simul_efun/format_time"->format_time(3805);
+nulvect under euid nulvect Tue Sep 20 20:31:35 2011
+return "/adm/simul_efun/format_time"->format_time(3805726534);
+nulvect under euid nulvect Tue Sep 20 20:31:45 2011
+return "/adm/simul_efun/format_time"->format_time(38057269);
+nulvect under euid nulvect Tue Sep 20 22:41:31 2011
+return environment(find_player("davyn"));
+nulvect under euid nulvect Tue Sep 20 22:41:33 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Tue Sep 20 22:41:37 2011
+return environment(find_player("abraxas"));
+nulvect under euid nulvect Tue Sep 20 22:41:38 2011
+return environment(find_player("finn"));
+nulvect under euid nulvect Tue Sep 20 23:02:15 2011
+return format_time(506);
+nulvect under euid nulvect Tue Sep 20 23:02:20 2011
+return format_time(503456);
+nulvect under euid nulvect Tue Sep 20 23:02:24 2011
+return format_time(503456, "y");
+nulvect under euid nulvect Tue Sep 20 23:02:30 2011
+return format_time(503456, "ym");
+nulvect under euid nulvect Tue Sep 20 23:02:36 2011
+return format_time(503456, "yw");
+nulvect under euid nulvect Tue Sep 20 23:02:40 2011
+return format_time(503456, "ywd");
+nulvect under euid nulvect Tue Sep 20 23:02:55 2011
+return format_time(503456453, "ywdms");
+nulvect under euid nulvect Tue Sep 20 23:03:04 2011
+return format_time(503456453, "ywms");
+nulvect under euid nulvect Tue Sep 20 23:03:19 2011
+return format_time(503456453, "ms");
+nulvect under euid nulvect Tue Sep 20 23:03:21 2011
+return format_time(503456453, "hms");
+nulvect under euid nulvect Tue Sep 20 23:03:24 2011
+return format_time(503456453, "dhms");
+nulvect under euid nulvect Tue Sep 20 23:12:17 2011
+switch (-5) { case -7..3: return 7; default: return 2; }
+nulvect under euid nulvect Tue Sep 20 23:12:23 2011
+switch (-5) { case -7..-3: return 7; default: return 2; }
+nulvect under euid nulvect Tue Sep 20 23:17:19 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 23:17:21 2011
+return environment(find_player("ramona"));
+nulvect under euid nulvect Tue Sep 20 23:17:56 2011
+return environment(find_player("sopboo"));
+nulvect under euid nulvect Tue Sep 20 23:18:24 2011
+users()->force_me("save");
+nulvect under euid nulvect Tue Sep 20 23:18:51 2011
+return query_alignment_title(400);
+nulvect under euid nulvect Wed Sep 21 00:07:08 2011
+this_player()->more("/cmds/mortal/_help.c")
+nulvect under euid nulvect Wed Sep 21 00:13:33 2011
+return find_player("nultest")->query_remort_data()["bard"];
+nulvect under euid nulvect Wed Sep 21 00:14:14 2011
+return find_player("nultest")->query_remort_data()["pyromancer"];
+nulvect under euid nulvect Wed Sep 21 00:17:10 2011
+return find_player("nultest")->query_remort_data()["pyromancer"];
+nulvect under euid nulvect Wed Sep 21 00:39:52 2011
+return find_player("nultest")->query_remort_data();
+nulvect under euid nulvect Wed Sep 21 22:45:20 2011
+return environment(find_player("yun"));
+nulvect under euid nulvect Thu Sep 22 21:02:30 2011
+return map(users(), (: query_heart_beat($1) :) );
+nulvect under euid nulvect Thu Sep 22 21:04:47 2011
+return environment(find_player("finger"));

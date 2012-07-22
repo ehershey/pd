@@ -1,0 +1,370 @@
+/cmds/skills/obj/rage_ob.c line 180: Undefined variable 'tp' before query_disable() || t
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/song/soldiers_anthem.c line 55: Undefined variable 'COL' before "Your combat prowess
+/cmds/song/soldiers_anthem.c line 55: Undefined variable 'RES' before  tgt);
+/cmds/mortal/_ride.c line 9: parse error before  return notify_fail(
+/cmds/mortal/_ride.c line 9: Undefined variable 'UID_FORCE' before ;
+/cmds/adm/_dumpsockets.c line 5: Undefined function dump_socket_status before );
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/skills/obj/stop.c line 20: Undefined variable 'victim' before  ({});
+/cmds/skills/obj/stop.c line 20: Illegal lvalue before  ({});
+/cmds/skills/obj/stop.c line 34: Undefined variable 'victim' before  vic; }
+/cmds/skills/obj/stop.c line 34: Illegal lvalue before  vic; }
+/cmds/skills/obj/command.c line 71: Too many arguments to remove_action before ;
+/cmds/skills/_godspeed.c line 109: Bad argument to unary '-': "object " before ;
+/cmds/skills/_godspeed.c line 109: Bad argument to unary '-': "object " before ;
+/cmds/skills/_godspeed.c line 116: Redeclaration of function type. before the end of line
+/cmds/skills/_godspeed.c line 159: Redeclaration of function cmd_godspeed. before the end of line
+/cmds/skills/_godspeed.c line 177: Redeclaration of function spell. before the end of line
+/cmds/skills/_godspeed.c line 183: Redeclaration of function help. before the end of line
+/cmds/skills/_slice.c line 168: Reserved type name unexpected. before ;
+/cmds/skills/_slice.c line 168: parse error before ;
+/cmds/skills/_slice.c line 169: Undefined variable 'tp' before query(BACKSTAB_PROP)
+/cmds/skills/_slice.c line 169: Illegal LHS before  == 2 && tmp[0] == t
+/cmds/skills/_slice.c line 169: parse error before  == 2 && tmp[0] == t
+/cmds/skills/_slice.c line 170: Illegal LHS before the end of line
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/creator/_log.c line 17: Undefined function tail before ) write("No such log
+/cmds/skills/_psidrain.c line 76: parse error before " invades your mind 
+/cmds/skills/_psidrain.c line 88: Illegal LHS before 
+/cmds/skills/_psidrain.c line 88: parse error before 
+/cmds/mortal/_tell.c line 113: parse error before ;
+/cmds/mortal/_tell.c line 146: Redeclaration of function query_cap. before the end of line
+/cmds/mortal/_tell.c line 250: Redeclaration of function cmd_tell. before the end of line
+/cmds/mortal/_tell.c line 260: Redeclaration of function help. before the end of line
+/cmds/mortal/_tell.c line 110: parse error before ;
+/cmds/mortal/_tell.c line 110: parse error before ;
+/cmds/mortal/_tell.c line 110: parse error before ;
+/cmds/mortal/_tell.c line 110: parse error before ;
+/cmds/mortal/_tell.c line 85: continue statement outside loop before   
+/cmds/mortal/_tell.c line 109: parse error before the end of line
+/cmds/mortal/_tell.c line 145: Redeclaration of function query_cap. before the end of line
+/cmds/mortal/_tell.c line 258: Redeclaration of function cmd_tell. before the end of line
+/cmds/mortal/_tell.c line 269: Redeclaration of function help. before the end of line
+/cmds/mortal/_tell.c line 127: Reserved type name unexpected. before () {
+/cmds/mortal/_tell.c line 127: parse error before () {
+/cmds/mortal/_tell.c line 127: Reserved type name unexpected. before () {
+/cmds/mortal/_tell.c line 127: parse error before () {
+/cmds/mortal/_tell.c line 127: Reserved type name unexpected. before () {
+/cmds/mortal/_tell.c line 127: parse error before () {
+/cmds/mortal/_tell.c line 127: Reserved type name unexpected. before () {
+/cmds/mortal/_tell.c line 127: parse error before () {
+/cmds/mortal/_tell.c line 109: parse error before ", frm + " tells you
+/cmds/mortal/_tell.c line 128: Illegal terminator before [mud] [message]>\n\n
+/cmds/mortal/_tell.c line 111: parse error before ", frm + " tells you
+/cmds/mortal/_tell.c line 129: Illegal terminator before [mud] [message]>\n\n
+/cmds/mortal/_tell.c line 126: Reserved type name unexpected. before () {
+/cmds/mortal/_tell.c line 126: parse error before () {
+/cmds/mortal/_tell.c line 111: Undefined variable 'frm' before  " tells you: "+msg,
+/cmds/creator/_ungag.c line 21: parse error before remove_property("gag
+/cmds/mortal/_tell.c line 129: parse error before ("/adm/daemon/shutdo
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/skills/obj/ambush_ob.c line 25: Undefined variable 'w' before  || tp->id(who) || t
+/cmds/skills/obj/ambush_ob.c line 33: Reserved type name unexpected. before (object owner, objec
+/cmds/skills/obj/ambush_ob.c line 33: parse error before (object owner, objec
+/cmds/skills/_circle.c line 157: Undefined variable 'AMBUSH_TIME' before ) == 2 &&
+/cmds/song/lewd_limerick.c line 46: Undefined variable 'tp' before query_mp() < tp->que
+/cmds/system/_less.c line 98: Undefined function cat before ;
+/cmds/system/_less.c line 168: Undefined function extract before ;
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/system/_less.c line 98: Undefined function cat before ;
+/cmds/system/_less.c line 168: Undefined function extract before ;
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/skills/obj/eavesdrop_room_ob.c line 33: Undefined function set_race before ;
+/cmds/skills/obj/eavesdrop_room_ob.c line 34: Undefined function set_body_type before ;
+/cmds/skills/obj/eavesdrop_room_ob.c line 48: Undefined variable 'body_type' before  "ooze";
+/cmds/skills/obj/eavesdrop_room_ob.c line 48: Illegal lvalue before  "ooze";
+/cmds/mortal/_score.c line 207: parse error before ;
+/cmds/mortal/_drink.c line 8: Undefined variable 'DIR_SKILLS' before "_drink"))
+/cmds/skills/obj/pocket/banana.c line 23: Undefined variable 'DIR_CLASS_CMDS' before "/obj/pocket/bananap
+/cmds/skills/obj/pocket/bananapeel.c line 78: Undefined variable 'SIT' before ;
+/cmds/skills/obj/pocket/ball.c line 19: parse error before );
+/cmds/skills/obj/pocket/ball.c line 20: Illegal LHS before the end of line
+/cmds/skills/obj/pocket/ball.c line 20: parse error before the end of line
+/cmds/skills/obj/pocket/pie.c line 79: Undefined variable 'type' before " pie right into "+
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/song/jokers_jingle.c line 42: Undefined function ball_damage before ;
+/cmds/song/jokers_jingle.c line 64: Undefined variable 'BALANCE3_D' before get_damage(tp, tgt, 
+/cmds/song/jokers_jingle.c line 72: Undefined variable 'DIR_CLASS_CMDS' before "/obj/ball");
+/cmds/skills/obj/pocket/ferret.c line 38: parse error before ) );
+/cmds/skills/obj/pocket/ferret.c line 39: Undefined variable 'libs' before  (: (!$1->query_owne
+/cmds/skills/obj/pocket/ferret.c line 39: Undefined variable 'query_owner' before ;
+/cmds/skills/obj/pocket/ferret.c line 39: Illegal LHS before the end of line
+/cmds/skills/obj/pocket/ferret.c line 39: parse error before the end of line
+/cmds/skills/obj/pocket/ferret.c line 40: Illegal LHS before the end of line
+/cmds/skills/obj/pocket/ferret.c line 39: Undefined variable 'libs' before  (: (!$1->query_owne
+/cmds/skills/obj/pocket/ferret.c line 39: Undefined variable 'query_owner' before ;
+/cmds/skills/obj/raise/skeleton.c line 6: parse error before +"/obj/raise/necro_u
+/cmds/skills/obj/raise/zombie.c line 6: parse error before  create() {
+/cmds/mortal/_abilities.c line 75: Undefined variable 'width' before  2)+"\n"
+/cmds/mortal/_abilities.c line 76: Undefined variable 'width' before  2)+"\n"
+/cmds/skills/obj/pocket/hamster.c line 98: Undefined function drop_off before ;
+/cmds/skills/obj/pocket/hamster.c line 101: Undefined function start_back before ;
+/cmds/skills/obj/pocket/hamster.c line 104: Undefined function come_back before ;
+/cmds/song/noxious_chorus.c line 99: Undefined variable 'DELAY_D' before add_delay(time, tgt,
+/cmds/mortal/_close.c line 20: Undefined function close_door before ;
+/cmds/mortal/_close.c line 21: Undefined function close_bag before ;
+/cmds/mortal/_lock.c line 105: Undefined variable 'MASTER_KEY_ID' before ) {
+/cmds/mortal/_unlock.c line 102: Undefined variable 'MASTER_KEY_ID' before ) {
+/cmds/mortal/_unlock.c line 39: parse error before  if (fail) FAIL("Unl
+/cmds/mortal/_unlock.c line 44: Illegal LHS before the end of line
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_replog.c line 17: Undefined function tail before ) {
+/cmds/creator/_replog.c line 17: Undefined function tail before ) {
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/mortal/_emote.c line 54: parse error before the end of line
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_replog.c line 17: Undefined function tail before ) {
+/cmds/skills/_advance.c line 7: Undefined variable 'TIRUN' before "/wanderer_hall")->a
+/cmds/skills/_advance.c line 8: Undefined variable 'TIRUN' before "/wanderer_hall")->a
+/cmds/skills/_sense.c line 55: parse error before  1;
+/cmds/skills/obj/summon/kataan_demon.c line 7: parse error before  summonmsg = "enters
+/cmds/skills/obj/summon/kataan_demon.c line 7: parse error before  summonmsg = "enters
+/cmds/skills/obj/summon/assassin.c line 45: Undefined function to_lower before ;
+/cmds/skills/obj/summon/carrier.c line 76: Undefined variable 'ROOM_CACHE' before ;
+/cmds/skills/obj/summon/carrier.c line 84: Undefined variable 'to' before  return;
+/cmds/skills/obj/summon/carrier.c line 129: Undefined variable 'ROOM_CACHE' before ;
+/cmds/skills/_headbutt.c line 20: parse error before the end of line
+/cmds/skills/_headbutt.c line 69: Illegal LHS before the end of line
+/cmds/skills/_headbutt.c line 70: Reserved type name unexpected. before =environment(tp);
+/cmds/skills/_headbutt.c line 70: parse error before =environment(tp);
+/cmds/skills/_headbutt.c line 70: Undefined variable 'tp' before ;
+/cmds/skills/_headbutt.c line 70: Illegal LHS before the end of line
+/cmds/skills/_headbutt.c line 20: parse error before the end of line
+/cmds/skills/_headbutt.c line 69: Illegal LHS before the end of line
+/cmds/skills/_headbutt.c line 70: Reserved type name unexpected. before =environment(tp);
+/cmds/skills/_headbutt.c line 70: parse error before =environment(tp);
+/cmds/skills/_headbutt.c line 70: Undefined variable 'tp' before ;
+/cmds/skills/_headbutt.c line 70: Illegal LHS before the end of line
+/cmds/song/witchs_aria.c line 12: parse error before the end of line
+/cmds/song/witchs_aria.c line 24: Illegal LHS before the end of line
+/cmds/song/witchs_aria.c line 24: parse error before the end of line
+/cmds/song/witchs_aria.c line 39: Illegal LHS before the end of line
+/cmds/song/witchs_aria.c line 39: parse error before the end of line
+/cmds/song/witchs_aria.c line 40: Illegal LHS before the end of line
+/cmds/song/brigands_shanty.c line 84: parse error before  Effect eff = new(cl
+/cmds/song/brigands_shanty.c line 84: Illegal LHS before the end of line
+/cmds/song/brigands_shanty.c line 85: Undefined variable 'eff' before name = "brigand's sh
+/cmds/skills/_ironskin.c line 90: Undefined variable 'iron' before target;
+/cmds/skills/_swiftness.c line 135: parse error before string str) {
+/cmds/skills/_swiftness.c line 136: Illegal LHS before the end of line
+/cmds/skills/_swiftness.c line 137: parse error before  Effect swift;
+/cmds/skills/_swiftness.c line 143: Undefined variable 'tp' before query_effect("swiftn
+/cmds/skills/_swiftness.c line 143: Illegal LHS before the end of line
+/cmds/skills/_swiftness.c line 148: Type of returned value doesn't match function return type ( int vs void ) before  // makes command ob
+/cmds/skills/_rampage.c line 39: Illegal to inherit after defining global variables. before the end of line
+/cmds/skills/_rampage.c line 39: Illegal to inherit after defining global variables. before the end of line
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/skills/obj/demonscourge_ob.c line 69: Undefined variable 'COL' before capitalize(query_des
+/cmds/skills/obj/demonscourge_ob.c line 69: Undefined variable 'RES' before the end of line
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_domains.c line 20: Undefined function domain_stats before ));
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_domains.c line 20: Undefined function domain_stats before ));
+/cmds/skills/obj/pocket/ball.c line 13: Illegal to inherit after defining global variables. before the end of line
+/cmds/mortal/_cost.c line 76: parse error before ;
+/cmds/mortal/_cost.c line 88: Wrong number of arguments to remove_dec
+    Expected: 1  Got: 2 before ;
+/cmds/creator/_domains.c line 20: Undefined function domain_stats before ));
+/cmds/mortal/_uptime.c line 24: parse error before , ";
+/cmds/mortal/_uptime.c line 49: End of file in string at the end of the file
+/cmds/dances/obj/nights_ghost_ob.c line 33: parse error before  0 :) ); // cannot c
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/adm/_dumpsockets.c line 5: Undefined function dump_socket_status before );
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/creator/_netstat.c line 8: Undefined function dump_socket_status before ; return 1; }
+/cmds/adm/_opcprof.c line 10: Undefined function opcprof before ;
+/cmds/system/_cd.c line 29: Undefined function master before ->valid_read(str, pr
+/cmds/system/_ls.c line 60: Undefined function master before ->valid_read(path, t
+/cmds/system/_cd.c line 29: Undefined function master before ->valid_read(str, pr
+/cmds/system/_ls.c line 60: Undefined function master before ->valid_read(path, t
+/cmds/system/_cd.c line 29: Undefined function master before ->valid_read(str, pr
+/cmds/mortal/_remort.c line 11: parse error before  60*60*24 // define 
+/cmds/mortal/_tongues.c line 23: parse error before  "+
+/cmds/mortal/_tongues.c line 35: End of file in string at the end of the file
+/cmds/mortal/_tongues.c line 28: parse error before n";
+/cmds/mortal/_tongues.c line 35: End of file in string at the end of the file
+/cmds/mortal/_languages.c line 33: Undefined function query_primary_lang before )+
+/cmds/creator/_mraces.c line 22: parse error before  = sort_array(files,
+/cmds/creator/_mraces.c line 22: Undefined variable 'files' before  1);
+/cmds/creator/_mraces.c line 22: Illegal LHS before the end of line
+/cmds/creator/_mraces.c line 22: parse error before the end of line
+/cmds/creator/_mraces.c line 22: Undefined variable 'files' before  1);
+/cmds/skills/_dissever.c line 191: Undefined variable 'DAMAGE_MAGIC' before  DAMAGE_PSYCHIC, DAM
+/cmds/skills/_dissever.c line 191: Undefined variable 'DAMAGE_PSYCHIC' before  DAMAGE_HP_ONLY | DA
+/cmds/skills/_dissever.c line 191: Undefined variable 'DAMAGE_HP_ONLY' before  DAMAGE_BYPASS_ARMOU
+/cmds/skills/_dissever.c line 191: Undefined variable 'DAMAGE_BYPASS_ARMOUR' before  tp);
+/cmds/skills/_psistorm.c line 208: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_IMPACT, 0, t
+/cmds/skills/_psistorm.c line 208: Undefined variable 'DAMAGE_IMPACT' before  0, tp);
+/cmds/mortal/_remort.c line 258: parse error before  howmany = info[1];
+/cmds/mortal/_remort.c line 258: Illegal LHS before the end of line
+/cmds/song/brigands_shanty.c line 106: Undefined variable 'knife' before ;
+/cmds/creator/_racecosts.c line 30: Too few arguments to explode before ) {
+/cmds/creator/_replog.c line 17: Undefined function tail before ) {
+/cmds/creator/_racestats.c line 58: parse error before the end of line
+/cmds/creator/_racestats.c line 72: Illegal LHS before the end of line
+/cmds/creator/_racestats.c line 72: parse error before the end of line
+/cmds/creator/_racestats.c line 68: parse error before DIR_SECURE_DAEMONS+"
+/cmds/creator/_racestats.c line 72: Illegal LHS before the end of line
+/cmds/creator/_racestats.c line 72: parse error before the end of line
+/cmds/mortal/_newhelp.c line 53: Illegal to redeclare local name 'i' before  = 0; i < sizeof(rac
+/cmds/mortal/_newhelp.c line 54: Undefined variable 'race' before i], 12);
+/cmds/mortal/_newhelp.c line 67: Undefined variable 'i' before sizeof(get_dir(path)
+/cmds/mortal/_newhelp.c line 67: Illegal lvalue before sizeof(get_dir(path)
+/cmds/mortal/_newhelp.c line 185: Undefined variable 'i' before sizeof(l=get_dir(d+"
+/cmds/mortal/_newhelp.c line 185: Illegal lvalue before sizeof(l=get_dir(d+"
+/cmds/mortal/_newhelp.c line 54: Undefined variable 'race' before i], 12);
+/cmds/skills/_hack.c line 192: Undefined variable 'DAMAGE_NO_HP' before  tp);
+/cmds/skills/_shoot.c line 123: Undefined variable 'dmg' before  rank, "sp");
+/cmds/skills/_charge.c line 177: Undefined variable 'DAMAGE_PHYSICAL' before the end of line
+/cmds/skills/_charge.c line 294: Undefined variable 'DAMAGE_PIERCE' before the end of line
+/cmds/skills/_charge.c line 297: Undefined variable 'DAMAGE_SLASH' before the end of line
+/cmds/skills/_charge.c line 300: Undefined variable 'DAMAGE_IMPACT' before the end of line
+/cmds/skills/_rush.c line 217: Undefined variable 'DAMAGE_PHYSICAL' before the end of line
+/cmds/skills/_resurrect.c line 74: Undefined function query_ready before ) return 0;
+/cmds/skills/_torment.c line 52: Undefined variable 'tgt' before do_damage(0, dmg, DA
+/cmds/skills/_darkmist.c line 56: parse error before ->add_skill_points("
+/cmds/skills/_dakjal.c line 96: Undefined variable 'rank' before  "sp") * 150 / 100;
+/cmds/skills/_strike.c line 144: Undefined variable 'DAMAGE_PHYSICAL' before  (wep->query_damage_
+/cmds/skills/_seize.c line 224: Left argument of -> is not a class before , 0 | (wep->query_da
+/cmds/skills/_seize.c line 224: Left argument of -> is not a class before , tp);
+/cmds/skills/_bite.c line 68: Undefined variable 'tp' before ;
+/cmds/skills/_lore.c line 66: Undefined variable 'tp' before  ob));
+/cmds/skills/_pocketgag.c line 109: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_PIERCE, DAMA
+/cmds/skills/_pocketgag.c line 109: Undefined variable 'DAMAGE_PIERCE' before  DAMAGE_NONLETHAL | 
+/cmds/skills/_pocketgag.c line 109: Undefined variable 'DAMAGE_NONLETHAL' before  DAMAGE_HP_ONLY, ob)
+/cmds/skills/_pocketgag.c line 109: Undefined variable 'DAMAGE_HP_ONLY' before  ob);
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_IMPACT, DAMA
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_IMPACT' before  DAMAGE_NO_SEVER, tp
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_NO_SEVER' before  tp);
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_IMPACT, DAMA
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_IMPACT' before  DAMAGE_NO_SEVER, tp
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_NO_SEVER' before  tp);
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_IMPACT, DAMA
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_IMPACT' before  DAMAGE_NO_SEVER, tp
+/cmds/skills/_hurl.c line 202: Undefined variable 'DAMAGE_NO_SEVER' before  tp);
+/cmds/skills/obj/pocket/kazoo.c line 18: Illegal to inherit after defining global variables. before the end of line
+/cmds/skills/_scry.c line 48: Undefined function FAIL before ;
+/cmds/skills/_scry.c line 77: Undefined variable 'tp' before ;
+/cmds/skills/_scry.c line 91: Undefined variable 'cost' before  35 + random(10) + r
+/cmds/skills/_scry.c line 91: Illegal lvalue before  35 + random(10) + r
+/cmds/skills/_scry.c line 98: Undefined variable 'mymsg' before  "You see only mist 
+/cmds/skills/_scry.c line 98: Illegal lvalue before  "You see only mist 
+/cmds/skills/_scry.c line 95: Undefined variable 'cost' before  35 + random(10) + r
+/cmds/skills/_scry.c line 95: Illegal lvalue before  35 + random(10) + r
+/cmds/skills/_scry.c line 102: Undefined variable 'mymsg' before  "You see only mist 
+/cmds/skills/_scry.c line 102: Illegal lvalue before  "You see only mist 
+/cmds/skills/_guard.c line 86: Undefined variable 'end_guard' before );
+/cmds/skills/_guard.c line 86: parse error before );
+/cmds/skills/_guard.c line 90: Illegal LHS before the end of line
+/cmds/skills/_guard.c line 119: Undefined variable 'def' before ;
+/cmds/skills/_guard.c line 119: Undefined variable 'def' before ;
+/cmds/skills/_guard.c line 119: Undefined variable 'def' before ;
+/cmds/creator/_pupdate.c line 87: == always false because of incompatible types ( string vs object ). before the end of line
+/cmds/creator/_pupdate.c line 89: Undefined variable 'CONFIG_DIR' before "/admin",
+/cmds/creator/_pupdate.c line 90: Undefined function tell_group before ;
+/cmds/creator/_realms.c line 14: Undefined function author_stats before ));
+/cmds/creator/_domains.c line 20: Undefined function domain_stats before ));
+/cmds/skills/_burn.c line 89: Undefined variable 'tgt' before do_damage("random", 
+/cmds/skills/_burn.c line 89: Undefined variable 'DAMAGE_MAGIC' before  DAMAGE_FIRE, DAMAGE
+/cmds/skills/_burn.c line 89: Undefined variable 'DAMAGE_FIRE' before  DAMAGE_NO_SEVER, tp
+/cmds/skills/_burn.c line 89: Undefined variable 'DAMAGE_NO_SEVER' before  tp);
+/cmds/skills/obj/pocket/pie.c line 17: Illegal to inherit after defining global variables. before the end of line
+/cmds/skills/_flip.c line 144: parse error before ;
+/cmds/skills/_whack.c line 192: parse error before ;
+/cmds/skills/_whack.c line 196: Illegal LHS before the end of line
+/cmds/skills/_whack.c line 203: parse error before the end of line
+/cmds/skills/_juggle.c line 240: Undefined variable 'wep' before query_damage_flags()
+/cmds/skills/_barrage.c line 139: Undefined variable 'dmg' before  rank, "sp") * 95 / 
+/cmds/skills/_hew.c line 141: parse error before the end of line
+/cmds/skills/_hew.c line 149: Reserved type name unexpected. before () {
+/cmds/skills/_hew.c line 149: parse error before () {
+/cmds/skills/_fang.c line 91: Undefined variable 'cost' before  BALANCE3_D->get_cos
+/cmds/skills/_fang.c line 91: Illegal lvalue before  BALANCE3_D->get_cos
+/cmds/skills/_axekick.c line 147: Left argument of -> is not a class before  tp);
+/cmds/skills/_eagleblitz.c line 98: Undefined variable 'dmg' before  2, "mp"));
+/cmds/skills/_tailwhip.c line 68: Undefined variable 'DAMAGE_SLASH' before the end of line
+/cmds/skills/_chainlightning.c line 81: Undefined variable 'DAMAGE_ELECTRICITY' before  DAMAGE_NO_SEVER, th
+/cmds/skills/obj/pocket/hugefirework.c line 48: parse error before )->move(player);
+/cmds/skills/obj/pocket/hugefirework.c line 48: parse error before )->move(player);
+/cmds/creator/_identity.c line 88: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 89: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 91: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 94: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 100: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 103: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 88: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 89: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 91: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 94: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 100: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 103: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 88: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 89: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 91: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 94: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 100: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 103: Bad assignment ( mixed * vs string ). before the end of line
+/cmds/creator/_identity.c line 117: Undefined variable 'tmp' before  IDENTITY_D->query_c
+/cmds/creator/_identity.c line 117: Illegal lvalue before  IDENTITY_D->query_c
+/cmds/creator/_identity.c line 250: Bad assignment ( string vs int ). before the end of line
+/cmds/creator/_identity.c line 256: Bad assignment ( string vs int ). before the end of line
+/cmds/skills/_pick.c line 76: Newline in string before     }
+/cmds/skills/_pick.c line 76: Undefined variable 'FAIL' before     }
+/cmds/skills/_pick.c line 76: parse error before     }
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/skills/_darkshift.c line 9: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_score.c line 4: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_cost.c line 10: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_cost.c line 10: Illegal to inherit after defining functions. before the end of line
+/cmds/skills/_darkshift.c line 9: Illegal to inherit after defining functions. before the end of line
+/cmds/skills/_darkshift.c line 9: Illegal to inherit after defining functions. before the end of line
+/cmds/mortal/_remort.c line 60: Bad right argument to '|' : "mapping " before the end of line
+/cmds/mortal/_remort.c line 60: Bad assignment ( mapping vs int ). before the end of line
+/cmds/mortal/_remort.c line 94: Undefined function cmd_remort_list before ;
+/cmds/mortal/_remort.c line 98: Undefined function cmd_remort_show before ;
+/cmds/mortal/_remort.c line 103: Undefined function cmd_remort_into before ;
+/cmds/mortal/_remort.c line 139: Undefined function format_time before  + " to wait.");

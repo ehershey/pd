@@ -1,0 +1,317 @@
+[Oct 14-06 3:5:0]Whit %^MAGENTA%^<staff>%^RESET%^ lsdf
+[Oct 26-06 1:37:57]A shadow %^MAGENTA%^<staff>%^RESET%^ test
+[Oct 26-06 2:5:41]A shadow %^MAGENTA%^<staff>%^RESET%^ test
+[Oct 26-06 2:8:59]A shadow %^MAGENTA%^<staff>%^RESET%^ tex
+[Oct 26-06 2:10:27]A shadow %^MAGENTA%^<staff>%^RESET%^ sadflkasdf
+[Oct 26-06 2:11:7]A shadow %^MAGENTA%^<staff>%^RESET%^ test2
+[Oct 26-06 2:12:25]A shadow %^MAGENTA%^<staff>%^RESET%^ test1
+[Oct 26-06 2:14:7]A shadow %^MAGENTA%^<staff>%^RESET%^ test
+[Oct 26-06 2:14:25]A shadow %^MAGENTA%^<staff>%^RESET%^ sdfl
+[Oct 26-06 2:14:51]A shadow %^MAGENTA%^<staff>%^RESET%^ test1
+[Oct 26-06 12:17:24]Stormbringer %^CYAN%^<staff>%^RESET%^ lookit!
+[Oct 26-06 12:17:40]%^CYAN%^<staff>%^RESET%^ Nulvect explodes.
+[Oct 26-06 12:17:48]Stormbringer %^CYAN%^<staff>%^RESET%^ staff only line :)
+[Oct 26-06 12:18:10]Stormbringer %^CYAN%^<staff>%^RESET%^ yeah, gimme a few, I will come over Ironman
+[Oct 26-06 12:18:12]Stormbringer %^CYAN%^<staff>%^RESET%^ nope
+[Oct 26-06 12:18:18]Stormbringer %^CYAN%^<staff>%^RESET%^ staff only
+[Oct 26-06 12:18:40]Stormbringer %^CYAN%^<staff>%^RESET%^ meaning admins there and imms admins here
+[Oct 26-06 14:17:29]Stormbringer %^CYAN%^<staff>%^RESET%^ Ironman, I will be over in a sec
+[Oct 27-06 19:52:37]Nulvect %^CYAN%^<staff>%^RESET%^ no, that was on a different line, to amun
+[Oct 27-06 19:52:55]Nulvect %^CYAN%^<staff>%^RESET%^ but for you, builder's stuff does not need to be on the tirun board
+[Oct 27-06 20:7:7]Nulvect %^CYAN%^<staff>%^RESET%^ I'm thinking about porting some area building code from a different mudlib for use on pd and builder's
+[Oct 27-06 20:7:39]Nulvect %^CYAN%^<staff>%^RESET%^ I think it would make it easier for non-technical people to build
+[Oct 27-06 20:9:37]Nulvect %^CYAN%^<staff>%^RESET%^ I'll see what people think of the idea before I put any time into it though
+[Oct 27-06 20:13:29]Nulvect %^CYAN%^<staff>%^RESET%^ that stuff is not used all that often
+[Oct 27-06 20:15:5]Nulvect %^CYAN%^<staff>%^RESET%^ any of that is easy to add later though
+[Oct 27-06 20:17:23]Nulvect %^CYAN%^<staff>%^RESET%^ not necessarily
+[Oct 27-06 20:17:35]Nulvect %^CYAN%^<staff>%^RESET%^ it doesn't need puzzle and quest elements to be a good area
+[Oct 27-06 20:17:55]Nulvect %^CYAN%^<staff>%^RESET%^ some areas exist just to be a sort of.. immersive story
+[Oct 27-06 20:19:27]Nulvect %^CYAN%^<staff>%^RESET%^ that is true
+[Oct 27-06 20:19:41]Nulvect %^CYAN%^<staff>%^RESET%^ but most of that is easily added on after you make the area
+[Oct 27-06 20:19:59]Nulvect %^CYAN%^<staff>%^RESET%^ most quest stuff is just.. performing a certain action or giving an item to someone
+[Oct 27-06 20:21:33]Nulvect %^CYAN%^<staff>%^RESET%^ almost any "quest" boils down to, codewise, a series of simple functions
+[Oct 27-06 20:25:17]Nulvect %^CYAN%^<staff>%^RESET%^ your quests use add_action and catch_tell just like any other
+[Oct 27-06 20:28:12]Nulvect %^MAGENTA%^<staff>%^RESET%^ not trying to knock your work, it's just that almost everything you need for a quest is done in one of those two functions...
+[Oct 27-06 21:30:43]Luna %^MAGENTA%^<staff>%^RESET%^ yep
+[Oct 27-06 21:30:47]Nulvect %^MAGENTA%^<staff>%^RESET%^ yeah.. though you're not actually supposed to have it
+[Oct 27-06 21:31:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ shrug
+[Oct 27-06 21:31:43]Nulvect %^MAGENTA%^<staff>%^RESET%^ anyway, what are you trying to do
+[Oct 27-06 21:32:25]Nulvect %^MAGENTA%^<staff>%^RESET%^ never seen the lightning part
+[Oct 27-06 21:32:57]Nulvect %^MAGENTA%^<staff>%^RESET%^ it's in the sign
+[Oct 27-06 21:33:39]Nulvect %^MAGENTA%^<staff>%^RESET%^ I can tell you how it works
+[Oct 27-06 21:34:23]Nulvect %^MAGENTA%^<staff>%^RESET%^ you know how to use add_action()??
+[Oct 27-06 21:34:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ how about call_out()??
+[Oct 27-06 21:35:7]Nulvect %^MAGENTA%^<staff>%^RESET%^ call_out is just a delay
+[Oct 27-06 21:35:39]Nulvect %^MAGENTA%^<staff>%^RESET%^ call_out("function_name", 25); will run function_name() in 25 seconds
+[Oct 27-06 21:36:17]Nulvect %^MAGENTA%^<staff>%^RESET%^ it just uses those in conjunction
+[Oct 27-06 21:37:17]Nulvect %^MAGENTA%^<staff>%^RESET%^ nah, you have to make another function for it to call
+[Oct 27-06 21:37:25]Nulvect %^MAGENTA%^<staff>%^RESET%^ I'll make an example
+[Oct 27-06 21:43:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ check /tmp/example_sign.c
+[Oct 27-06 21:46:21]Nulvect %^MAGENTA%^<staff>%^RESET%^ k
+[Oct 27-06 21:48:19]Nulvect %^MAGENTA%^<staff>%^RESET%^ since those are separate actions you should just make separate functions and do it with two add_action calls
+[Oct 27-06 21:48:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ ah
+[Oct 27-06 21:48:45]Nulvect %^MAGENTA%^<staff>%^RESET%^ that is possible too
+[Oct 27-06 21:49:59]Nulvect %^MAGENTA%^<staff>%^RESET%^ you should code a separate function to actually do things, and call it from the functions set up by add_action
+[Oct 27-06 21:51:27]Nulvect %^MAGENTA%^<staff>%^RESET%^ you make a function
+[Oct 27-06 21:51:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ say, do_lightning
+[Oct 27-06 21:52:41]Nulvect %^MAGENTA%^<staff>%^RESET%^ void do_lightning(object who) { send a message; who->damage(50); }
+[Oct 27-06 21:53:3]Nulvect %^MAGENTA%^<staff>%^RESET%^ a function is a set of stuff to do that has a name
+[Oct 27-06 21:53:7]Nulvect %^MAGENTA%^<staff>%^RESET%^ create() is a function
+[Oct 27-06 21:53:47]Nulvect %^MAGENTA%^<staff>%^RESET%^ yep.. nearly always
+[Oct 27-06 21:54:3]Nulvect %^MAGENTA%^<staff>%^RESET%^ if you have a create() and a reset() and an init() then you have three functions
+[Oct 27-06 21:54:21]Nulvect %^MAGENTA%^<staff>%^RESET%^ everything you do in a room like set_long() or set_short() is a function you are calling
+[Oct 27-06 21:54:31]Nulvect %^MAGENTA%^<staff>%^RESET%^ to call a function means to run the code inside it
+[Oct 27-06 21:55:13]Nulvect %^MAGENTA%^<staff>%^RESET%^ yep
+[Oct 27-06 21:55:45]Nulvect %^MAGENTA%^<staff>%^RESET%^ init() is another func.. it would probably be a void though
+[Oct 27-06 21:56:17]Nulvect %^MAGENTA%^<staff>%^RESET%^ you need it to take an object so you know who to zap
+[Oct 27-06 21:56:25]Nulvect %^MAGENTA%^<staff>%^RESET%^ void lightning_strike(object who) {
+[Oct 27-06 21:58:23]Nulvect %^MAGENTA%^<staff>%^RESET%^ not sure, can't hurt to have it
+[Oct 27-06 21:58:35]Nulvect %^MAGENTA%^<staff>%^RESET%^ well, if it's a room, just send it to this_object()
+[Oct 27-06 21:58:41]Nulvect %^MAGENTA%^<staff>%^RESET%^ rooms have no environment
+[Oct 27-06 22:1:3]Nulvect %^MAGENTA%^<staff>%^RESET%^ don't use environment(this_object()) if this is going in the room.. just use this_object()
+[Oct 27-06 22:1:13]Nulvect %^MAGENTA%^<staff>%^RESET%^ and use who instead of this_player()
+[Oct 27-06 22:3:43]Nulvect %^MAGENTA%^<staff>%^RESET%^ just who, not who()
+[Oct 27-06 22:5:55]Nulvect %^MAGENTA%^<staff>%^RESET%^ who->add_hp(-random(number));
+[Oct 27-06 22:8:13]Nulvect %^MAGENTA%^<staff>%^RESET%^ because who is a variable, () is for function calls
+[Oct 30-06 0:44:9]Stormbringer %^MAGENTA%^<staff>%^RESET%^ anyone alive?
+[Oct 30-06 0:44:33]Stormbringer %^MAGENTA%^<staff>%^RESET%^ I need opinions!
+[Oct 30-06 0:44:39]%^MAGENTA%^<staff>%^RESET%^ Stormbringer grumbles
+[Oct 30-06 0:45:7]Stormbringer %^MAGENTA%^<staff>%^RESET%^ http://www.primaldarkness.com/inbex.php
+[Oct 30-06 0:50:15]Daos %^MAGENTA%^<staff>%^RESET%^ evening stormy
+[Oct 30-06 0:50:29]Stormbringer %^MAGENTA%^<staff>%^RESET%^ hola
+[Oct 30-06 0:50:35]Daos %^MAGENTA%^<staff>%^RESET%^ just got home
+[Oct 30-06 0:50:53]Stormbringer %^MAGENTA%^<staff>%^RESET%^ :)
+[Oct 30-06 0:56:37]Daos %^MAGENTA%^<staff>%^RESET%^ nice feel and look stormy
+[Oct 30-06 1:2:3]Daos %^MAGENTA%^<staff>%^RESET%^ are you going to keep the advertisement?
+[Oct 30-06 1:2:37]Stormbringer %^MAGENTA%^<staff>%^RESET%^ yeap
+[Oct 30-06 1:2:49]Daos %^MAGENTA%^<staff>%^RESET%^ ok, also there is a warning on the pd banners page
+[Oct 30-06 1:2:51]Stormbringer %^MAGENTA%^<staff>%^RESET%^ gotta try to supliment the server costs
+[Oct 30-06 23:18:0]Stormbringer %^MAGENTA%^<staff>%^RESET%^ anyone alive?
+[Oct 31-06 19:1:22]Nulvect %^CYAN%^<staff>%^RESET%^ hi
+[Oct 31-06 19:2:18]Nulvect %^CYAN%^<staff>%^RESET%^ check the drop command, I believe it checks if (ob->drop()) { can't drop; }
+[Oct 31-06 19:6:32]Nulvect %^CYAN%^<staff>%^RESET%^ uh what??
+[Oct 31-06 19:20:12]Nulvect %^CYAN%^<staff>%^RESET%^ can't think of any
+[Oct 31-06 20:20:15]A shadow %^MAGENTA%^<staff>%^RESET%^ whatcha want ironman?
+[Oct 31-06 20:32:21]A shadow %^MAGENTA%^<staff>%^RESET%^ night ironman
+[Nov 1-06 19:27:3]Stormbringer %^CYAN%^<staff>%^RESET%^ of course I mind!
+[Nov 1-06 19:27:11]Stormbringer %^CYAN%^<staff>%^RESET%^ ;) brt
+[Nov 4-06 0:19:17]Nulvect %^MAGENTA%^<staff>%^RESET%^ blah more rooms to write
+[Nov 4-06 0:22:3]Nulvect %^MAGENTA%^<staff>%^RESET%^ least I just have the town left.. and some river and lake
+[Nov 4-06 0:22:27]Nulvect %^MAGENTA%^<staff>%^RESET%^ nah
+[Nov 4-06 0:23:19]Nulvect %^MAGENTA%^<staff>%^RESET%^ ideas are all done, it just needs to be done
+[Nov 4-06 17:27:23]Nulvect %^CYAN%^<staff>%^RESET%^ hey
+[Nov 4-06 17:39:15]Nulvect %^CYAN%^<staff>%^RESET%^ mmm, doors
+[Nov 4-06 17:39:19]Nulvect %^CYAN%^<staff>%^RESET%^ so hackalicious
+[Nov 4-06 17:40:15]Nulvect %^CYAN%^<staff>%^RESET%^ no, I mean pd's doors
+[Nov 4-06 17:42:23]Nulvect %^CYAN%^<staff>%^RESET%^ probably should.. waxes and seals too
+[Nov 4-06 17:43:5]Nulvect %^CYAN%^<staff>%^RESET%^ soonish
+[Nov 4-06 17:43:17]Nulvect %^CYAN%^<staff>%^RESET%^ have to be more careful here, if I crash the game people get angry :P
+[Nov 4-06 17:46:49]Nulvect %^CYAN%^<staff>%^RESET%^ I don't know
+[Nov 4-06 17:47:33]Nulvect %^CYAN%^<staff>%^RESET%^ by default they have 20 but it may be configurable
+[Nov 4-06 17:49:8]Nulvect %^CYAN%^<staff>%^RESET%^ heh, I agree they should.. plus oil/ointment should have some setting for how much they heal.. maybe stones too
+[Nov 4-06 17:49:24]Nulvect %^CYAN%^<staff>%^RESET%^ probably just add a setting for number of uses though, for now
+[Nov 4-06 17:51:32]Nulvect %^CYAN%^<staff>%^RESET%^ I'd have to run the healing amount settings past stormy
+[Nov 4-06 17:51:54]Nulvect %^CYAN%^<staff>%^RESET%^ really though, I'm bringing sp and mp costs down for the most part
+[Nov 4-06 17:52:12]Nulvect %^CYAN%^<staff>%^RESET%^ so.. hmm.. I forget what I was going to say to make that relevant
+[Nov 4-06 17:52:26]Nulvect %^CYAN%^<staff>%^RESET%^ what caps??
+[Nov 4-06 17:52:58]Nulvect %^CYAN%^<staff>%^RESET%^ oh
+[Nov 4-06 17:54:6]Nulvect %^CYAN%^<staff>%^RESET%^ shrug
+[Nov 4-06 17:54:28]Nulvect %^CYAN%^<staff>%^RESET%^ people don't like instakilling mobs
+[Nov 4-06 17:54:50]Nulvect %^CYAN%^<staff>%^RESET%^ they will just never fight them
+[Nov 4-06 17:55:16]Nulvect %^CYAN%^<staff>%^RESET%^ they won't bother
+[Nov 4-06 17:56:4]Nulvect %^CYAN%^<staff>%^RESET%^ on mer, there were a few super-powerful spells that took a few rounds to hit for players, but when mobs cast them they hit instantly and would kill you about 99% of the time
+[Nov 4-06 17:56:14]Nulvect %^CYAN%^<staff>%^RESET%^ any mob that cast those spells, people just didn't go near
+[Nov 4-06 17:56:52]Nulvect %^CYAN%^<staff>%^RESET%^ your sharks give a warning a round before they use the instadeath ability??
+[Nov 4-06 17:57:16]Nulvect %^CYAN%^<staff>%^RESET%^ ahhh, ok, that's fine then
+[Nov 4-06 17:57:38]Nulvect %^CYAN%^<staff>%^RESET%^ nod... long as there's a warning...
+[Nov 4-06 17:58:46]%^CYAN%^<staff>%^RESET%^ Nulvect nods
+[Nov 4-06 17:59:8]Nulvect %^CYAN%^<staff>%^RESET%^ there were mobs that used spells that would give a warning before they instakilled you, and those were fine
+[Nov 4-06 18:4:38]Nulvect %^CYAN%^<staff>%^RESET%^ death isn't really that bad here
+[Nov 4-06 18:4:52]Nulvect %^CYAN%^<staff>%^RESET%^ he appears to be several hours idle
+[Nov 4-06 18:5:8]Nulvect %^CYAN%^<staff>%^RESET%^ is it something I could answer??
+[Nov 4-06 18:5:20]Nulvect %^CYAN%^<staff>%^RESET%^ k
+[Nov 4-06 18:18:18]Daos %^MAGENTA%^<staff>%^RESET%^ on my way
+[Nov 4-06 20:6:15]Nulvect %^CYAN%^<staff>%^RESET%^ sort of
+[Nov 4-06 20:12:3]Nulvect %^CYAN%^<staff>%^RESET%^ wonderful
+[Nov 4-06 20:14:39]Nulvect %^CYAN%^<staff>%^RESET%^ yep
+[Nov 5-06 12:58:20]A shadow %^MAGENTA%^<staff>%^RESET%^ ironman you bugged my char
+[Nov 5-06 13:0:12]A shadow %^MAGENTA%^<staff>%^RESET%^ I'm still bugged
+[Nov 5-06 18:55:11]Daos %^MAGENTA%^<staff>%^RESET%^ not on for long, have to go into town to return a movie
+[Nov 7-06 12:21:21]Stormbringer %^MAGENTA%^<staff>%^RESET%^ nod
+[Nov 9-06 11:59:38]Nulvect %^CYAN%^<staff>%^RESET%^ k
+[Nov 12-06 15:14:37]Nulvect %^CYAN%^<staff>%^RESET%^ hmm
+[Nov 12-06 15:22:41]Nulvect %^CYAN%^<staff>%^RESET%^ it's a command that tells you about an object you are already in contact with, it doesn't need a security system
+[Nov 12-06 15:23:19]Nulvect %^CYAN%^<staff>%^RESET%^ if they want them private they shouldn't give them to other people in the first place
+[Nov 12-06 15:24:27]Nulvect %^CYAN%^<staff>%^RESET%^ if you know the exact filename
+[Nov 12-06 15:27:8]Nulvect %^CYAN%^<staff>%^RESET%^ so they can see that the room has a heart_beat or something.. big deal
+[Nov 12-06 15:27:46]Nulvect %^CYAN%^<staff>%^RESET%^ summary doesn't do anything that can't be accomplished with a few call here;query_exits type commands
+[Nov 12-06 15:29:2]Nulvect %^CYAN%^<staff>%^RESET%^ sure thing
+[Nov 12-06 15:29:12]Nulvect %^CYAN%^<staff>%^RESET%^ I'm going to do some actual work now
+[Feb 2-07 20:31:3]Nulvect %^CYAN%^<staff>%^RESET%^ hasta
+[Feb 2-07 20:31:9]Nulvect %^CYAN%^<staff>%^RESET%^ nod
+[Feb 2-07 20:31:57]Nulvect %^CYAN%^<staff>%^RESET%^ I will be leaving tomorrow morning and probably gone until friday night
+[Feb 2-07 20:32:49]Nulvect %^CYAN%^<staff>%^RESET%^ nod
+[Feb 2-07 20:33:19]Nulvect %^CYAN%^<staff>%^RESET%^ may I make minor grammatical changes myself, such as capitalizations and apostrophes??
+[Feb 2-07 20:33:51]Nulvect %^CYAN%^<staff>%^RESET%^ since it would take longer to write them down than to just fix them
+[Feb 2-07 20:34:25]Nulvect %^CYAN%^<staff>%^RESET%^ k
+[Feb 2-07 20:36:21]Nulvect %^CYAN%^<staff>%^RESET%^ well, not the way I would have coded it, but if it works...
+[Feb 2-07 20:37:54]Nulvect %^CYAN%^<staff>%^RESET%^ there's file_name(obj) of course.. I made a base_name(obj) for here too.. that just strips the #3435 thing off the end of file_name()
+[Feb 2-07 20:38:32]Nulvect %^CYAN%^<staff>%^RESET%^ well, I think I would do it more like how unix permissions are
+[Feb 2-07 20:39:40]Nulvect %^CYAN%^<staff>%^RESET%^ heh
+[Feb 2-07 20:42:16]%^CYAN%^<staff>%^RESET%^ Nulvect nods
+[Feb 8-07 19:22:21]Daboura %^MAGENTA%^<staff>%^RESET%^ interesting line
+[Feb 8-07 19:52:55]Whit %^MAGENTA%^<staff>%^RESET%^ Hey Ironman, Orcha wanted you
+[Feb 10-07 13:10:49]Nulvect %^CYAN%^<staff>%^RESET%^ heh, I'm considering changing part of the mail system myself :P
+[Jun 30-07 10:41:39]Daboura <staff> bah, you can just talk to me on this line :P
+[Jun 30-07 10:42:15]Daboura <staff> sweet
+[Jun 30-07 10:42:49]Daboura <staff> LOL, I would have no idea how to do that
+[Jun 30-07 10:43:39]Daboura <staff> nod nod
+[Jun 30-07 10:44:29]Daboura <staff> I don't remember :P
+[Jun 30-07 10:44:37]Daboura <staff> you didn't keep the mail?
+[Jun 30-07 10:44:53]Daboura <staff> I brought it over already
+[Jun 30-07 10:45:17]Daboura <staff> no
+[Jun 30-07 10:45:25]Daboura <staff> daos and nul are doing one last review
+[Jun 30-07 10:45:27]Daboura <staff> just in case
+[Jun 30-07 10:45:33]Daboura <staff> and then I connect on friday
+[Jun 30-07 10:45:57]Daboura <staff> oh yah
+[Jun 30-07 11:19:6]Daboura <staff> nof nof
+[Jun 30-07 11:19:10]Daboura <staff> er, yah
+[Jun 30-07 11:20:20]Daboura <staff> already discussed that with nul
+[Jun 30-07 11:20:56]Daboura <staff> I had to agree with nul, they are not sentient enough.
+[Jun 30-07 11:21:10]Daboura <staff> I think lich would be a good replacement for them
+[Jun 30-07 11:27:24]Daboura <staff> ?
+[Jun 30-07 11:27:46]Daboura <staff> make the argument to Nul, he does balance
+[Jun 30-07 11:28:20]Daboura <staff> will do
+[Jun 30-07 11:29:30]Daboura <staff> aye
+[Jun 30-07 11:34:58]Daboura <staff> with?
+[Jun 30-07 11:35:26]Daboura <staff> none that I know of
+[Jul 1-07 14:46:27]Daboura <staff> yar
+[Jul 1-07 14:46:53]Daboura <staff> no actually, about to head out for lunch
+[Jul 1-07 14:47:1]Daboura <staff> got something quick?
+[Jul 1-07 14:47:39]Daboura <staff> ok
+[Jul 1-07 14:47:55]Daboura <staff> keep in mind I'm trying to finish my combat system, so I wont have a lot of time
+[Jul 4-07 11:43:29]Daboura <staff> nope :P
+[Jul 4-07 11:43:53]Daboura <staff> no time
+[Jul 4-07 11:43:59]Daboura <staff> just on to check mail and stuff
+[Jul 4-07 11:44:11]Daboura <staff> saw it
+[Jul 4-07 11:44:25]Daboura <staff> I'll be setting up interviews for al the applicants soon
+[Jul 8-07 15:50:6]Daboura <staff> anything important? :P
+[Jul 8-07 15:50:38]Daboura <staff> your never 2 sec :P
+[Jul 8-07 15:51:0]Daboura <staff> thart's all daos
+[Jul 8-07 15:51:28]Daboura <staff> is the game even in yet on the first leve?
+[Jul 8-07 15:51:48]Daboura <staff> than I am not worried about it
+[Jul 8-07 15:52:28]Daboura <staff> this is a secure line
+[Jul 8-07 15:53:0]Daboura <staff> what is it set to?
+[Jul 8-07 15:53:2]Daboura <staff> right now
+[Jul 8-07 15:53:10]Daboura <staff> is that good or bad? :P
+[Jul 8-07 15:53:54]Daboura <staff> which file
+[Jul 8-07 15:54:26]Daboura <staff> is the number a percant?
+[Jul 8-07 15:56:16]Daboura <staff> it is at 50
+[Jul 8-07 15:56:20]Daboura <staff> er 20
+[Jul 8-07 15:56:30]Daboura <staff> so each room with a black calm can have 20 digs?
+[Jul 8-07 15:59:24]Daboura <staff> no
+[Jul 8-07 15:59:44]Daboura <staff> I'm sure it is fine for the 1st level
+[Jul 8-07 16:0:30]Daboura <staff> not right now
+[Jul 11-07 9:20:41]Daboura <staff> iron, you know I don't care about details, right? :P
+[Jul 11-07 9:21:5]Daboura <staff> I just want to know that it works :P
+[Jul 11-07 9:22:27]Daboura <staff> again, if it works I'm cool with it. All I want is a generalization
+[Jul 11-07 9:23:59]Daboura <staff> it's not a problem
+[Jul 11-07 9:25:13]Daboura <staff> I
+[Jul 11-07 9:25:15]Daboura <staff> er
+[Jul 11-07 9:25:23]Daboura <staff> I'll post about it
+[Jul 11-07 10:32:57]Daboura <staff> I did carina's already, was going to do yours today if I found time
+[Jul 11-07 11:9:35]Daboura <staff> nod nod
+[Jul 11-07 11:9:53]Daboura <staff> pshh
+[Jul 11-07 11:9:55]Daboura <staff> lazy
+[Jul 11-07 11:10:29]Daboura <staff> ah, never mind than :P
+[Jul 11-07 11:12:29]Daboura <staff> whats that?
+[Jul 11-07 11:13:9]Daboura <staff> interesting
+[Jul 11-07 11:13:49]Daboura <staff> aye
+[Jul 11-07 11:14:1]Daboura <staff> indeed
+[Jul 11-07 11:14:13]Daboura <staff> I've changed set_long before
+[Jul 11-07 11:14:19]Daboura <staff> while the room is running
+[Jul 11-07 11:15:43]Daboura <staff> elaborate
+[Jul 11-07 11:16:37]Daboura <staff> intresting
+[Jul 11-07 11:17:19]Daboura <staff> aye
+[Jul 11-07 11:18:3]Daboura <staff> seems interesting, write up a praposal with examples of its uses and features
+[Jul 11-07 11:18:41]Daboura <staff> sure
+[Jul 11-07 11:19:7]Daboura <staff> heh
+[Jul 11-07 11:20:25]Daboura <staff> just use somethign different than the current smell and sound var
+[Jul 22-07 15:4:3]Nulvect <staff> hmm??
+[Jul 22-07 16:56:27]Nulvect <staff> that... is an IP
+[Jul 22-07 16:56:43]Nulvect <staff> you mean hostname.. probably use nslookup.. I think windows has that
+[Jul 22-07 16:57:29]Nulvect <staff> same over here, couldn't find any players from that IP though
+[Jul 22-07 16:57:35]Nulvect <staff> wouldn't worry about it
+[Jul 23-07 13:43:57]Nulvect <staff> sort of
+[Jul 23-07 13:44:1]Nulvect <staff> what do you need??
+[Jul 23-07 13:45:3]Nulvect <staff> heh
+[Jul 23-07 13:45:55]Nulvect <staff> moot point
+[Jul 23-07 13:50:19]Nulvect <staff> I doubt that's the problem
+[Jul 23-07 14:22:26]Nulvect <staff> just have them turn it off
+[Jul 23-07 14:23:48]Nulvect <staff> it's in /daemon/chat.c, but keep in mind I've rewritten that stuff over here
+[Jul 23-07 14:26:36]Nulvect <staff> CHAT_D->remove_user(CHAT_D->query_channels(playerob), playerob)
+[Jul 23-07 14:26:52]Nulvect <staff> would remove all their channels at once
+[Jul 23-07 14:27:10]Nulvect <staff> though I see no reason to do that
+[Jul 23-07 14:27:58]Nulvect <staff> it's the same call
+[Jul 23-07 14:28:12]Nulvect <staff> CHAT_D->remove_user( ({"newbie"}), playerob);
+[Jul 23-07 14:28:42]Nulvect <staff> if someone needs to be shut up we gag them
+[Aug 1-07 10:44:26]A shadow <staff> yeah I am in and out but here
+[Aug 1-07 10:50:22]A shadow <staff> yeah I got your mail maybe today sometime, will let you know
+[Aug 1-07 10:55:38]A shadow <staff> np
+[Aug 1-07 11:17:18]A shadow <staff> ko
+[Aug 4-07 14:20:1]Stormbringer <staff> yeah something on Whit netwrok systemn I think
+[Aug 10-07 2:19:49]Nulvect <staff> ed hurts
+[Aug 10-07 17:23:25]Daboura <staff> can you make it fast>
+[Aug 10-07 17:23:29]Daboura <staff> ?
+[Aug 10-07 17:23:57]Nulvect <staff> by the way, don't worry about dubbya, I checked and none of his IPs from the last several months showed up on builders
+[Oct 6-07 16:46:58]A shadow <staff> meeting
+[Oct 19-07 15:12:28]Nulvect <staff> good good
+[Oct 25-07 20:25:8]Stormbringer <staff> test
+[Oct 25-07 20:25:30]Stormbringer <staff> etsts
+[Dec 3-07 19:18:33]A shadow <staff> kinda
+[Dec 3-07 19:18:41]A shadow <staff> working atm
+[Apr 27-08 18:3:30]Nulvect <staff> yes
+[Apr 27-08 18:5:2]Nulvect <staff> cool cool
+[Apr 27-08 18:5:6]Nulvect <staff> let me know when
+[Apr 27-08 18:6:16]Nulvect <staff> ah good
+[Apr 27-08 18:6:42]Nulvect <staff> I've made use of senses a bit in a couple abilities
+[May 11-08 12:36:36]Amun <staff> kk, I don't want you to be upset that I don't want to give you a yes right now, there are just somethings that are going to happen and things that I have in mind that it doesn't work with
+[May 11-08 12:36:50]Amun <staff> so I'll talk to nul about it
+[May 11-08 12:36:58]Amun <staff> get his input
+[May 11-08 12:37:26]Amun <staff> b/c since it's not his idea he wont be biased about it as well, of course you like it..it's your idea, but he'll talk to me about it without that
+[May 11-08 12:38:10]Amun <staff> trust me, i know you're upset
+[May 11-08 12:38:26]Amun <staff> that's not the only reason you're upset
+[May 11-08 12:38:32]<staff> Amun knows better than that
+[May 11-08 12:39:26]Amun <staff> luckily you have other things, like you said right?
+[May 11-08 12:39:54]Amun <staff> if it's any constilation, you had me up to the end
+[May 11-08 12:41:4]Amun <staff> yet when i inquired about it you pretty much sounded like that was set in stone
+[May 11-08 12:41:14]Amun <staff> but anyway, i'm going to talk to nul about it
+[Jul 20-08 23:32:4]Pyro <staff> :3
+[Jul 20-08 23:32:20]Amun <staff> i knew that one, just forgot about council
+[Jul 23-08 15:8:56]Pyro <staff> heya amun
+[Jul 23-08 15:9:0]Pyro <staff> feeling better?
+[Aug 13-08 14:4:18]" <staff> ;o
+[Aug 13-08 14:4:34]OHMYGOODNESS <staff> ;o
+[Aug 17-08 0:37:32]Pyro <staff> test
+[Aug 22-08 12:14:30]Tirun Park <staff> test
+[Aug 23-08 18:25:33]A shadow <staff> test
+[Aug 23-08 18:25:41]Pyro <staff> test
+[Aug 23-08 18:32:25]Pyro <staff> test
+[Aug 23-08 18:32:31]Pyro <staff> test
+[Aug 23-08 18:32:39]return 0 <staff> test
+[Aug 23-08 19:35:7]Nightstalker <staff> test
+[Aug 25-08 1:39:28]Pyro <staff> n test
+[Aug 25-08 1:39:56]Pyro <staff> 
+ test
+[Aug 25-08 1:40:18]Pyro <staff> that explains why it's filtered out
+[Aug 26-08 0:33:48]%^RED%^Pyro's workroom%^RESET%^ <staff> test
+[Aug 26-08 16:26:7]Pit <staff> test
+[Nov 22-09 3:10:44]Vian <staff> why is there a staff line and a cre line ? :P
+[Nov 22-09 3:10:52]Nulvect <staff> hell if I know
+[Nov 22-09 3:11:2]Nulvect <staff> we -never- use this, it's like gossip
+[Nov 22-09 3:11:2]Vian <staff> hahaha
+[Nov 22-09 3:11:10]Vian <staff> i like it :P
+[Nov 22-09 3:11:12]Daos <staff> we never use this line
+[Nov 22-09 3:11:16]Vian <staff> well i claim it as my own
+[Dec 20-10 19:54:1]Vian <staff> why don't we ever use this line
+[Feb 2-12 8:29:41]Vian <staff> hmm

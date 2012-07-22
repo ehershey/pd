@@ -1,0 +1,6 @@
+/d/helgrath/mobs/vendor_barkeep.c line 26: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/helgrath/mobs/vendor_barkeep.c line 33: Undefined function set_my_mess before ;
+/d/helgrath/mobs/vendor_barkeep.c line 40: Undefined function set_your_mess before ;
+/d/helgrath/mobs/vendor_barkeep.c line 47: Undefined function set_menu_short before ;
+/d/helgrath/mobs/vendor_barkeep.c line 54: Undefined function set_menu_long before ;

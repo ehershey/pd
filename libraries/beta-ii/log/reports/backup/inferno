@@ -1,0 +1,32 @@
+Bug reported by Cosmo:
+/wizards/inferno/igloo#5: there is nothing wrong i just messed up sorry. 
+Bug reported by Wiz:
+/wizards/inferno/workroom: hacker 
+Bug reported by Ashram:
+/wizards/inferno/amaze#73392: archangel stuff in busted
+Bug reported by Aziraphale:
+/wizards/inferno/angel/west: sometimes when I wade in the pool in the
+archangel's home I get: /wizards/inferno/angel/pool.c line 44: Warning: Unused
+local variable 't' around the end of line     Only happens sometimes, and
+nothing else seems to happen. Just thought I should say.
+Bug reported by Aziraphale:
+/wizards/inferno/angel/pool: Basically. Spun halo in arena by accident.
+Re-entered to finish combat. killed other person, but then I was still in the
+arena, and it came up with two slaughter messages for them. So I spun halo
+again. Then I couldn't fly anywhere, so I tried to quit out, AND DIED. Ouch.
+Bug reported by Aziraphale:
+/wizards/inferno/angel/main: Things that take more than one round to work seem
+to be taking more or less time. I have rubbed two oils and have them work in the
+same round rahter than one after the other. Sometimes holyfire will take 3 or
+(rarely) 4 rounds to hit rather than 2. Sorry I don't have more info.
+Idea reported by Hermes Wed Jul  3 21:07:00 2002
+/wizards/inferno/angel/pool: Area Alright, here's a rough idea of what I have in mind for a new area. I would attach it to Lodos with perhaps a small forest or lake along the way with monsters that are around 20k in difficulty. Anyway, I propose interactive instead of reactive.  In keeping wiht the holy war, after the forest thins  out the player finds himself on a battlefield that is about 5x5 in rooms. Some rooms have dead bodies, others have nothing but descriptions that speak of recent violence with blood and decomposing bodies, others have soliders in them.  For now I shall call them sides G and E for Good and Evil.  Here is th e first oddity, they are fighting each other.  Both of them are roughly equal with the good side leaning towards mild magic and side E leaning towards more physicality.  Neither will kill each other and will only hit each other with one attack so it doens't spam up the screen very badly, but what happens is they ask the player for help, whispering to the player to help their side.  -Continued
+Idea reported by Hermes Wed Jul  3 21:11:03 2002
+/wizards/inferno/angel/pool: continued Whichever the player chooses, a flag is planted until he heads back to lodos and a repop hits so that the other side will auto him on sight.  The player is given directions to the commander of the side he choose and makes his way there, fighting when needed. Somtimes its 1 on 3, other times its 1 on 1 or 2 on 2... Neither mob will kill the other but just give the illusion that they are fighting by giving hits that do zero damage to the opposite mob. A way this could be accomplished is making a spell or attack for each side that does zero damage to the other side.  In any case. The commander will tell the player that he needs his/her help to seige the castle and gives directions to said castle.  The player is then followed by three mobs from his side as he makes his way to the castle.  If the player goes link dead or disappears or whatever, the flag will reset and the mobs will return to their position.  Anyway, once the opposite castle is reached the player operates a catapult to breach -cont
+Idea reported by Hermes Wed Jul  3 21:14:24 2002
+/wizards/inferno/angel/pool: cont2 to breach the wall, enters in, and kills the opposite king. As soon as this is done he gets a reward and a quest/deed (whichever is wished by the admins) and at that point a permenate flag is planted into the player that now allows him to breach the wall without having to talk to the leader first.  If it's his first time and he hasn't talked to the leader he will have no flag and can't breach the wall.  Further expansions include rogues being asked by the opposing king to betray his side when he gets to the throne room.  If both sides are killed by a player, they will both attack him until he goes back to lodos and a repop happens.  Also, the leaders can NOT be killed. They give the instructions so they are invincible.  But they will not attack so no fear of the player being killed my the leaders... I think that covered the bases, any questions? Ask
+Idea reported by Aethar Sat Dec  7 21:53:47 2002
+/wizards/inferno/angel/pool: deeds that allow people to erase some of their criminal records.
+Bug reported by Amarael:
+/wizards/inferno/angel/main: level100's can't set their pretitle, else it bugs
+up the whoo command. Ithink it tries to put in colour code or something.

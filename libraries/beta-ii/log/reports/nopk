@@ -1,0 +1,1572 @@
+Bug reported by Wraith:
+/d/nopk/tirun/square: quit command is goin by weight when it takes eq out again!
+Typo reported by Shadimar:
+/d/nopk/tirun/locker: typo when you wear darkmail you will the dark energy to
+envelop you
+Typo reported by Shadimar:
+/d/nopk/tirun/locker: chaoswave you flood your the area with waves of chaos hehe
+Bug reported by Flabber:
+/d/nopk/tirun/library: passage. i receive an error message "!ERROR! This is a
+bug. Please contact an admin." when i go w,s,w,push bookcase,passage from tirun
+[]. it usually occurs about 50% of the time, but when the error messages comes
+up and i try "passage" again, it will always work.
+Bug reported by Akarine:
+/d/nopk/tirun/mage/wizard/wizard_join: enchan
+Bug reported by Akarine:
+/d/nopk/tirun/mage/wizard/wizard_join: enchant
+Bug reported by Dregs:
+/d/nopk/standard/outlands/dust3:  i went to fnd the dagger in the bushes
+neary the gypsy halla nd it saud !ERROR! This is a bug. Please contact an
+admin. 
+Bug reported by Cortoth:
+/d/nopk/standard/rain_forest/square: tried to fly to elven village and got
+*call_other() couldn't find object
+Bug reported by Barrin:
+/d/nopk/tirun/square: disguise for thieves is bugged
+Bug reported by Flabber:
+/d/nopk/tirun/sage_room: enemylist - the command "last enemylist" doesn't show
+anything, whilst "last buddylist" does. thanks.
+Typo reported by Pyro:
+/d/nopk/tirun/tannery: when I kill garon and try to go west it still says
+"Garon hold you back" baron is the master tanner. Also, the room description
+for the room outside of the tanner shop is too far north, same with the jail
+one. 
+Bug reported by Aziraphale:
+/d/nopk/tirun/weaponsmith_shop: Jalix the weaponsmith, when you get him to
+fix something it says "*call_other() couldn't find object." 
+Bug reported by Wraith:
+/d/nopk/tirun/square: The command 'disguise' you can disguise as a cloaked
+player and it says the players title with 'a shadow' in place of their name
+Bug reported by Akarine:
+/d/nopk/forest/forest89: hand
+Bug reported by Sirith:
+/d/nopk/standard/cult/echamber: When I rest in this room, then try to go west,
+it says I stop my little nap and stand up, then gives me an error message and
+does not move until I try it again.
+Bug reported by Barrin:
+/d/nopk/tirun/weaponsmith_shop: Jalix fix weapon returns *call_other() couldn't
+find object[0;37;40m
+Typo reported by Dantares:
+/d/nopk/tirun/square: help classes, clergy "thier"
+Bug reported by Beleqwaya:
+/d/nopk/standard/cult/ent: I was killing one of the cult extremists (the group
+of 2) just west of the gate of dusk, and I initiated with backstab.  I killed
+it.  I got the XP and watched it die. However, a cult extremist still attacked
+me, so I without thinking, type <backstab monster> again.  I was able to kill
+the already dead (but attacking) cult extremist again, getting the Xp and
+getting what it was wielding twice. The second cult extremist is not dead.
+Bug reported by Endbringer:
+/d/nopk/tirun/square8: you can get more than 1 halo
+Bug reported by Astrid:
+/d/nopk/standard/cult/ent: when I backstabbed a cult extremist an error came up
+and said this is a bug. Both cult extremist attacked at the same time when
+backstabed first one.
+Bug reported by Astrid:
+/d/nopk/standard/cult/cave1: okay the same bug is in both rooms of the cult
+extremist.  It says that its dead but you end up killing two when there is only
+one in the room
+Bug reported by Astrid:
+/d/nopk/standard/cult/cave3: okay this is the third one today..bs the two punks
+and error message came up. Even though the punk was dead it still showed me
+fighting.
+Idea reported by Daos Sat Nov 22 17:34:02 2003
+/d/nopk/forest/forest98: Can you add wimpy to score command?
+Bug reported by Astrid:
+/d/nopk/standard/cult/cave2: there is still a bug in the first punk just east of
+Tieran..you kill it but it dies twice.
+Bug reported by Vyce:
+/d/nopk/tirun/armour: i lose my saddle, tail ties, and horseshoes from the bug.
+thats all i lose however
+Bug reported by Astrid:
+/d/nopk/standard/cult/cave3: second set of punks have the same bug as I reported
+before in the cultist.
+Bug reported by Lac:
+/d/nopk/tirun/square: Arena
+Bug reported by Lac:
+/d/nopk/tirun/sage_room: Galdur
+Bug reported by Daos:
+/d/nopk/tirun/square: remove steel, remove plate, remove platemail doesn't work
+Bug reported by Sasayaki:
+/d/nopk/tirun/mage_hall: freeze The help file for this spell has a typo.
+"temperatureto" should be "tempreture to".
+Bug reported by Daos:
+/d/nopk/tirun/armour: trying to buy scalemail armor in shop, and haven't found
+id for it
+Bug reported by Tyste:
+/d/nopk/forest/path/room/forest7: northeast exit is bugged
+Bug reported by Nulvect:
+/d/nopk/tirun/supply: it looks like stuff that's worthless that gets put in the
+shop storage rooms is sold for free.. it costs 0 gold
+Bug reported by Tyste:
+/d/nopk/forest/campground/room/rascij021: head traveller is multiplying
+Bug reported by Tyste:
+/d/nopk/tirun/square4: sandstorm you can cast it while you're a ghost!
+Bug reported by Lac:
+/d/nopk/tirun/square: Stun - 0 rounds on 28xp mobs
+Idea reported by Adema Thu Dec 11 14:53:09 2003
+/d/nopk/forest/forest94: change consider to when u type it in combat, it shows the health rating of the mob
+Bug reported by Adema:
+/d/nopk/standard/rain_forest/corinthor/mobs/rndmob#28279: elf village, the
+villagers are worth more xp then the big guards
+Bug reported by Adema:
+/d/nopk/standard/rain_forest/corinthor/rooms/sunhome1: whirl it says you are not
+balanced enough to whirl everytime i do
+Bug reported by Davyn:
+/d/nopk/tirun/sage_room: Um...I'm not completely sure but I believe the
+trolls in the dark cavern are bugged. I could keep disarming them over and
+over but they were always wielding the cutlasses. I think the most i did was
+7 disarms in a row and it still was weilding 2. Just thought Id let ya know. 
+Bug reported by Beleqwaya:
+/d/nopk/tirun/square: The vault door is technically bugged.  The door should
+be closed from the outside, however, you can <enter> the vault even when the
+door is shut.  It doesn't give much point to having a locked door shut with a
+guard there. 
+Bug reported by Leviathas:
+/d/nopk/tirun/pubstart: choke
+Bug reported by Leviathas:
+/d/nopk/tirun/pubstart: choke When it fails, it has two messages, one saying it
+failed and the other saying you did it successfully.
+Bug reported by Madness:
+/d/nopk/tirun/weaponsmith_shop: repairing weapons
+Bug reported by Madness:
+/d/nopk/tirun/weaponsmith_shop: after the dude repairs a weapon there is a
+''*call_other() couldn't find object'' bug.
+Bug reported by Alchemon:
+/d/nopk/standard/outlands/cover5: raknid's can wear 12 ring/ they have 4 arms 2
+finger per hand = 8 finger
+Bug reported by Numb:
+/d/nopk/standard/rain_forest/corinthor/rooms/stars5: exits from the weapon shop
+in elf
+Bug reported by Sasayaki:
+/d/nopk/tirun/square: heartstone If you buy insane amounts of heartstones, and
+go over your weight restriction, you loose the remainder. :( 200 odd angreals
+and 500 heartstones, vanished!
+Bug reported by Culprit:
+/d/nopk/standard/rain_forest/corinthor/rooms/weaponshop: here. exit does not go
+to entrance.
+Bug reported by Sasayaki:
+/d/nopk/tirun/obj/weapon/noobsword#26805: blade This weapon's description lacks
+a full stop at the end.
+Bug reported by Alchemon:
+/d/nopk/tirun/square: moonblade, needs % ^ RESET % ^ at the end
+Bug reported by Scamp:
+/d/nopk/tirun/oil_shop: 5 oil
+Bug reported by Starratiel:
+/d/nopk/tirun/obj/mon/jalix#60562: jalix GOt him to repair my dragon slayer.
+Returned "*call_other() couldn't find object". dragon slayer was not lost
+Bug reported by Drakule:
+/d/nopk/tirun/sage_room: languages i think need a look at i have been
+studying for ages on turpis and no progression from proficient 
+Typo reported by Zort:
+/d/nopk/standard/rain_forest/corinthor/rooms/throne: 2nd line of describe,
+ruling hte forest. hte prolly should be the :) 
+Idea reported by Checkers Mon Dec 22 20:47:20 2003
+/d/nopk/tirun/pub: just a thought, think that the wear all command should be unusable in battle, don't see nekkid people kicking and putting on clothes at the same time
+Typo reported by Scamp:
+/d/nopk/standard/rain_forest/corinthor/rooms/mageguild: elven village "stone"
+shop <buy "#" oil>
+Bug reported by Shiva:
+/d/nopk/tirun/clergy/cleric/cleric_hall: I don't know if this is a bug or what,
+but I've never seen it before so I thought I'd let you know. =p It happend when
+I logged in this morning...December 23...'shiva', 'Shiva the novice cleric',
+'weimic', 11, 'godly', 'clergy', 'cleric',
+Bug reported by Numb:
+/d/nopk/tirun/mage_hall: i got "Column count doesn't match value count at row 1"
+when i logged on
+Bug reported by Rethlan:
+/d/nopk/tirun/sage_room: while logging in - got "please enter your password:
+Unknown column 'player_title' in 'field list'"
+Bug reported by Dovorn:
+/d/nopk/standard/rain_forest/corinthor/armour/knightshield#57832: shield this
+shield is type "bracers" instead of shield
+Bug reported by Zortigenvel:
+/d/nopk/forest/forest91: I can command my pets to Rush a monster a Unlimited
+amount of times, for No cost, meaning the monster will die first round
+everytime this is for nightmare kataan pet...only one i have got so far 
+Bug reported by Lac:
+/d/nopk/tirun/square: Purg room description: Royal Antechamber can be seen to
+the east. | There are two obvious exits:  west, and southeast. | this is the
+same for the other side..rooms just in wrong place | these rooms are southeast
+then west from purg throne room..
+Bug reported by Lac:
+/d/nopk/tirun/square: stun (again)
+Bug reported by Jenna:
+/d/nopk/tirun/square: when you die as a gypsy and you were dancing dance of
+the wind you keep the dex you were on. 
+Bug reported by Shizim:
+/d/nopk/standard/rain_forest/corinthor/rooms/healguild: message
+Bug reported by Aisnen:
+/d/nopk/tirun/deliv_warehouse: I was doing package deliveries and I went to get
+my new package and it acted like it gave it to me, but with no reciever. At that
+time I checked my inventory to see who it was for, but I didn't have a package.
+I then went to get another package, but the headmaster still thought I had the
+old package! I quit out to see if it would reset, but with no luck.
+Bug reported by A shadow:
+/d/nopk/tirun/square: whispering to cloaked figure shows up twice on shadows
+side
+Praise given by Kumi Thu Jan  1 05:29:18 2004
+/d/nopk/forest/forest99: ethereal This is the best guild on PD, obviously. If it waas not for this guild, PD would really start to suck. :( praise ethereal!
+Praise given by Kumi Thu Jan  1 05:30:38 2004
+/d/nopk/forest/forest99: Whit I just wanted to say thanks to whit cause he always does a lot of stuff for PD even though he is real busy with real life troubles and stuff, and i feel pretty bad that sometimes i ask him for help and stuff.. so sorry, yeah but anyway, uhm thanks whit cause you are a awesome dude and really take good care of PD and i wish that i could shield you from all the poopie-heads that keep buggin' you and are super impatient.. anyways yah thanks!
+Praise given by Kumi Thu Jan  1 05:32:39 2004
+/d/nopk/forest/forest99: stormbringer I just wanted to say that even though stormbringer is never around cause his family is superior to the mud, he is still a pretty cool guy when he notices your existence. sometimes he makes dinner and it's funny cause everone eats it all and he gets nothing. also uhm i wanted to say thanks for desting people so much it really gives me something to laugh at. hehe just kidding. anyway PD is the only mud i go on, cause.. it is the best, obviously, no mud is ever better than PD so keep up the good work and stuff and I think daos should be an admin cause like he is always around and helping sooo often and stuff and i think that if he was an admin he could do more since sometimes you guys are too busy.. yah thanks! praise praise yes praise almighty mighty!
+Praise given by Kumi Thu Jan  1 05:34:27 2004
+/d/nopk/forest/forest99: nightshade Thanks for always telling me that I can't do stuff, if it wasn't for you I'd probably be breaking lots of rules and lots of made-up fantasy rules....I really appreciate it. Also thanks for all your hard work on PD cause I like this mud a lot. The End.
+Praise given by Kumi Thu Jan  1 05:35:38 2004
+/d/nopk/forest/forest99: azire I just wanted to say thank you to Azire cause she is obviously the sexiest immortal on PD, she is also nicer. I think that her cheery disposition really makes everyone feel comfortable and happy on the mud. The end!
+Bug reported by Mohai:
+/d/nopk/standard/rain_forest/corinthor/rooms/mageguild: Sign in this room reads
+[A magical stone] A magical stone used to replenish mana. (30 gold pieces) You
+can <bayu '#' oil> to buy a specific number of oils. Should be buy stones I
+believe
+Bug reported by Mohai:
+/d/nopk/standard/rain_forest/corinthor/rooms/weaponshop: this room's exit does
+not lead back to the room you entered from
+Bug reported by Specula:
+/d/nopk/tirun/square: Fighters can coupe, smite, 'use finnishing moves' prolly
+even monks eagleclaw after you die in the arena, and it bring you to neg's in
+the loosing room, and if you leave you have a real death
+Bug reported by Sasayaki:
+/d/nopk/tirun/square: massacre Massacre can sometimes hit people in the dead
+room in the arena. I accidently killed Endbringer this way.
+Bug reported by Scamp:
+/d/nopk/tirun/square: inventroy bug where it says "You can't hold any more." 
+and my weight is Total Weight: 156% (1144/730) .
+Bug reported by Scamp:
+/d/nopk/tirun/square: inventroy bug where it says "You can't hold any more." 
+and my weight is Total Weight: 156% (1144/730) .l
+Bug reported by Scamp:
+/d/nopk/tirun/square: inventroy bug where it says "You can't hold any more." 
+and my weight is Total Weight: 156% (1144/730) .ll
+Typo reported by Sanguinus:
+/d/nopk/tirun/kwike: Tirun Squishie Mart
+Typo reported by Sanguinus:
+/d/nopk/tirun/kwike: ah it appears i was wrong
+Typo reported by Youjutsu:
+/d/nopk/tirun/clergy/kataan/kataan_join: here 'kidden' should be 'hidden'
+Bug reported by Aziraphale:
+/d/nopk/tirun/square: Even though it says you can't store the emerald ring. It
+still works. *shrugs* - Oh yeah, and it doesn't remove the original. So you can
+store/reclaim for multiples.
+Praise given by Kumi Wed Jan 28 22:10:04 2004
+/d/nopk/tirun/pubstart: hunters thanks daos!! :))
+Bug reported by Rathnor:
+/d/nopk/forest/campground/room/rascij011: Typed hunters, got the message !ERROR!
+This is a bug. Please contact an admin.
+Bug reported by Rathnor:
+/d/nopk/standard/cult/cave3: Trying to leave the room while resting produces an
+error message.
+Bug reported by Lac:
+/d/nopk/tirun/deliv_warehouse: headmaster, doesnt give you the package or say
+location to deliver to.
+Typo reported by Mazrim:
+/d/nopk/tirun/square: 
+Bug reported by Xenx:
+/d/nopk/standard/cult/ent: if you suicide and then enter your password it gives
+you the suicide message, but it just gives the bug message.
+Idea reported by Galdur Mon Feb 16 02:08:47 2004
+/d/nopk/tirun/square: event why cant we have an event that stays around for a certain amout of time?, say an invasion of demons. so demons randomly appear in rooms, stay for a short time then leave... they are very strong but have very good eq, and have 1 General demon that is very rare and has the best eq in the game, and is extremely hard and make his time for staying in one place shorter. say this lasts for a week or untill the general dies? just an idea. the demons invading was just an example.. it could be invading lizard men or something. i donno, fairies invading.... i would like to see that hahaha
+Idea reported by Mazrim Wed Feb 18 13:57:05 2004
+/d/nopk/tirun/square: a pwn command IE *pwn davyn* davyn sees Mazrim Totally PWNS YOU
+Bug reported by Endbringer:
+/d/nopk/tirun/square: the arena bug where if you instakill someone in arena you
+get them as a kill and they get you as a death is still around
+Typo reported by Camber:
+/d/nopk/tirun/eganthus1: cirles should be circles, true for most of this road
+Typo reported by Luck:
+/d/nopk/tirun/wand/wanderer_join: form from
+Bug reported by Eios:
+/d/nopk/tirun/square: When I try to brew herbs this comes up: !ERROR! This is a
+bug. Please contact an admin.
+Bug reported by Gor:
+/d/nopk/standard/outlands/dust3: report strange dagger doesnt load when
+searching
+Bug reported by Badkrull:
+/d/nopk/tirun/square: 
+Bug reported by Daboura:
+/d/nopk/tirun/square: Abilities is bugged 
+Bug reported by Tsuke:
+/d/nopk/tirun/pubstart: look board at the tirun board gave me an error message
+:)
+Bug reported by Kumi:
+/d/nopk/tirun/bank: convert That command exists, but has no help.  Please use
+the bug command to report it.
+Idea reported by Aldur Mon Mar 15 21:36:39 2004
+/d/nopk/tirun/square: Coupe de grace
+Idea reported by Aldur Mon Mar 15 21:37:39 2004
+/d/nopk/tirun/square: Coupe de grace, should instead of just putting things into negative hp it should also remove their head to stop anyone or anything cureing out of the negatives.
+Idea reported by Aldur Mon Mar 15 21:55:59 2004
+/d/nopk/tirun/pubstart: Coupe de grace, should instead of just putting things into negative hp it should also remove their head to stop anyone or anything cureing out of the negatives.
+Bug reported by Razalf:
+/d/nopk/tirun/ghall: In the slot room, when i type <play> it responds: just
+wanted to note =p  Yours, 	Razalf 
+Idea reported by Badkrull Sat Mar 20 16:09:20 2004
+/d/nopk/tirun/square: new class "undead" new subclasses "zombie" "ghoul" "ghost"
+Idea reported by Badkrull Sat Mar 20 16:10:37 2004
+/d/nopk/tirun/square: abils for zombies - Bite, Tear, Vomit, Scratch, drain
+Idea reported by Badkrull Sat Mar 20 16:11:25 2004
+/d/nopk/tirun/square: ok who cares about ghouls and ghosts just zombies :P
+Bug reported by Nesoo:
+/d/nopk/tirun/square: help convert: That command exists, but has no help. 
+Please use the bug command to report it.
+Bug reported by Kya:
+/d/nopk/standard/rain_forest/corinthor/rooms/throne: enchant
+Idea reported by Wraith Fri Mar 26 23:56:07 2004
+/d/nopk/tirun/sage_room: how about a way to change your primary language, but only if you are fluent in that language
+Bug reported by Kya:
+/d/nopk/standard/obj/magic/skyquick#40809: you should try gating to someone who
+is flying. it's fun up here.
+Idea reported by Draven Tue Mar 30 15:14:21 2004
+/d/nopk/tirun/square: who class who female who male who subclass commands to show a who list. merentha has that shit..because i suggested it a long time ago..so if ur worrying about stealing from mer..dont cuz i came upw ith it :P
+Bug reported by Dovorn:
+/d/nopk/tirun/square: somehow agent truced me after he pk'd me.. it happened
+several minutes after I had prayed, and I hadn't offered him a truce since I had
+died (I did truce him earlier though).. also the death didn't seem to count on
+death list even though I stayed in the room and was fighting both him and a mob
+Bug reported by Gor:
+/d/nopk/tirun/fighter/warrior/warrior_hall: on several occassions and with
+differe weapons I have experienced an inability to wield them due to having
+sharpened them. After training my skills to max and once again being able to
+wield them after being sharpened, I have still experienced an inability to wield
+them. The message "You do not have the talent to use that weapon" keeps
+appearing despite the fact that I can wield another identical weapon. At the
+moment, I am using an Obsidian Sword. Swords 1 and 2 wield but sword 3 will not.
+It is obvious to me that this is a generalized bug in need of correction. Thank
+you.
+Typo reported by Crem:
+/d/nopk/tirun/fighter/paladin/paladin_hall: the help file for cloak says that
+it drains you of hp.  i thought is was sp 
+Bug reported by Tahngarth:
+/d/nopk/standard/rain_forest/corinthor/rooms/moons5: rage only works with blades
+Idea reported by Tahngarth Tue Apr  6 13:44:39 2004
+/d/nopk/tirun/square8: make break tirun work on tirun seals
+Bug reported by Tahngarth:
+/d/nopk/tirun/square: can't break helgrath, break merk and stuff the needed seal
+needs to be seal 1 to break name
+Bug reported by Nesoo:
+/d/nopk/standard/highway3:  Yeah, so our dragons don't work :P "Command dragon
+lodos", "command dragon fly to lodos", pretty much anything other than plain
+"command dragon" results in an !ERROR!
+Bug reported by Nesoo:
+/d/nopk/standard/highway3: Hatching the egg doesn't remove it from our
+inventory, either, it just gives the message that's it's already been hatched if
+you try to use it again. I'd assume that it's meant to be removed from the
+inventory when used.
+Typo reported by Ame:
+/d/nopk/tirun/pier: here - It says there is a shack to the north, whereas the
+shack is clearly to the west.
+Typo reported by Driox:
+/d/nopk/tirun/clergy_hall: here says the only exit is west but its north.
+Bug reported by Milenko:
+/d/nopk/tirun/mage_hall: after i had been disconnected and relogged in to
+take over my character when i answered yes to take it over i got an ERROR
+message and had to loggin a second time to get in 
+Bug reported by Endbringer:
+/d/nopk/tirun/square: i was pked twice at once, giving me a real death and a
+angel death.
+Bug reported by Tarfand:
+/d/nopk/tirun/square: the pretitle command lets you put a bunch of spaces in at
+the beginning, then people can miss your name when looking for who is in the
+room (cause you scan to the left)
+Bug reported by Dovorn:
+/d/nopk/tirun/square: I still see emoteto's from people who are on ignore
+Bug reported by Dovorn:
+/d/nopk/tirun/square: the guard spell does absolutely nothing. this is because
+the first part of the argument to add_magic_protection is supposed to be either
+a body part name, or 0 for whole body, and it says 3 which means nothing..
+Typo reported by Caspurnia:
+/d/nopk/standard/pass12: comming q 
+Bug reported by Venenum:
+/d/nopk/arlon/room/plains4: rage Tauran had a problem where the rage object
+would not move out of his inventory in this room. I had to manually dest it.
+Bug reported by Dovorn:
+/d/nopk/tirun/square: when viewing the contents of containers, everything is
+double-spaced (has blank lines between things)
+Typo reported by Nesoo:
+/d/nopk/tirun/square: Helpfiles for 'time' and 'mudtime' contain: 'Primal
+DarknessAlso shows', s/b 'Primal Darkness.  Also shows'
+Bug reported by Eios:
+/d/nopk/tirun/square: You cannot shoot with the bows you get off Drow Archers.
+Bug reported by Endbringer:
+/d/nopk/tirun/rogue_hall: stealth bug still exists
+Bug reported by Djerr:
+/d/nopk/standard/forest6: umm... i'm a ranger, and i made a jacket.  it
+says... "This peice of armour is bugged.  It has been reported.  We
+appreciate your patience." 
+Bug reported by Endbringer:
+/d/nopk/tirun/square: you can put items into people
+Bug reported by Spades:
+/d/nopk/tirun/square: 'help sing' has an incomplete sentence.
+Bug reported by Evolution:
+/d/nopk/tirun/mage/necromancer/necromancer_hall: necromancer hall room
+description Welcome to the Necromancer Hall. Strange shadows flood the    |  
+walls the ground should read and the ground 
+Bug reported by Aziraphale:
+/d/nopk/standard/rain_forest/puddle: I'm not sure whether this area was removed
+or not, but you used to be able to climb the vines here and it would take you to
+another area.
+Bug reported by Endbringer:
+/d/nopk/tirun/dragon/black_hall: i can get into dragon hall mounting a dragon
+Bug reported by Endbringer:
+/d/nopk/standard/obj/magic/skyquick#18933: i can go into black dragon hall this
+way also
+Bug reported by Noa:
+/d/nopk/tirun/square: yakko and i are on the same lan. He already typed
+"apply now" and both are names are on the list but im getting the error
+message There are multiple characters logged on from your ip address.  Please
+log off your other characters. 
+Idea reported by Wisp Thu Jul  8 01:47:02 2004
+/d/nopk/tirun/square: A viewing room for the arena
+Bug reported by Rull:
+/d/nopk/tirun/mage/wizard/wizard_hall: energybolt takes full mp instead of half
+mp like it used to
+Bug reported by Rull:
+/d/nopk/tirun/mage/wizard/wizard_hall: when I type "implode" by itself when not
+in combat it gives an error
+Idea reported by Smite Thu Jul  8 23:30:56 2004
+/d/nopk/tirun/square: i kinda stole this from another game but..for those who are married can 'hold ring' or some command and teleport to their spouse...with an ability delay so it's not instant
+Bug reported by Rull:
+/d/nopk/tirun/whonin1: acidcone uses 0 mp when cast against only one attacker
+Bug reported by Rull:
+/d/nopk/tirun/square: enchant uses 0 mp
+Typo reported by Ceril:
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem1: tamed animals description
+says "it's owner", should be "its owner"
+Idea reported by Tahngarth Tue Jul 13 00:37:48 2004
+/d/nopk/tirun/pubstart: have a skills costs command to show much much exp you should use to train 1 skill
+Idea reported by Rull Tue Jul 13 22:38:28 2004
+/d/nopk/tirun/square: make it so you can sell to lodos shopkeepers
+Typo reported by Rull:
+/d/nopk/tirun/square: in the acidcone spell, it says "seers" instead of "sears"
+Bug reported by Lac:
+/d/nopk/tirun/square: got an error when i tried looking at a corpse in tirun..
+Bug reported by Raiku:
+/d/nopk/tirun/square: coach
+Bug reported by Raiku:
+/d/nopk/tirun/square: coach Its a nice system, but if you "coach to tirun" it
+takes you to roston...is that right?
+Typo reported by Avada:
+/d/nopk/tirun/square: help eagleclaw, using eagle claw to early.  should be too
+early
+Idea reported by Raiku Sat Jul 17 15:07:37 2004
+/d/nopk/tirun/bank: exchnage can we have an exchange all for <currency> command like "exchange all for platinum" and it will exchange all coins for that money type, anything that is excess or over become's taxed...just a thought
+Bug reported by Asonti:
+/d/nopk/tirun/square: choke lets you spam it until you succeed in choking your
+target
+Bug reported by Asonti:
+/d/nopk/tirun/square: rage sometimes gives me "you're too tired" right after it
+says I fly into a fit of rage, it should heal to 100 sp right then before it
+makes you slash/whatever
+Typo reported by Nulvect:
+/d/nopk/tirun/square: dakzhul "too tired" message should be "You're too
+tired..."
+Bug reported by Smite:
+/d/nopk/standard/obj/magic/sky#46651: dunsinane doesnt show up on fly list but i
+can fly there if i wait in the sky long enough for it to come in sight.
+also........rhondale doesnt show up when im floating in the sky but it shows up
+on my fly list
+Idea reported by Eios Sun Jul 25 03:55:27 2004
+/d/nopk/tirun/pubstart: Give Eios super powers so that he may rule all!
+Bug reported by Nulvect:
+/d/nopk/tirun/supply: the % full message does not show up on backpacks bought in
+the tirun item shop
+Bug reported by Smite:
+/d/nopk/tirun/dragon_hall: you can ditch <player> to see if they are online, it
+even works on cloaked users
+Idea reported by Smite Thu Jul 29 23:29:36 2004
+/d/nopk/tirun/dragon_hall: level 50 rogues and kataans can sign on with the option to log in cloaked
+Bug reported by Smite:
+/d/nopk/tirun/dragon_hall: u can also scry cloaked users..not sure if that's
+supposed to be..
+Typo reported by Smite:
+/d/nopk/tirun/dragon/blue_hall: help furystrike says "stike" instead of "strike"
+ehh..:P
+Bug reported by Tahngarth:
+/d/nopk/tirun/square: charge shouldn't be able to be used in same round as coupe
+Bug reported by Tahngarth:
+/d/nopk/tirun/square: mudthrow seems to have no cap, eios' mud throw lasts 7
+rounds on me, tsuke's paralyze works 20% of the time on me and barely paralyzes
+for more than 1 round
+Bug reported by Nulvect:
+/d/nopk/tirun/sage_room: coupedegrace can be used more than once per round
+Bug reported by Nulvect:
+/d/nopk/tirun/sage_room: coupedegrace is a finishing move and should only be
+able to be used when the target is at 1/2 or less hp
+Typo reported by Jarta:
+/d/nopk/tirun/square: the lay command should be "lie"... you lie down to rest,
+you lay objects down when you are carrying them
+Idea reported by Yorq Wed Aug 11 20:02:21 2004
+/d/nopk/tirun/square: all mayhap the all command could apply to a specific item.. like 'drop all stone' or 'drop all oil' I duno, i'm just a dorq.
+Bug reported by Tahngarth:
+/d/nopk/tirun/square: why do blue dragon's breathe take away sp and mp to -200,
+it already paralyzes consistently for 2 rounds, compared with cleric's paralyze
+which works 20% of the time for a short period. Tested with smite, he paralyzed
+me for 5 minutes (real life time) dealing 150 dmg each breath. This would make
+pking too easy.
+Bug reported by Jarta:
+/d/nopk/tirun/square: choke can be spammed over and over during the same round
+until it hits
+Bug reported by Jarta:
+/d/nopk/tirun/square: choke does almost no damage, at level 30 with max skills
+and stats twice my level, it takes 2 chokes (sitting) to kill the extremists w
+of tirun (70 exp for me), when it does damage it can sever limbs too which it
+shouldn't
+Bug reported by Dace:
+/d/nopk/tirun/square: Everytime i rage, after i finish the area, it doesn't
+remove the para so im still stuck in a rage kinda trance, i.e cant move or
+anything, is there somthing stopping the call_out like my swords or?
+Typo reported by Fabio:
+/d/nopk/standard/setter: in the setter room it says "when your ready", should be
+"you're"
+Idea reported by Galdur Tue Aug 17 04:38:55 2004
+/d/nopk/standard/obj/magic/sky#10567: fly i think it would make flying abit more realistic if you had to mark the location of where you can fly too... so in other words... you have to explore the place for... or get gated... but first you gotta go there.. because flying in the sky and distant islands is abit hard to believe... and to land where you have never been before.
+Bug reported by Tyste:
+/d/nopk/tirun/square: ansi Turning ansi off. doesn't actually turn all colours
+off. only some.
+Typo reported by Nesoo:
+/d/nopk/tirun/hhouse/1: The sentence that starts with "Plush rugs, now torn..."
+isn't a complete sentence
+Typo reported by Nesoo:
+/d/nopk/tirun/hhouse/1: The sentence that starts with "Plush rugs, now torn..."
+isn't a complete sentence; there's a noun (the rugs), but not a verb -- just a
+further description of the rugs. Perhaps "Plush rugs *are* now torn..."? Also,
+"it's" shouldn't be used, it should be "their" because there are multiple rugs
+(not to mention "it's" should have been "its").
+Idea reported by Set Tue Aug 24 01:30:50 2004
+/d/nopk/tirun/square: snowball Snowballs should get better.. like fireworks do!, more mp the better the snowball!
+Bug reported by Baezelbub:
+/d/nopk/tirun/square: bone
+Idea reported by Mortis Sun Aug 29 19:53:42 2004
+/d/nopk/tirun/bank: Exchange all for type
+Typo reported by Fabio:
+/d/nopk/tirun/wanderer_hall: in wanderer hall, "once and a while" -> "once in a
+while"
+Bug reported by Tarfand:
+/d/nopk/tirun/edovin4: peek just always says "What?"
+Bug reported by Rull:
+/d/nopk/tirun/obj/mon/townguard#503: guard spell does not work
+Bug reported by Rull:
+/d/nopk/tirun/square: enchant takes 0 mp
+Bug reported by Rull:
+/d/nopk/tirun/square: annihilate and acidcone both use 0 mp if you're only
+fighting 1 thing
+Bug reported by Rull:
+/d/nopk/tirun/mage/mage_join: implode gives me an error when I just type
+"implode" when not in combat
+Bug reported by Rull:
+/d/nopk/tirun/mage/mage_join: energybolt takes all mp instead of half like it's
+supposed to
+Bug reported by Tahngarth:
+/d/nopk/tirun/square: Forbidden armour doesn't have % ^ RESET% ^ at the end of
+description
+Bug reported by Dryssum:
+/d/nopk/tirun/clergy/cleric/cleric_hall: limbs spell spits out the answer twice
+then says "What?"
+Bug reported by Dryssum:
+/d/nopk/tirun/clergy/cleric/cleric_hall: casting "heal me all" doesn't give a
+message even though it heals just fine
+Bug reported by Dryssum:
+/d/nopk/tirun/clergy/cleric/cleric_hall: peace spell can be spammed over and
+over in the same round
+Bug reported by Dryssum:
+/d/nopk/tirun/clergy/cleric/cleric_hall: envelop spell says "a blinding light
+envelopes you!" to the caster
+Idea reported by Smite Sun Sep 12 05:42:24 2004
+/d/nopk/tirun/dragon_hall: enemylist all:P
+Idea reported by Smite Sun Sep 12 20:53:29 2004
+/d/nopk/tirun/square: dragons should get 12 hp per con and maybe 11 mp per int and 6 mp per wis...:D
+Typo reported by Kaster:
+/d/nopk/tirun/square: on the weapon the hammer of bogarden, in the drscrip steal
+is supposed to be steel
+Bug reported by Smite:
+/d/nopk/tirun/square: sometimes people who should be on my party range
+aren't..and other times they are...happened with yakko and daboura so far
+Typo reported by Necrite:
+/d/nopk/tirun/egate: Gate of dawn, all east of tirun [], A set of gates
+"hung" on the wall can be closed to protect the city. 
+Idea reported by Smite Fri Oct  1 01:48:43 2004
+/d/nopk/tirun/dragon_hall: necros need their undeads to automatically attack whtever their master is fighting when they spawn or if they are already spawned
+Bug reported by Tempest:
+/d/nopk/tirun/sxelan2: pirouette kept losing heartbeat and sp bugged hp: 371/400
+sp: 122.533325/236  mp: 270/270
+Bug reported by Nulvect:
+/d/nopk/tirun/adv_enter: if you try to impale something in a peace room it puts
+you in combat with it
+Idea reported by Smite Thu Oct 28 00:35:45 2004
+/d/nopk/tirun/square: alphabatize kill lists somehow:D plzz!
+Idea reported by Smite Thu Oct 28 01:21:07 2004
+/d/nopk/tirun/eganthus2: MD spells should last longer based on skill lvl + wis :(
+Typo reported by Dovorn:
+/d/nopk/tirun/square: gate spell says "closes his eyes" for females as well as
+males
+Idea reported by Set Thu Oct 28 14:16:57 2004
+/d/nopk/tirun/pubstart: Quote: Loves poison at first blinds, Then kills the heart - Set (1986-7402)
+Idea reported by Dubbya Sat Oct 30 14:49:56 2004
+/d/nopk/tirun/pubstart: a new quote "Can't we all just get along?" - Rodney King
+Idea reported by Dubbya Sat Oct 30 14:50:22 2004
+/d/nopk/tirun/pubstart: new quote "I will not rest until I find the real killer" - O.J. Simpson
+Idea reported by Dubbya Sat Oct 30 14:50:42 2004
+/d/nopk/tirun/pubstart: new quote "I find your lack of faith disturbing" - Darth Vader
+Idea reported by Dubbya Sat Oct 30 14:51:56 2004
+/d/nopk/tirun/pubstart: new quote "Saddam Hussein is capable of making, and in all probability already has weapons of mass destruction" - Me
+Idea reported by Dubbya Sat Oct 30 14:52:48 2004
+/d/nopk/tirun/pubstart: new quote "My only regret is that I have but one life to give for my country" - some guy.. :P nathaniel something
+Bug reported by Tauran:
+/d/nopk/tirun/square: outlaw dying, hey, i was outlaw and got sentenced to
+death, then went east as i got excuted and lost my heart beat, this has happened
+twice, it happened once with bellos backstabbing me, and i went into -hp's and
+ran up then lost my heartbeat, dunno if this a bug or what not? just thought id
+let you guys know
+Typo reported by Nulvect:
+/d/nopk/tirun/square: tamed animals say "it's owner" in their long desc, should
+be "its owner"
+Idea reported by Nesoo Tue Nov  9 18:04:06 2004
+/d/nopk/tirun/rogue/assassin/assassin_hall: Compare: Assassins should be able to compare knives/daggers since those are tools of their trade and they should know which are better for killing their prey. Check out the assassin board :)
+Bug reported by Cortoth:
+/d/nopk/standard/rain_forest/square: You see Elvenvillage come into view.
+elvenvillage *call_other() couldn't find object   It is bright. You feel at
+peace here. The elven fortress's square. This is a place where people come to
+trade, do business or even chat. There is a great statue in the middle of the
+square. To the west is the merchant district, and to the east there is the
+residential district.  You hear much talking.  There are three obvious exits:
+north, west, and east.  A elven peasant  A statue of an elf is here.   
+Typo reported by Xille:
+/d/nopk/tirun/wand/bard/bard_hall: bard hall long desc says instuments instead
+of instruments
+Bug reported by Kilir:
+/d/nopk/tirun/square: on the wax seals, when you dont type the right thing it
+supposed to say in all bold red letters You must break merk. but it says % ^
+BOLD % ^ RED % ^ You must break merk.% ^ RESET % ^ without the spaces. 
+Idea reported by Vian Tue Nov 23 01:54:50 2004
+/d/nopk/tirun/square: New remort system, where you are set at level 1 either way.  You either keep 3 of your stats and have the other 3 set at 2 each, or keep 1 ability/spell.  Sure, this could leave assassins with boost, but they would have had to work hard for it.  If you pick 1 ability/spell, your stats are force-rolled at level 1.  You can only remort 3 times, and if you pick stats the first time, you have to pick it the second and third, if you pick ability/spell, you need to pick those the second and third.  You can only have 2 remort ability/spells, the third remort you have to lose one of the first two.  If you go angel/demon/lich/vampire/dragon after remorting for abilities, you lose those abilities after you become your new race.
+Idea reported by Vorant Sat Nov 27 12:10:17 2004
+/d/nopk/tirun/square: I think that under Other Things:, in help credits, Daboura should get a section called Balance, because hes done alot, and its just one of those things that should be recorded.
+Bug reported by Smite:
+/d/nopk/tirun/square: melee needs to do more damage
+Idea reported by Smite Thu Dec  2 00:50:46 2004
+/d/nopk/tirun/square: blue dragons and mages should be the only people able to create snowballs!! make it more rare/fun of an ability imo!! blue dragons should be able to make bigger ones or a special message hehe..:P
+Bug reported by Smite:
+/d/nopk/tirun/square: flick is overpowered! and so is cut!
+Typo reported by Nyx:
+/d/nopk/tirun/square: FAQ#11 "raise" in the answer for #11 should be "raised".
+Typo reported by Nyx:
+/d/nopk/tirun/rogue/thug/thug_join: thug_preview thugs are the losest of the
+low." Thugs, lowest.
+Typo reported by Nyx:
+/d/nopk/tirun/hhouse/1: endtables "Small toppled entables lay askew..."
+Typo reported by Nyx:
+/d/nopk/tirun/restaraunt: waitress_code  "Waitress says: [insert something about
+what she sells]." No return after that default message.
+Praise given by Nyx Sat Dec  4 01:03:37 2004
+/d/nopk/forest/forest66: maps Really, really nice to have something like that built in. Thanks much for the coding!
+Typo reported by Guile:
+/d/nopk/tirun/weapon: scorpion tail short desc says "This talk is what the
+scorpion uses..."
+Typo reported by Nulvect:
+/d/nopk/tirun/square: golden bauble from tenebrae needs a color reset at the end
+of its short desc, the yellow bleeds off
+Bug reported by Smite:
+/d/nopk/standard/obj/magic/sky#22659: please make it so dragons can wear the
+tenebrae crown to do the quest. thanks...^_^
+Bug reported by Smite:
+/d/nopk/tirun/square: BLUE DRAGON BREATH DOES NOT DO ENOUGH HP/SP/MP DAMAGE
+Bug reported by Smite:
+/d/nopk/tirun/square: u can fly into elven village which is an INDOOR room.
+can't fly out..lol
+Bug reported by Smite:
+/d/nopk/standard/rain_forest/corinthor/rooms/square: err the elven village bug
+is when you type 'fly elven village' you go to the corinthian board of the
+elves. when you fly and then wait for it to appear u appear at the statue of an
+elf and elven board. two diff spots
+Bug reported by Axenos:
+/d/nopk/tirun/square7: I type spells and the message says !ERROR! This is a bug.
+Please contact an admin.
+Typo reported by Axenos:
+/d/nopk/tirun/armour: golden robes read slik instead of silk.
+Typo reported by Cortoth:
+/d/nopk/tirun/armour: should the Shruken Heads be Shru_n_ken Heads?
+Bug reported by Cortoth:
+/d/nopk/arlon/room/esquare1: Bad argument 1 to call_other() Expected: string
+or array or object Got: 0. program: /wizards/daos/gold_egg.c, object:
+/wizards/daos/gold_egg#14536, file: /wizards/daos/gold_egg.c:28 --- trace ---
+'     heart_beat' in '/wizards/daos/gold_egg.c'
+('/wizards/daos/gold_egg#14536') /wizards/daos/gold_egg.c:28 arguments were
+() --- end trace --- Heart beat in /wizards/daos/gold_egg#14536 turned off. 
+, 
+Bug reported by Cortoth:
+/d/nopk/tirun/armour: get_user_data: read on fd 19 System Error:
+get_user_data: read:Connection reset by peer  , 
+Bug reported by Delphi:
+/d/nopk/tirun/square: flying. my sp is completely full but when i type the
+command 'fly' it says "You are too tired to fly!>" my hp is at 208/500 and mp
+243/545
+Bug reported by Shadimar:
+/d/nopk/tirun/square: still receiving tells even after cenn's annoying ass was
+ignored
+Idea reported by Tal Thu Jan  6 20:46:58 2005
+/d/nopk/tirun/obj/misc/backpack#24023: can someone possibly make it so backpacks get the This pack is #% full. like diamonds or pouches or something
+Praise given by Endbringer Thu Jan  6 20:50:36 2005
+/d/nopk/tirun/square: Daboura and Daos do very great things for the mud! As does stormy and whit...our immortal/admin staff is great and i respect each and every one of them, even the ones i did not mention!
+Idea reported by Tal Sat Jan  8 00:36:41 2005
+/d/nopk/tirun/square: censorship on the newbie line...since everybody is making such a big deal out of it, why not just make it so when you have a swear word in your typing when you try to talk on newbie line, nothing comes up when you enter it in
+Idea reported by Guile Sat Jan  8 09:21:57 2005
+/d/nopk/tirun/supply: <date> Somehow, it doesn't seem like <date> is configured correctly.  I live in the Mountain Time Zone, and though it is 7:20 AM...it tells me it's 13:20 (1:20 PM).  I checked some of the other zones, and they are all incorrect.  Thanks.
+Bug reported by Guile:
+/d/nopk/tirun/supply: cloak There's a bug that allows people to see if rogues
+are on and cloaked.  If people finger a cloaked rogue, they see "On since..."
+and not "Last on", which tells them you're on and cloaked.
+Bug reported by Cosmo:
+/d/nopk/tirun/fighter_hall: As soon as I log in with Piehl, I cannot do
+ANYTHING, even quit. I can't report the BUG on him so I want you guys to
+know. It's really odd. I can't even use the Newbie line 
+Idea reported by Vian Wed Jan 12 20:30:34 2005
+/d/nopk/tirun/square: Now that the new Black Daggers are level 35, and better than wolf claws(level 36), maybe you should change Bloodstones to 25, and Wolf Claws to 30.
+Typo reported by Caliphys:
+/d/nopk/arlon/room/house1: No period after "wood" in door_desc.
+Typo reported by Caliphys:
+/d/nopk/arlon/room/house1: Two spaces after one sentance in long room desc. 
+They should all be the same.
+Typo reported by Nesoo:
+/d/nopk/tirun/sandcastle/room/sandcastle8: "kinda" to "kind of"
+Typo reported by Nesoo:
+/d/nopk/tirun/sandcastle/room/sandcastle2: "look pile" The first sentence needs
+to be fixed.
+Typo reported by Nesoo:
+/d/nopk/tirun/sandcastle/room/sandcastle4: "look walls" "what sort of create
+would do this", I assume "create" s/b "creature"
+Typo reported by Nesoo:
+/d/nopk/tirun/sandcastle/room/sandcastle3: "its just really old", "its" s/b
+"it's"
+Typo reported by Nesoo:
+/d/nopk/tirun/sandcastle/room/sandcastle10: "why its in broken pieces though..."
+again, "its" s/b "it's"
+Idea reported by Guile Sun Jan 16 02:20:44 2005
+/d/nopk/tirun/locker: We should have a way of seeing what's in storage.  I know it'd be a simple addition, but it'd be somewhat useful.
+Typo reported by Guile:
+/d/nopk/standard/obj/magic/skyquick#7012: Should read "much too far..."
+Bug reported by Cenn:
+/d/nopk/tirun/adv_hall: daos
+Typo reported by Cenn:
+/d/nopk/tirun/bank: Bank, "Your acount is empty!"
+Typo reported by Dubbya:
+/d/nopk/tirun/square: 
+Bug reported by Rull:
+/d/nopk/tirun/square: food that is found from forage abil does not have the id
+of "food"
+Bug reported by Tia:
+/d/nopk/tirun/mage_hall: abuse.
+Bug reported by Tia:
+/d/nopk/tirun/mage_hall: Stonewall Stormy
+Bug reported by Gob:
+/d/nopk/tirun/square: Error: *Error in loading object
+'/d/guilds/AoD/special/helmet' File: "/d/guilds/AoD/storage.c" Line: 34 
+Found that when I logged on." 
+Idea reported by Rueznor Mon Feb 14 20:41:02 2005
+/d/nopk/tirun/square: Private/Public level.  You can turn on or turn off if your level is private or public.
+Idea reported by Rueznor Mon Feb 14 20:41:54 2005
+/d/nopk/tirun/square: Player owned shop, where you can buy a shop for say, 300k gold, and sell for a certain amount of money, and they stay until they are sold.  Maybe standard 300k shop is 5 items, then 5 more items is 100k or something.
+Idea reported by Rueznor Tue Feb 15 00:02:11 2005
+/d/nopk/tirun/square: who female/who male
+Idea reported by Rueznor Tue Feb 15 06:00:40 2005
+/d/nopk/tirun/square: A system that makes it so that after you PK someone, you can't attack them for the 5 days, so people don't slip up.
+Praise given by Indalecio Tue Feb 15 21:22:26 2005
+/d/nopk/standard/rain_forest/corinthor/rooms/servantq1: kataan this is a really really wicked subclass :D
+Idea reported by Rueznor Fri Feb 18 03:42:38 2005
+/d/nopk/tirun/square: Have "inventory other" and "inventory worn", etc, have the Total Weight be total weight of everything.
+Bug reported by Rueznor:
+/d/nopk/tirun/square: Long whip on Welcoming Mage.  This item bleeds BOLD RED,
+and needs a RESET at the end of it.
+Bug reported by Rueznor:
+/d/nopk/tirun/mage_hall: The Hidden Race quest shows up on "bio" as "krotoan",
+and when you goto class hall and type "list" after doing it, it says you haven't
+done it.
+Typo reported by Rueznor:
+/d/nopk/tirun/square: Two Bedroom Keies
+Bug reported by Rueznor:
+/d/nopk/tirun/square: Pyromancer level 50 spell (shroud) is weaker than level 36
+spell (sear).  More info on pyromancer board.
+Idea reported by Rueznor Sun Feb 20 13:55:36 2005
+/d/nopk/tirun/square: I think that when you mark a wax, there should be something that lets the room know.
+Bug reported by Luck:
+/d/nopk/tirun/square: setenv the tzone command of setenv doesnt work, setenv
+TZONE CST still displays HST on 'time'
+Typo reported by Rueznor:
+/d/nopk/tirun/wand/gypsy/gypsy_join: When you type 'preview' at the gypsy hall,
+it says "Player seeks to learn about bards."
+Bug reported by Carina:
+/d/nopk/tirun/hhouse/outside: You find a small note in the loose dirt.          
+/d/nopk/tirun/hhouse/codenote.c line 14: Wrong number of arguments to set   
+Expected: 2  Got: 1 before ;        ERROR: An error has occured.  Please mail an
+immortal with information on what
+Idea reported by Harry Wed Feb 23 20:10:12 2005
+/d/nopk/standard/rain_forest/corinthor/rooms/palacew4: autoget, like autobag but with get instead of sac
+Bug reported by Xille:
+/d/nopk/tirun/wand/bard/bard_hall: when people go linkdead and are force quit
+4(?) hours later, it shows them as quitting if you have them on your buddylist
+or buddylist all, it shouldn't do that, it's confusing, a simple
+is_interactive() check or something like that should fix it up
+Idea reported by Dubbya Sun Feb 27 18:00:54 2005
+/d/nopk/tirun/square: you should be able to dump out your bags/diamonds in the pit, cuz i got like tons of things in my diamonds that cant be sold, and it would be very tedious to take em out and drop em one by one
+Idea reported by Smite Tue Mar  1 08:53:40 2005
+/d/nopk/tirun/dragon_hall: bring disease spell back but make it leave a death mark...
+Bug reported by Gor:
+/d/nopk/tirun/fighter/warrior/warrior_hall: I wield two four bladed axes but now
+it says "You are already wielding that!" when i try to wield axe 2.
+Idea reported by Dubbya Sun Mar  6 15:17:53 2005
+/d/nopk/tirun/square: autoget, like autobag except it works with get, and getting things from pits
+Typo reported by Dubbya:
+/d/nopk/tirun/square1: 
+Bug reported by Aximili:
+/d/nopk/tirun/square: in the third level of sewers, none of the angel mobs
+wield their blessed blade weapons, but its always on there corpse 
+Bug reported by Gor:
+/d/nopk/trollcaves/room/cave11: /d/nopk/trollcaves/room/cave12.c line 169:
+Missing type for argument before )
+Bug reported by Gor:
+/d/nopk/trollcaves/room/cave11: /d/nopk/trollcaves/room/cave12.c line 173:
+Undefined function rescue_fmv before ; }
+Typo reported by Dubbya:
+/d/nopk/tirun/square: There's a typo in the slimy gloves desc and in the lazy
+guard room in purgatory the word <wooden> is spelled woodem in either the
+room desc or an item desd 
+Typo reported by Masada:
+/d/nopk/tirun/square: plaque in tirun [] (where newbies arrive): "The gods who
+sit on high give thanks to ye who have helped in the creation of this, our
+world." Several names are engraved below an additional inscription. It reads:
+Great thanks go out to all, but especially to: (names)
+Typo reported by Masada:
+/d/nopk/tirun/square: tirun park/[] The typo of 'Gods' in the second sentence of
+the room's general description conflicts with the spelling of 'gods' in the
+inscription on the plaque. <see previous typo report> Pick one way (lower case
+is proper) and stick with it. Same for the occurence of "Gods" in the fourth
+sentence. Also, you should put a comma in the second sentence: "It is a place of
+peace and rest, dedicated to the gods of the realm." You could additionally drop
+out 'upon this place' ... since it's implied that it IS this place by the
+context. Also, drop 'Not' from the start of the next sentence since it confuses
+the meaning; instead, use 'Even time does not invade ...'
+Typo reported by Masada:
+/d/nopk/tirun/square: firepit in Tirun [] "This large pit is used by players to
+discard unwanted items. The less-fortunate scavencge them from time to time, and
+put them to new and sometimes better uses."
+Typo reported by Masada:
+/d/nopk/tirun/square: Lighting a fire in Tirun []: currently, takes the player's
+object file name and appends and 's' (eg, 'Carinas fire comes to life.') The
+closer-to-proper method would be to use an apostrophe-s, which announces
+ownership. This will still be wrong in the case of a name ending in 's' or 'x,'
+but it'll be much closer to right.
+Typo reported by Masada:
+/d/nopk/tirun/square: Tirun [] fountain. "The workmanship of the fountain is
+(spectacular, magnificent, outstanding).  In fact, it may be the finest you've
+ever seen in your entire life. Its centerpiece is a statue of a mighty dragon,
+symbol of Tirun's strength and steadfastness in battle. Water pours from the
+dragon's mount into a pool at its feet. A gold plaque has been mounted here."
+Typo reported by Dirac:
+/d/nopk/tirun/rogue_hall: In the help deception the word "flexible" is
+misspelled in the help for agility
+Typo reported by Fiona:
+/d/nopk/forest/path/room/enter1: burried should be buried
+Typo reported by Dubbya:
+/d/nopk/tirun/bank: help thief Thieves are known for thier greed and
+cowardace. should be cowardice 
+Typo reported by Sidnee:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: The Sorceror Board of Psionics
+>>Sorcerer
+Typo reported by Sidnee:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: Welcome to the Sorceror Hall
+>>Sorcerer
+Typo reported by Sidnee:
+/d/nopk/tirun/mage/sorceror/sorceror_join: ..will tell you about becoming a
+sorceror.  >>>sorcerer.
+Typo reported by Keanne:
+/d/nopk/tirun/mage/wizard/wizard_hall: "Spells have been updated to be in better
+balance. If you think a spell is to weak or to powerful please post it on your
+class or subclass board. With your help we can get spells in shape and make this
+a better place to play for mages."  It should be TOO
+Idea reported by Tal Sat Mar 26 00:47:37 2005
+/d/nopk/tirun/square: party it would be nice if you could make it so you can hide your vitals when in party, some people dont want others to see them *coughyakkocough*
+Bug reported by A shadow:
+/d/nopk/standard/adv_inner: <auction> Cenn has bid 200 cenn on Cenn's A shot of
+Quickening.   I probably just forgot to notify_fail people who try invalid
+currency types
+Bug reported by Nightshade:
+/d/nopk/standard/adv_inner: I fixed the auction thing
+Bug reported by Kaster:
+/d/nopk/tirun/square: if something is too heavy in your inventory, it will
+dissappear instead of dropping to the ground
+Idea reported by Endbringer Mon Mar 28 22:23:57 2005
+/d/nopk/tirun/square: when stealing/picking, and fail in a no law zone, you should not go outlaw?
+Idea reported by Endbringer Mon Mar 28 22:24:07 2005
+/d/nopk/tirun/square: the armour in dunsinane be worth more gold
+Bug reported by Kukailiamoku:
+/d/nopk/trollcaves/room/cave11: /d/nopk/trollcaves/room/cave12.c line 169:
+Missing type for argument before ) /d/nopk/trollcaves/room/cave12.c line 173:
+Undefined function rescue_fmv before   } 
+Typo reported by Harp:
+/d/nopk/tirun/square: there's a typo in the pimp command ~ Carina reaches
+back like a pimp and slap Ymei. should be slaps 
+Idea reported by Trooper Sat Apr  2 12:12:24 2005
+/d/nopk/tirun/rogue_hall: firstaid a scout and ranger ability that gives them bonus healing from oil/ointments (not much) and allows them to heal others with oil and ointment as well.
+Idea reported by Vorinn Fri Apr  8 01:33:32 2005
+/d/nopk/tirun/square: "Calendar", a command which would show every month and how many days are in them, in order.  That way, we would know which month came before which in Primal Darkness.  It would make comparing ages less difficult, as well.
+Bug reported by Vorinn:
+/d/nopk/standard/rain_forest/corinthor/rooms/palacee4: Backpacks do not show
+percent full
+Bug reported by Smite:
+/d/nopk/tirun/dragon_hall: some classes can stack ointment/ability while others
+can't. i think none of them should be able to stack.
+Bug reported by Leviathas:
+/d/nopk/tirun/pubstart: Me - I can't seem to access the who list, or read the
+board, or finger, etc.  
+Typo reported by Cortoth:
+/d/nopk/standard/outlands/cover1: help credits 'alot' should be 'a lot' (typoed
+2x)
+Idea reported by Cenn Sat Jul  9 13:47:13 2005
+/d/nopk/tirun/chapel: 3way mudmarriages
+Idea reported by Cenn Sat Jul  9 14:06:05 2005
+/d/nopk/tirun/pub: Command in bars, "buy 150 firebreather" to get rid of having to spam it.
+Bug reported by Levi:
+/d/nopk/standard/setter: Leviathas is broken again.  I can't enter any
+commands as him. 
+Bug reported by Levi:
+/d/nopk/standard/adv_inner: help ftp
+Bug reported by Levi:
+/d/nopk/standard/adv_inner: help netstat
+Bug reported by Cortoth:
+/d/nopk/tirun/pubstart: l It is bright. You feel at peace here. The Drowning
+Fish Tavern This is the south end of the bar.  An extremely old message board
+hangs from the wall to the south.  The floor, composed of long pieces of
+mahogany, has been worn greatly with years of use.  This is the best place in
+town to keep up with current events, as most everyone passing by the bar with
+any news, will post it on the message board.  A barkeep tends the bar to the
+north.    There are two obvious exits:  north, and up.  Tirun Board < 1
+Unread, 180 Posts > is here.  l board ERROR: An error has occured.  Please
+mail an immortal with information on what you were doing at the time of this
+error and the following information: Error: *Cannot index type 'int' using [
+.. ] operator. File: "/adm/simul_efun/time.c" Line: 52 
+Bug reported by Jumble:
+/d/nopk/tirun/mage/necromancer/necromancer_hall: You have the following
+locations marked in your mind: ["0"] : Illuminati Magic Shop ERROR: An error
+has occured.  Please mail an immortal with information on what you were doing
+at the time of this error and the following information: Error: *call_other()
+couldn't find object File: "/cmds/skills/_gate.c" Line: 35  
+Idea reported by Narsimha Thu Sep 29 12:43:29 2005
+/d/nopk/tirun/weaponsmith_shop: That Jalix also sharpened weapons.
+Bug reported by Cortoth:
+/d/nopk/tirun/edovin2: calendar ERROR: An error has occured.  Please mail an
+immortal with information on what you were doing at the time of this error
+and the following information: Error: *Array index must be positive or zero.
+File: "/daemon/events_d.c" Line: 232 help calendar  Primal Darkness Help
+System Version 2 Topic: calendar                      Category: Mortal
+Command -------------------------------------------------------------  
+Bug reported by Cortoth:
+/d/nopk/tirun/edovin4: There are three obvious exits:  west, east, and enter.
+A disused fane is here.  hp: 2600|sp: 1712|mp: 4700 >  survey You see nothing
+west You see an object east. /d/nopk/tirun/houses/tauran1.c line 40: Missing
+type for argument before )  /d/nopk/tirun/houses/tauran1.c line 54: Missing
+type for argument before ) 
+Bug reported by Niv:
+/d/nopk/tirun/oil_shop: 10 oil
+Bug reported by Aziraphale:
+/d/nopk/tirun/square: the reward for my quest in Rhondale is bugged. If you have
+a boost to your stats it will set your stats to the current boost + 1. It does
+this by using query_stat() rather than query_base_stat(), which is a bad bug if
+anyone know how it worked.
+Bug reported by Aziraphale:
+/d/nopk/tirun/square: and I didn't know about it until it affected me when I was
+playing (I got it with godspeed)
+Idea reported by Lina Mon Dec 19 03:32:16 2005
+/d/nopk/tirun/whonin6: notify limbs = lets you know when your limbs are in critical condition such a 80% damage or more
+Typo reported by Eios:
+/d/nopk/tirun/square: on the burp emote the fullstop at the end is spaced out
+wrong eg: Eios burps .
+Bug reported by Ironman:
+/d/nopk/tirun/whonin1: the container bug poped up again....... this time Merlin
+had the sam problem
+Typo reported by Ceril:
+/d/nopk/standard/forest4: tame ability - when you tame something and it follows
+you around, the enter message says "it's owner", but it should say "its owner"
+Bug reported by Otto:
+/d/nopk/tirun/rogue/thug/thug_hall: smash this ability initiates combat even if
+a) you are wielding weapons and can't use it, or b) it says there is nothing to
+smash them into
+Bug reported by Otto:
+/d/nopk/tirun/rogue/thug/thug_hall: clobber this ability initiates combat even
+if you are wielding weapons and can't use it
+Bug reported by Otto:
+/d/nopk/tirun/rogue/thug/thug_hall: smash this ability gives multiple messages
+in some locations, such as "You smash Blah into a tree!" followed by "You smash
+Blah into a cliff face!" all for one use
+Idea reported by Piehl Thu Jan 12 00:44:26 2006
+/d/nopk/tirun/square: Image Well.. I was killing Shallazea earlier tonight and it got me thinking. If you kill an image of her and then she transforms, wouldn't it be a good ability to trick someone with, like say, your image is in the square while your out xping or something. I was thinking a Sorc or Assasin(Mainly because ninjas were thought to have powers like that) or a certain race. It's just an idea..
+Bug reported by Nulvect:
+/d/nopk/tirun/square: the keep spell does not work correctly if the item you
+cast it on is put into a container (such as the pit), people can get it out but
+then cannot give it away, but are able to drop it
+Idea reported by Endbringer Mon Jan 16 20:13:06 2006
+/d/nopk/tirun/square8: An buy all command for shops, so you can buy everything in a shops inventory.
+Typo reported by Aidan:
+/d/nopk/arlon/room/stoneshop: It's pieces, not peices.
+Bug reported by Hanzo:
+/d/nopk/tirun/hospital: I found a bug in the ointment it cost 200 gold coins
+for 1 vail of 20 uses but if you type buy ointment with 20 gold on you it
+gives you vail just lettin yall know. 
+Bug reported by Hanzo:
+/d/nopk/tirun/hospital: P.S. It only works if you type buy ointment it won't
+work if you type buy 1 ointment. forgot to add that party to the earlier bug
+report. 
+Typo reported by Aidan:
+/d/nopk/arlon/room/plains19: For openpalm, when I have too little SP, it says
+"You are to tired." Should be "too tired".
+Bug reported by Eog:
+/d/nopk/standard/rain_forest/corinthor/rooms/palaceee2: In Leseld's room, my
+song sinners psalm will not produce faeries to attack Leseld. I thought it might
+be some sort of bug? Thank you.
+Bug reported by Armageddon:
+/d/nopk/tirun/square: I can divorce people and Aximili says im not suppose to
+be able to just letting yall know. 
+Bug reported by Desirae:
+/d/nopk/tirun/square: 
+Typo reported by Atornthalios:
+/d/nopk/tirun/eganthus3: In the help files, under the Topic: Antipaladin 
+opossit - opposite 
+Bug reported by Xellos:
+/d/nopk/tirun/locker: Supplication + Ironman.  It seems that if you use
+supplication and ironman immediately after, that even when supplication wears
+off, the stats pnts gained will remain for the duration of ironman at
+least...sometimes lasting longer.  it happened at least twice that i
+noticed...don't know if its just a random glitch, or an actual bug.
+Bug reported by Sabado:
+/d/nopk/tirun/square: When I make chaps, description says: A well crafted
+leather cap, made by Sabado.
+Bug reported by Ironman:
+/d/nopk/tirun/square: There is a typo on the Spider Gauntlets......... thier 
+should be their 
+Bug reported by Sabado:
+/d/nopk/tirun/square: I wanted to test a theory. So I had Nero ride a horse and
+take it to the forest with me. I was able to tame his horse and steal it away
+from him. He stayed put and his horse followed me to the []. But the horse in
+the [] still said (ridden by Nero). Thank you.
+Bug reported by Arma:
+/d/nopk/tirun/sage_room: I feel as though this is bull... My alt tried to
+steal from someone in merk he is a thief he went outlaw for trying to steal
+in a lawless zone... Whats the point in being a thief! If I could have just
+went assassin and murdered the person got everything I wanted and no loss at
+all... 
+Idea reported by Sabado Wed Mar 22 17:10:01 2006
+/d/nopk/tirun/square: It seems that until you subclass, you cannot do much with your character. I think it would be nice if a non-subclassed member of a class could get some limited abilities of a couple different classes which could help them decide.
+Idea reported by Sabado Wed Mar 22 17:12:31 2006
+/d/nopk/tirun/square: I misspoke. It seems that until you subclass, you cannot do much with your character. I think it would be nice if a non-subclassed member of a class could get some limited abilities of a couple different subclasses which could help them decide.
+Bug reported by Arma:
+/d/nopk/tirun/square: I will try to report this AGAIN you can buy ointment
+for 20 gold just type buy ointment while you have 20 gold coins on you... 
+Bug reported by Arma:
+/d/nopk/tirun/warehouse: Peek is broken... doesn't work at all. 
+Bug reported by Smite:
+/d/nopk/tirun/dragon_hall: boost should be heavily healing based and wis.
+kataans should have a weak boost :|
+Bug reported by Luke:
+/d/nopk/tirun/square: slo killed me and didn't go outlaw. thanks for the
+help. 
+Bug reported by Xerxes:
+/d/nopk/tirun/boatstore: The boat describe whit changed the filter on it
+because it was messing up has an error on it now and I can't set a describe. 
+Bug reported by Tempest:
+/d/nopk/tirun/square: dance in the shadows- when i ran out of sp while dancing
+it said you stop dancing, but i was still in the shadows.  After that, i had to
+dance in the shadows to unfade and was shadowed when i didnt dance
+Bug reported by Swizz:
+/d/nopk/tirun/square: q 
+Bug reported by Roelstra:
+/d/nopk/tirun/square: It seems to be a bug that you can summon an assassin to
+attack someone every round.  Nulvect was able to abuse this and stop me from
+being able to EXP.  The fact that I didn't know where he was, and he could
+simply do this hiding wherever he wants, makes it a very tricky spell.  It
+should probably just be removed, or be given a cap so it can only be cast
+1ce/hour or so.
+Idea reported by Smite Mon Jun  5 18:30:27 2006
+/d/nopk/tirun/square: pfft command to emote Smite PFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFTz
+Idea reported by Tal Tue Jul  4 02:42:29 2006
+/d/nopk/tirun/square: command it would be cool to have a command that lets you see all the xp youve ever obtained on said char
+Bug reported by Furiae:
+/d/nopk/tirun/square: the mage bags if you have more then one bag one has things
+in it and the other doesn't you try to drop the empty bag and keep you other 
+bag you still have the empty one
+Bug reported by A shadow:
+/d/nopk/tirun/square: you go outlaw in lawless areas for stealing...  
+Bug reported by Arcanis:
+/d/nopk/tirun/square: when you try to steal stuff from the viper, butterfly,
+and ghast it gives you a bug message all of those monsters are in merk btw
+not really important but its a bug :p 
+Bug reported by Nightshade:
+/d/nopk/tirun/pubstart: Since you guys are working on bugs and stuff...  I
+had someone tell me about a bug with auction.  Basically if you put an item
+up for auction, then disconnect (dont know if just LD or quit) you can bid on
+your own item.  and apparently you "win", getting your money doubled.  They
+say this breaks auctions til reboot, but I'm sure it's nothing that an update
+of the auction daemon wouldnt fix if you're going to test it.  They say you
+can keep bidding on your own item and continually make more money 
+Idea reported by Escobar Tue Jul 11 03:44:42 2006
+/d/nopk/tirun/library: how about a surcharge for the auction system and have a messenger bring it to you for an extra 10% of the purchase price or so?
+Bug reported by Escobar:
+/d/nopk/trollcaves/room/cave12: I have an infinite torch in the troll caves and
+I cant even see in here.
+Bug reported by Mathiu:
+/d/nopk/tirun/square: a room in helgrath where the illuminati entrance used
+to be telepeports you back to tirun when you enter, its very annoying when
+you break a seal to get tehre and get telported back, its like that in a few
+locations 
+Bug reported by Choi:
+/d/nopk/tirun/locker: I carry a long blue dress. Just because there's 15
+characters all together. Well, when I log out and come back, it turns green.
+Which has an extra character.
+Idea reported by Mathiu Fri Jul 14 23:19:38 2006
+/d/nopk/tirun/square: enemylist can yall make it so it works the same as buddylist, you can just do enemylist add all and everybody is on it?
+Bug reported by Jaida:
+/d/nopk/tirun/square: i cant remove any of my armour 
+Bug reported by Nightshade:
+/d/nopk/tirun/pubstart: When someone uses the webpage to make a post, a message
+that says "Post was successful on the newbie board." goes out to everyone.  I
+imagine that was not intentional.
+Bug reported by Bahamut:
+/d/nopk/tirun/warehouse2: Crate, in this room there is a bug that can be
+missused by players. If I do move crate, a rat will pop up and attack me. If I
+do move crate again another rate will come on and on and on. Perhaps an
+alternative solution is better then to get rats over and over. A message saying
+u move the crate and nothing happens if I am not supposed to get there that is.
+Yours respectfully, Bahamut.
+Bug reported by Nightshade:
+/d/nopk/tirun/square: The forehead burn mark from non-angels wearing a halo. 
+You can have more than one, and it really doesnt make sense to have more than
+one.  Perhaps add an init() that looks for other instances and gets rid of
+additional instances?  I think the code for the burn mark may be in
+/wizards/inferno somewhere.  There or in the lodos dir.
+Typo reported by Zondal:
+/d/nopk/tirun/square: I think there may be a small problem with the backpack. 
+When it tells you how much is in the backpack "This backpack is 0%" / "full" 
+The full is wraped around onto a new line, it may be my computer, but just
+checking in case.
+Typo reported by Pythagoras:
+/d/nopk/tirun/square: Well, the typo isn't in this room perse, but the rules
+have a typo in them.  Rule number 17, the one about finger info etc, says
+referances to illegal activities.  It should read "references" of course, unless
+there's some sort of British spelling or something I'm not aware of, in which
+case disregard this message.
+Idea reported by Smite Thu Jul 20 02:36:09 2006
+/d/nopk/tirun/square: show command which allows player to show an item to <person>
+Typo reported by Vayne:
+/d/nopk/tirun/square: moan, comes out "moans eroticly" Supposed to be
+erotically. Vayne 
+Typo reported by Bile:
+/d/nopk/tirun/clergy/cleric/cleric_old: Alter is spelled Altar.
+Bug reported by Rylde:
+/d/nopk/tirun/fighter_hall: freyed-whip its considered a projectile weapon when
+its suposed to be a flail.
+Bug reported by Kilojinaklhaha:
+/d/nopk/tirun/square1: colosseuemote still works when your gaged 
+Typo reported by Zadora:
+/d/nopk/tirun/square: Help Cleric has a typo in the first description line...
+s/b their not thier
+Bug reported by A shadow:
+/d/nopk/tirun/square: i think only clergy is supposed to be able to divorce
+people... everyone can. 
+Typo reported by Hanibal:
+/d/nopk/tirun/square: help lionfang "sides of their target in he vital areas"
+Praise given by Bahamut Tue Aug 15 09:56:54 2006
+/d/nopk/tirun/obj/misc/seal_blank#101: I just wanna say this place rocks and thank the coder for his/her work on this place.
+Bug reported by Nightshade:
+/d/nopk/tirun/rogue/rogue2: you can gate and scry into/outof this room (rogue
+hall)
+Bug reported by Nightshade:
+/d/nopk/standard/square: this room is teleportable too...  some mages have gate
+marked to it
+Bug reported by Endbringer:
+/d/nopk/tirun/square: I got two murder offenses for killing a single person in
+Tenebrae.
+Bug reported by Endbringer:
+/d/nopk/tirun/square: Possible bug: I got a murder offense for killing an outlaw
+in lodos.
+Bug reported by Sugarcandy:
+/d/nopk/tirun/square6: help buguiling step 
+Idea reported by Uzamaki Wed Aug 23 03:29:23 2006
+/d/nopk/tirun/library: The auction house should be added to newbie guide maps
+Bug reported by Zondal:
+/d/nopk/tirun/square: There are two boards in the bard hall.
+Bug reported by Ciat:
+/d/nopk/tirun/edovin4: In the room with the disused fane, if you type survey you
+get this message "/d/nopk/tirun/houses/tauran1.c line 40: Missing type for
+argument before )" As well as the same message below it but instead of line 40,
+it is line 54.
+Idea reported by Lamiai Sun Sep  3 16:39:35 2006
+/d/nopk/tirun/bank:  deposite all < deposites all money into the bank>
+Typo reported by Sparticus:
+/d/nopk/tirun/square: forbidden cutlass says this cutlass is formed from the
+anicent wolf pack anicent supposed to be ancient i tink Sparticus 
+Typo reported by Millenia:
+/d/nopk/tirun/edovin5: : description when one looks at house, impossible needs
+another s
+Typo reported by Uzamaki:
+/d/nopk/tirun/square: when u wield bola, it says dispair instead of despair.
+Typo reported by Zondal:
+/d/nopk/tirun/wand/bard/bard_join: in ballad of blood, the last bit says "You
+strike fear into the hearts of your enemies and inspire your alies."  alies
+should be allies.
+Typo reported by Arthryn:
+/d/nopk/tirun/fighter/paladin/paladin_hall: There is a typo in the help file
+for mages (help mage).  Under the Necromancer listing, it is listed as to
+summo instead of to summon. 
+Bug reported by Fear:
+/d/nopk/tirun/square: stats bug
+Bug reported by Fear:
+/d/nopk/tirun/square: stats bug for kataan i type stats last line says
+File:"/cmds/mortal/_stats.c" Line: 28
+Typo reported by Ardhanarishvara:
+/d/nopk/standard/rain_forest/corinthor/rooms/summer3: in the second sentence
+of room descript it says "ofrest" instead of "forest" 
+Typo reported by Sabbathiel:
+/d/nopk/standard/rain_forest/corinthor/rooms/moons4: elvenmage corinthor is not
+captalized when you look at her
+Typo reported by Sabbathiel:
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem1: place has been made of
+trees THAT have been
+Typo reported by Sabbathiel:
+/d/nopk/arlon/room/stoneshop: read sign show 30 gold peices, should be pieces
+Typo reported by Sabbathiel:
+/d/nopk/tirun/square: moan moans erotically
+Idea reported by Sabbathiel Wed Oct 11 21:34:02 2006
+/d/nopk/tirun/square: (list) When in the shops can we have a command like.. list al.. that shows a list with only the items that will al for you at the present time?
+Typo reported by Sabbathiel:
+/d/nopk/tirun/mage/pyromancer/pyromancer_hall: the heat "does not seem the hurt"
+should be "to hurt"
+Idea reported by Sabbathiel Wed Oct 11 23:03:17 2006
+/d/nopk/tirun/square: snap snap fingers ffeeling
+Bug reported by Takhisis:
+/d/nopk/tirun/square: i die yesterday and 2day my in "score" it says i haven't
+die..
+Typo reported by Sabbathiel:
+/d/nopk/tirun/hhouse/balcony: railing look railing safety
+Typo reported by Ardhanarishvara:
+/d/nopk/tirun/square: drink from fountain drink from fountain Inferi Bow
+description drink from fountain "this bow is EXTREAMLY accurate"  kind
+regards ardhanarishvara 
+Typo reported by Sabbathiel:
+/d/nopk/tirun/square: Inferi Bow extremely
+Bug reported by Joker:
+/d/nopk/tirun/square1: I was attacked by Revel, we never truced...then we
+were sitting in []. The guards sentenced him to death, then the guards put me
+in jail for 2 counts of murder for some reason. Thanks. 
+Bug reported by Damien:
+/d/nopk/tirun/square: the belt of candles doesn't show when worn, and it has
+0 for weight  
+Bug reported by Joker:
+/d/nopk/tirun/square1: ERROR: An error has occured.  Please mail an immortal
+with information on what you were doing at the time of this error and the
+following information: Error: *Bad argument 1 to call_other() Expected:
+string or array or object Got: 0. File: "/cmds/skills/_scry.c" Line: 30 
+Idea reported by Sabbathiel Tue Oct 24 22:41:53 2006
+/d/nopk/tirun/square1: dropextra drops all items not worn or wielded excepting money
+Typo reported by Sparticus:
+/d/nopk/tirun/square: Royal Cloak  it is Royal    Cloak 
+Bug reported by Zondal:
+/d/nopk/tirun/obj/misc/beltofcandles#34290: belt of candles - Doesn't show it as
+worn > (worn)
+Typo reported by Kilik:
+/d/nopk/tirun/sparroom2: the dummy by the fighter hall says "You bite the
+dummy's arm! Owch!" think its supposed to be ouch 
+Typo reported by Kilik:
+/d/nopk/tirun/square: Syntax: <keep [what] for [player] when you type keep
+sword it gives you the fail message type "Keep what from player" this is very
+missleading. 
+Bug reported by Kilik:
+/d/nopk/tirun/square: cauterize can be used on other people and im pretty
+sure thats not supposed to work like that because it hurts limbs a lot so
+could be used for pk and if it is you can use it on level 1's. 
+Typo reported by Sparticus:
+/d/nopk/tirun/square: Belt of Candles when u wear it doesnt say worn when u
+press i Sparticus 
+Bug reported by Neji:
+/d/nopk/tirun/pubstart: in lodos some dude offers to resurrect you its
+spelled wrong on the list and when you try to it gives you a error message 
+Bug reported by Kilik:
+/d/nopk/tirun/quaint: the injured child in the quaint peaceful house in tirun
+keeps repop stacking. 
+Bug reported by Kilik:
+/d/nopk/tirun/hhouse/1: in the scary looking house in tirun after you search
+endtables you get a note if you type just read and not read note it gives you
+an error message. 
+Bug reported by Carina:
+/d/nopk/tirun/auc_house: i well i tried showing my whole inventory, but this
+is not right  | Tattered gloves                               |    No     |  
+198  | | Tattered boots                                |    No     |   195  |
+| Cloak of the Dead                             |    No     |   195  | 
+Bug reported by Arcanis:
+/d/nopk/tirun/square: while in a party if someone remorts while in it for
+example im Level A and he's lvl A and we're in a party together he can remort to
+a lvl 1 whatever or a lower alt and basically get fed to that higher lvl was
+wondering if you could fix that so their booted automatically in order to remort
+or something? or quit em out, perhaps?
+Bug reported by Arcanis:
+/d/nopk/tirun/square: this bug involves with one being overweight at 200% and
+then rolling stats to a lower str so your weight is something like 250% if you
+die while your overweight like that and try to buy oils from patrick the oil
+seller he gives you negative oils and you seem to gain money instead.
+Typo reported by Ideysus:
+/d/nopk/arlon/room/den1: The lion in this room has "dominate hunter", I think
+it should be "dominant hunter". 
+Bug reported by Ideysus:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: "history" displays correctly
+except the entry at the bottom should be at the top. 
+Bug reported by Escobar:
+/d/nopk/tirun/weapon: I mugged the butterfly on merk for its stinger. It shows
+up in inv
+Bug reported by Ideysus:
+/d/nopk/tirun/booth: "help unalias" -> "*call_other() couldn't find object"
+File: "/cmds/mortal/_unalias.c" Line: 36
+Bug reported by Ghan:
+/d/nopk/tirun/square: skin when someone looks at skins from an outside point of
+view it shows them looking at ). instead of a elf skin here is the eg Nejaa
+looks over the 0.
+Idea reported by Krayola Wed Mar 28 16:55:16 2007
+/d/nopk/tirun/square: It would be a good idea to allow summons/etc in the arena, especially since at lower levels a kataan's summons are at least half of his killing power.
+Bug reported by Lucy:
+/d/nopk/tirun/square: bringing you back to the []...its the illuninati entrance
+brings you back to the [], showing twice vs just telling you cannot enter.
+Bug reported by Hinata:
+/d/nopk/arlon/room/square: Hey, This is Tai/Yang, I might be wrong on this
+one but could you check on the money code for the townsman west and east of
+Arlon []? I noticed that if you wait a long time the monsters have about 130
+or more gold on them but if you kill them immediately they dont have that
+much gold on them, just wondering if the gold is adding every time its not
+killed every repop session... Lemme know if im wrong , which 88% of the time
+i am  
+Typo reported by Dragosani:
+/d/nopk/tirun/mage/mage_join: After becoming a mage, Elrih says: Find the hall
+of the Necromacer, not necromancer
+Bug reported by Iksrtfo:
+/d/nopk/tirun/tannery: when I type value skin, Garon, the Master Tanner offers
+me 9 silver for it, then says I do not have any use for that. If he wont buy
+skins any longer, please change the message? Thanks. :)
+Bug reported by Hamoto:
+/d/nopk/arlon/room/plains8: The pillows the sleeping cheetah and lion have make
+it where you have to relog in order to see after waking up
+Idea reported by Yetron Wed Jul 11 23:09:51 2007
+/d/nopk/tirun/weapon: adjust the list so itt not only shows what will autoload for you but what you can wield.
+Bug reported by Tilandros:
+/d/nopk/tirun/ehonin1: bard board still messed up
+Typo reported by Ralok:
+/d/nopk/standard/rain_forest/corinthor/rooms/objectshop: Liaqui's description is
+for a female. Says I look over the male elf when I look monster.
+Bug reported by Ralok:
+/d/nopk/standard/cult/ent: When I try to use entangle on a cult extremist, the
+message says: You cannot find an opening to entangle 0. It was the 0 part I
+thought was an error. Thanks.
+Bug reported by Noxus:
+/d/nopk/tirun/square: when saloxs appears right before reboot you can enter
+the arena and teleport to him breaking the colosseum... not a big deal
+because reboot fixes it but thought i'd report it because its a bug non the
+less 
+Idea reported by Kaotic Sat Sep 29 16:56:26 2007
+/d/nopk/tirun/pubstart: places was hopin there was to make places twice their size with twice the mobs because there is not that many places to xp since PD has gotten more active.
+Praise given by Axenos Wed Oct 24 22:53:32 2007
+/d/nopk/standard/rain_forest/corinthor/rooms/objectshop: Thanks for making Liaqui a female!!! :D
+Typo reported by Landara:
+/d/nopk/tirun/clergy/cleric/cleric_old: spelled altar in room discription but
+you type look alter to read its description
+Idea reported by Smite Thu Dec  6 15:12:25 2007
+/d/nopk/tirun/dragon_hall: when improving stats in massive amounts it would be nice to just type improve str or improve dex improve cha, improve con, improve int, improve wis instead of improve strength, improve dexterity, etc.
+Bug reported by Dage:
+/d/nopk/standard/rain_forest/corinthor/rooms/stars6: when using the thug
+'aim' command, there is no error message if your target doesn't exist. If you
+type 'aim at head on gaurd' instead of 'aim at head on guard', you simply
+won't see the 'you aim at the guard's head' message. 
+Idea reported by Dage Sat Dec 22 15:55:57 2007
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem5: Make the help files accessible while sleeping.
+Idea reported by Dage Sat Dec 22 15:56:09 2007
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem5: Make the 'idea' command accessible while sleeping.
+Idea reported by Dage Sat Dec 22 15:56:25 2007
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem5: Make the 'bug' command accessbile while sleeping.
+Typo reported by Dage:
+/d/nopk/standard/rain_forest/corinthor/rooms/npath1: the room description says
+"leading to hte palace."
+Idea reported by Dage Sat Jan 19 21:06:47 2008
+/d/nopk/tirun/auc_house: 'put all in backpack' should work...
+Idea reported by Dage Sat Jan 19 21:26:17 2008
+/d/nopk/arlon/room/plains6: the 'help smash' text should say that it can only be performed without weapons equipped.
+Bug reported by Dage:
+/d/nopk/tirun/rogue/thug/thug_hall: The ScaleMail Armor I have will not equip
+if I do 'wear all'. 
+Bug reported by Uzamaki:
+/d/nopk/tirun/square1: When Rayna used mysticblade, it says "Rayna mutters a few
+words and raises his hands to the air."
+Bug reported by Uzamaki:
+/d/nopk/tirun/square1: Rayna's not a him. :)
+Idea reported by Zehauresh Sun Mar  2 23:49:54 2008
+/d/nopk/arlon/room/oasis: I would like to see party list also show total kills in a session.
+Typo reported by Reis:
+/d/nopk/tirun/locker: Deadly Gauntets from purg, the fail to wear message to
+enviroment is misspellec
+Bug reported by Iksrtfo:
+/d/nopk/tirun/tannery: The skin I bought from Garon, The Master Tanner cannot be
+used in making anything.
+Typo reported by Kelsey:
+/d/nopk/tirun/armour: sign in Drendun shop  Property s/b Property
+Typo reported by Kelsey:
+/d/nopk/tirun/clergy/cleric/cleric_old: akter s/b altar in the inscription in
+room above the church
+Idea reported by Skunk Tue May 13 15:55:21 2008
+/d/nopk/tirun/square: Could you add the amount of banked xp to remort show?
+Bug reported by Axenos:
+/d/nopk/tirun/nveros2: Follow is acting up. If someone follows you, and one of
+you flies or breaks a seal, the follow continues from separate rooms. It could
+get someone killed. Thanks
+Bug reported by Escobar:
+/d/nopk/tirun/square: Dark Steel Leggings. I try to wear these and it says 'You
+are too little to wear these.' If they wont fit a giant and dragons cant wear
+armour, I have no idea who these could possibly be meant for
+Bug reported by Axenos:
+/d/nopk/tirun/square7: My hamster is immortal.
+Bug reported by Axenos:
+/d/nopk/tirun/square: I think I am broken
+Idea reported by Yang Tue Jul  1 15:09:09 2008
+/d/nopk/tirun/pubstart: Story I kinda wish we had a board to leave our Chars story so all can see.  chfn only lets 20 lines, and only is seen if fingered just and idea
+Idea reported by Amaki Sat Jul 19 17:19:32 2008
+/d/nopk/tirun/square: <empty> container - This command could spill all of a container's contents onto the ground or in a pit if one were in the room.
+Idea reported by Cenn Mon Jul 21 14:59:45 2008
+/d/nopk/tirun/square1: I think ressurecting should take the stats from all of your remorts.  People get around it by remorting a new character, ressing on that one, and then remorting back after boot.
+Bug reported by Cenn:
+/d/nopk/tirun/rogue_hall: "The Hidden Race" quest shows up as "krotoan" in bio,
+making it so when I type list in my hall, it lists the quest even though I did
+it.
+Typo reported by Smokey:
+/d/nopk/tirun/pubstart: In 'help ogre' it says "Mose ogres have long....."
+should be most
+Bug reported by A shadow:
+/d/nopk/tirun/wgate: Can remort while cloaked. 
+Idea reported by Rohl Mon Aug 18 18:55:28 2008
+/d/nopk/tirun/square: items Heya I think being able to be able to give/drop/bury a specific # of items. WOuld be very good for spam reduction when I put heads/paws in the pit, or dump them on a friend. also getting rid of extra items in the inventory such as bottles/mugs
+Bug reported by Freddie:
+/d/nopk/tirun/square8: You can only carry 30 balls of wax in your invintory.
+If you buy more after this, the number doesn't increase. Thanks! 
+Typo reported by Jynteral:
+/d/nopk/tirun/bank_vault: Should the room desc say the door on the north....
+Praise given by Uzamaki Tue Sep  9 19:31:18 2008
+/d/nopk/tirun/square: The new consider command is very entertaining. :) Thanks!
+Praise given by Escobar Fri Oct 10 18:06:16 2008
+/d/nopk/tirun/square: I like how now all food and drinks have that label, very handy!
+Bug reported by Maki:
+/d/nopk/standard/rain_forest/corinthor/rooms/palacew4: Orcish Warblade isnt
+classified as a sword. Cant use it in strike
+Bug reported by Axenos:
+/d/nopk/tirun/square: With my rabbits, I can walk in a room, have them bite a
+mob and walk out before they sustain any damage. They should have a round of
+delay after a command like a player, I suppose
+Bug reported by Brialar:
+/d/nopk/tirun/ehonin4: bearsrage
+Bug reported by Brialar:
+/d/nopk/tirun/ehonin4: bearsrage I was able to use bearsrage twice and get
+double the stat amount, do not think that is normal.
+Typo reported by Cenn:
+/d/nopk/tirun/square: whip, long whip from Helgrath mages, has no RESET after
+the color
+Bug reported by Ozzymandias:
+/d/nopk/tirun/square: shadow caverns doesn't repop correctly. Dragons repop but
+trolls do not
+Idea reported by Uzamaki Mon Jan  5 21:19:50 2009
+/d/nopk/tirun/library: there should be revision dates on the rules files so we know which is most current
+Typo reported by Pix:
+/d/nopk/tirun/bank: When the guard says Th-->ei<--ves disgust me.
+Bug reported by Zek:
+/d/nopk/arlon_zoo/rooms/zooentrance: the fountain at the zoo board does not
+quench your thirst.  I'm guessing it should work somewhat like the in the main
+town.
+Bug reported by Kon:
+/d/nopk/tirun/square: I set traps in the arena. Morta tripped them when I wasn't
+inside and it counted as an act of war. Outside, I walked in the room and killed
+him. Please make it so arena traps dont cause real combat, please? Thanks
+Bug reported by Uzamaki:
+/d/nopk/tirun/library: The new buffs are stacking.
+Bug reported by Uzamaki:
+/d/nopk/tirun/square8: Ok, the new buffs are broken. This is how it went
+down. I went linkdead with buffs on and came back. After the buffs faded,
+they remained on. I wasnt  paying attention and they stacked. I was able to
+stack wisdom up to +240. Linkdead seems to freeze the buffs in place. 
+Bug reported by Uzamaki:
+/d/nopk/tirun/square8: reset the stat/skill affected instead of just removing
+what was added by the buff. That'd be my suggestion Cheers Uza 
+Bug reported by Dink:
+/d/nopk/tirun/locker: When you go to store ointment, which i wanted to do cause
+this character is poor, when you take it back out it has all its uses refreshed.
+IE I put it in with 14 doses left and when I took it out it had 20 again.
+Bug reported by Cyan:
+/d/nopk/tirun/locker: This is Cyan, I remorted back to my paladin after a good
+while. And I am taking rediculously increased dmg than last I remember as
+paladin. I removed all my EQ, then put it back on. Then even quit out, and came
+back on. So  I don't know if it's a bug with me, or if the paladin's have been
+changed horridly. If so, having 180+ Dex with godspeed, and 180 strength. Losing
+500-800 lp a round to drows when I used to lose like 300 is a major red flag.
+Thank you, and get back at me when you can
+Typo reported by Uzamaki:
+/d/nopk/tirun/whonin3: It should be "restaurant" , not "restaraunt".
+Typo reported by Knuckle:
+/d/nopk/tirun/square: The aura around Knuckledevours itself!  aurasink
+wearoff typo. 
+Typo reported by Cortoth:
+/d/nopk/arlon/room/stoneshop: dunno if its a typo or not, but entrance prolly
+should be shack and exit should be out?
+Bug reported by Lede:
+/d/nopk/standard/rain_forest/corinthor/rooms/autumn5: peer is broken
+Typo reported by Axenos:
+/d/nopk/tirun/wand/wanderer_join: I'm at the entrance to the wanderer's
+sanctuary and Errand boy was trying to get in. It read: Errand boy attaempts to
+enter the wanderer's sanctuary. Should be attempts.
+Bug reported by Axenos:
+/d/nopk/tirun/wanderer_hall: I tried to "command rabbit to cost". I wondered if
+it was possible to hold onto a pet long enough to alter him through training. I
+got this error message: Error: *Bad argument 1 to explode() (Next Line)
+Expected: string Got: 0. (Next Line) File: "/adm/daemon/advance_d.c" Line: 63
+Bug reported by Alorass:
+/d/nopk/elven_path/rooms/elven_path_87: when i logged in today all my inventory,
+sinew and meat, that i acquired last night has vanished, also have to
+rewield/wear all equipment
+Typo reported by Bill:
+/d/nopk/standard/setter: Theres a word imporant, here, believe it's supposed
+to be important. 
+Idea reported by Aximili Mon Oct 26 17:37:59 2009
+/d/nopk/arlon/room/stoneshop: Name Policy I think it would be very beneficial to put the name policy as step 1 right before name confirmation before a new character is made. I think it would be pretty easy to implement, and it would help with the influx of bad names we've been having lately.
+Bug reported by Raskolnikov:
+/d/nopk/tirun/swganthus: after druid buffs wear off it says I can't carry
+anymore yet i'm only at 22% capacity
+Bug reported by Morcerf:
+/d/nopk/tirun/square: when you have multiple dark boots in a sack it shows at
+"dark bootss"
+Bug reported by Morcerf:
+/d/nopk/tirun/square: dark gloves show as "dark glovess" when you have more than
+1
+Bug reported by Bellos:
+/d/nopk/tirun/square: ""That command exists but is without a help file.  Please
+bug this.""  I typed <help destroy> and thats wot I got.
+Bug reported by Amon:
+/d/nopk/tirun/square: When I kill a Necromancer's Nightstalker I get 32000 xp,
+whereas all the other ones are worth 0.
+Typo reported by Meklod:
+/d/nopk/tirun/square: q 
+Bug reported by Stormbringer:
+/d/nopk/tirun/fighter/paladin/paladin_hall: list command for class halls should
+ignore list newbie
+Bug reported by Smite:
+/d/nopk/tirun/square: read post in tirun square says to go: south east east
+south but with the new room descs its actually south east tavern etc
+Bug reported by Smite:
+/d/nopk/tirun/square: 
+Bug reported by Uzamaki:
+/d/nopk/tirun/square: All my mail is gone! you were doing at the time of this
+error and the following information: 
+Idea reported by Towa Fri Nov  5 23:43:50 2010
+/d/nopk/standard/rain_forest/corinthor/rooms/throne: stop do you think that since bards can stop singing that gypsies should be good to stop dancing? Just asking
+Praise given by Uzamaki Sun Dec  5 16:53:30 2010
+/d/nopk/tirun/square7: Thanks for the event! You guys did a good job of bringing new stuff to the mud always.
+Bug reported by Ozzymandias:
+/d/nopk/newarlon/rooms/25: attacking pelgadiss in arlon bugs you and you cant
+leave or do anyything
+Bug reported by Uzamaki:
+/d/nopk/tirun/square8: The new event gift rings are bugged. If you type wear all
+don't have the gift ring on but wear different rings, it can stack.

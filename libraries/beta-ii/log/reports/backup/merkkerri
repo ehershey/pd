@@ -1,0 +1,359 @@
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity6: town quixxiol is still devided into
+cleric/monk/kattaan and fighter hall has knight/soldier in it
+Bug reported by Leviathas:
+/d/merkkerri/mob/merkkirri/banded#38304: armor types..  you can wear body armor,
+breastplate, etc, many "main" armours together
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity29: some wierd error when i enter the fighter
+hall in merk
+Bug reported by Ashram:
+/d/merkkerri/jungle/merkkirri/mjungle5: something about follow is bugged
+Bug reported by Makaveli:
+/d/merkkerri/jungle/gcity/gcity63: buffer doesnt match its help file 'creates a
+very powerful spell of protection for the mighty.' I'm pretty mighty and its
+really poopy.
+Bug reported by Makaveli:
+/d/merkkerri/jungle/gcity/gcity22: stoneshop in merk still costs 30 gold i
+thought it cost less now
+Bug reported by Makaveli:
+/d/merkkerri/jungle/merkkirri/mjungle30: help clergy - kataans spread evil and
+'choas'
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity6: merk loot is really high value... one run of
+the city gives 10k
+Bug reported by Ashram:
+/d/merkkerri/swamp/swamp62: area that shimmers in swamp... its east and
+southeast in direction in general... exits are n, s, e, and sw.   sw and s are
+both shimmer
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity29: Flail training for warriors is very
+expensive. 100k brings it from 21 to 24. Very expensive compared to all other
+weapons stills
+Bug reported by Wraith:
+/d/merkkerri/mob/merkkirri/samul#13678: Samul Ku'Thull and the shadow who has
+bloodstone daggers are bugged, no heartbeats
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: /include/domains/mjungle.h line 4: Warning:
+redefinition of #define MJUNGLE  before #define MOB "/d/merk
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: /include/domains/mjungle.h line 5: Warning:
+redefinition of #define MOB  before #define MOB "/d/merk
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: /include/domains/gcity.h line 5: Warning:
+redefinition of #define GMOB  before #define MOB "/d/merk
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tomb12: any admins on?
+Bug reported by Wraith:
+/d/merkkerri/jungle/merkkirri/mjungle9: ghasts in the merk camp again
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tomb12: the room on merk that the warrior trips
+over something can't search crack
+Bug reported by Cavalierre:
+/d/merkkerri/swamp/swamp1: /include/domains/mjungle.h line 5: Warning:
+redefinition of #define MOB before the end of line 
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/mjungle48: mug doesn't work
+Bug reported by Faust:
+/d/merkkerri/jungle/gcity/gcity26: /adm/include/sindarii.h line 5: Warning:
+redefinition of #define MOB 
+Bug reported by Faust:
+/d/merkkerri/jungle/gcity/gcity10: /adm/include/sindarii.h line 5: Warning:
+redefsinition of #define MOB ne OBJ     ROOMS "o  
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/mjungle15: the cleric on merk lost its heart beat
+i think
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity26: c/adm/include/sindarii.h line 5: Warning:
+redefinition of #define MOB
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity37: twist hinge to get into a secret area in merk
+gives me this: Bad argument 3 to message()Expected: string or array or object
+Got: 0. program: /d/merkkerri/jungle/gcity/gcity37.c,
+object:/d/merkkerri/jungle/gcity/gcity37, file:
+/d/merkkerri/jungle/gcity/gcity37.c:28
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/secrettower1: the twist hinge area is bugged to get
+out when i use twist hinge at the spot. bad argument stuff
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity59: pull arm is broken on merk statue of queen
+Bug reported by Faust:
+/d/merkkerri/jungle/gcity/treasure#3721: the chest is closed, yet its opened 
+Bug reported by Faust:
+/d/merkkerri/jungle/gcity/gcity63: Bad argument 3 to message() ogram:
+/d/merkkerri/jungle/gcity/gcity63.c, object: /d/merkkerri/jungle/gcity/  
+Bug reported by Ashram:
+/d/merkkerri/jungle/merkkirri/mjungle10: pain is kinda overpowered too... was
+very fast leveling with that
+Bug reported by Faust:
+/d/merkkerri/jungle/merkkirri/tent1: ocean is broken again get soul from
+diamond invoke soul 
+Bug reported by Faust:
+/d/merkkerri/jungle/merkkirri/tomb14: when someone is dested, they keep their
+account so if they are recreated right away, they have all their stored up
+money to help them. 
+Bug reported by Soulfly:
+/d/merkkerri/jungle/gcity/gcity30: In the golden city mage hall i typed
+sorceror and it gave me this "*call_other() couldn't find object, You remain
+where you are. a = 4" 
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity63: "pull arm" on shallzaea's statue in merk
+doesnt work. gives long bad argument message
+Bug reported by Soulfly:
+/d/merkkerri/jungle/gcity/gcity63: I think something in Golden City is
+bugged, when I pulled the arm of the demon queen statue I got "Bad argument 3
+to message() Expected: string or array or object Got: 0. program:
+/d/merkkerri/jungle/gcity/gcity63.c, object:
+/d/merkkerri/jungle/gcity/gcity63, file:
+/d/merkkerri/jungle/gcity/gcity63.c:32" 
+Bug reported by Leviathas:
+/d/merkkerri/jungle/merkkirri/tent4: cant search crate in this room
+Bug reported by Leviathas:
+/d/merkkerri/jungle/merkkirri/outpost2: cant search the barrels here
+Bug reported by Faust:
+/d/merkkerri/jungle/gcity/gcity26: /adm/incluce sindarii.h line 5: Warning:
+redefinition of #define MOB around #define OBJ     ROOMS "o  rogue hall on
+merk 
+Bug reported by Soulfly:
+/d/merkkerri/jungle/gcity/secrettower4: got this while fighting mergg the
+warlord in golden city, but i don't think it has to do with him necesarily,
+just my spell.   Bad argument 3 to message() Expected: string or array or
+object Got: 0. program: /cmds/skills/_staticshield.c, object:
+/cmds/skills/_staticshield, file: /cmds/skills/_staticshield.c:60 , 
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/secrettower1: when you have either a spear or a staff
+in your inv and are trying ti wield knives or daggers it takes the spear or
+staff AS a knife or a dagger and gives you 'You need two hands to wield that.'
+its REALLY agrivating
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/mjungle46: everytime i login after i quit i lose
+eq
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity16: i'm still losing armour
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity1: Too long evaluation. Execution aborted.
+program: /std/object.c, object:/d/guilds/illuminati/obj/heartstone#71278,
+file:/std/object.c:244
+Bug reported by Wraith:
+/d/merkkerri/jungle/merkkirri/tomb13: regular rings: sapphire rings and stuff
+are screwy now, you can wear a buncha them
+Bug reported by Leviathas:
+/d/merkkerri/jungle/merkkirri/tomb13: fireworks i can see them indoors.
+Idea reported by Yakko Sun Mar 10 14:31:17 2002
+/d/merkkerri/jungle/merkkirri/mjungle13: make a hotel with beds and stuff that players can rent
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tomb13: rings
+Bug reported by Faust:
+/d/merkkerri/demonquest/dquest102: /d/merkkerri/demonquest/dquest103.c line
+20: syntax error before )->move(this_object( 
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity6: Illegal to move or destruct an object
+(/d/guilds/darksoul/ashesobj#43892) defining actions from a verb function which
+returns zero.program: (none), object: (none), file: (none)
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity6: Too long evaluation. Execution
+aborted.program: /std/object.c, object: /d/guilds/darksoul/soul#57191, file:
+/std/object.c:242
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity6: Illegal to move or destruct an object
+(/d/guilds/darksoul/ashesobj#43888) defining actions from a verb function which
+returns zero.program: (none), object: (none), file: (none)
+Idea reported by Yakko Tue Mar 19 08:54:52 2002
+/d/merkkerri/jungle/merkkirri/mjungle14: a item that gives more sp
+Bug reported by Kymas:
+/d/merkkerri/jungle/gcity/gcity6: firebomb might hit newbies... not sure i might
+have hit lucifer
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity49: check the chest in merk, somehtins wrong wf
+it
+Bug reported by Soulfly:
+/d/merkkerri/jungle/merkkirri/tomb20: undead warchief is a gnoll not an
+undead. 
+Bug reported by Lucifer:
+/d/merkkerri/demonquest/dquest115: demonstrength, i demondstrengthed and then i
+quit out before it ran out. now i cant do it anymore and my str is still the
+same
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: same goes for seals
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: Illegal to move or destruct an object
+(/std/user#10109) defining actions from a verb function which returns zero.
+program: (none), object: (none), file: (none)
+Typo reported by Wraith:
+/d/merkkerri/swamp/swamp7: merk swamp has descrips with 'you' in them and some
+with no exits when the exit is listed in the descrip
+Bug reported by Soulfly:
+/d/merkkerri/jungle/merkkirri/tomb12: some undead warriors are still gnolls,
+not undead. 
+Bug reported by Rhuan:
+/d/merkkerri/jungle/gcity/gcity52: the treasure chest in the hidden room north
+of the queen is not unlockable with the key off of the real queen. says "that is
+not here!" when i try to unlock
+Typo reported by Kilrog:
+/d/merkkerri/jungle/merkkirri/mjungle30: l parrot 
+Typo reported by Kilrog:
+/d/merkkerri/jungle/merkkirri/mjungle30: parrot, after the word blue in its
+dscirp, everying is blue It is easily identified by its strange blue beak and
+its distinct whistle. , 
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tomb12: sappphire rings
+Bug reported by Wraith:
+/d/merkkerri/jungle/merkkirri/tent1: you can put bag into bag 2 that includes
+all types of bags like diamonds and other stuff, Found by loki
+Bug reported by Wraith:
+/d/merkkerri/jungle/gcity/gcity6: gags can be gotten rid of by putting them into
+lockers, and dying. I dont know enough to fix it
+Bug reported by Elathius:
+/d/merkkerri/jungle/gcity/gcity6: the dwarven race has only 4 fingers on each
+hand and on the help file says they have 5
+Typo reported by Cookie:
+/d/merkkerri/jungle/merkkirri/tomb20: when you butcher the undead warchief, and
+put the meat in your backpack it says You put A bit of 0 meat in a backpack
+(worn). Somehow I don't think he's a 0
+Typo reported by Deathshroud:
+/d/merkkerri/jungle/merkkirri/treeroom: it says warlock instead of warlord
+Bug reported by Rathe:
+/d/merkkerri/demonquest/dquest115: warpike, I can no longer wield my Kataan's
+warpike it says "I do not have the talent to wield this weapon"
+Bug reported by Yakko:
+/d/merkkerri/mob/merkkirri/unmerk#31401: undead warriors after BS i lose my HB
+wielding bloodstones. note lvl 49
+Bug reported by Ashram:
+/d/merkkerri/jungle/merkkirri/outpost1: merk guards dont have enough skill to
+wield their war spears
+Bug reported by Ashram:
+/d/merkkerri/jungle/gcity/gcity33: guards in merk golden city dont use abilities
+(rush/headbutt). dunno what causes it and i dont know if it was intentional
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tomb12: still getting corpses in the room with the
+saphire ring
+Typo reported by Prator:
+/d/merkkerri/jungle/merkkirri/tent1: when a merkkerri blood warrior rushes me it
+gives me the room message "Warrior rushes at Prator and slams his shoulder into
+him!" as well as "Warrior rushes at you, and slams his shoulder into you!"
+Idea reported by Aldur Sat Aug  3 14:21:39 2002
+/d/merkkerri/jungle/merkkirri/mjungle46: Demon/Angel Well, i believe there was an idea about demon and angels having their own class, but instead have it just the same as it is now except maybe change the abilities around like abilities for subclasses or mages... this'd be easier i think
+Bug reported by Hermes:
+/d/merkkerri/jungle/merkkirri/tent2: Holyfire is bugging. Half the time it hits
+nothing
+Bug reported by Prator:
+/d/merkkerri/jungle/merkkirri/tent1: Choke - When merkkerri warriors choke me I
+don't get a message showing my hp/sp/mp.
+Typo reported by Shinkoro:
+/d/merkkerri/jungle/merkkirri/tent2: Look beds..... barracks is full of crude
+cots... 
+Bug reported by Ug:
+/d/merkkerri/jungle/merkkirri/mjungle34: Urmm.... Yeah NS another rage
+bug.... I was partying with baudros (mounted) and i had read that rage was
+fixed i noticed that there was no attack message after combat now... i
+applied oil before raging... combat ended and the oil healed me and i think
+that got me stuck in rage... i am not shure but thats what it looked like....
+
+Bug reported by Rethlan:
+/d/merkkerri/swamp/swamp55: is the unicorn supposed to be able to heal itself
+when a room is hit with stasis?
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity41: i can put stuff into a diamond while in BS
+para
+Bug reported by Wraith:
+/d/merkkerri/swamp/swamp52: the merk trolls attack code is bugged along with the
+unicorns /d/merkkerri/swamp/mob/troll.c
+Idea reported by Yakko Sat Sep 21 23:50:32 2002
+/d/merkkerri/jungle/merkkirri/mjungle27: ointments for cleric on merk
+Idea reported by Yakko Fri Sep 27 01:56:41 2002
+/d/merkkerri/jungle/merkkirri/mjungle18: last buddy list
+Bug reported by Yakko:
+/d/merkkerri/jungle/gcity/gcity1: godspeed
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tent4: i can use ointment while paraed
+Bug reported by Rethlan:
+/d/merkkerri/jungle/gcity/gcity57: when wearing the locket from Sorn, you are
+unable to open any doors
+Bug reported by Aldur:
+/d/merkkerri/jungle/merkkirri/mjungle10: treggrath in merkkerri, lost his
+heartbeat when i was using dragon slayers, i was told this is what i'm ment to
+do with the situation.
+Bug reported by Aldur:
+/d/merkkerri/jungle/gcity/gcity57: tower guard in merkkerri, lost heartbeat
+against me while using dblades.
+Bug reported by Aldur:
+/d/merkkerri/jungle/gcity/gcity44: another tower guard lost heartbeat vs dragon
+slayers
+Bug reported by Prator:
+/d/merkkerri/jungle/gcity/secrettower7: Sahuun, the Merkkerri Blood Warlord uses
+maul (pretty sure, says: "Sahuun MAULS you with a heavy blow!") - But maul
+doesn't show what hp you have been reduced to. Almost died from that >:( . The
+guy is in this room, if you guys get the room's file from this.
+Bug reported by Yakko:
+/d/merkkerri/demonquest/dquest115: got a bug trying to quit out of mail
+Bug reported by Rubicante:
+/d/merkkerri/demonquest/dquest115: fly is bugged
+Idea reported by Yakko Tue Oct 15 19:55:38 2002
+/d/merkkerri/jungle/merkkirri/mjungle11: i like it better when ppl didn't know who was going into the arena
+Praise given by Aldur Mon Oct 21 02:24:56 2002
+/d/merkkerri/jungle/merkkirri/mjungle25: merkkerri this place is one of the best places on the mud i believe. excellent... keep up the good work ;)
+Bug reported by Lily:
+/d/merkkerri/swamp/mob/leafmail#126463: leafmail and scalemail armor can both be
+worn at the same time, but not with wear all
+Praise given by Hermes Thu Oct 24 20:44:06 2002
+/d/merkkerri/jungle/gcity/gcity6: Bob-Dole MOOOOO
+Bug reported by Rubicante:
+/d/merkkerri/jungle/merkkirri/tomb17: when I do list AoD it shows gromph. same
+with list darksoul. He isnt in either guild and he's not even on the mud right
+now
+Idea reported by Yakko Mon Nov  4 11:53:50 2002
+/d/merkkerri/jungle/merkkirri/tent1: show wear damage on weapons...
+Idea reported by Yakko Mon Nov  4 11:54:06 2002
+/d/merkkerri/jungle/merkkirri/tent1: quest to make death scene faster
+Idea reported by Rashka Mon Nov  4 18:50:56 2002
+/d/merkkerri/jungle/merkkirri/tent1: autosaccontainers automatically puts the loot into a container specified
+Typo reported by Shinkoro:
+/d/merkkerri/jungle/gcity/gcity53: Somtimes is spelled wrong 
+Praise given by Altima Thu Nov 14 15:27:28 2002
+/d/merkkerri/jungle/gcity/gcity6: to asmodeus
+Praise given by Altima Thu Nov 14 15:27:38 2002
+/d/merkkerri/jungle/gcity/gcity6: to asmodeus
+Praise given by Altima Thu Nov 14 15:27:52 2002
+/d/merkkerri/jungle/gcity/gcity6: to asmodeus
+Praise given by Altima Thu Nov 14 15:28:40 2002
+/d/merkkerri/jungle/gcity/gcity6: to statue
+Praise given by Altima Thu Nov 14 15:40:21 2002
+/d/merkkerri/jungle/gcity/gcity6: lord asmodeus
+Praise given by Aldur Sat Nov 23 22:42:33 2002
+/d/merkkerri/jungle/merkkirri/tomb12: autobag it rulz, great stuff
+Bug reported by Wraith:
+/d/merkkerri/jungle/merkkirri/mjungle11: bloodlust can be used on monsters,
+lowering their defense
+Idea reported by Muramasa Sun Dec  1 14:25:55 2002
+/d/merkkerri/jungle/merkkirri/mjungle22: partys add a partytime thing to it.
+Bug reported by Aldur:
+/d/merkkerri/jungle/merkkirri/tomb15: roston square isn't a safe zone.. please
+make it one
+Idea reported by Aethar Mon Dec  9 13:58:02 2002
+/d/merkkerri/jungle/merkkirri/tomb3: meditate Allowing a monk or kataan to concentrate their energy and regen their hp/sp/mp more quickly
+Bug reported by Yakko:
+/d/merkkerri/demonquest/dquest115: the syntax for promte in help file is wrong
+Bug reported by Rubicante:
+/d/merkkerri/jungle/gcity/gcity21: vorath doesnt have the skill to wield the
+warpike
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/mjungle5: apply now in removing names
+Bug reported by Shinkoro:
+/d/merkkerri/jungle/gcity/gcity59: For some reason when I try to shield another
+person it gives me "your already shielded".  Wont let me shield the other
+person.
+Bug reported by Pyro:
+/d/merkkerri/jungle/merkkirri/mjungle13: 7       Stormbringer     Wed Jan 29 
+no 8       Necropolis       Wed Jan 29  RE: level 27, no more rings just yet.
+9 (new)>Wraith           Fri Jan 31  kills % Specula leaves east. Mathiu
+<newbie> whoo found my way out 9 emote watches a bug scurry across the floor.
+You emote: Pyro watches a bug scurry across the floor. hp: 507|sp: 190|mp: 2
+>  q What? hp: 507|sp: 190|mp: 2 >  r bug You reply to Wraith: bug hp:
+507|sp: 190|mp: 2 >  l 
+Bug reported by Prator:
+/d/merkkerri/jungle/gcity/gcity55: Even if you fail casting shield because you
+are already shielded, it still prevents you from casting a spell that round.
+Praise given by Hermes Sun Feb  9 03:28:30 2003
+/d/merkkerri/jungle/gcity/gcity6: evil asmodeus
+Bug reported by Yakko:
+/d/merkkerri/jungle/merkkirri/tent1: drop all didn't work

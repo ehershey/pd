@@ -1,0 +1,132 @@
+Praise given by Leviathas Wed Aug  9 00:57:55 2000
+/d/arena/bet: arena arena rocks guys
+Bug reported by Deathshroud:
+/d/arena/start2: guard doesn't work
+Bug reported by Ashram:
+/d/arena/arena5: arena still has hp bug
+Bug reported by Wraith:
+/d/arena/winner:  Array index out of bounds. program: /cmds/skills/_stab.c,
+object: /cmds/skills/_stab, file:/cmds/skills/_stab.c:710        during an arena
+battle between me and hamoto, neither of us could stab
+Bug reported by A shadow:
+/d/arena/bet: Arena is giving out hp again, it boosted me and kiliv when he
+quited out
+Bug reported by Dryfus:
+/d/arena/bet: lifetap seems to be stronger than lifewarp... lifetap is lvl 23
+move and warp is 35
+Bug reported by Wraith:
+/d/arena/bet: I dont know if this is a problem or not, but Im a lvl 41 assassin
+with 30 wis and 30 int, I just went to the arena with a lvl 8 pyro who was able
+to do 39 hp damage a round to me when I was sitting is that right?
+Bug reported by Wraith:
+/d/arena/arena2: horses brought into the arena do not leave with the player
+Bug reported by Ashram:
+/d/arena/bet: buffer is a bit strong again... makes my attacks not hit a mage
+under 20
+Bug reported by Wraith:
+/d/arena/looser: arena dosent show the winner anymore, you dont come out
+Bug reported by Death:
+/d/arena/bet: corrupt spell takes faith away from me when i cast it.
+Bug reported by Tasslehoff:
+/d/arena/looser: in arena fighters are still able to rush after being tripped
+and not standing up. 
+Typo reported by Leviathas:
+/d/arena/looser: circle "Wraith circles around you thrustin their knife into
+your back!"
+Bug reported by Kalidas:
+/d/arena/bet: poison should not last after you exit the arena. you should be
+purified upon exit of the arena
+Typo reported by Cookie:
+/d/arena/arena5: with angels, when they crush life-force, or cast holy levin...
+it needs a space after their name, and it should say "casts" not "cast"
+Idea reported by Slai Fri May 24 11:40:20 2002
+/d/arena/looser: I think we should add more things to the paintball arena such as. 1. Maybe some traps like triplines that slow down people from running, 2. sniper towers that let you use sniper turrets to hit players in far away rooms, 3. a paint grenade (maybe 1 per game?) that when thrown, it sets a timer of about 7 seconds for you to get out of the area and when the timer expires it will explode and hit every player in the area adding 1 point for each target hit to the thrower.
+Bug reported by Neocount:
+/d/arena/looser: ok. a lvl 21 just slashed me for over 300 damage. thats
+insanely overpowered
+Typo reported by Deathshroud:
+/d/arena/arena5: No one is watchingat this time of night.
+Bug reported by Naeblis:
+/d/arena/looser: The wanderers abil: cut can hit outside of a room and trip can
+trip a mounted person
+Bug reported by Cookie:
+/d/arena/bet: holyfire doesn't begin "idle" fighting. It never initiates combat
+with players when it's used... though they take damage.
+Bug reported by Ashram:
+/d/arena/bet: pray rooms dont heal body damage
+Bug reported by Daos:
+/d/arena/looser: with arena exists, goto /d/arena/arena01
+Typo reported by Greg:
+/d/arena/bet: i have a typo!!! to hide this barbarous past time. in the arena
+area lol you wanted em 
+Bug reported by Loki:
+/d/arena/bet: Stuntouch
+Bug reported by Ug:
+/d/arena/arena1: um yeah.... I am stuck in the arena.... bug was caused when
+i entered the arena mounted on baudros (not by choice) i then couldn't
+die..... tested my hp down to -25k.... body damage was still applying... my
+torso got to about 145%. (lotsa ug torsos :P ) When i went Link dead it was
+because there was no other way out... quit retuend no message... restartheart
+gave a: Dissconnected, you have your heartbeat back, room description, no
+change in status... sill bugged....  cant think of any other details atm.... 
+
+Bug reported by Ashram:
+/d/arena/bet: white dragon poison... you poison everything then come back later
+and kill it all with a touch. Tons of exp for free and fast
+Bug reported by Ashram:
+/d/arena/bet: when a mob is killed by holyfire there is a one round delay before
+the mob dies and you have to be in the room for that round
+Bug reported by Rubicante:
+/d/arena/arena10: cant attack people in arena
+Bug reported by Prator:
+/d/arena/winner: Against players in the arena I cannot cast paralyze, I can
+almost never cast lifetap, lifewarp, levin, hurt, pain. They all come up with
+"!ERROR! This is a bug  etc". I can cast any spell on monsters, but not in
+players. Not sure if this is a player or arena thing since I am not game to
+attack someone out of arena.
+Idea reported by Lucifer Mon Sep 23 05:47:14 2002
+/d/arena/bet: "assist" this command will make you attack the monster for the person you assist. Assist <name> you attack the monster that <name> is fighting.
+Bug reported by Hermes:
+/d/arena/looser: Rush messes up holyfire like mad
+Typo reported by Rage:
+/d/arena/winner: Space missing in bladedance: Solidus begin to dance around
+moving hisblades in an intricate pattern! Should be begins, too :) 
+Bug reported by Cookie:
+/d/arena/winner: dragon slayers specials don't seem to be working. I got a
+raging round with 5 sword specials in that one round... doing like 195 damage
+total, with my normal attacks. Seems pretty messed up.
+Bug reported by Lac:
+/d/arena/bet: Hack i wield 2 axes, cause they are 2 handed
+now..(cough*crap*cough) but if i hack, ill still get 4 hacks off, if i wield
+one axe, i get 2 hacks of.. bug or not? 
+Typo reported by Pyro:
+/d/arena/arena5: It is bright. Running north and south through the center of
+Tirun, Veros    |     [ ]  Road stays busy.  Fallor Road intersects Veros
+Road running   |      |  east and west from here.  Far to the south the masts
+of ships | [ ]-[X]-[ ] can be seen above the city walls.  The ancient stones 
+|      |  underfoot run north, south, west, and east making the road    |    
+[ ]  easy to traverse.    There are four obvious exits:  north, south, west,
+and east.    q Q `q 
+Typo reported by Pyro:
+/d/arena/arena5: in the arena watchingat are together at the night
+description. 
+Bug reported by Rubicante:
+/d/arena/arena9: you can summon multiple assassin demons and make them
+assassinate in a round
+Bug reported by Rubicante:
+/d/arena/winner: you can solidify and psistorm in the same round
+Bug reported by Smite:
+/d/arena/looser: vials of blood(guild item) can be used when para'ed.
+Bug reported by Lac:
+/d/arena/bet: stun 
+Bug reported by Cookie:
+/d/arena/arena5: I don't know this for sure, but I do believe that, with a
+crystal amulet, when you die and it breaks, you come back to life, the angel
+kills death and the thing you were fighting, and life moves on. Well, it should
+anyways. However, being a berserker that got me thinking about what we do best,
+Rage. If you are raging, and the amulet breaks, you come back to life, the angel
+fights death... but wait?! You're still raging... so you now attack both
+death... and the angel. A super, can't hardly be beaten angel. And he will kill
+you alot, in a big ole hurry. Something should be done to make sure you can't
+attack death or the angel when you come back to life while in rage. Thanks! Keep
+up the good work.

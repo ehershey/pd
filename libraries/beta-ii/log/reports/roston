@@ -1,0 +1,183 @@
+Typo reported by Tyste:
+/d/roston/drow/obj/d_boots#78038: boots 2 STEEL not STEAL :)
+Bug reported by Sasayaki:
+/d/roston/drow/obj/boots#91110: boots These boots have a typo. 'fo'
+Typo reported by Eios:
+/d/roston/drow/room/room2: When double charge hits there is a typo in the way it
+looks
+Idea reported by Eios Mon Jan 26 21:27:03 2004
+/d/roston/drow/room/room86: make cost more accurate
+Typo reported by Lac:
+/d/roston/drow/room/room69: 2 minute warning in reboot
+Bug reported by Aziraphale:
+/d/roston/drow/room/room59: If you are in combat with a player, you still get
+idles off on them in Tirun.
+Bug reported by Aziraphale:
+/d/roston/drow/room/room90: you can use hte ability 'kill' while charging. So
+you can get idle hits in while waiting for charge to hit.
+Bug reported by Aziraphale:
+/d/roston/drow/room/room4: if you try to use maul andit fails due to low SP, you
+still begin combat with your target
+Bug reported by Aziraphale:
+/d/roston/drow/room/room20: When someone is forcequitted from the freezer, they
+show up as having jsut left the realm over buddylist and enemylist. Can it be
+changed so that if they quit form that room, it doesn't show up? It gets a
+little irritating thinking that you only *just* missed talking to someone, when
+they havne't even been on for 4 hours.
+Bug reported by Aziraphale:
+/d/roston/drow/room/room20: Illuminati has access to the saangreals, they were
+meant to be locked out. Dunno what happened there. I think I already reported
+this on e to Stormy but I dunno, maybe it was a tell and he didn't get it.
+Bug reported by Aziraphale:
+/d/roston/drow/room/room85: drow still wield their weapons on heartbeat, rather
+than create.
+Bug reported by Aziraphale:
+/d/roston/drow/room/room59: Nothing big, the command maul has an extra "\n"
+newline at the end of it's paralyzation message. It just creates more lines on
+the screen that don't really accomplish anything. Ithink it might look better if
+the line wasn't there, because it would make maul look more like a part of
+combat.
+Bug reported by Nulvect:
+/d/roston/rooms/r_crack: the text display of your exp (You ALMOST have
+enough..blah blah) in cost command is usually nowhere near correct, for example
+I'm maybe 3/4s now and it says ALMOST there
+Idea reported by Tahngarth Mon Aug  2 06:29:17 2004
+/d/roston/drow/room/room35: notify limbs warns the player if their body dmg is over 70% for any limb
+Idea reported by Tahngarth Mon Aug  2 06:32:25 2004
+/d/roston/drow/room/room20: make a cleric outside arena entrance that cures body dmg, purifys poison and regenerates limbs for a small price
+Idea reported by Tahngarth Mon Aug  2 06:33:21 2004
+/d/roston/drow/room/room18: allow players to purchase personal pets, and train them up with exp or by direct combat
+Bug reported by Tahngarth:
+/d/roston/drow/room/room41: whirl rush jab need balance revision, as at high
+lvls they do sometimes more dmg than sp abusive slash and hack
+Bug reported by Endbringer:
+/d/roston/drow/room/room79: Monsters dont lose their hands when you sever their
+arms
+Typo reported by Mortis:
+/d/roston/rooms/roston51: -are are-
+Bug reported by Nulvect:
+/d/roston/cave/cave20: the secret passage here has absolutely no hints about how
+to find it, 'jump rock' doesn't make any sense
+Bug reported by Cortoth:
+/d/roston/rooms/roston: *call_other() couldn't find object program:
+/std/user/autoload.c, object: /std/user#12061, file: /std/user/autoload.c:44
+--- trace --- Object: /adm/obj/login#12060, Program: /adm/obj/login.c    in
+get_password() at /adm/obj/login.c:274 arguments were ("kahoku") Object:
+/adm/obj/login#12060, Program: /adm/obj/login.c    in exec_user() at
+/adm/obj/login.c:372 arguments were () Object: /std/user#12061, Program:
+/std/user.c    in setup() at /std/user.c:677 arguments were () locals were:
+0,0,0,0 Object: /std/user#12061, Program: /std/user/autoload.c    in
+load_autoload_obj() at /std/user/autoload.c:44 arguments were () locals were:
+"/d/tirun/obj/weapon/sword",0,0,"/d/tirun/obj/weapon/sword:","",0,0,4 '      
+CATCH' in '/ std/user/autoload.c' ('/      std/user#12061')
+/std/user/autoload.c:44 --- end trace --- *call_other() couldn't find object
+program: /std/user/autoload.c, object: /std/user#12061, file:
+/std/user/autoload.c:44 --- trace --- Object: /adm/obj/login#12060, Program:
+/adm/obj/login.c    in get_password() at /adm/obj/login.c:274 arguments were
+("kahoku") Object: /adm/obj/login#12060, Program: /adm/obj/login.c    in
+exec_user() at /adm/obj/login.c:372 arguments were () Object:
+/std/user#12061, Program: /std/user.c    in setup() at /std/user.c:677
+arguments were () locals were: 0,0,0,0 Object: /std/user#12061, Program:
+/std/user/autoload.c    in load_autoload_obj() at /std/user/autoload.c:44
+arguments were () locals were:
+"/d/tirun/obj/armour/helmet",0,0,"/d/tirun/obj/armour/helmet:","",0,1,4 '    
+CATCH' in '/ std/user/autoload.c' ('/      std/user#12061')
+/std/user/autoload.c:44 --- end trace --- *call_other() couldn't find object
+program: /std/user/autoload.c, object: /std/user#12061, file:
+/std/user/autoload.c:44 --- trace --- Object: /adm/obj/login#12060, Program:
+/adm/obj/login.c    in get_password() at /adm/obj/login.c:274 arguments were
+("kahoku") Object: /adm/obj/login#12060, Program: /adm/obj/login.c    in
+exec_user() at /adm/obj/login.c:372 arguments were () Object:
+/std/user#12061, Program: /std/user.c    in setup() at /std/user.c:677
+arguments were () locals were: 0,0,0,0 Object: /std/user#12061, Program:
+/std/user/autoload.c    in load_autoload_obj() at /std/user/autoload.c:44
+arguments were () locals were:
+"/d/tirun/obj/armour/chainmail",0,0,"/d/tirun/obj/armour/chainmail:","",0,2,4
+'          CATCH' in '/ std/user/autoload.c' ('/      std/user#12061')
+/std/user/autoload.c:44 --- end trace --- *call_other() couldn't find object
+program: /std/user/autoload.c, object: /std/user#12061, file:
+/std/user/autoload.c:44 --- trace --- Object: /adm/obj/login#12060, Program:
+/adm/obj/login.c    in get_password() at /adm/obj/login.c:274 arguments were
+("kahoku") Object: /adm/obj/login#12060, Program: /adm/obj/login.c    in
+exec_user() at /adm/obj/login.c:372 arguments were () Object:
+/std/user#12061, Program: /std/user.c    in setup() at /std/user.c:677
+arguments were () locals were: 0,0,0,0 Object: /std/user#12061, Program:
+/std/user/autoload.c    in load_autoload_obj() at /std/user/autoload.c:44
+arguments were () locals were:
+"/d/tirun/obj/armour/boots",0,0,"/d/tirun/obj/armour/boots:","",0,3,4 '      
+CATCH' in '/ std/user/autoload.c' ('/      std/user#12061')
+/std/user/autoload.c:44 --- end trace --- 
+Typo reported by Skunk:
+/d/roston/rooms/supply: golden robes are made of slik not silk
+Typo reported by Guile:
+/d/roston/rooms/supply: In the long desc, supplys should be supplies.  Also, the
+name of the shopkeep is spelled differently in the long desc.
+Typo reported by Cortoth:
+/d/roston/drow/room/room72: There seems to be a glow comeing (should be
+coming) from the black tent. The drows seem to be very relaxed and clam
+(should be calm). 
+Typo reported by Dubbya:
+/d/roston/rooms/roston: A pendant made of solid crystal, it reflect any light
+that shines on it. *should be reflects*
+Typo reported by Cortoth:
+/d/roston/drow/room/room49: 'pills of weapons' should be 'piles of weapons'
+Bug reported by Smite:
+/d/roston/drow/room/room78: cure's too weak, absorb's a little too strongg,
+nulvect said..must agree
+Typo reported by Cortoth:
+/d/roston/drow/room/room61: Members of the cavalry travel threw (should be
+through) 
+Typo reported by Cortoth:
+/d/roston/drow/room/room53: This part of the camp seems to be quiet bear. 
+(should be bare) 
+Typo reported by Cortoth:
+/d/roston/drow/room/room49: There are pills of (should be piles of) 
+Typo reported by Cortoth:
+/d/roston/drow/room/room35: look like there about to pass out  (should be
+they're), also needs a period at the end of the sentance. 
+Typo reported by Cortoth:
+/d/roston/drow/room/room32: excpet should be except.... There is members should
+be There are members
+Typo reported by Cortoth:
+/d/roston/drow/room/room33: arnt should be aren't
+Typo reported by Cortoth:
+/d/roston/rooms/r_crack3: semes should be seems
+Typo reported by Endbringer:
+/d/roston/darkmouth/room/67: In shadow caverns of roston: This is a dirty black
+troll that seems to have lived his hole life in these
+Typo reported by Endbringer:
+/d/roston/rooms/roston20: the palace in roston, when you look at it. "A hudge
+white palace"
+Bug reported by Otto:
+/d/roston/cave/cave1: I can look sky in this room and the surrounding area which
+is supposed to be a cave, also the mountains outside the cave may not be set to
+mountains, since I can't use smash here
+Bug reported by Arma:
+/d/roston/darkmouth/room/16: I can divorce people thats suppose to be for
+clergy to do. Just thought yall would like to know. 
+Bug reported by Arma:
+/d/roston/darkmouth/room/61: I can charge people while i'm resting... I don't
+think thats right at all. 
+Bug reported by Escobar:
+/d/roston/cave/cave7: walls in room description but nothing to smash monstres
+into.
+Typo reported by Boco:
+/d/roston/rooms/Church: should be priest in description, not pirest
+Bug reported by Escobar:
+/d/roston/drow/room/room90: I bumped a monster then started choking it. It left
+the room normally even though it couldnt break out of my choke hold.
+Typo reported by Crazylegs:
+/d/roston/drow/room/tent2: "destory" in Evil Pyromancer describe
+Typo reported by Jynteral:
+/d/roston/rooms/roston22: hole = whole   the  =  The   no where  = nowhere
+Typo reported by Jynteral:
+/d/roston/rooms/roston21: the church is is
+Typo reported by Jynteral:
+/d/roston/rooms/roston14: footprints   aren't
+Bug reported by Ozzymandias:
+/d/roston/drow/room/room19: I don't know if this is a bug or not, but I can use
+"pin" to get the repper sword from the shopkeeper in Purgatory
+Idea reported by Ozzymandias Wed Apr  8 12:37:42 2009
+/d/roston/drow/room/tent2: if spell caster strength is going up then drow pyro could use a bit of a boost as well
+Idea reported by Uzamaki Wed May 27 09:32:02 2009
+/d/roston/drow/room/room56: I've noticed to kill certain mobs, I will need a certain amount of mp. It'd be awesome if we had a command to inform us when our mp or sp reached a certain point. Thanks for reading.

@@ -1,0 +1,4 @@
+/d/pastarlon/items/armour/spikedgloves.c line 47: parse error before the end of line
+/d/pastarlon/rooms/roads/60.c line 46: parse error before the end of file
+/d/pastarlon/rooms/roads/60.c line 46: parse error before the end of file
+/d/pastarlon/items/weapons/darkblade.c line 21: Illegal to redeclare local name 'atk' before ;

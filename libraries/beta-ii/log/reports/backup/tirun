@@ -1,0 +1,1876 @@
+Bug reported by Bind:
+/d/tirun/sgate: skills
+Bug reported by Bind:
+/d/tirun/egate: abilities
+Bug reported by Assassin:
+/d/tirun/adv_hall: north in the adventerurs hall with the board dosent work
+Bug reported by Assassin:
+/d/tirun/adv_hall: bug help dont work
+Bug reported by Assassin:
+/d/tirun/square: amazon is too hard for 44 xp
+Bug reported by Assassin:
+/d/tirun/druid/druid_grove: east in all n one s of [] dosent work
+Bug reported by Antipaladin:
+/d/tirun/square8: i cannot look at the tirunian camoflage, it says "oh crap,
+adimins broke something'
+Bug reported by Antipaladin:
+/d/tirun/booth: looks like the voteing system is bugged, i got the admin
+breaking something message again
+Bug reported by Assassin:
+/d/tirun/adv_hall: north in adventurers room dont work
+Bug reported by Assassin:
+/d/tirun/weapon: when I sold all from pouch I had 3 shortswords, 2 iron spear
+and a straight jacket, it said You sell a shortsword from a small leather pouch
+for 10 gold.
+Bug reported by Assassin:
+/d/tirun/weapon: and then Tirun is not allowed to destruct Standard
+Bug reported by Seeker:
+/d/tirun/square: woo
+Bug reported by Assassin:
+/d/tirun/square: party dosent show when someone leaaves the party
+Bug reported by Assassin:
+/d/tirun/rogue/rogue_hall: shouldnt agility be easier to raise?
+Bug reported by Assassin:
+/d/tirun/wgate: raknid armour will not 'wear' when you wear all, you have to do
+it seperatly
+Idea reported by Wizard Mon Dec 24 07:53:24 2001
+/d/tirun/square: last tell for party line also would be nifty
+Bug reported by Monk:
+/d/tirun/square: whirl the damage isnt displayed when you take the whirl damage
+most of the time you see the damage that you take from a minor hit right after
+the whirl
+Bug reported by Danovae:
+/d/tirun/pubstart: sacrifice typo
+Bug reported by Danovae:
+/d/tirun/square: soul - cry typo in say
+Typo reported by Assassin:
+/d/tirun/square: number 8 in the rules: asking you to stop using the rofanity
+around them, it becomes harassment.
+Bug reported by Nexus:
+/d/tirun/sparroom: skills
+Bug reported by Danovae:
+/d/tirun/square: skills reports ERROR: skills null... im not sure what the cause
+it. was reportes in nexus
+Bug reported by Danovae:
+/d/tirun/square: quit Nexus also reported than he cannot quit.
+Bug reported by Impreza:
+/d/tirun/fighter_hall: berserker
+Bug reported by Matthias:
+/d/tirun/wand/bard/bard_join: can't enter bard hall
+Typo reported by Jaeik:
+/d/tirun/nranch: help disarm says the syntax is lunge
+Typo reported by Powerman:
+/d/tirun/fighter/ranger/ranger_hall: The Holy Warrior of Paladin initiates you
+into the life path of the ranger. -- initiation msg
+Bug reported by Leviathas:
+/d/tirun/eranch: skills
+Bug reported by Rane:
+/d/tirun/clergy/cleric/cleric_hall: I got this when i typed 'skills':  ERROR:
+skills null, bug this.
+Bug reported by Ashram:
+/d/tirun/square: help clergy doesnt say anything
+Bug reported by Ashram:
+/d/tirun/square: when a monster is bumped it does not tell when the monster
+re-enters the room
+Bug reported by Ashram:
+/d/tirun/square: soldier and warrior appear in help files but not under help
+fighter. they also apear in the help sharpen file
+Bug reported by Ashram:
+/d/tirun/armour: item sale prices for armor
+Bug reported by Arden:
+/d/tirun/square: bleh
+Bug reported by Ashram:
+/d/tirun/armour: the sale prices on items are very low. i dont think i've gotten
+about 3 gold for anything i've sold
+Bug reported by Chris:
+/d/tirun/square: lvl one skills for a thug listed max is 5, most are over that
+at 10 maxxed on creation
+Bug reported by Arius:
+/d/tirun/wanderer_hall: months
+Bug reported by Arius:
+/d/tirun/wanderer_hall: help months .... not correct months
+Bug reported by Powerman:
+/d/tirun/fighter/ranger/ranger_hall: can't train charging but appears on skill
+command
+Bug reported by Matthias:
+/d/tirun/wand/gypsy/gypsy_join: can't enter gypsy hall
+Bug reported by Soulfly:
+/d/tirun/armour: You can buy stuff without money.
+Bug reported by Soulfly:
+/d/tirun/square: typo Leviathas leaves with Furionon their back east..
+Bug reported by Powerman:
+/d/tirun/weapon: can sell equipped eq
+Bug reported by Soulfly:
+/d/tirun/square: typo auction straight jacket > Something is already up for
+acution.
+Typo reported by Stormbringer:
+/d/tirun/fighter/ranger/ranger_hall: make items for rangers have a typo in them.
+they include the ranger's name in the object name instead of in the
+description....powerman leather bag
+Bug reported by Soulfly:
+/d/tirun/armour: I just did sell all from bag to the armour shop and it sold my
+weapons.
+Bug reported by Eoharu:
+/d/tirun/booth: can't vote on the question
+Bug reported by Leviathas:
+/d/tirun/armour: history damn > The Tirun Armoury. The shop is clean and
+orderly. Shelves and hooks hold goods that are for sale, primarily shields
+and sets of armour.  A counter along the north wall looks to be where all
+business transactions are completed.  All the goods appear to be armour.  A
+wooden sign hangs on the front of the counter.  The floor of the armoury is
+made of polished grey stone.   There is only one obvious exit: south. 
+Drendun, Shopkeeper of the Tirun Armoury  > sell all Drendun says: I do not
+have any use for an oil. Drendun says: I do not have any use for an oil.
+Drendun says: I do not have any use for an oil. Drendun says: I do not have
+any use for an oil. Drendun says: I do not have any use for an oil. Drendun
+says: I do not have any use for an oil. Drendun says: I do not have any use
+for an oil. Drendun says: I do not have any use for an oil. Drendun says: I
+do not have any use for an oil. Drendun says: I do not have any use for an
+oil. Drendun says: I do not have any use for  0. Drendun says: I do not have
+any use for  0. Drendun says: I do not have any use for  0. Drendun says: I
+do not have any use for  0. Drendun says: I do not have any use for a gate
+key. Drendun says: I do not have any use for  0. Drendun says: I do not have
+any use for  0. Drendun says: I do not have any use for  0. Drendun says: I
+do not have any use for  0. Drendun says: I do not have any use for  0. You
+sell A suit of jeweled platemail. Drendun says: I do not have any use for an
+axe. Drendun says: I do not have any use for  0. You sell A suit of jeweled
+platemail. Drendun says: I do not have any use for an axe. Drendun says: I do
+not have any use for  0. You sell A suit of jeweled platemail. Drendun says:
+I do not have any use for an axe. Drendun says: I do not have any use for  0.
+You sell A suit of jeweled platemail. Drendun says: I do not have any use for
+an axe. Drendun says: I do not have any use for  0. You sell Gold embroidered
+breastplate. You sell Toughened leather boots. Drendun says: I do not have
+any use for  0. You sell Gold embroidered breastplate. You sell Toughened
+leather boots. Drendun says: Your total comes to 40 gold. Drendun exclaims:
+Thank you for your business!   See, I sell all and he's saying "I do not have
+any use for 0."  
+Bug reported by Soulfly:
+/d/tirun/fighter/ranger/ranger_hall: i think if ur not in battle oil heals u all
+the way but if u r in battle it doesnt
+Typo reported by Deathshroud:
+/d/tirun/clergy/druid/druid_tree: here it says dimm instead of dim
+Typo reported by Deathshroud:
+/d/tirun/mage/wizard/wizard_join: when you auctio nit says something is already
+up for ACUTION not auction
+Bug reported by Avenger:
+/d/tirun/weapon: sharpen command 
+Bug reported by Semag:
+/d/tirun/square: jesters aren't wanderers right now, must be a rogue to become
+jester atm
+Bug reported by Peem:
+/d/tirun/armour: You wear Tirunian camouflage.
+Bug reported by Avenger:
+/d/tirun/square: sharpen Bad argument 1 to present()Expected: string or
+object Got: 0.program: /cmds/skills/_sharpen.c, object:
+/cmds/skills/_sharpen, file: /cmds/skills/_sharpen.c:11 
+Typo reported by Draven:
+/d/tirun/square: well i was just gonna say on dragon help file it should say
+under special limb info. claws! :) peace 
+Bug reported by Slinker:
+/d/tirun/square: you can't "help clergy"
+Bug reported by Leviathas:
+/d/tirun/square: can spam boost but it only does like 1 hp at a time  
+Bug reported by Leviathas:
+/d/tirun/square: auction
+Bug reported by Leviathas:
+/d/tirun/square3: mount - you can mount centaurs without being allowed
+Bug reported by Ashram:
+/d/tirun/sveros6: suggest making the guards in Tirun harder... they die pretty
+fast for 30k mobs. same for shadowguards
+Bug reported by Deathdigger:
+/d/tirun/fighter/paladin/paladin_hall: party form  /cmds/mortal/_party.c line
+145: Warning: Unused local variable 'x' before theend of line 
+Bug reported by Whit:
+/d/tirun/fighter/ranger/ranger_join: ive tried and failed but if no argument is
+present returns error on Sharpen Skill
+Idea reported by Powerman Fri Jan  4 23:41:16 2002
+/d/tirun/square8: when pile of coins are taken show value of the pile
+Bug reported by Kojiro:
+/d/tirun/fighter/fighter_hall: godspeed has no help
+Idea reported by Powerman Sat Jan  5 20:40:57 2002
+/d/tirun/square: vomiting - emptys our stomach damages us slightly
+Bug reported by Kimchi:
+/d/tirun/clergy/cleric/cleric_join: no help clergy
+Bug reported by Kimchi:
+/d/tirun/ehonin1: cannot sing hymn of the faeries
+Typo reported by Russet:
+/d/tirun/wdovin2: Running east and west through the northwe section of Tirun,
+
+Bug reported by Leviathas:
+/d/tirun/square: search on merkerri is screwed up
+Typo reported by Leviathas:
+/d/tirun/hospital: A cleric casts a spell of healing upon you. > [1m[36mA cleric
+whispers to you: [0;37;40mBut you are not poisoned! > [1m[36mA cleric whispers to you: [0;37;40mBut
+you are not poisoned!  look 
+Typo reported by Wraith:
+/d/tirun/nhaven1: Check all the rooms with this line in it:The stones
+underfoot are hard to make out in the darkness  dont think underfoot looks
+right do ya? 
+Bug reported by Whit:
+/d/tirun/sganthus1: /std/vendor has unused variables
+Bug reported by Kartoffel:
+/d/tirun/square1: for some reason whenever someone is following me from this
+room, when i go north they do not follow
+Bug reported by Deathshroud:
+/d/tirun/square: When you "wear all" you don't wear Raknid gauntlets, Raknid
+bracers, or Raknid armour
+Bug reported by Kartoffel:
+/d/tirun/weapon: wicked cerrated sword is spelled incorectly, its serrated
+Bug reported by Kalidas:
+/d/tirun/square: problem with wedding rings, Bad argument 1 to find_living()   
+Expected: string Got: 0.    program: /std/obj/wed_ring.c, object:
+/std/obj/wed_ring#10240, file: /std/obj/wed_ring.c:54     when i logged in with
+kartoffel, no commands would work
+Bug reported by Madness:
+/d/tirun/square: songs
+Bug reported by Madness:
+/d/tirun/square: /wizards/inferno/song/master.c line 40: Warning: Unused local
+variable 'tmp' before the end of line
+Bug reported by Ik:
+/d/tirun/armour: You wear Tirunian camouflage.
+Bug reported by Avenger:
+/d/tirun/obj/armour/tarm#18547: look camouflage Value being indexed is
+zero.program: /std/armour.c, object: /d/tirun/obj/armour/tarm#18547, file:
+/std/armour.c:281 
+Bug reported by Threanna:
+/d/tirun/booth: voting booth!! after you cast a vote.. you get: Denied write
+permission in save_object(). program: /d/tirun/booth.c, object: /d/tirun/booth,
+file: /d/tirun/booth.c:67
+Bug reported by Metrenome:
+/d/tirun/warehouse: as a lvl 2 gypsy, i was attacking the rat in the warehouse,
+i typed "sing sinners pslam", and it bugged
+Bug reported by Ashram:
+/d/tirun/fighter/warrior/warrior_hall: whip and entangle appear under my other
+commands when they are attacks
+Bug reported by Psychosmurf:
+/d/tirun/square1: when following nexus i wasn't able to follow him the to the
+room 2 north of [] from the one 1 north of []
+Bug reported by Ashram:
+/d/tirun/square: balance on the drows and their stuff is a little off... Low exp
+(61k for guard and 68k for soldier) for such hard mobs... the tooth has wc lower
+than a sword of light and drow slayer which is much easier to get... same from
+the knife... i think armor might be overpowered as well
+Bug reported by Ashram:
+/d/tirun/square: the money from roston eq seems a little low... i cleaned all of
+roston and only got 1.2k gold for it all. tenebrae/lodos/merk give a lot higher
+amounts of money and they are easier to kill in
+Bug reported by Ashram:
+/d/tirun/square: rattle snake by the quicksand tends to lose heartbeat everytime
+he is fought
+Bug reported by Kartoffel:
+/d/tirun/ngate: follow bug still exists in this room when you try to go south
+Bug reported by Kartoffel:
+/d/tirun/ngate: nevermind it only did it once, i tested it again and it worked
+Bug reported by Wraith:
+/d/tirun/eganthus1: death script is bugged, wont list new deaths after first one
+Typo reported by Wraith:
+/d/tirun/library: in the guild book
+Typo reported by Wraith:
+/d/tirun/library: in the guild book: to have the mony o pay the dues will result
+in removal of your guards.
+Typo reported by Staver:
+/d/tirun/obj/mon/starburst#11892: starburst long description supplies not
+supplyies
+Bug reported by Staver:
+/d/tirun/square3: guard
+Bug reported by Staver:
+/d/tirun/square3: guard doesn't seem to be working, it doesn't do anything
+Bug reported by Caladan:
+/d/tirun/mage/mage_vote: crystal board of mages...the voting room to the east
+says the next elections will be held August 20 2000.  Just thought you might
+want to know. Thanks, Caladan 
+Bug reported by Yakko:
+/d/tirun/square: i died and still have money on me
+Bug reported by Wraith:
+/d/tirun/monastery: death is bugged again, tellin me the last mob that killed me
+killed me again
+Bug reported by A shadow:
+/d/tirun/square: peek at <player> dosent work in a safe room
+Bug reported by Wraith:
+/d/tirun/square: lotsa spaces between lines in room descrips all over the place
+Typo reported by Wraith:
+/d/tirun/rogue/rogue_vote: four days beginning: August 20 2000 at 14:00 PST. 
+2000? are we livin in the past on the rogue elections?
+Bug reported by Candice:
+/d/tirun/square: the druid hall and cleric hall is exactly the same. 
+Typo reported by Kalohe:
+/d/tirun/rogue/assassin/assassin_join: assasin preview seel to sell 
+Typo reported by Threanna:
+/d/tirun/clergy/druid/druid_tree: when you sleep, it should read something other
+than tired from exhaustion.. maybe, tired TO exhaustion.
+Bug reported by Ashram:
+/d/tirun/beach7: drow chainmail autos on a lvl 9
+Bug reported by Rand:
+/d/tirun/sparroom2: after I tried to pick up 351 oils too long evaluation.
+Execution aborted.program: /std/object.c, object: /std/obj/oil#43333, file:
+/std/object.c:242
+Bug reported by Ashram:
+/d/tirun/fighter/warrior/warrior_hall: hack is shown as an other command and not
+an attack
+Bug reported by Ashram:
+/d/tirun/fighter/warrior/warrior_hall: flail train is off... 100k exp brought me
+from 18 to 21 is all
+Bug reported by Bloss:
+/d/tirun/dragon_hall: just destnig around for bugs, i found oseris could mount
+me and fly to hall with me
+Idea reported by Leviathas Sat Jan 19 14:44:15 2002
+/d/tirun/square: blizzardress The oposite of a Pyromancer for a mage subclass.  The Blizzardress would be a mini quest subclass and only for females...  possibly same abilities just remessaged or a few extras.
+Bug reported by Blossom:
+/d/tirun/bank: silver wont ecome copper(exchange)
+Bug reported by Blaze:
+/d/tirun/chapel: after dying, received the following error:  division by
+zero: program: /std/user/tsh.c, object: /std/user#25585, file:
+/std/user/tsh.c:104 
+Bug reported by Amethyia:
+/d/tirun/wanderer_hall: sorry to bother you but was reading through the help
+files and got a message on help dskills which said that command exists but has
+no help pleasue use bug command to report it (so now i have )
+Bug reported by Makaveli:
+/d/tirun/hospital: cleric whispering when ur not poisoned anymore
+Bug reported by Makaveli:
+/d/tirun/square: ashram is very gay. :)
+Bug reported by Peem:
+/d/tirun/square5: Array index out of bounds.
+Bug reported by Ashram:
+/d/tirun/square: attacking the valentine's day mob makes me lose my heartbeat
+Bug reported by Doobie:
+/d/tirun/square: ode to nature
+Bug reported by Makaveli:
+/d/tirun/mage_hall: lost heartbeat on peddler
+Bug reported by Wraith:
+/d/tirun/hospital: [1m[36mA cleric whispers to you: [0;37;40mBut you are not poisoned!
+Bug reported by Azire:
+/d/tirun/monastery: i was throwing a snowball at Ashram, as always.. but this
+time i got a bug message after 'You throw a snowball at Ashram!' 'Bad Argument 3
+to message() Expected: string or array or object Got: 0. program:
+/adm/obj/simul_efun.c, object: /adm/obj/simul_efun, file:
+/adm/simul_efun/communications.c:8
+Typo reported by Vector:
+/d/tirun/square: the  the word profain in 'help rules' should be profane 
+Typo reported by Azire:
+/d/tirun/dragon_hall: 'you find a nice play to lay down on the ground.' using
+the lay command.
+Bug reported by Makaveli:
+/d/tirun/square: slash, you can slash while wielding 3 blades and a blunt, or
+two handed weapons.
+Bug reported by Maldane:
+/d/tirun/clergy/kataan/kataan_hall: > /cmds/skills/_snowball.c line 9: Undefined
+function biggie before ;/cmds/skills/_snowball.c line 9: Type of returned value
+doesn't match functionreturn type ( unknown vs int ) before the end of
+line/cmds/skills/_snowball.c line 28: Redeclaration of function biggie. before
+theend of line
+Bug reported by Ashram:
+/d/tirun/library: darksouls guards have no heartbeats and they wont die
+Bug reported by Jack:
+/d/tirun/ehonin2: the with the raise command if you run east and make onther one
+real quick
+Bug reported by Faust:
+/d/tirun/wgate: you guys fixed the sacrifice during combat, but mages can
+still feed and offer, just a thought   Faust, bug finder extroidinairre i
+hope i spelled that right 
+Bug reported by A shadow:
+/d/tirun/rogue_hall: disguise don't work no more, i think someone might have
+messed with it, and now it don't work at all 
+Bug reported by Urza:
+/d/tirun/square1: envelop isn't working 
+Bug reported by Wraith:
+/d/tirun/rogue_hall: stealing is still a skill for assassins but not an ability,
+can we do a transfer of points for those who trained it?
+Idea reported by Kartoffel Fri Feb  1 23:23:29 2002
+/d/tirun/square: with the <body> command.  i think that when i limb gets severed it should show the lime and where it normally has the % it should say something like "SEVERED!" it would be alot eaiser.  as it is, when i limb is severed it just doesnt show it on body list at all you have to look at yourself to figure it out or remember what limb it was that got severed.
+Typo reported by Rianna:
+/d/tirun/library: there is a typo in rule number 7  in help rules  says
+sapmming instead of spamming :). 
+Bug reported by Zephyr:
+/d/tirun/whonin1: /d/tirun/bank.c line 195: Warning: Unused local variable 'val'
+before the end of line
+Bug reported by Kalidas:
+/d/tirun/clergy/druid/druid_tree: dskills says the command exists but has no
+help, and to report it.  it also doesnt do anything when you type it
+Bug reported by Wraith:
+/d/tirun/square: parties are weird now, when you make a new party it lists xp
+from something though no one has any xp at the beginning
+Bug reported by Droc:
+/d/tirun/armour: look at Tirunian camouflage
+Typo reported by Staver:
+/d/tirun/library: when you "push bookcase" it says  The bookcase moves
+revieling a secret passage. It should be reveiling 
+Bug reported by Kalidas:
+/d/tirun/armour: you cannot look at the camouflage, says value indexed at zero.
+and it doesnt add any armour although i dontknow if it is supposed to or not.
+Bug reported by Rashka:
+/d/tirun/square: make backpack returns You cannot make that! message. Make spear
+just doesn't work. It has the correct start up message 'You sit down... blah
+blah' but nothing actually happens later. Doesn't tell you you ruin materials or
+don't have enought sinew or things like that.
+Bug reported by Zephyr:
+/d/tirun/oil_shop: I typed 'buy 40 oil' and it said 'Buy how many oil?'
+Bug reported by Yakko:
+/d/tirun/square: abilitites
+Bug reported by Rashka:
+/d/tirun/square: Make Error msg: Bad argument 1 to call_other()                 
+Expected: string or array or object Got: 0.                                     
+program: /cmds/skills/_make.c, object: /cmds/skills/_make, file:
+/cmds/skills/_make.c:464
+Bug reported by Marius:
+/d/tirun/square: when you go link dead (not sure about quit) and are in aparty,
+and you log back on, your still in that party
+Bug reported by Kartoffel:
+/d/tirun/square8: rooms to the n, nw, w of this one are not there
+Bug reported by Nightshade:
+/d/tirun/square: can fly while resting
+Bug reported by Nightshade:
+/d/tirun/pub: selling oil gives a bad message
+Bug reported by Nightshade:
+/d/tirun/dragon_hall: make a way to renew your wedding rings
+Typo reported by Tilir:
+/d/tirun/clergy/cleric/cleric_old: The alter has an inscription on it
+Bug reported by Rashka:
+/d/tirun/clergy/druid/waterfall: Forage forage mud, forage wood blah, sometimes
+give Forage what? response even though u've typed it right.
+Bug reported by Nightshade:
+/d/tirun/square: finger loki (long irl line)
+Typo reported by Kartoffel:
+/d/tirun/wand/gypsy/gypsy_join: typo in help sing "jypsies" should be gypsies
+Bug reported by Wraith:
+/d/tirun/square: the morning stars I meant
+Typo reported by Staver:
+/d/tirun/square: steel platemail
+Typo reported by Staver:
+/d/tirun/square: steel platemail if you have eq on and you try to wear it is
+says can't wear this with armuur... 
+Bug reported by Staver:
+/d/tirun/magehouse: old man, look man, type neuter human...seems like he
+should be male 
+Typo reported by Cavalierre:
+/d/tirun/swganthus: the shadows coalesce into buidings. 
+Bug reported by Wraith:
+/d/tirun/square: the treasury in the Dark Souls guild has no exits
+Bug reported by Ashram:
+/d/tirun/armour: the stuff from the area you 'climb vines' to get to by elf
+village gives stuff that isnt sellable in shops
+Idea reported by Koibito Fri Feb 15 20:44:32 2002
+/d/tirun/square: last buddylist
+Idea reported by Kartoffel Fri Feb 15 23:22:41 2002
+/d/tirun/square: it would be cool if you could set the who list to show only ppl of certain classes or sub-classes by flagging it like you can with races
+Bug reported by Xell:
+/d/tirun/square: envelop: doesnt increase belief skill any :(
+Typo reported by Staver:
+/d/tirun/square: when someone else buries something it says "Faust digs a
+small hole and burys a [item].  Should be buries.  Hmmm that looks funny,
+will look it up in a dictionary later.  I may be wrong also, but burys is
+wrong, I know that.  
+Idea reported by Kartoffel Mon Feb 18 06:09:49 2002
+/d/tirun/square8: it would be nice if you made it so that the shop vendors in town were un-killable, its annoying when you go to sell something and find that someone has killed them
+Bug reported by Ashram:
+/d/tirun/square: artrells can only wear rings on the 4th hand it seems so i can
+only wear my guild ring and 2 others. dont know if thats right or not
+Typo reported by Wraith:
+/d/tirun/square: in the help credits:Now gone: s, Wiz,           wiz is still
+here
+Typo reported by Wraith:
+/d/tirun/square: wiz is in now gone twice too
+Idea reported by Kartoffel Wed Feb 20 23:05:50 2002
+/d/tirun/square7: a "remove all" command would be nice, just like wear all but in reverse.
+Bug reported by Dryfus:
+/d/tirun/clergy/cleric/cleric_hall: para might be a little weak now... easy way
+to fix it would be to lower the cost of ma... or to make para stronger for less
+ma and reduce the overall amount of ma you can get
+Idea reported by Leviathas Fri Feb 22 16:24:43 2002
+/d/tirun/square: emotions that have effects.  There could be a special kind of emotion, perhaps highlighted as grey or something, where you can ":returns the blade that he stole." and somehow attach "give blade to person", so that it cuts off the normal message and after "Player returns blade to person" it would be in their inventory!
+Bug reported by Yakko:
+/d/tirun/nhaven1: i keep starting with less and less eq
+Typo reported by Azire:
+/d/tirun/square: in score, "STAMINA" points, not "STANIMA" points. 
+Bug reported by Lucifer:
+/d/tirun/fighter/warrior/warrior_hall: Illegal to move or destruct an object
+(/std/obj/stone#16975) defining actions from a verb function which returns
+zero. program: (none), object: (none), file: (none)  
+Bug reported by Stormbringer:
+/d/tirun/pubstart: high stealth skill keeps enter and exit messages from showing
+even when stealth is turned off.
+Typo reported by Perrin:
+/d/tirun/monastery: No stuck pig has squeeled like Perrin in death.  squealed is
+the word
+Typo reported by Gravek:
+/d/tirun/sveros5: in the faq, it says to type help topic, it should be help
+topics. That had me stumped for a while
+Typo reported by Gravek:
+/d/tirun/square: in score "Stanima Points" should be "Stamina Points"
+Idea reported by Kartoffel Wed Feb 27 00:13:34 2002
+/d/tirun/square: a "honeyemote" and a "last honey" would be helpfull
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: lines command is showing newbie twice
+Bug reported by Rauva:
+/d/tirun/fighter/fighter_vote: When you go south into the fighter hall the
+description is new_long
+Bug reported by Nightshade:
+/d/tirun/square: missile and fireball can be stacked
+Bug reported by Ender:
+/d/tirun/obj/mon/townguard#14: You can use guard fast enough that it raises
+skills at low levels really fast. Dunno if it's a bug or not seeing as how
+raising skills might be the only thing that guard does.  
+Idea reported by Leviathas Fri Mar  1 13:43:38 2002
+/d/tirun/square: wimpy/wimpy off   I say we make it so wimpy is automatically on and for people who have it off, they get like a 5% xp bonus or something.
+Typo reported by Jumble:
+/d/tirun/clergy/cleric/cleric_old: alter
+Bug reported by Staver:
+/d/tirun/square: buffer
+Bug reported by Staver:
+/d/tirun/square: drink fountain drink fountain drink fountain drink fountain
+drink fountain drink fountain drink fountain drink fountain drink fountain
+drink fountain drink fountain drink fountain drink fountain drink fountain
+drink fountain buffer drops us into massive amounts of negative mp, then we
+have to heal out of it.  It doesn't reset to zero, it stays at what ever
+negative it was at and we just have to wait until it hits our max mp.  Not
+sure if it's a bug or not, but I don't think this should work like that 
+Bug reported by Aumar:
+/d/tirun/pubstart: palm
+Bug reported by Aumar:
+/d/tirun/pubstart: palm You can move out after using palm in combat, so can
+pretty nicely avoid dmg.
+Bug reported by Khale:
+/d/tirun/square: hey, when i look at my guild ring which is the forsaken ring
+it does not show the description it only shows "Value being indexed is
+zero.program: /std/armour.c,object: /d/guilds/forsaken/ring#14465, file:
+/std/armour.c:303"          
+Bug reported by Wraith:
+/d/tirun/square: Centaurs can wear more then 4 rings.......
+Bug reported by Leviathas:
+/d/tirun/weapon: sell you can sell worthless items i think in "sell all"
+Bug reported by Ripskin:
+/d/tirun/armour: the <make> function is really bugged.. gotta put some error
+catches in there :)
+Typo reported by Loki:
+/d/tirun/clergy_hall: You drop Golden Pike. You drop Thran Pike. You take two
+Golden Pikes.
+Typo reported by Loki:
+/d/tirun/clergy_hall: Think my last one was incorrect, You drop Golden Pike. You
+drop Thran Pike.  You take two Golden Pikes.
+Bug reported by Gaia:
+/d/tirun/clergy/druid/druid_join: enterance to druid hall, says this is the
+cleric hall in the descrip
+Praise given by Vengence Wed Mar  6 00:08:05 2002
+/d/tirun/wfallor2: game it rocks
+Typo reported by Senzei:
+/d/tirun/wmullin6: the last sentence in room descrip has 5 words repeated twice
+Typo reported by Senzei:
+/d/tirun/wmullin6: the words 'to follow' are missing at the end of the last
+sentence of the room descrip
+Typo reported by Sage:
+/d/tirun/mage_hall: in score Stamina is spelled Stanima
+Bug reported by Reaver:
+/d/tirun/square: you can still wear more 10 rings you can remove the 1st one you
+wore then wear ring 11 then wear the ring 1 again
+Bug reported by Chronoch:
+/d/tirun/library: Try typing 'read' in this room.  "Bad argument 1..."
+Typo reported by Chronoch:
+/d/tirun/library: "help bug"  "...allows you to report a buG"
+Typo reported by Chronoch:
+/d/tirun/egate: look gate '...but a step tHRough the gate.'
+Typo reported by Pokey:
+/d/tirun/fighter/fighter_vote: room has no description room has no
+description 
+Bug reported by Faust:
+/d/tirun/square: review tells you to go and use 'help set' but there is no
+help file for set  faust 
+Typo reported by Tarsis:
+/d/tirun/tannery: look garon 'A mouNTain man...'
+Typo reported by Tarsis:
+/d/tirun/fighter/paladin/paladin_join: room description '...into the subclass of
+palAdins.'
+Typo reported by Tarsis:
+/d/tirun/warehouse2: look trash 'There looks like THERE might be....'
+Idea reported by Tarsis Sat Mar  9 06:42:20 2002
+/d/tirun/rogue_hall: have a 'help agility' file
+Typo reported by Bork:
+/d/tirun/fighter/fighter_join: become fighter '...rumours of AntipalAdins...'
+Typo reported by Bork:
+/d/tirun/fighter/antipaladin/antipaladin_hall: 'songs'  beNificial, detrImental
+Praise given by Asoc Sat Mar  9 15:24:38 2002
+/d/tirun/weapon: Telling you if an item will autoload or not for you in a shop is a NICE touch.  Thanks!
+Idea reported by Asoc Sat Mar  9 16:08:55 2002
+/d/tirun/warehouse2: Being able to see how much exp a mob is worth is another good idea.
+Typo reported by Bork:
+/d/tirun/fighter/antipaladin/antipaladin_join: room description '...
+Antipaladin'S initiate...'
+Bug reported by Faust:
+/d/tirun/square: Illegal to move or destruct an object
+(/d/guilds/illuminati/obj/angreal#27763) efining actions from a verb function
+which returns zero. program: (none), object: (none), file: (none)   trans me
+to the [] 3 times 
+Bug reported by Aziraphale:
+/d/tirun/fighter/paladin/paladin_hall: Just moving around, suddenly. Too long
+evaluation. Execution aborted.    program: /std/object.c, object:
+/d/guilds/forsaken/obj/bluefire#28851, file: /std/object.c:241    And then once
+I'm in the paladin hall I get:   Illegal to move or destruct an object
+(/d/guilds/illuminati/obj/angreal#27776) defining actions from a verb function
+which returns zero.        program: (none), object: (none), file: (none)
+Typo reported by Senzei:
+/d/tirun/deliv_warehouse: 'ceadar' should be 'cedar' in the first sentence of
+the room description
+Bug reported by Yoggy:
+/d/tirun/square: help dissolve says conjurer
+Typo reported by Senzei:
+/d/tirun/mage_hall: the help file for the bug command has bug spelled 'bud' in
+the effect sentence
+Bug reported by Senzei:
+/d/tirun/mage_hall: talked to nightshade about it but reporting too.  The
+enchant spell can be used until you are fully armoured and does not seem to use
+any mp.  Also it doesn't seem to have a time limit where it wears off.
+Bug reported by Gradd:
+/d/tirun/library: When attempting to get gold dropped by another player, the MUD
+attempts to 'destruct' the player.
+Bug reported by Sage:
+/d/tirun/mage/pyromancer/pyromancer_hall: when I die i get the same message
+every time I died, and it keeps saying i've died only 2 times it says: Sage,
+Tadk'Daroq struck you down?  and then it says You've died 2 times which is more
+than the other ghosts around here.
+Praise given by Sage Tue Mar 12 14:39:09 2002
+/d/tirun/weapon: I just wana say it's a very good idea that you don't have to have a certain skill in a weapon area to use a certain weapon, it adds more realism to the game.
+Bug reported by Sage:
+/d/tirun/obj/mon/townguard#30: guard doesnt' work for me at all. It never has. I
+think somethings wrong here. :P
+Typo reported by Kingcold:
+/d/tirun/weapon: armuur???????? hehhhe 
+Idea reported by Sage Fri Mar 15 18:40:50 2002
+/d/tirun/square: I think it'd be really fun if you made NPC chars <considered citizens etc..> to walk the streets and buildings too in tirun all over and have monsters invade the cities and start destroying them and the players are supposed to kill off the hordes of creatures to defend the cities for fun
+Praise given by Sage Sun Mar 17 07:43:41 2002
+/d/tirun/square: scry = awesome :)
+Bug reported by Reaver:
+/d/tirun/square: I was a centaur i ressed raknid and i still have a charging
+skill
+Bug reported by Aziraphale:
+/d/tirun/fighter/paladin/paladin_hall: I dunno if this was reported already: In
+the illuminati treasury room, if you try to look at anything then you get the
+error ( > indicates a new line): >Value Being indexed is zero.  >program
+program: /std/room/items.c, object: /d/guilds/illuminati/treasury, file:
+/std/room/items.c:33
+Bug reported by Starplatinum:
+/d/tirun/fighter/warrior/warrior_hall: Too long evaluation. Execution
+aborted. program: /std/object.c, object: /d/guilds/darksoul/soul#57277, file:
+/std/object.c:241 Welcome to the Warrior Hall. This hall was created for
+warriors to meet and to train in.  It is also here that any actions or
+decisions for the warriors should be made. You may <train [skill] [amount]>,
+to train your skills. You also can <improve [stat]>, to improve your stats.
+Lastly, you may <advance> to ask to be promoted to the next level.   There is
+only one obvious exit: out.  The Warrior Board < 0 Unread, 3 Posts > is here.
+Illegal to move or destruct an object (/d/guilds/darksoul/ashesobj#43890)
+defining acti ons from a verb function which returns zero. program: (none),
+object: (none), file: (none) You cannot go that way. 
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: the dskills command has no help file and
+seems to do nothing
+Typo reported by Jillian:
+/d/tirun/clergy/cleric/cleric_old: here hands help in prayer - or hands HELD in
+prayer?
+Typo reported by Jillian:
+/d/tirun/clergy/cleric/cleric_old: here need period at end.
+Typo reported by Jillian:
+/d/tirun/clergy/cleric/cleric_old: lotzs of things cannot be looked tat.
+Typo reported by Jillian:
+/d/tirun/fighter/paladin/paladin_join: paldins should be paladins?
+Bug reported by Jillian:
+/d/tirun/clergy/monk/monk_hall: ansi off - it dont go off. i cant see certain
+things on this terminal window.
+Idea reported by Darkman Wed Mar 20 12:55:40 2002
+/d/tirun/square5: I'd like to request more raknid type weapons and armor :). I mean there are only so many raknid only armors  and like tons and tons of regular humanoid type armor, it's hard to find anything at low levels to start off. I think it would be a good idea to add maybe a new area or two where low level raknids or even higher levels can go to get some more race specific armor and weapons :).
+Bug reported by Darkman:
+/d/tirun/square: pulchra is listed twice in the "languages" command list
+Typo reported by Darkman:
+/d/tirun/whonin4: You're magicial powers are not experienced enough to cast
+that. - You're is short for you are it's supposed to be your
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: preserve spell -> when I type preserve by
+itself it spits out 'bad arg 1 to present(), expected: string or object, got: 0'
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: demonstrength command exists but has no help
+file
+Bug reported by Calirynth:
+/d/tirun/square: the month and day on time command are not listed under help
+months or help days
+Bug reported by Angus:
+/d/tirun/square: when someone leaves the guild without being rejected they stay
+on the guild list
+Typo reported by Terek:
+/d/tirun/jail: 
+Typo reported by Shinkoro:
+/d/tirun/fishshack: the words whichis needs a space and so does isvery  :P
+Bug reported by Nightshade:
+/d/tirun/square: make a way for angels/demons to renew their special armour
+(halo & amulet)
+Bug reported by Wraith:
+/d/tirun/square: Justice: I was charged with a crime twice, I served time for
+the crime then was charged with it again when I was brought in for another
+crime, talk to me if youa re confused
+Bug reported by Azire:
+/d/tirun/square: i got paralyzed in the []. should that be possible?
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: I've had both sense and scry for quite some
+time and they still do not work despite having high magic skills, maybe they
+shouldn't be on my spells list if I can't use them
+Bug reported by Vistanna:
+/d/tirun/weapon: When I log on, my wedding ring shows this...Bad argument 2 to
+member_array() Expected: string or array Got: 100. program: /std/armour.c,
+object: /std/obj/wed_ring#8132, file: /std/armour.c:212
+Bug reported by Peem:
+/d/tirun/rogue/assassin/assassin_hall: When I log on, my wedding ring does
+this...Bad argument 2 to member_array() Expected: string or array Got: 100.
+program: /std/armour.c, object: /std/obj/wed_ring#8225, file: /std/armour.c:212
+Bug reported by Ashram:
+/d/tirun/square7: cant seem to ride horses in tirun
+Bug reported by Wraith:
+/d/tirun/sveros5: Array index out of bounds. program: /d/tirun/sage_room.c,
+object: /d/tirun/sage_room, file: d/tirun/sage_room.c:130 when you move out
+while studying
+Bug reported by Peem:
+/d/tirun/adv_hall: "Cost" tells me Charisma can be improved but when I try it
+says "You are not experienced enough to improve yourself in that way."
+Bug reported by Aziraphale:
+/d/tirun/square: Archangels can still 'spin halo' and get out of the arena.
+Apparently that was meant to be changed.         Also, I am only lvl 15 but I
+can still use the snowball command, though I can't use fireworks... Is this
+right? Snowball isn't on my spells or abilities list..
+Bug reported by Lucifer:
+/d/tirun/efallor1: program: /cmds/guild/_promote.c, object:
+/cmds/guild/_promote, file: /cmds/guild/_promote.c:37
+Bug reported by Lac:
+/d/tirun/fighter/warrior/warrior_hall: rings are bugged :(
+Bug reported by Calirynth:
+/d/tirun/obj/mon/xor#24504: xor I can buy something for 19 gold when I only have
+6 gold on me
+Bug reported by Artanis:
+/d/tirun/fighter_hall: riding is banged up like blade was, its costs insane
+amounts to improve 
+Bug reported by Calirynth:
+/d/tirun/square: I should be able to use non-combat spells like sense and scry
+in the square
+Idea reported by Kartoffel Thu Mar 28 19:34:44 2002
+/d/tirun/clergy/monk/monk_hall: i think that the xp reducements for players that are killing mobs far below their level should be increased.  put on a progressive system.  for example, mod more than 15 levels below you 75% xp, 25 levels below 50%, 35+ levels 25% xp.  hopefully this would force the higher level players to do 2 things.  explore the mud more and to stop fighting in area that are better suited to players that are lower levels.  it is difficult for players of lower levels to gain decent xp when there are players that are levels 30, 40, or even 50+ killing in areas that were designed for levs in the teens or eairly 20's.  higher levels killing there occasionally is one thing, but when they are constantly clearing an area that was designed for lower levels they always beat out the people that are supposed to be killing there, leaving them with nothing to kill.
+Bug reported by Calirynth:
+/d/tirun/square: I just died due to a bug that would not let me run after I cast
+absorb
+Bug reported by Ashram:
+/d/tirun/square: you can quit go linkdead while being killed.... this is a
+pretty lame way to avoid a death in my book
+Bug reported by Ashram:
+/d/tirun/square: i keep getting teleported back to my starting spot in the [].
+is this because of the command stack change thing or something? i'm not stacking
+commands... i have very short aliases and i type very fast.  but anyways i keep
+getting teleported back into the tirun [] and getting error messages saying "too
+long evaluation. execution aborted." and then some code stuff i dont understand
+after that
+Bug reported by Myal:
+/d/tirun/mage_hall: Illegal to move or destruct an object (/std/obj/stone#26602)
+defining actions from a verb function which returns zero.
+Typo reported by Imari:
+/d/tirun/wgate: description of gate of dusk   trhough s/b through
+Typo reported by Imari:
+/d/tirun/square: kataan, help   do thier bidding  s/b do their bidding
+Bug reported by Calirynth:
+/d/tirun/square: summon list says "known undead" .. they're demons, not undead
+Bug reported by Jillian:
+/d/tirun/clergy/monk/monk_hall: ansi off - dont turn off.
+Bug reported by Baca:
+/d/tirun/adv_hall: I trained riding 200000 xp and it raised it from 40(0%) to
+40(1%)!!!
+Bug reported by Baca:
+/d/tirun/adv_hall: I just spent 92000 xp on double wielding and it did not
+change my skill level at all
+Bug reported by Cookie:
+/d/tirun/square: Expected: string or array or object Got: 0.
+Typo reported by Cookie:
+/d/tirun/square: When you look at "skills", Stamina is spelled "stanima"
+Praise given by Kartoffel Mon Apr  1 18:50:33 2002
+/d/tirun/square: updatenews great command, its nice to know when something gets updated. dont have to wonder if something has been fixxed or not
+Bug reported by Lucifer:
+/d/tirun/fighter_hall: fighters riding is bugged. no matter how much i put in it
+doesnt even raise a %.
+Bug reported by Cookie:
+/d/tirun/square: You decide to quit studying and go do other things.
+Typo reported by Pink:
+/d/tirun/square: i wore loki's halo, and i have a burn mark aross my forehead. 
+shouldnt it be across, not aross? thanks, i love your mud!  ~luvz ya, pink
+Bug reported by Nexus:
+/d/tirun/square6: demote demote has no help
+Bug reported by Ashram:
+/d/tirun/square: got flameclawed for 600 by a level 30 dragon... kinda nuts..
+Bug reported by Pink:
+/d/tirun/square: ciding doesnt get rid of bank account
+Typo reported by Daos:
+/d/tirun/square: log
+Bug reported by Wraith:
+/d/tirun/sage_room: in languages, some of them appear twice, like selunian/
+illisan and a few others for me
+Bug reported by Wraith:
+/d/tirun/square: you can break seal to get out of the arena
+Bug reported by Neocount:
+/d/tirun/wanderer_hall: wanderer attack skills is pretty hard to raise. 7k
+raised me from 21 to 22
+Typo reported by Caspurnia:
+/d/tirun/wganthus2: Ganthus Road is deserted and peaceful at night.  To the
+north and south, the shadows coalesce into buidings. 
+Typo reported by Caspurnia:
+/d/tirun/sganthus2: Ganthus Road is deserted and peaceful at night.  To the
+east and west, the shadows coalesce into buidings. 
+Typo reported by Caspurnia:
+/d/tirun/wganthus1: Ganthus Road is deserted and peaceful at night.  To the
+north and south, the shadows coalesce into buidings.  
+Typo reported by Caspurnia:
+/d/tirun/wganthus2: Ganthus Road is deserted and peaceful at night.  To the
+north and south, the shadows coalesce into buidings.  
+Bug reported by Neocount:
+/d/tirun/wand/wanderer_join: flash is in other... should be an attack
+Bug reported by Cookie:
+/d/tirun/square: fix mount death
+Bug reported by Neocount:
+/d/tirun/square: trip is undefendable which makes it insane at low levels (2-5).
+it should be defendable against like a whirl or slash. but make it at least hit
+because lunge doesnt hit till around lvl 7 with maxxed blade
+Bug reported by Neocount:
+/d/tirun/square: earthmaw prevents you from using abilities in a round such as
+slash or stab. this is much too strong against fighters/rogues/wanderers/monks.
+it does a good ammount of damage more than icestorm already which should be
+enough without preventing people form using abilities
+Typo reported by Azire:
+/d/tirun/square: hmmm. 'you find a nice lay to lay down on the ground.' lay
+command
+Idea reported by Kartoffel Sat Apr  6 19:44:36 2002
+/d/tirun/square: honey lines needs a history
+Bug reported by Krilin:
+/d/tirun/clergy/monk/monk_hall: for some reason i have 45 max bargaining y 
+Idea reported by Kalidas Sun Apr  7 00:30:37 2002
+/d/tirun/square: price command.  it would be cool if there was a price command in your class hall.  you would "price <skill>" and it would tell you how much xp it would cost to raise that skill to the next point from where it was.  it would make things alot eaiser while training
+Bug reported by Xenx:
+/d/tirun/fighter_hall: i became a figter then it gave me this error. Value
+being indexed is zero.program: /std/living/skills.c, object: /std/user#18063,
+file: /std/living/skills.c:173 
+Typo reported by Jillian:
+/d/tirun/square:  wearall You cannot wear regular armuur with body armour.
+Bug reported by Djerr:
+/d/tirun/fighter/fighter_join: tell nightshade tell nightshade Value being
+indexed is zero. program: /std/living/skills.c, object: /std/user#60423,
+file: /std/living/skills .c:173 l 
+Bug reported by Wraith:
+/d/tirun/sage_room: on languages, when you study and then enter a portal you
+dont stop studying
+Typo reported by Mishkal:
+/d/tirun/square: raknid armour "your feel more protected"
+Idea reported by Azire Tue Apr  9 10:43:31 2002
+/d/tirun/square: for dragons, for easy reference, perhaps when you look at them (You look over the female White Dragon) .. the color type could actually be the color that the dragon is. (white font for white, blue font for blue.. etc)
+Bug reported by Azire:
+/d/tirun/square3: when i try to eat anything that isn't a corpse, i have to
+alias what it is i am trying to eat or else it tells me i can only eat corpses.
+Idea reported by Wraith Wed Apr 10 08:45:54 2002
+/d/tirun/sage_room: is there going to be an actuall visual mud calandar we can look at that shows us what months go where?
+Idea reported by Wraith Wed Apr 10 08:48:43 2002
+/d/tirun/sage_room: a command 'study time' to check on how long you have left to study
+Bug reported by Gracelda:
+/d/tirun/delivery/lars#37279: package I was trying to deliver this to lars, but
+he can't hold anymore
+Bug reported by Gracelda:
+/d/tirun/delivery/lars#37262: package I just killed lars and get 18 packages
+from his corpse
+Typo reported by Azire:
+/d/tirun/clergy/druid/druid_tree: under songs, benneificial is beneficial.
+detremental is detrimental.
+Bug reported by Rhuan:
+/d/tirun/square: ranged is EXTREEMLY strong right now... 99 ranged and 5 arrows
+took a citizen to bleeding... this would mean my lvl 30 could max ranged and
+kill drow general most likely
+Bug reported by Kingcold:
+/d/tirun/mage_hall: Too long evaluation. Execution aborted.
+Bug reported by Johoram:
+/d/tirun/fighter/warrior/warrior_hall: i trained defense 10000 xp and i went
+from 8/10% to 8/71%.  is that right? 
+Bug reported by Lily:
+/d/tirun/jail: dont use query_cap_name() on auction, capitalize query_name()
+Bug reported by Artanis:
+/d/tirun/fighter_hall: Riding is still banged it costs 300k for 3 percent.
+thats not right 
+Bug reported by Aximili:
+/d/tirun/square: 
+Bug reported by Gehenna:
+/d/tirun/fighter/warrior/warrior_hall: i went to by an axe, when it showed me
+the axes i was shown a pick axe, which ends up been a blunt which i can slash
+with 
+Idea reported by Azire Sun Apr 14 18:13:41 2002
+/d/tirun/square: i think PD needs a line for foul comments, dirty minds, etc. *laughs* call it gutter or something. that way ppl can block the nasty thoughts we all have from time to time.
+Bug reported by Nightshade:
+/d/tirun/dragon_hall: thornwrack...  heard it's really quite powerful...
+Bug reported by Azire:
+/d/tirun/square: i'm having issues with the dragon command 'eat'. when i try to
+eat things, it says i can only eat corpses. *ponder*
+Idea reported by Azire Mon Apr 15 12:51:54 2002
+/d/tirun/square: perhaps a 'mount allow/follow allow' list? letting you know who at present you have allowed to mount/follow you?
+Bug reported by Wraith:
+/d/tirun/pubstart: damage from shooting needs to be fixed, I took Lars down to
+dying with 3 arrows and then 7 arrows after that he still isnt dead
+Bug reported by Xena:
+/d/tirun/square: 
+Typo reported by Mochaprincess:
+/d/tirun/square: 
+Bug reported by Shalamar:
+/d/tirun/square: gypsies start in town [] rather than their guild hall 
+Bug reported by Stryder:
+/d/tirun/square: icestorm damage is too high. a lvl 19 did 200 damage to me with
+icestorm in arena
+Bug reported by Kilmor:
+/d/tirun/weapon: trip never misses 
+Typo reported by Xena:
+/d/tirun/rogue/scout/scout_join: Thiere is a typo in the scout description.
+It says they show no allegence to anyone save themselces. 
+Typo reported by Lily:
+/d/tirun/warehouse2: Everywhere you look people are fleeing in terror. 
+Trampling each other in the mass panic, vainly looking for shelter.  (Incomplete
+second sentance...  a , instead of a . perhaps?)
+Bug reported by Nightshade:
+/d/tirun/hhouse/4: allow for worn armor with set_property("dragon wear", 1);
+Typo reported by Cookie:
+/d/tirun/square: When you remove the bronze gauntlets, it says "you hands starts
+to spasm from relaxation". It should be "start" not "starts"
+Bug reported by Calirynth:
+/d/tirun/clergy/kataan/kataan_hall: I can wear "white leather boots" and two
+"shimmering boot"s at the same time
+Bug reported by Calirynth:
+/d/tirun/obj/misc/backpack#16550: pack look pack should tell you if it's opened
+or closed
+Bug reported by Azire:
+/d/tirun/square: the emote 'flirt' doesn't seem to be working anymore.
+Bug reported by Neocount:
+/d/tirun/wanderer_hall: swashbuckler double wielding is extreemly expensive. 10k
+for 19-20, but we get 5 per level
+Idea reported by Wraith Wed Apr 24 19:12:02 2002
+/d/tirun/pubstart: for rogues with the disguise ability, let them have a 'speak as <player>' while they are disguised, but have it drain sp or disguise time
+Bug reported by Wraith:
+/d/tirun/pubstart: A rogue with disguise can disguise as themselves
+Bug reported by Enigma:
+/d/tirun/fighter_hall: berzerkers get 6 melee per lvl, but it is rather hard to
+train it
+Bug reported by Scarface:
+/d/tirun/square: You look over Aximili's palm...  If you see this, there's a
+bug, report it to the immortals. Left hand side of += is a number (or zero);
+right side is not a number. program: /cmds/skills/_palmread.c, object:
+/cmds/skills/_palmread, file: /cmds/skills/_palmread.c:356 
+Bug reported by Wraith:
+/d/tirun/square: Artanis took his demon character to elite and went through the
+demon quest a second time, choose a diff class/subclass
+Bug reported by Stryder:
+/d/tirun/square: thornwrack does 200 damage from a lvl 20. little overpowered
+Idea reported by Azire Fri Apr 26 13:40:35 2002
+/d/tirun/square: DRAGON SADDLES! *smirk*
+Bug reported by Jack:
+/d/tirun/square: this stasis spell doesnt work!
+Bug reported by Soulfly:
+/d/tirun/square: You shoot a ball of fire into the sky. >  Your ball shoots
+through the clouds. Bad argument 1 to call_other() Expected: string or array
+or object Got: 0. program: /cmds/skills/_fireworks.c, object:
+/cmds/skills/_fireworks, file: /cmds/skills/_fireworks.c:65 
+Idea reported by Azire Wed May  1 19:35:56 2002
+/d/tirun/square: code me a giant dragon litter box, please, Daos. *snickers*
+Bug reported by Wraith:
+/d/tirun/sage_room: the sage sayd Attonitian is not a language, yet im skills in
+it already, what happened
+Bug reported by Wraith:
+/d/tirun/sage_room: nm that bug
+Bug reported by Clearmoon:
+/d/tirun/square: The deed in Lodos Tower, n,n,e,u,u,u,s from square, doesnt
+work.
+Bug reported by Neocount:
+/d/tirun/square: bladedance is extreemly weak compared to other class abilities.
+tarent only did 150 with 4 hits to me in arena and his level was around 36
+Typo reported by Azire:
+/d/tirun/square: PALADIN not palidan (looked at finger, saw that there)
+Idea reported by Azire Thu May 16 18:33:22 2002
+/d/tirun/dragon_hall: how about a 'stretch' emote?
+Typo reported by Wisp:
+/d/tirun/hhouse/3: fasion. 
+Bug reported by Scapegoat:
+/d/tirun/hhouse/outside: glow YELlOWThe light seems to come from every
+direction...
+Bug reported by Wraith:
+/d/tirun/square7: the spell ears was noticed by gruber as not being on his spell
+list, but he is still able to cast it, the orb that pops up when he does cast it
+causes anyone who attacks it to lose their heartbeat
+Bug reported by Gruber:
+/d/tirun/mage_hall: ears I have the spell ears, I'm a sorceror. Under the help
+ears file it says it's a wizard spell only. The spell does not show up when I
+type spells but I can cast it none the less. After casting the spell, I can see
+'a small orb' in the room I casted it in. The orb is attackable and I can look
+at it.
+Bug reported by Anchor:
+/d/tirun/hhouse/outside: THe new quest in newbie town. When down at the yard
+with the tombstone are the room desc start with "An eerie glow fills the yard."
+(standing in yellow)  when you type "l glow" it says "YELlOWThe light seems to
+come from every direction...  It must come from a magical source." ( standing in
+white ) there is a minor "l" in yellow in the beginning. should be major to get
+the text in yellow colour.  Cheers!! =P
+Typo reported by Aziraphale:
+/d/tirun/hhouse/outside: In the mansion, in the 'shadows' room with a glow in
+it. When you 'look glow' the colour code doesn't work. It has been written
+YELlOW instead of YELLOW
+Bug reported by Scarface:
+/d/tirun/square: palmread is still bugged
+Bug reported by Scarface:
+/d/tirun/square: song of fates raises con, but the hp's don't raise...what is it
+supposed to do?
+Idea reported by Azire Mon May 20 16:47:17 2002
+/d/tirun/square: make roses wieldable... to all races.
+Bug reported by Direwolf:
+/d/tirun/square: Expected: string or array or object Got: 0. program:
+/cmds/skills/_build.c, object: /cmds/skills/_build, file:
+/cmds/skills/_build.c:74 
+Typo reported by Hermes:
+/d/tirun/square1: moo 
+Typo reported by Cookie:
+/d/tirun/wmullin5: In the line of path where the haunted house it... stones
+underfoot run north and south... but you can only go east and west... so I think
+it should be changed.
+Bug reported by Halo:
+/d/tirun/sage_room: With studying languages it seems that the timing is really
+off at times. I studied for 15 minutes and wasn't finished 50 minutes later and
+had to leave. As i'm typing this I'm studying for 15 and it's been over 20. I
+have no Idea why this is, I'm just lettting you know.
+Bug reported by Neocount:
+/d/tirun/wanderer_hall: blade is very expensive for a swashbuckler and they get
+6 per level. 57k for 99-103 is a lot for a main skill
+Bug reported by Stormbringer:
+/d/tirun/warehouse2: warehouse2 has unlimited rats, when you push crate
+Bug reported by Whit:
+/d/tirun/square: law isnt working right...  Baine got murder 1 count they took
+all eq and he got all this done while he was in the square
+Bug reported by Whit:
+/d/tirun/lawless/prep#1687: looks like execute thing didnt work
+Bug reported by Gor:
+/d/tirun/weapon: I used <setenv TZONE MST> and then used the command <date> to
+check the time and it showed the time as being exactly 9 hours earlier than it
+should be.
+Bug reported by Azire:
+/d/tirun/square: i can't put my pouch in the pit in the tirun []. i get 'Put a
+container in a container?'
+Bug reported by Hermes:
+/d/tirun/rogue/assassin/assassin_hall: When you yell something  call_other()
+couldn't find object program: /cmds/mortal/_yell.c, object:
+/cmds/mortal/_yell, file: /cmds/mortal/_y 
+Bug reported by Zeus:
+/d/tirun/sage_room: <help get2> That command exists, but has no help.  Please
+use the bug command to report it.
+Bug reported by Aziraphale:
+/d/tirun/square: Killing an outlaw in the arena removes their outlaw flag, works
+for an outlaw killing himself too.
+Bug reported by Aziraphale:
+/d/tirun/square: Again with the going into negatives and not dying in the arena.
+Attacker gets a pk flag for every round of combat the defender is in negatives.
+Bug reported by Aziraphale:
+/d/tirun/square: Arena bug seems to be related to link-death.
+Bug reported by Dicer:
+/d/tirun/locker: locker I had wizard robes stored, I removed them, sold them and
+stored my 4bladed axe. mere hours later. I reclaim my wizard robes. I thought I
+was crazy the first time this happened but now I know I'm sane~! :P
+Praise given by Lamec Wed May 29 02:29:33 2002
+/d/tirun/clergy/druid/druid_hall: trivia Daos does a wonderful job with the trivia.  Lots of fun! :)
+Bug reported by Azire:
+/d/tirun/square: CANNOT THROW ANYTHING!
+Bug reported by Aziraphale:
+/d/tirun/square: After leaving the arena, Boffa and Aziraphale were still in
+combat. We noticed it in the peace zones because my mage robes kept healing me.
+One of us had to be outside a peace zone to truce.
+Bug reported by Wedge:
+/d/tirun/jail: Aziraphale is bugged to the max
+Bug reported by Scarface:
+/d/tirun/square: Anathema Au Vengaence is hella bugged, i killed a mob before
+it hit and now i can't sing anymore songs, it says im still singing. 
+Bug reported by Wedge:
+/d/tirun/locker: Why do i store something in the locker then the next day its
+okey? its happened twice now, really irritation
+Bug reported by Aphrodite:
+/d/tirun/pier1: My package disappeared when I got it... So I coudldn't give
+it to Lars.  But the headmaster seems to think I still have the package. 
+Bug reported by Kilir:
+/d/tirun/square: I have an abilitie that lets me attack in in safe zones, I
+think its a bug so i reported it. 
+Bug reported by Neocount:
+/d/tirun/square: my mistake. a lvl 21 can do 400 damage to me on a slash... that
+was only 3 hits. thats nuts... my ability does about 70 damage on average and
+i'm lvl 24. fighter is way too strong
+Idea reported by Azire Tue Jun  4 16:17:09 2002
+/d/tirun/square: let dragons wear amulets/crowns
+Typo reported by Leviathas:
+/d/tirun/pubstart: The gods begin to wage war in the heavens, plunging the
+realms into "choas."
+Idea reported by Jaden Mon Jun 10 12:03:39 2002
+/d/tirun/square: mudidea newbiezone!!! newbiegear!!!!!
+Bug reported by Stormbringer:
+/d/tirun/locker: lockers are not working. I stored something ten minutes before
+reboot and when I returned from reboot there was nothing in storage.
+Bug reported by Whit:
+/d/tirun/loadb: If someone sails to 16, 8 it will bug
+Typo reported by Cookie:
+/d/tirun/square: when you are "pimped" by another player... it says "reaches
+back like a pimp and slap you"... it needs to say "slaps"
+Bug reported by Michael:
+/d/tirun/rogue/assassin/assassin_join: stealth needs to be removed from the
+abilities list. If we dont have an ability, why should we be able to see it on
+the list?
+Typo reported by Dagmar:
+/d/tirun/square: when you see someone wear wingclaws... it reads "Mochaprincess
+wears her a pair of wingclaws." There shouldn't be the "her" in there.
+Bug reported by Nightshade:
+/d/tirun/dragon/red_hall: you can get stats and xp multiple times from doing
+angel quest
+Bug reported by Nightshade:
+/d/tirun/dragon/red_hall: I will take care of the above mentioned soon
+Typo reported by Boffa:
+/d/tirun/square: <blah> finds a place and sit down. should be sits down.
+Bug reported by Wraith:
+/d/tirun/rogue_hall: stat<player> dosent show all the skills for that player,
+like agility, for rogues and a few others.
+Typo reported by Tempest:
+/d/tirun/square: when ever anyone sits anywhere, it says "[name] finds a place
+and sit down." i think that is a typo
+Bug reported by Nightshade:
+/d/tirun/square3: raged player goes ld, the freezer kills them, not good.  I'll
+fix it (this is just a note to self)
+Bug reported by Yakko:
+/d/tirun/square: /d/merkkerri/swamp/mob/troll.c line 46: Warning: Unused local
+variable 'i'around the end of line
+Bug reported by Yakko:
+/d/tirun/square: /d/merkkerri/swamp/mob/troll.c line 46: Warning: Unused local
+variable 'all' around the end of line
+Bug reported by Nightshade:
+/d/tirun/dragon/white_hall: fix the mapper to handle color and not show invis
+livings
+Bug reported by Nightshade:
+/d/tirun/dragon/white_hall: (the above is a note to self)
+Bug reported by Ashram:
+/d/tirun/square: makaveli managed to raise about 7 specters... seems like a bug
+to me
+Bug reported by Lac:
+/d/tirun/square: Array index out of bounds. program: /std/armour.c, object:
+/d/keys/sand/crown#85341, file: /std/armour.c:72 was a red crown :/ 
+Bug reported by Melchior:
+/d/tirun/square: ansi off doesn't turn ansi off
+Typo reported by Graebek:
+/d/tirun/tannery: Maybe a typo or a bug, I'm not sure. The brief desc of Garons
+is Xors weaponry
+Bug reported by Druss:
+/d/tirun/square: demon assassin
+Bug reported by Daredevil:
+/d/tirun/fighter/berserker/berserker_hall: Rage bug
+Bug reported by Daredevil:
+/d/tirun/fighter/berserker/berserker_hall: What i was ment to say what that
+sometimes i rage and can't get out of rage after combat. and i have to quit
+to get rid of it. Can you take a look at it. 
+Bug reported by Yakko:
+/d/tirun/sage_room: i think if 2 ppl study different languages at the same time
+2 languages r learned
+Typo reported by Halogen:
+/d/tirun/dragon/white_hall: The room description says that a 'Fighter' may
+advance ect.
+Bug reported by Abzigal:
+/d/tirun/monastery: No reason for dying
+Bug reported by Abzigal:
+/d/tirun/monastery:  > +=+=( Score
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+ Name     :
+Abzigal       Title: Abzigal "Running Riot!"              Race     : Dragon  
+Level  : 25            Experience: 809,768        Class    : Dragon       
+Gender : Male          Alignment : Bad           Subclass : Blue          Age
+: 18            Spouse    : None          Guild    : Illuminati    Deeds  : 4
+Deaths    : 1             Outlaw   : No            Quests : 1            
+Kills     : 43           
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hit Points     : 10/500            Intoxicated : [....................]
+Stamina Points : 10/241            Stuffed     : [....................] Mana
+Points    : 142/600           Quenched    : [....................]
+Encumberance   : 10/345            Poisoned    : [  No  ]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stat Point Totals : 108            Skill Point Totals : 540
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Money : 5 silver and 6618 gold.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+You are 1 day, 16 hours, 59 minutes, 6 seconds old.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+> +=+=( Spells
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+= Attack:  
+dispell, rot Defense:   shield Faith:   (none) Healing:   boost, cure
+Conjuring:   hold Other:   stop, snowball > You feel the peace leave you. w w
+w w w w w w w w d s s s s s s e e e e e e e e e e  e e e e e e e d e e e e e
+e e e e e e  Market Square.                                          |    
+[*]  The square is dark and quiet.  Dark forms moving in the       |      | 
+darkness lend evidence that at least some creatures roam the  | [ ]-[X]-[ ]
+night.  A shadow along side of the road to the north and east |      |  seems
+to coalesce into a building.  The stones underfoot are  |     [ ]  hard to
+make out and things look different in the darkness.  The road seems to travel
+west and south.     There are four obvious exits:  north, south, west, and
+east.  > Tirun Market Square.                                          |    
+[ ]  The square is dark and quiet.  Dark forms moving in the       |      | 
+darkness lend evidence that at least some creatures roam the  | [*]-[X]-[ ]
+night.  Shadows along the side of the road to the east and    |      |  west
+coalesce into buildings.  The stones underfoot are hard  |     [*]  to make
+out and things look different in the darkness.  The road seems to travel 
+north, west, and east.  An opening in the fence to the south leads into a
+well lit area.    There are four obvious exits:  north, south, west, and
+east.  > You feel at peace here. w w w w w w w w w w d s s s s s s e e e e e
+e e e e e  e e e e e e e d e e e e e e e e e e e  Central Park               
+|     [ ]  The park of Tirun is situated in the center of market square. |   
+|  It is a place of peace and rest dedicated to the Gods of the  | [
+]-[X]-[*] realm.  The bustling activity of the town does not encroach   |    
+|  upon this place.  Not even time invades this sanctuary of the |     [ ] 
+Gods.  A magnificent fountain of a dragon dominates the center of the park. 
+A peaceful silence permeates this place.  There are four obvious exits: 
+north, south, west, and east.  Lord Lac \\o \o/ o// A town guard  A fountain,
+an old tattered board, and a pit are here. >  The world darkens for a second
+as Abzigal dies.                                 _,.-----.,_                 
+,-~           ~-.                            ,^___           ___^.           
+/~"   ~"   .   "~   "~\                          Y  ,--._    I    _.--.  Y   
+| Y   / ~-. | ,-~ \   Y |                          | |  |     }:{     |  | | 
+j l  (    / | \    )  ! l                       .-~  (__,.--" .^. "--.,__) 
+~-.                      (           / / | \ \           )                   
+\.____,   ~  \/"\/  ~   .____,/                        ^.____                
+____.^                           | |T ~\  !   !  /~ T| |                     
+| |l   _ _ _ _ _   !| |                           | l \/V V V V V V\/ j |    
+l  \ \|_|_|_|_|_|/ /  !                            \  \[T T T T T TI/  /     
+\  `^-^-^-^-^-^'  /                               \               /          
+\.           ,/                                     "^-.___,-^"  You die. You
+feel the sensations of nothingness as you rise above your corpse. You arrive
+at a destination in a reality not like your own. Abzigal dies a horrible
+death. The dead are incapable of such acts.  >  A blue, almost black mist
+swirls around you. A floating sensation floods your senses. You can feel that
+you no longer have a physical body, be that for the better or worse. Your
+ghost sores high above your dead body. You feel yourself falling... A blue,
+almost black mist swirls around you. A floating sensation floods your senses.
+You can feel that you no longer have a physical body, be that for the better
+or worse. Your ghost sores high above your dead body. You feel yourself
+falling... The hazy mist fades away from you, leaving you in a strange place.
+You look around, and find yourself in an endless black void. Spirits fly past
+you in greenish streaks across the black sky.  As you try to leave, you
+notice a huge, dark figure hovering before you. The figure seems to be an old
+and powerful spirit. The spirit has two firey pin points for eyes, but is
+otherwise undiscernable besides a long shadowy robe.  The Spirit says:
+Abzigal.. Balrog has struck you down? The Spirit shakes his head. The Spirit
+says: Since you're new here, I am the Grim Reaper. You know damn well who you
+are, so I won't bother saying your name again. Lac <newbie> wtf? The Spirit
+says: This is the first time you have died, and I feel for ya. I remember
+when I first died.. The Spirit says: Okay, listen. I know how you feel and
+I'm the type of guy who understands that sort of thing, and I'm sorry for
+you, but there's not much I can do. You feel confused and a bit scared.  The
+Reaper looks up at you and says: I know you want to get back to the mortal
+world to get revenge.. The Spirit says: But knowing you, I don't think it'll
+be that long before I see you back here again. Tendrick <newbie> ack! You
+frown disapprovingly. The Spirit says: I know, it must be depressing. The
+Spirit says: Just to make you feel a little better, I'm going to tell you the
+secret of life.. The Reaper clears his throat and opens his mouth to talk. A
+voice in your head says: Primal Darkness-II calls for you.. The Spirit says:
+Oh! Too bad.. Your time here has run out.. Time for you to go back. The Grim
+Reaper's Spirit waves to you. You feel yourself falling, then suddenly you
+find yourself in a familiar place. Lac <newbie> that was wierd.. To end
+message type ".".  To abort, type ~q.  To view help, type ~h. Primal Darkness
+Mes 
+Bug reported by Ashram:
+/d/tirun/square: spectres can wear armour and deapons.... imagine a spectre with
+ivory daggers... and you can stasis and make the spectre shield itself... you
+can pk anything like that. cheap and overpowered and bug i think
+Bug reported by Arim:
+/d/tirun/wgate: demonstrength wont work still
+Idea reported by Romeo Tue Jul  9 20:07:58 2002
+/d/tirun/square: enemylist - same like buddylist. except make buddies turn up in like green and enemies turn up in red when they sign on
+Bug reported by Druss:
+/d/tirun/square: i bought some stuff frome store and now they are gone from my
+inventory
+Bug reported by Hermes:
+/d/tirun/square: Wizard at AoD bugged out when I tried to buy blood and I'm out
+4k.  Also I got trapped in the room and had to break a seal to get out
+Bug reported by Aziraphale:
+/d/tirun/jail: Joey comes in and does flameclaw, I try to spin halo but I am
+paralyzed. I spam spin halo, but even after it says "you can move again" it just
+says "You are stiff as stone" So I died, and a real death too, I must be so
+lucky.
+Bug reported by Leffe:
+/d/tirun/fighter/fighter_vote: the room south in the fighter hall contains an
+error, the room description says "new_long"
+Praise given by Shinkoro Sat Jul 20 09:43:25 2002
+/d/tirun/square: disguise I just love this command.
+Bug reported by Delthia:
+/d/tirun/bank_vault: There's a bug in the bank.  The coins are not leaving
+and then got a message Bad argument 1 to call_other() Expected: string or
+array or object Got: 0. program: /cmds/mortal/_get.c, object:
+/cmds/mortal/_get, file: /cmds/mortal/_get .c:150 
+Bug reported by Eios:
+/d/tirun/square: when you sleep you can still see what people are saying and see
+people entering and exiting
+Idea reported by Cenn Tue Jul 23 22:34:02 2002
+/d/tirun/rogue/assassin/assassin_join: You tell Daos: u know
+Idea reported by Cenn Tue Jul 23 22:34:38 2002
+/d/tirun/rogue/assassin/assassin_join: I have already become a rogue, I shouldnt have to walk so far away to get to my hall.  There should be a rogue portal for rogues only, closer to square, and a portal in rogue hall to get back there.
+Bug reported by Boffa:
+/d/tirun/square: 'YOU ARE NOT A DARKSOUL!' when i try to wear my leggings. I
+am a darksoul... 
+Idea reported by Cenn Wed Jul 24 06:43:24 2002
+/d/tirun/armour: Idea for shops.
+Idea reported by Cenn Wed Jul 24 06:44:11 2002
+/d/tirun/armour: Idea for shops, show item, at the bottom, "You do/do not have the skill to use this item.
+Typo reported by Shinkoro:
+/d/tirun/rogue/scout/scout_join: help scout, the word themselves is misspelled.
+Idea reported by Cenn Wed Jul 24 13:11:05 2002
+/d/tirun/square: wield dagger 1234 (wields 4 daggers)
+Bug reported by Arim:
+/d/tirun/square: anti we aint got absorb at lvl 25, stormy said we should
+Bug reported by Bealeheh:
+/d/tirun/oil_shop: spells list is messed up
+Bug reported by Beezelbub:
+/d/tirun/cgate: direction s are crazy
+Bug reported by Aldur:
+/d/tirun/fighter/berserker/berserker_hall: rage, i am getting stuck in rage
+sometimes, the only way it can be cured is quitting, u cannot talk over lines
+all u can do is send tells, party lines, and move, but cannot drop anything big
+up anything, say anything... i am not sure what causes this but i needs to be
+fixed.
+Typo reported by Prator:
+/d/tirun/sveros5: Outside the sage of tirun I get "[0;37;40mmstones underfoot
+running north and south make the road easy to follow." on the last line of the
+description.
+Bug reported by Prator:
+/d/tirun/armour: Bargaining is only trained when you sell things from a bag
+(backpack/diamond etc.). I have sold heaps normally. I sell 6 hammers from a
+backpack and my bargaining goes up 3 points.
+Bug reported by Aldur:
+/d/tirun/fighter_hall: tail ties, can be worn by i think everything with a tail,
+as long as u put in 'wear ties on tail'. they should be centaur only.
+Bug reported by Rashka:
+/d/tirun/nveros2: weimics can't mount allow
+Typo reported by Prator:
+/d/tirun/clergy/cleric/cleric_join: Casting buffer on yourself gives you the
+message twice. Once saying you cast buffer on someone, and once saying someone
+casts buffer on you.
+Bug reported by Prator:
+/d/tirun/loadb: I bought a boat. Went to the docks. Did <recall boat> and it
+says "What?"    <board prator> says "You do not see that boat here."     So
+apparently have a boat, it just isn't at Tirun docks, and I can't recall it.
+Typo reported by Flabber:
+/d/tirun/square: The gods begin to wage war in the heavens, plunging the realms
+into choas.
+Bug reported by Victorgrey:
+/d/tirun/square: tries to use 'help lock' for the command, but one didn't
+exist.. it said to report it
+Bug reported by Khale:
+/d/tirun/bank: help lock, says it exists, but no file there...told me to report
+Bug reported by Aldur:
+/d/tirun/square: centaur tail ties, are ment for only a centaur, fair enough,
+but as a demon i discovered that i could use them by a simple change in command,
+if i wear all, or wear ties, it will not work, BUT if i just change it to 'wear
+ties on tail' i can wear them, i like having a lil more protection but it is
+ment for centaurs only so it should be fixed.
+Idea reported by Aldur Sun Aug  4 16:21:50 2002
+/d/tirun/square: Rage(for demons) ok how about this, for gore to be in Melee rage and melee rage only, u need max melee for lvl 25, 125 ferocity, and max attack, i think that is 150 attack,125 ferocity and 150 melee, and maybe rage should be a lvl 20 or 30 ability, for starters its not that useful at low levels and it is pretty good except for the good chance of dying. As for Massacre i'd say lvl 50 maxes in ferocity, melee, attack and... 50 str... just trying to make it a lil more realistic for u guys
+Idea reported by Aldur Sun Aug  4 16:23:55 2002
+/d/tirun/square: ferocity say at lvl 25 max ferocity, rage would disregaurd some of the lower abilities like jab, whirl and headbutt... because really they don't do much at all, i'm not even sure if headbutt does anything at all.
+Bug reported by Rashka:
+/d/tirun/weapon: DarkCutlass wielding problems
+Bug reported by Rashka:
+/d/tirun/weapon: RangerAxe Rangers should have hack, since help hack says
+'fighters' get it
+Bug reported by Wraith:
+/d/tirun/weapon: found whits bug in the shops, going to try to fix itERROR:
+(s)printf(): Incorrect argument type to %d. program: /std/vendor.c, object:
+/d/tirun/obj/mon/xor#30922, file: /std/vendor.c: 352
+Bug reported by Afieron:
+/d/tirun/weapon: got a bug when i typed list at Xor's Weapon Shop in tirun 
+Typo reported by Baudros:
+/d/tirun/hhouse/bedroom: A single candlestick holder protrudes fromthe wall,
+holding a half-melted candle.
+Bug reported by Loki:
+/d/tirun/monastery: I was fighting in the arena with autema i cast hf and it
+hit autema so i cast it again, he stabbed me in the same round and we bother
+died in the losres room i it said i hit him with it but it didnt start combat
+or anything.... then i left and went back to the square and got executed
+because i had killed 3 people 
+Bug reported by Hermes:
+/d/tirun/clergy/druid/druid_hall: somethings up, the druid elections say the
+next one won't be until 2003, which is like a year from now.  Before, it said
+2002.  I dunno how the bug happened, but it happened.  Elections are in 12 days
+so we need this fixed
+Typo reported by Cookie:
+/d/tirun/square: Holy battle armour is misspelled as "Holy Battle Armuor"
+Idea reported by Rashka Fri Aug  9 20:41:47 2002
+/d/tirun/sxelan2: TeleportScrolls Demons/Dragons/Angels get fly and normal people don't :( That's just unfair
+Bug reported by Wraith:
+/d/tirun/square: mudthrow yourself is still enabled, you can attack yourself
+that way
+Bug reported by Ug:
+/d/tirun/square: rage
+Bug reported by Swoop:
+/d/tirun/hhouse/bottom: dragon quest it says i get 2 potions but only get 1..
+the antidote... my bro said that isn't what happend to him... please explain
+Idea reported by Arim Mon Aug 12 02:11:42 2002
+/d/tirun/square: i have an idea, send me a tell bout it stormy, its a great idea :D
+Idea reported by Rethlan Wed Aug 14 20:18:16 2002
+/d/tirun/square: slur the 'say's when a character is drunk - most common i've seen has been s=sh, r=rr, and g=' (appostrophe)
+Bug reported by Azire:
+/d/tirun/post: in mail.. Appending to /tmp/post/azire.dead. !ERROR! This is a
+bug. Please contact an admin.
+Bug reported by Greg:
+/d/tirun/post: i got !ERROR! This is a bug. Please contact an admin. i went
+to the library, with the books you can read ffrom, and i remembered seeing a
+guild behind the bookcase, so i types push bookcase, and it opened, then i
+typed passage, and it said !ERROR! This is a bug. Please contact an admin.
+instead of going in 
+Bug reported by Dahnk:
+/d/tirun/fighter/fighter_vote: The room to the south of the 'inner sanctum of
+the Hall of Fighters!' seems to be a little messed up with it's description it
+simply says 'new_long' and lets you exit north.
+Bug reported by Greg:
+/d/tirun/square: i typed in help lock, it said: this command exists, but has
+no help, please use bug command to report it 
+Typo reported by Daboura:
+/d/tirun/square: There is a typo in help idling ---->"recomended *taht*
+you"<---- 
+Idea reported by Baudros Fri Aug 16 01:15:49 2002
+/d/tirun/square: Black and White dragons, these dragons are missing something, they lack a advantage over the other dragons like blue has cure and boost and shield, all very useful, red has dirt cheap skills compared to all other dragons... yet the only usful spell black gets is shield (which all but red get), and white its the same except for maybe peace.. in some situations
+Typo reported by Ranier:
+/d/tirun/wdovin2: Running east and west through the northwe section of Tirun,
+Dovin Road is
+Bug reported by Ranier:
+/d/tirun/rogue_hall: 0 is listed as a character in my party range
+Bug reported by Prator:
+/d/tirun/square: Lifewarp does not check to see if you are busy, you can cast
+any non-combat spell and then still cast lifewarp in the same round. Paralyze
+doesn't check either I think. So in one round you can "cure me" + "paralyze
+enemy" + "lifewarp enemy". I checked it and I could do it any time. If clerics
+had an ability I am sure they could use it and lifewarp in the same round, good
+thing they don't.
+Idea reported by Leviathas Sun Aug 18 16:06:38 2002
+/d/tirun/pubstart: death I think that when PlayerA kills PlayerB, PlayerB should have a smaller death penalty (stats, skills, etc.) than they would have if they were killed by a monster.  Why?  Because, harassment has always been an issue with PK.  If someone was PKed 3 times in a row, it could cause them to want to quit playing.  But they probably WOULDN'T be killed by the monster three times in a row.  I don't think players should have that kind of power over other players.  I mean, killing another player for RP and such is good, but if it is done simply to punish another PLAYER, that's just wrong and out of the spirit of fair play.
+Bug reported by Greg:
+/d/tirun/post: i was sending a e-mail to hepy , then i did . for the cc, and
+it said: No recipients found.  Appending to /tmp/post/greg.dead. !ERROR! This
+is a bug. Please contact an admin. 
+Typo reported by Prator:
+/d/tirun/quaint: The frantic mother in tirun is a neuter human. Hahahahaha. :)
+Typo reported by Hermes:
+/d/tirun/square: colleseum = colosseum 
+Typo reported by Rethlan:
+/d/tirun/pubstart: feeling pimp - for the 3rd party, slap needs to be slaps
+Bug reported by Prator:
+/d/tirun/square: I dunno if this should be classed as a bug or typo - when
+someone says something as a ghost it tells the room: "You hear a pitiful howl."
+but it doesn't close off the line. so you get : "You hear a pitiful howl.Pyro
+leaves north."  -  Just a small thing.
+Idea reported by Kilir Tue Aug 27 17:53:34 2002
+/d/tirun/pubstart: ability I think there should be a abilitie so you can dig up the stuff someone burried in that area...only way you can get it is if you have a certain amount of skills....just putting up an idea i think that alot of people would like.
+Bug reported by Pirsq:
+/d/tirun/fighter/fighter_vote: whats with this room?
+Typo reported by Wraith:
+/d/tirun/fighter_hall: Bug reported by Prator Tue Aug 27 16:39:41 2002:
+/d/tirun/square: I dunno if this should be classed as a bug or typo - when
+someone says something as a ghost it tells the room: "You hear a pitiful howl."
+but it doesn't close off the line. so you get : "You hear a pitiful howl.Pyro
+leaves north."  -  Just a small thing.
+Idea reported by Azire Fri Aug 30 12:58:30 2002
+/d/tirun/square: how about making dragons immune to their breath weapon type? makes sense.. otherwise whites would be poisoning themselves all the time.
+Idea reported by Azire Fri Aug 30 12:59:02 2002
+/d/tirun/square: how about some tail rings or horn bands for dragons, same attributes as the small rings, only .. well.. different!
+Idea reported by Azire Fri Aug 30 17:42:32 2002
+/d/tirun/square: let's let dragons wear crowns, for no armour bonus!
+Idea reported by Azire Tue Sep  3 18:14:24 2002
+/d/tirun/square: let dragons wear amulet thingies!
+Bug reported by Naktu:
+/d/tirun/square: using godspeed in the arena increases your sp as well as your
+dex. this seems to work more than once, too.
+Typo reported by Rethlan:
+/d/tirun/magehouse: If everything wasnt thrown about ->(wasn't)
+Bug reported by Ashram:
+/d/tirun/square: i cant cast my para because it says i'm too low on mp... i have
+1760 mp and i cant para
+Bug reported by A shadow:
+/d/tirun/sage_room: 
+Typo reported by Cookie:
+/d/tirun/square: when someone, like scarface, beings their dance to fade into
+the shadows... it says... "Scarface dances slowly moving his arms about in a
+slow rythem. Scarface and begins to fades!"... perhaps it should say "Scarface
+dances slowly, moving his arms about in a slow rythem and begins to fade!"
+Typo reported by Cookie:
+/d/tirun/sage_room: in help speak... it saus "theirspeaking ability". It should
+be "their speaking ability."
+Typo reported by Cookie:
+/d/tirun/sage_room: in my last typo message I said "saus" when it should have
+been "says". Thanks. :)
+Typo reported by Cortoth:
+/d/tirun/hhouse/finalroom: at creation, it says "Do you like to keep that name?
+[(y)es/(n)o]:" - probably should be "Would you like to keep that name?" or "Do
+you like that name?"
+Idea reported by Azire Wed Sep 18 14:29:44 2002
+/d/tirun/square: how about you make a separate place for the pit.. it gets waay too spammy in the [] from people dropping tons of meat, etc.
+Bug reported by Setzer:
+/d/tirun/square: attacking sigma makes you lose your heartbeat
+Bug reported by Arch:
+/d/tirun/square7: i'm gettin a bug message when i try to go to merk via sphere
+(guild item)
+Idea reported by Koumori Mon Sep 23 18:22:40 2002
+/d/tirun/nhaven1: items placed in container i have an idea you could add, how about when you sac/butcher/whatever a corpse any items on it will be placed into the container you have. for like example: sac into pack.
+Idea reported by Pyro Tue Sep 24 14:48:03 2002
+/d/tirun/square: guilds what if the word online on the members list were highlighted?
+Idea reported by Pyro Tue Sep 24 14:48:23 2002
+/d/tirun/square: wholist what if buddyy on the who list were highlighted?
+Typo reported by Rethlan:
+/d/tirun/square: on the old thick black book (no idea where its from) numerous
+is misspelled
+Bug reported by Rethlan:
+/d/tirun/armour: typed who and got !ERROR! This is a bug. Please contact an
+admin.
+Bug reported by Rethlan:
+/d/tirun/armour: and again on who
+Bug reported by Rethlan:
+/d/tirun/armour: left the room and came back, still got the bug with who (i'm at
+drendun)
+Bug reported by Rubicante:
+/d/tirun/square: when i godspeed people who arent fighters they get the hp bonus
+of fighters
+Typo reported by Slain:
+/d/tirun/fighter/warrior/warrior_join: No biggie, just in the "help warrior"
+file it says they are WEPONsmaster and i believe it should be weAponmasterS,
+s at the end cause it is talking about them as a group 
+Typo reported by Witte:
+/d/tirun/square: the town guad tells you the bit where it says he thinks we
+do not know he sells weapons but the guards know MOST everything (almost
+everything) just trying to help out here im not perfect 
+Bug reported by Cookie:
+/d/tirun/fighter/berserker/berserker_hall: you cannot remove your wedding ring 
+by the "remove wedding ring" command... but you can with "remove all". Doesn't
+seem right.
+Bug reported by Ali:
+/d/tirun/wanderer/gypsy/gypsy_hall: I'm not sure if this is one, but last night
+(I think) it let me wear my wedding ring, but now even if I type wear ring on
+right paw it won't let me, thanks :) have a nice day!
+Typo reported by Sugarcandy:
+/d/tirun/clergy/druid/waterfall: rigth outside the rangers hall i think..
+north of [] drak should be dark :) 
+Bug reported by Eios:
+/d/tirun/square: waxes are bug, this comes up when i break them: You remain
+where you are. a = 1
+Bug reported by Galdur:
+/d/tirun/square: drop 20 ointment
+Bug reported by Galdur:
+/d/tirun/square: drop 20 ointment dont work for some reason.. sorry about the
+bug before this one
+Bug reported by Djerr:
+/d/tirun/fighter/warrior/warrior_hall: on reboot, Lightning and brimstone are
+colored, which is cool. but "and" should be grey like the rest of the words,
+it'd contrast better =) 
+Bug reported by Khale:
+/d/tirun/square: sorry to bother you, but my raknid armour wont allow me to
+wear it. something about only wearing one armour at a time. Just like to
+outline I have only the coccoon and the raknid aroumour as armour pieces in
+my inventory, thank s fer your time 
+Bug reported by Rethlan:
+/d/tirun/mage/necromancer/necromancer_hall: there is no necromancer board in the
+necromancer hall.
+Bug reported by Tyste:
+/d/tirun/obj/mon/oldman#156734: monster i think hes lost heartbeat
+Praise given by Aldur Sat Oct 12 06:02:23 2002
+/d/tirun/square: daos, scavenger hunt was a test of skill and power, i enjoyed the close battle between me and gabriel.. i would like to do it again sometime. i think we should get medallions :) me gab and tyste.
+Praise given by Tyste Sat Oct 12 06:03:05 2002
+/d/tirun/square: scavenger hunt  Good work Daos! It can be aggrevating at times but it is good :)
+Bug reported by Arch:
+/d/tirun/square: balls of wax, they sometimes come up with
+Bug reported by Arch:
+/d/tirun/square: sorry about my previous bug.. byt balls of wax sometimes come
+up with 'You remain where you are. a = 1' and u stay where u are
+Bug reported by Lily:
+/d/tirun/square: "a lovely blue dress" from tirun I think..  it's set to cloak
+instead of dress
+Bug reported by Rubicante:
+/d/tirun/clergy_hall: we can't pk but people can still steal from us
+Bug reported by Rethlan:
+/d/tirun/ehonin2: not sure what the conditions are, but several times now, after
+mochaprincess has been following me, even if i ditch her (and ditch her many
+times), it still says i can't follow her cause she is following me, and i have
+to quit out to be able to
+Bug reported by Rubicante:
+/d/tirun/square: seals are bugged. you break seal, you remain where you are a=1.
+Typo reported by Rethlan:
+/d/tirun/square5: when a player leaves with someone on their back, it should
+only say their back if the mount is indefinite (ie a shadow), otherwise, should
+say his or her back
+Idea reported by Azire Mon Oct 14 13:31:27 2002
+/d/tirun/pier2: random whale attacks on the fishing pier.. you get pulled into the water and tossed up on the beach near arlon. hee
+Bug reported by Rubicante:
+/d/tirun/square: You appear in a new location. You remain where you are. a = 1. 
+wax are bugged
+Bug reported by Moonbeam:
+/d/tirun/square: in 'help topics', justice + law are the exact same help file,
+yet they're given two different names. also, help guild and guilds are the same
+as well, yet listed as two different things in 'help topics'
+Bug reported by Khalim:
+/d/tirun/hhouse/bottom: i typed 'hp' as a child and it said !ERROR! This is a
+bug. Please contact an admin.
+Idea reported by Dante Fri Oct 18 13:37:23 2002
+/d/tirun/square: lead horse...
+Bug reported by Rethlan:
+/d/tirun/bank: tried to unlock the vault while the guard was in the room, when
+the guard attacked me, got the bug message
+Typo reported by Rethlan:
+/d/tirun/bank: help scout - coutry side-> countryside
+Typo reported by Dante:
+/d/tirun/fighter/warrior/warrior_hall: in help netherman, in the racial
+characteristics part, forgotten is spelled forgetton
+Typo reported by Prator:
+/d/tirun/weaponsmith_shop: In the new weaponsmith place it has "in making and
+repairing wepons. "    - > Should be 'weapons'.
+Bug reported by Koten:
+/d/tirun/square: wimpy mode seemed to stop mud wide for a while (not sure how
+long) but characters were dropping like flies. Wimpy mode wasn't making people
+flee
+Idea reported by Azire Mon Oct 28 20:25:10 2002
+/d/tirun/square: with the new fly system.. you could have random encounters with ROCS, and other airborne foes..
+Idea reported by Rashka Wed Oct 30 01:16:20 2002
+/d/tirun/oil_shop: Weimics need some good armour
+Idea reported by Rashka Thu Oct 31 00:35:53 2002
+/d/tirun/square: mountallow allows someone to ride you, if you're a race with charging skill
+Bug reported by Rubicante:
+/d/tirun/square: absorb can be used on yourself
+Bug reported by Utaku:
+/d/tirun/hospital: When you clean the poison not poisoned you get this
+message   [1m[36mKaldir whispers to you:[0;37;40m But you are not poisoned!  FIX IT!!!! :p  
+Bug reported by Hiro:
+/d/tirun/square: 
+Bug reported by Yakko:
+/d/tirun/pubstart: with the newbie guide and a board if there is nothing else to
+read i automatically read the newbie guide... yet that may not be a bug
+Bug reported by Dante:
+/d/tirun/weaponsmith_shop: i always notice wear on my weapons, and jalix always
+says there is no need to fix my weapon
+Typo reported by Flash:
+/d/tirun/sveros1: Running north and south through the center of Tirun, Veros 
+|     [ ]  Road stays busy.  The road to the north opens into a broad    |   
+|  marketplace that marks the center of Tirun.  Far to the south |     [X]
+the masts of ships can be seen above the city walls.  Ancient |      | 
+stones underfoot run north and south, making the road easy to |     [ ] 
+traverse.  There is a building still under construction the lies to the west.
+The local jail sits drearily to the east.    
+Bug reported by Envar:
+/d/tirun/hhouse/3: the command "lock" has no help
+Bug reported by Envar:
+/d/tirun/square: I think I got about 5000 xp without killing anything!?
+Typo reported by Merzig:
+/d/tirun/clergy_hall: Clergical Temple. The ceiling of the temple gives the
+illusion that it stretchs  stretchs should be stretches 
+Idea reported by Aethar Mon Nov 11 14:04:14 2002
+/d/tirun/square: please read post24 on pyromancer's board
+Bug reported by Staver:
+/d/tirun/mage/pyromancer/pyromancer_hall: not sure if this is a bug or not,
+but it doesn't seem like scorch trains MA, I'm not sure if it trains
+pyromancy either 
+Praise given by Wolfspirit Thu Nov 14 02:30:40 2002
+/d/tirun/square: dao Dao Dao v1.3 is a good investment, but you should probably order the patch to bring him up to 1.4 or 1.4b at least.
+Bug reported by Daboura:
+/d/tirun/square: o With the ignore command, it doesn't fully block tells,
+they still get through, but you can't reply to them. So I'm guessing the game
+thinks you are blocking them, when it still gets through 
+Idea reported by Daboura Fri Nov 15 19:56:15 2002
+/d/tirun/square: I don't think anyone should be able to steal things in the arena, the arena should be about friendly competition, not about finding a place to steal from people
+Praise given by Swoop Tue Nov 19 02:29:11 2002
+/d/tirun/dragon/red_hall: swipe its a great move for a quest race, maybe all quest races should get something like it.
+Idea reported by Aethar Thu Nov 21 00:21:09 2002
+/d/tirun/mage_hall: swipe needs balancing badly
+Idea reported by Aldur Sun Nov 24 07:28:53 2002
+/d/tirun/sage_room: gore, maybe it shouldn't be a demon only, make it like swipe.. a lvl 1 move that anything with horns can do, make it similar to a dragon swipe, and minotaurs and saurans could have maybe a slightly weaker one.
+Idea reported by Aldur Sun Nov 24 07:30:01 2002
+/d/tirun/sage_room: swipe, all clawed creatures get this a lvl 1, but some shouldn't be as good as others.. i think a easy way to fix this is make the Claw skill have a minor part in dmg.. so dragons would have a slightly more powerful swipe.
+Idea reported by Aldur Sun Nov 24 07:30:29 2002
+/d/tirun/sage_room: swoop, maybe everything with wings could do this ability, some better then others depending on coding ect.
+Bug reported by Prator:
+/d/tirun/sage_room: If you go linkdead when you are studying something it won't
+complete your study and give you the points towards learning. However, it will
+lose the timer and so you don't learn anything. Can this even be fixed?
+Bug reported by Prator:
+/d/tirun/sage_room: I remember the timing system for the mud was changed from
+rounds to seconds. I was wondering, was the language thing updated to keep in
+balance with the new system? Because it takes me about 14 hours to learn a
+language with 60 int. Wraith said when he had 70 int it was taking him 3-4
+hours. 14 hours does seem like a LONG time with 70 int.
+Bug reported by Rincewind:
+/d/tirun/square: tirun sage when I study nysaali was gaining skill in gantian
+Bug reported by Wraith:
+/d/tirun/sage_room: Idea reported by Cookie Wed Apr 10 10:14:32 2002
+/d/tirun/fighter/berserker/berserker_hall: Umm, I think riding costs WAY too
+much for berserkers. I have 100 riding, spent over 450K, and raised it a whole
+26% of a single point. What's that all about? Also, check the riding costs for
+all fighters!
+Idea reported by Shadimar Wed Dec  4 00:11:58 2002
+/d/tirun/whonin4: vampires shouldnt lose stats/restart when they become one. vamps in myth grow stronger when becoming undead
+Idea reported by Shadimar Thu Dec  5 00:55:10 2002
+/d/tirun/square7: raise vampires??
+Idea reported by Shadimar Thu Dec  5 01:18:50 2002
+/d/tirun/square: vampires should have ethereal ability. or called gaseous form making them a mist that cant be hit by attacks. but..can be effected by wind spells if there is any in this game. fire spells..most definately.
+Bug reported by A shadow:
+/d/tirun/square: in the learn-a-language room when you type study a language
+with no xp it wait 1 second then tells you you have no xp, and te more you do
+that, the more you go into the negatives, but it still is like you are
+elarning the language when you do that. 
+Bug reported by A shadow:
+/d/tirun/square: when i type down from the main guild hall area it says:
+There are three obvious exits:  up, down, and vote.  Meeting Board < 0
+Unread, 34 Posts > is here.  > d You appear back in your guild hall.  Your
+hall does not exists and you are taken to the square.  You feel at peace
+here. and then it continues with the square room description and i am in the
+square. 
+Idea reported by Aethar Sun Dec  8 13:54:49 2002
+/d/tirun/square: Archangel quest should be made to be around the same difficulty as the demon quest. Since, both races are quite similar in certain aspects.
+Idea reported by Daos Fri Dec 27 01:21:56 2002
+/d/tirun/fighter/fighter_hall: add ld option to who
+Idea reported by Keyoke Fri Jan  3 02:24:30 2003
+/d/tirun/square: allow minotaurs to use the charge command without a mount since they can't ride one anyways
+Idea reported by Leviathas Fri Jan  3 13:48:19 2003
+/d/tirun/pubstart: (last-tell) I would really like to see the time that a message was sent to me in 'last tell', maybe like this: Leviathas tells you: Howdy     (30 minutes ago)
+Bug reported by Braxis:
+/d/tirun/square: i can't pull the lever of the secret library in the haunted
+house to get down to the safe and such
+Bug reported by Corvus:
+/d/tirun/fighter/paladin/paladin_hall: Chainmail blanket , it should be worn on
+horse torso, but it doesn't wanna go there.. it goes on the real torso, and then
+u can't wear other armour.. please fix it
+Bug reported by Tyste:
+/d/tirun/square: convert
+Idea reported by Rethlan Sat Jan 11 08:59:34 2003
+/d/tirun/bank: instead of saying zombie rethlan shouts, could it say rethlan's zombie shouts?
+Bug reported by Rethlan:
+/d/tirun/bank: when the bank calculates your balance, it lists platinum as 2
+gold, but when it exchanges it, it gives you 10 gold, as per help file
+Bug reported by Prator:
+/d/tirun/sage_room: When I type members it says: "Unable to find guild ob."
+Bug reported by Yakko:
+/d/tirun/magehouse: members    Unable to find guild ob.
+Bug reported by Rethlan:
+/d/tirun/mage/mage_join: are you supposed to be able to gate out of the shared
+guild area? (like the voting room etc)
+Bug reported by Keyoke:
+/d/tirun/fighter_hall: i just leveled and my defense is showing 111 points 46%
+and 105 max, i know my def skill is at 100 but thought you should now that it is
+returning a false value
+Bug reported by Flash:
+/d/tirun/square: just type:   commands    if you are in a guild, you'll see. 
+Bug reported by Pyro:
+/d/tirun/square: i am bugged, i still have 9 days left to be gagged, and i am
+not gagged.... and this morning, my gag broke. 
+Bug reported by Rubicante:
+/d/tirun/ehonin6: flying is bugged. it kicks me back to the [] and gives me an
+error message
+Idea reported by Snohball Sun Jan 26 03:58:19 2003
+/d/tirun/shaven1: helpfiles would you consider adding the command 'search' to the list of 'help commands'?
+Typo reported by Snohball:
+/d/tirun/clergy/clergy_join: I am not a clergy, and when I type 'east', this
+room tells me that "You cannot enter this palce." "instead of place"
+Typo reported by Snackattak:
+/d/tirun/quaint: room description says "panicing". Should be "panicking"
+Typo reported by Pyro:
+/d/tirun/bank_vault: in the vault in the bank, when i look at the vault, it
+says:  look_at_vault 
+Idea reported by Maldane Wed Jan 29 00:24:21 2003
+/d/tirun/clergy/kataan/kataan_hall: (auction command) Can the auction command be changed so that when a person auctions an item, there is another message that asks "At what price do you wish the bidding to start at" so that once the person sets a price, thats it and he/she cant bid anymore.  This would in theory reduce the time and spam of auctions.
+Typo reported by Kurgan:
+/d/tirun/rogue_hall: "help massage" says "changes you title", when it should say
+"changes your title".
+Typo reported by Kurgan:
+/d/tirun/rogue_hall: help message*
+Bug reported by Drakule:
+/d/tirun/square: rob zombie was mowing me wherever i went in the air and
+stuff 
+Bug reported by Kurgan:
+/d/tirun/rogue/rogue2: np
+Bug reported by Kurgan:
+/d/tirun/rogue/rogue2: Well, was in the Western tower of Northern Lodos, and had
+just entered the top floor where the baron and two paladins are. Arrived there,
+then was killed by a shadow, and it said I was killed by the Wolf Master. I know
+a few other people had the same thing happen to them, and earlier in the day,
+people were getting teleported to random locations. I got teleported from the
+oasis to the assassin hideout. So, hopefully that helps. If someone feels the
+need to throw me a few thousand for lost equipment, I won't complain. ;)
+Typo reported by Kurgan:
+/d/tirun/rogue_hall: HELP SKILLS This system follows from the concept that their
+are certian
+Typo reported by Kurgan:
+/d/tirun/rogue_hall: HELP SKILLS Last sentence: Spell are heavily... Correction:
+Spell should be plural i.e. "spells".
+Typo reported by Snarg:
+/d/tirun/sparroom: This room says the fighter hall is to the North, when in
+fact, it is up.
+Idea reported by Shadow Sun Feb  2 02:26:09 2003
+/d/tirun/rogue/assassin/assassin_hall: buff rogues should eb able to login cloaked becuz anyone can add ya to their buddylist and see that you sign on and havent signed off.
+Bug reported by Kurgan:
+/d/tirun/rogue_hall: Seems to be a bug regarding wielding weapons. After
+death, I retrieved equipment, which included two blood sabres. In order to
+DUAL wield, I had to specify a hand to wield the second in. So, wield sabre
+and wield sabre 2 didn't work. Wield sabre wielded my first sabre, but in
+order to wield the second, I had to type "wield sabre 2 in left hand". Just a
+bit odd. 
+Bug reported by Nightshade:
+/d/tirun/square3: ballad of blood showed: 0 looks a little more courageous.
+Typo reported by Pyro:
+/d/tirun/sparroom2: when the dummys head falls off, you can still poke its
+eyes as one of the attacks. 
+Typo reported by Gruel:
+/d/tirun/rogue/assassin/assassin_join: "help scout" has mixed up sentances
+Bug reported by Daigotsu:
+/d/tirun/hospital: peace is bugged where you can keep casting it over and
+over to raise skills quickly 
+Bug reported by Faust:
+/d/tirun/square: if you rage, then die in battle, your attack goes up to what
+it was raged at, not what it should be...might wanna look at that 
+Typo reported by Pyro:
+/d/tirun/square: when you type "lite" it says  You light up, you finally
+understands  and when you do  "lite <person>" it says  You light up, you
+finally understands thanks to <person>. 
+Typo reported by Kurgan:
+/d/tirun/rogue/assassin/assassin_hall: From the news..."alot" is not a word,
+it's two i.e. "a lot". Glad I could help. =P
+Bug reported by Faust:
+/d/tirun/square: Tenebrae castle is outdoors, you can fly from inside...might
+wanna try and look into that 
+Bug reported by Rubicante:
+/d/tirun/square: The new AC changes make it so i am not at all effected by most
+abilities. I think the changes did too much especially when MD is added in with
+spells like vine armour.
+Bug reported by Drakule:
+/d/tirun/sage_room: demon no heartbeat near top of sew level 3 
+Bug reported by Xyran:
+/d/tirun/pubstart: I got a vbug.  what now? 
+Idea reported by Shadimar Fri Feb 14 10:04:29 2003
+/d/tirun/square: absorb should be a magic attack spell not a healing. and necros shouldnt get boost. no healing spells!
+Typo reported by Chitu:
+/d/tirun/mage/mage_join: in the help mage, under the description of
+pyromancer the word their at the end of the phrase is spelt thier. 
+Idea reported by Rashka Sat Feb 22 20:01:13 2003
+/d/tirun/fighter_hall: Weimics charge should take one less round to hit, same as centaurs, they can charge instantly and any any other race has to spur their mount into a charge.
+Typo reported by Pyro:
+/d/tirun/boatstore: i typed "view status" in the boat shop and it said my
+boat had 20 out of 20 "his points" 
+Bug reported by Rubicante:
+/d/tirun/square: i try and wear a bluestone necklace and it says i already am
+wearing it
+Typo reported by Oosen:
+/d/tirun/hhouse/hall: the hidden library in the scary looking house is described
+as 'cramed.' I assume it's meant to be 'cramped.'
+Typo reported by Pyro:
+/d/tirun/fighter/warrior/warrior_join: the map on the newbie guide is
+extremley innacurate. 
+Bug reported by Oosen:
+/d/tirun/square: I accidently made a nickname mob mob, but now when I try to
+remove it, I am told that 'No such nickname defined.' even though nickname still
+lists it. This makes setting up aliases difficult (i.e., "who's mob?").
+Bug reported by Wraith:
+/d/tirun/square: mind explaining this in last auction? B_BLUE<auction> SOLD!!!
+Idea reported by Infinatous Sun Mar  9 22:16:04 2003
+/d/tirun/clergy/monk/monk_hall: I think the command "read new" for reading posts would *very* useful, instead of read 1, read 2, read 3, it would just read the newest post you haven't read so far
+Bug reported by Oosen:
+/d/tirun/mage/necromancer/necromancer_hall: I had previously submitted a bug
+about being unable to unnickname 'monster,' but I just realized that I forgot to
+put a '\' in front of it. My bad :)
+Idea reported by Smite Wed Mar 12 02:08:42 2003
+/d/tirun/square: eat for dragons should fill up your stuffed status bar
+Bug reported by Pyro:
+/d/tirun/square: When i logged on i got an error message, i started in the
+freezer, and i cannot use any lines. 
+Bug reported by Syruss:
+/d/tirun/mage_hall: i typed nickname rs roll stats and rolled em 3 times, but
+when i tried to remove the nickname (unnickname rs) it said there was a bug.  i
+was in the mage hall-though i dont know if its important-

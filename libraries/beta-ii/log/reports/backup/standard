@@ -1,0 +1,1304 @@
+Bug reported by Meadoweed:
+/d/standard/mage_hall: advance in mages gives an error instead of telling you
+that you advanced (which you do do)
+Bug reported by Shadow:
+/d/standard/rain_forest/hroom1: headbutt umm
+Bug reported by Kabaal:
+/d/standard/rain_forest/dirt2: help abilities
+Bug reported by Tilir:
+/d/standard/mage_hall: double wielding skill.....when i train it nothing
+happens....it doesn't go up.....get message that i trained it but that is it
+Bug reported by Suluial:
+/d/standard/square: abilities IT HAS NO HELP FILE!
+Bug reported by Suluial:
+/d/standard/square: inferno peed on me and I got better
+Bug reported by Sirrion:
+/d/standard/square: my defense hasnt gone up at all
+Bug reported by Sirrion:
+/d/standard/outlands/cover2: riding doesnt go up by itself
+Bug reported by Ash:
+/d/standard/sun1: south exit has a bug, check returned value from function
+Bug reported by Ash:
+/d/standard/orc_valley/s_guard: fireball spell isn't doing anything
+Typo reported by Tilir Thu Jun 29 19:02:42 2000
+/d/standard/rain_forest/house1: l bookshelf   It is dark.  On the shelf there are verious books.  You are standing in a small family room. There is a table sitting in the center of the room. You see a bookshelf sitting over at the edge of the room.
+Typo reported by Icharus Thu Jun 29 21:31:49 2000
+/d/standard/square: You wouldnt have no trouble killing that.
+Typo reported by Icharus Thu Jun 29 21:32:51 2000
+/d/standard/square: there's a double negative in one of the considers (previous)
+Typo reported by Icharus Thu Jun 29 21:34:13 2000
+/d/standard/square: in the kataan help, the second line says "Their magic is quite the opposite of the", but then the next line is a new sentence
+Bug reported by Icharus:
+/d/standard/fighter_hall: there is no help for headbutt ability
+Bug reported by Lockheart:
+/d/standard/orc_valley/treasure: when you first look at the orc treasure chest
+it says that it is open...even when its closed
+Bug reported by A shadow:
+/d/standard/orc_valley/s_guard: Slash has no help file yet, I'll write it up.
+Bug reported by Mishy:
+/d/standard/wall: Error when I tried to look at the grafitti wall in Sindarii
+Bug reported by Nightshade:
+/d/standard/mage_hall: thornwrack can give negative thorns
+Bug reported by Lockheart:
+/d/standard/rain_forest/ghut1: whirl damage message if hit doesn't show you how
+much damage you just got
+Bug reported by Stormbringer:
+/d/standard/square: mudinfo is not blocked when it says it is
+Bug reported by Leviathas:
+/d/standard/south_orcs/open: help slash 
+Bug reported by Laldra:
+/d/standard/orc_valley/chamber2: my defense isn't auto training it's been stuck
+at 10 since I was born.
+Bug reported by Chaotic:
+/d/standard/wbocla3: Theres no help for the spell 'Test' it said to report so
+i did. 
+Bug reported by Mourn:
+/d/standard/highway3: the slash help file doesnt say anything except its
+bugged. 
+Bug reported by Misery:
+/d/standard/square: buffer stoped working 
+Bug reported by Bartleby:
+/d/standard/square: Buffer is bugged, really badly too. It was working fine
+before the reboot on tuesday, then after the reboot it stopped working
+entirely. It acts like it's working (you call on powers of protection etc.)
+but there is zero change in armor level, regardless of how many times you
+cast it. Ok that is all. :) 
+Idea reported by Laldra Wed Jul 12 07:48:40 2000
+/d/standard/rogue/thief: room we should be able to really practice our skills in there maybe an npc with a worthless item to steal from him or something.
+Bug reported by Firenzia:
+/d/standard/cleric_hall: resurrect
+Bug reported by Oak:
+/d/standard/orc_valley/s_guard: lash'
+Bug reported by Oak:
+/d/standard/orc_valley/s_guard: lash
+Bug reported by Arius:
+/d/standard/rain_forest/house1: tell detach hmm....i found a bug.....*Failed
+to locate file d/standard/rain_forest/house12 q tell detach hmm....i found a
+bug.....*Failed to locate file d/standard/rain_forest/house12 l 
+Bug reported by Arius:
+/d/standard/rain_forest/palace2: *Failed to locate file
+d/standard/rain_forest/palace11 
+Bug reported by Frostbite:
+/d/standard/square: command
+Typo reported by Staver Sat Jul 22 06:48:54 2000
+/d/standard/cemetary/coffin2: room long decrip no one not noone
+Typo reported by Staver Sat Jul 22 06:52:14 2000
+/d/standard/cemetary/gravyar7: room long desc claustophobically
+Typo reported by Staver Sat Jul 22 06:55:38 2000
+/d/standard/obj/misc/d_statue#3290: lond desc a silver plaque has been affixed to the base of the statuie or plaque?
+Typo reported by Staver Sat Jul 22 06:56:06 2000
+/d/standard/square: plaque look plaque asmodeus has been listed twice, unless he's meant to...
+Bug reported by Staver:
+/d/standard/adv_main: under command tongues eltherian is listed twice.  Don't
+know about other classes... 
+Bug reported by Staver:
+/d/standard/rain_forest/canopy_s1: south exit goes nowhere -Staver 
+Typo reported by Staver Sat Jul 22 07:10:02 2000
+/d/standard/rain_forest/termite: room beneath
+Typo reported by Staver Sat Jul 22 07:10:28 2000
+/d/standard/rain_forest/termite: l ground dround is loose ground?  How bout gravel?
+Typo reported by Staver Sat Jul 22 07:21:32 2000
+/d/standard/rain_forest/dirtwest: numerous spacing errors
+Typo reported by Staver Sat Jul 22 07:32:56 2000
+/d/standard/rain_forest/square: l statue of a fully not an
+Typo reported by Staver Sat Jul 22 07:33:10 2000
+/d/standard/rain_forest/home3: by the first not theere
+Typo reported by Staver Sat Jul 22 07:34:18 2000
+/d/standard/rain_forest/square: resemble this is an elven city? don't know what word you want, but resemble isn't it.
+Bug reported by Staver:
+/d/standard/orc_valley/guard: languages
+Bug reported by Staver:
+/d/standard/orc_valley/guard: anguages draul eltherian farsi tangetto all
+appear twice on the languages list
+Bug reported by Stormbringer:
+/d/standard/pub: arena deaths show up on player top 20 list.
+Bug reported by Putrify:
+/d/standard/pass10: spells
+Typo reported by Staver Mon Jul 24 04:40:27 2000
+/d/standard/supply: wicked cerrated sword it's serrated
+Bug reported by Lockheart:
+/d/standard/square: denmak i can hit monsters in none aggressive rooms with
+this ability...
+Bug reported by Lockheart:
+/d/standard/square: denmak i can hit monsters in none aggressive rooms with
+this ability...er...like the []...or the bar..
+Typo reported by Staver Tue Jul 25 15:06:52 2000
+/d/standard/rain_forest/dirtsw: room long desc no space between strange and rotting
+Bug reported by Beevo:
+/d/standard/pass1: I don't think the riding skill is increasing at all
+outside of spending xp. w bug  l "." 
+Bug reported by Beevo:
+/d/standard/pass1: When you slash with a two-handed weapon, it slashes twice,
+once for each arm. 
+Bug reported by Beevo:
+/d/standard/rain_forest/ghut1: report
+Bug reported by Beevo:
+/d/standard/rain_forest/ghut1: I'm partying with myself (ok, so i'm a loser)
+and it says I've earned about 120k more xp than i have 
+Bug reported by Beevo:
+/d/standard/ranch1: I charged my own horse! 
+Bug reported by Hemjold:
+/d/standard/rain_forest/dirtwest: Room in ne forest from Sindarii with five
+small ants.  East exit doesn't let us go back the way we came from, and
+there's no other way out. 
+Bug reported by Staver:
+/d/standard/rain_forest/palace2: there is a west exit to this room, but you
+can't enter 
+Bug reported by Nightshade:
+/d/standard/square: quest list in the mage hall gives an error
+Bug reported by Nightshade:
+/d/standard/scentre3: quests need to be added to the quest list...(mage hall's
+list still doesn't work)
+Bug reported by Staver:
+/d/standard/wdivios1: gold embroidered breastplate feel not feal
+Bug reported by Relina:
+/d/standard/wall: 0
+Bug reported by Relina:
+/d/standard/fighter_hall: there is a bug with the vault if you cut yourself
+you just keep getting -hp as long as you want and you can loose your
+heartbeat this way 
+Bug reported by Sulphur:
+/d/standard/square: When I kill stuff I don't get a line that tells me how
+much xp the thing is worth.  I think its because I'm not getting xp for it. I
+checked my xp with the "cost" command, but that didn't go up either.  What's
+up with that? 
+Typo reported by Staver:
+/d/standard/ranch1: sounds in this room neighing is mispelled with two i's 
+Typo reported by Staver:
+/d/standard/rain_forest/palace7: I have on the gold embroidered breastplate
+and got another, just tried to wear platemail again and got "You cannot wear
+regular armUUr with body armour." 
+Typo reported by Sulphur:
+/d/standard/square: When one tried to get the statue, it says the statue is
+"to  heavy.  It should be too heavy".  :) 
+Bug reported by Staver:
+/d/standard/mountains/tunnel2: nothing in this area autoloads
+Bug reported by Shay:
+/d/standard/beach3: consider
+Bug reported by Shay:
+/d/standard/beach3: consider consider has no help, help consider said to report
+it.. it also just doesn't return anything on some mobs
+Typo reported by Staver:
+/d/standard/fishshack: if you type enter rift, it says your, it should be you
+are or you're 
+Typo reported by Staver:
+/d/standard/jail: this rooms long description barrded instead of barred 
+Typo reported by Staver:
+/d/standard/alley1: long desc says the post office is to the south of the
+bank, but there IS no south exit. 
+Bug reported by Staver:
+/d/standard/mage_hall: a LOT of the mage spells, at least for the
+pyromancers, don't seem to train skills at all... notably scorch, inferno and
+firebomb since these are our main spells, I think this is a very big
+drawback...  -Staver 
+Bug reported by Psychosmurf:
+/d/standard/square: help armour
+Bug reported by Powerman:
+/d/standard/fighter_hall: mudarmor can be used indoors
+Bug reported by Powerman:
+/d/standard/fighter_hall: mudarmor can be used indoors (shouldn't be, or maybe
+make player "Create" mud lol"
+Bug reported by Relina:
+/d/standard/mage_hall: the wear all command doesnt work it leaves stuff out 
+Bug reported by Relina:
+/d/standard/rain_forest/palace2: jeweled platemail is worn on right arm twice
+and not on right leg 
+Bug reported by Nightshade:
+/d/standard/square: the help for sing told me to report it...  just type 'help
+sing' if you don't believe me
+Bug reported by Relina:
+/d/standard/square: give command is busticated and its like that with
+everything so its not just the item 
+Bug reported by Nightshade:
+/d/standard/square: as much as I hate to admit it, there's a bug in thornwrack.
+Apparently I've got to the point where it causes a little damage.  But, on the
+other hand, there's no delay between casting times.  ie.  if you just hold down
+enter, you can kill just about anything in one turn with enough mp. 
+-Nightshade
+Bug reported by Zoka:
+/d/standard/orc_valley/guard: -r
+Bug reported by Zoka:
+/d/standard/orc_valley/guard: hurt's syntax is still wound, hurt is unusable,
+unless im an idiotic newbie
+Bug reported by Urza:
+/d/standard/monastery: resurrect
+Bug reported by Kithus:
+/d/standard/orc_valley/s_guard: help abilities does not work
+Bug reported by Kithus:
+/d/standard/mountains/chamber1: you can not use help lich
+Bug reported by Zander:
+/d/standard/square: cure,mend,supplication et al...spells that should work for
+a dark monk..but they do not work because it says i have betrayed the source of
+my powers
+Typo reported by Akamai:
+/d/standard/fighter_hall: help knight 'm' in kingdom
+Bug reported by Mortdred:
+/d/standard/wall: "look graffiti" results in an error message
+Bug reported by Mortdred:
+/d/standard/hole: "look hole" gives "Error!" in this room
+Typo reported by Raider:
+/d/standard/rain_forest/home5: 2 l's in logs 
+Typo reported by Staver:
+/d/standard/rain_forest/palace9: save get all from corpse the special on the
+pike reads the pike fly's (should be flies)  out of guardian's hand and hits
+there (should be thier) 
+Typo reported by Enyo:
+/d/standard/rain_forest/dirtsw: strangerotting and leadsto should have spaces
+in them 
+Bug reported by Raider:
+/d/standard/rain_forest/pgate: 0
+Bug reported by Mortdred:
+/d/standard/cemetary/gravyar3: Darkone's Ghost carries far too much cash for
+its' exp value.
+Bug reported by Mortdred:
+/d/standard/cemetary/gravyar8: Shadowwolf's ghost often repops already badly
+wounded, even dying.
+Bug reported by Mortdred:
+/d/standard/cemetary/gravyar7: Melissa's ghost has WAY too much cash for a 1
+exp creature
+Bug reported by Wildflower:
+/d/standard/cemetary/coffin2: this room after you come throught the coffing,
+once you kill the monster, it says it got coins, you can't see the amount and
+when you do pick it up, no amount is given for the coins. thanks 
+Idea reported by Matthias Sun Oct  1 15:37:23 2000
+/d/standard/square: an ascii function command
+Bug reported by Wind:
+/d/standard/sage_room: languages Farsi is listed 2 times...right column, 4 from
+top and 8 from top...also, could the languages list be alphabetical?
+Bug reported by Wind:
+/d/standard/wall: wall <look wall> Error!
+Typo reported by Wind:
+/d/standard/obj/misc/d_statue#9: statue <look plaque> The workmanship...A
+silver plaque has been affixed to the base of the plaque (should be base of the
+statue)
+Praise given by Wind Tue Oct  3 20:32:20 2000
+/d/standard/rain_forest/ghut1: Exp_Notice I like that you see how much experience you get with each mob you kill
+Bug reported by Wind:
+/d/standard/rain_forest/ghut2: <put_spear_in_bag> Moves both spears and swords
+to bags...different weapon types working off the same command
+Typo reported by Wind:
+/d/standard/rain_forest/home5: llogs
+Bug reported by Wind:
+/d/standard/house: - Door blocking south direction in "A local knight's" room
+- <peer south> - The 1 blocks your view. - Should be "The door blocks your
+view."  I suppose 
+Bug reported by Wind:
+/d/standard/supply: <sell all from bag> has random effects, sometimes sells 1
+item, sometimes all the items, sometimes a few items. 
+Bug reported by Wind:
+/d/standard/rogue_hall: <date> time is wrong
+Bug reported by Wind:
+/d/standard/obj/misc/chest#2460: chest chest doesn't lock on room reset (I
+figured it should)
+Typo reported by Akamai:
+/d/standard/fishshack: whichis needs a space
+Typo reported by Akamai:
+/d/standard/fishshack: isvery needs a space
+Bug reported by Powerman:
+/d/standard/square: mail i can do it anywhere :p
+Idea reported by Deathshroud Tue Oct 10 17:39:16 2000
+/d/standard/square: I think when you "pray" at the church you should try to "pray for imp" and you have a 25% chance of being imp or else you lose a lvl instead....
+Typo reported by Kalohe:
+/d/standard/rain_forest/home5: llogs should have only 1 'l' 
+Bug reported by Dj:
+/d/standard/square: godspeed
+Bug reported by Eclipse:
+/d/standard/npordel1: DEMONSTRENGTH DOESN'T HAVE HELP
+FILE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Typo reported by Krantkiller:
+/d/standard/fighter_hall: Help paladin - Paladins is spelled wrong in the
+second sentence. 
+Bug reported by Shadow:
+/d/standard/sun1: resurrect has no help....
+Bug reported by Marley:
+/d/standard/supply: when trying to sell all in bag at horace's sometimes i
+still have items left in my bag so i have to spam it a couple times to sell
+everything in the bag.. 
+Bug reported by Marley:
+/d/standard/daroq/cave5: mobs when i fight a mob and get it to near death
+sometimes i have to leave to drink whiskey or rub oil or whatever..when i do
+this and come back the dying mob flees from me so i have to go chasing it
+around the mud, which is annoying because then i can't kill it 
+Bug reported by Oo:
+/d/standard/rain_forest/dirt3: i killed the amazon, it was too dark for me to
+get all from corpse but i could see the corpse inventory
+Typo reported by Oo:
+/d/standard/rain_forest/square: consider i consider the elven peasant by the
+elven board and it says you wouldnt have no trouble killing that
+Bug reported by Oo:
+/d/standard/rain_forest/obj/platemail#10784: armour has no help yet
+Typo reported by Oo:
+/d/standard/rain_forest/dirt: monkeies should be monkeys
+Bug reported by Marley:
+/d/standard/gambling/casino/casino: last has no help 
+Bug reported by Leviathas:
+/d/standard/fighter_hall:     You can only have so many posts on a board at
+one time.  Some posts got knocked off and Torment cant post  
+Bug reported by Powerman:
+/d/standard/square: selling in elite shop oil with high bargaining makes me
+earn money
+Typo reported by Akamai:
+/d/standard/fighter_hall: rush help
+Bug reported by Stormbringer:
+/d/standard/square: some skills are maxing out after one use.
+Typo reported by Akamai:
+/d/standard/south_orcs/hut2: slash help instead of that it should be than
+Bug reported by Blindfury:
+/d/standard/south_orcs/hut2: When I type abilities, I get an "Error!"
+sign...they still work, i just can't see what they are anymore. 
+Typo reported by Khayman:
+/d/standard/ranch1: on help vesment its a holy vestment not an holy 
+Bug reported by Del:
+/d/standard/fighter_hall: godspeed
+Bug reported by Darkfall:
+/d/standard/edivios1: godspeed
+Bug reported by Stormbringer:
+/d/standard/cemetary/gravyar9: the exit in the room is messed up. Seeker needs
+to check it out please.
+Bug reported by Stormbringer:
+/d/standard/cemetary/gravyar9: when you go west here you can't go east to get
+back here.
+Bug reported by Misery:
+/d/standard/square: Limbs dont sever, maybe they do at like 5000% but thats
+totally unreal.  
+Bug reported by Draco:
+/d/standard/pass5: raise
+Bug reported by Nightfall:
+/d/standard/rogue_hall: abilities
+Idea reported by Colman Tue Nov 28 17:46:13 2000
+/d/standard/square: gender I thought it might be kinda cool to be able to some how make yourself neuter, not male or female, but not at creation, somehow in the game...
+Bug reported by Colman:
+/d/standard/square: 0
+Bug reported by Powerman:
+/d/standard/fighter/ranger: guild not working
+Idea reported by Fungesia Tue Dec  5 10:40:20 2000
+/d/standard/rain_forest/puddle: money in the bank shud give 0.5 % interest a day
+Bug reported by Deathshroud:
+/d/standard/mage_hall: you can teleport in the mage election hall
+Bug reported by Deathshroud:
+/d/standard/kataan_vote: you can gate to the kataan hall
+Bug reported by Deathshroud:
+/d/standard/rogue_hall: you can vote to rogue election hall
+Bug reported by Deathshroud:
+/d/standard/monk_vote: you can gate to monk election hall
+Bug reported by Deathshroud:
+/d/standard/npordel1: there is an error in gating to areas that are marked
+Idea reported by Matthias Thu Dec 14 13:46:52 2000
+/d/standard/square: BAN DEATHSHROUD...HE BUMPED ME AND BIZKET TO THE DEFENDER KNOWING WE WILL DIE...HE DID IT ON PURPOSE!
+Bug reported by Godfather:
+/d/standard/rain_forest/canopy_s1: > peer s Animals are everywhere. The lush
+green leaves sparkle in the faint sunlight. The moist ground can hardly be
+seen from here, but climbing back down is impossible from here. There are two
+obvious exits: north and south. Godfather the gung-ho squire i am godfather
+this room is all like bugged or unfinished 
+Idea reported by Rage Fri Dec 15 16:42:26 2000
+/d/standard/square: get rid of annoying adm/imms
+Typo reported by Angelinthesky:
+/d/standard/adv_main: newbie Im doing this cuz i can damn this wont use
+newbie well look at this newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck
+newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie
+shitfuck newbie shitfuck newbie shitfuck newbie shitfuck newbie shitfuck 
+Bug reported by Alonzo:
+/d/standard/square: kataan
+Bug reported by Misery:
+/d/standard/ranch1: I quit while i was bloodlusted and demonstrengthed then
+when i came back i was no longer under the affect of the spells but i could
+no longer use the spells cause it said i was already using them 
+Typo reported by Psychosmurf:
+/d/standard/rain_forest/mon/bguard#44688: guard when the guard misses his slash
+it says: Guard misses he slash.
+Bug reported by Scapegoat:
+/d/standard/rain_forest/dirt: the "help abilities" command doesn't work 
+Bug reported by Lockheart:
+/d/standard/square: denmak you can still use this ability in the []...please
+look into it
+Bug reported by Seipher:
+/d/standard/monk_hall: no help for abilities.. 
+Bug reported by Cloudstrife:
+/d/standard/square: godspeed has no help file
+Bug reported by Gangrene:
+/d/standard/rain_forest/dirt: abilites
+Bug reported by Wiz:
+/d/standard/pass5: Help Topic: last    Category: Player That command exists,
+but has no help.  Please use the bug command to report it. 
+Bug reported by Zarion:
+/d/standard/pass1: demonstrength
+Bug reported by Deathfyre:
+/d/standard/fighter_hall: demonstrength help file 
+Bug reported by Stormbringer:
+/d/standard/rain_forest/dirt3: this room needs seeker to fix it, when you go
+southwest it errors out.
+Bug reported by Assassin:
+/d/standard/outlands/storage: search shadows does nothing, not even a you find
+nothing in the shadows
+Bug reported by Assassin:
+/d/standard/outlands/storage: meant it did nothing north of berthas shop
+Bug reported by Assassin:
+/d/standard/outlands/cover1: one xp for tortoise? you sure about that?
+Bug reported by Assassin:
+/d/standard/outlands/jungle2: novice amazon takes too much hp for something you
+wouldnt even break a sweat over
+Bug reported by Assassin:
+/d/standard/outlands/jungle2: novice amazon doesnt die easily
+Bug reported by Assassin:
+/d/standard/outlands/cover5: get all from corpse didnt work on tortoise
+Bug reported by Assassin:
+/d/standard/outlands/cover4: A Jungle Plant people eater needs either higher xp
+rating or lower hp draws
+Bug reported by Assassin:
+/d/standard/rain_forest/mpath3: wanderer needs either MORE xp or let him take
+LESS hp
+Bug reported by Assassin:
+/d/standard/cult/cave2: consider does not work on punk
+Bug reported by Nightshade:
+/d/standard/rain_forest/village1: meat.  needs set_your_mess changed.  "Warrior
+Warrior eats a slice of meat."
+Idea reported by Wizard Wed Dec 19 09:31:59 2001
+/d/standard/pass4: horses Would it be possible to have horses not being 'monsters' so you can use 'kill monster' without accidently kill your horse.
+Bug reported by Assassin:
+/d/standard/rain_forest/puddle: consider gremlin dosent work
+Typo reported by Assassin:
+/d/standard/cult/cave3: 
+Bug reported by Antipaladin:
+/d/standard/rain_forest/path6: "you wouldnt have no trouble killing that" 
+incorrect english, should be wouldnt have any trouble
+Bug reported by Wizard:
+/d/standard/daroq/entrance: 'help abilities' gate the output text: "That command
+exists, but has no help.  Please use the bug command to report it"
+Bug reported by Wizard:
+/d/standard/rain_forest/puddle: typo That command exists, but has no help. 
+Please use the bug command to report it.
+Bug reported by Assassin:
+/d/standard/rain_forest/mon/hlemur#4013: lemur need to be at least 300 sp
+Bug reported by Assassin:
+/d/standard/rain_forest/village1: you cant stab with anything else but a knife
+wielded , I was wielding a mace and a halberd, along with a dagger and a knife
+it would not let me stab
+Bug reported by Assassin:
+/d/standard/rain_forest/village3: stab takes no sp at lvl 5 with 10 murder and
+19 knife and 20 attack
+Bug reported by Assassin:
+/d/standard/rain_forest/dirtse: your xp counter is off I think, unless you have
+something else adding in there, I had 8,117 xp, killed the elven warrios (worth
+588 to me) I come out with 8,764 xp, my calcs tell me its supposed to be 8,705
+Bug reported by Assassin:
+/d/standard/rain_forest/dirtse: bug command does not exist
+Bug reported by Assassin:
+/d/standard/rain_forest/dirtse: bug HELP does not exist
+Bug reported by Assassin:
+/d/standard/rain_forest/path3: raknid armour from the artrell guard does NOTHING
+there is NO protection
+Typo reported by Warrior:
+/d/standard/rain_forest/palace9: You (feal) power emit from the dragons into
+yourself. When you wear the gold embroidered breastplate
+Bug reported by Jester:
+/d/standard/rain_forest/shop1: My song sang before the monster was dead 
+Bug reported by Jester:
+/d/standard/rain_forest/shop1: Errr after the monster was dead :P 
+Bug reported by Jester:
+/d/standard/cult/ent: It keeps saying I am singing a song after I went idle
+for a while.. soo.. just another bug l 
+Typo reported by Assassin:
+/d/standard/rain_forest/palace9: You feal power emit from the dragons into
+yourself
+Bug reported by Wizard:
+/d/standard/rain_forest/pgate: 'get all' give the text "Oh crap! The Admins
+broke something"
+Bug reported by Wizard:
+/d/standard/gambling/casino/bone: quit Oh crap! The Admins broke something
+Bug reported by Wizard:
+/d/standard/rain_forest/amatrail: I had 0 hp. I didn't die, but it said "Oh
+crap! The Admins broke something" then when I entered a command it said so a
+second time and then it was ok.
+Bug reported by Berserker:
+/d/standard/rain_forest/mpath3: death as HM, you loose hm status but not level
+Bug reported by Assassin:
+/d/standard/rain_forest/palace1: butler in newbie village is not listed as a
+monster, backstab monster does not work, backstab butler does
+Bug reported by Stormbringer:
+/d/standard/outlands/storage: this room is bugged, search shadows do not work
+Bug reported by Matthias:
+/d/standard/outland1: east of dawn gate by berserk hall, suddenly inside town
+Bug reported by Rane:
+/d/standard/rain_forest/puddle: telling salox i need a ride to the shop doesn't
+take me anywhere.
+Bug reported by Ashram:
+/d/standard/cult/cave1: swashbuckler has no help file
+Bug reported by Aricia:
+/d/standard/rain_forest/dirt: help sing
+Bug reported by Matthias:
+/d/standard/rain_forest/mon/butler#15135: butler south east of elven village
+can't be interacted with as 'monster'
+Bug reported by Jaeik:
+/d/standard/rain_forest/palace1: the butler here doesn't have a monster tag
+Typo reported by Rane:
+/d/standard/rain_forest/dirt3: To the southwest it GETS denser.
+Typo reported by Rane:
+/d/standard/rain_forest/antlion: When looking at the trees in this room, the
+line wraps or something 'There are a few green trees scattered around you.'
+Typo reported by Rane:
+/d/standard/rain_forest/termite: There is a dense forest around you.  There is
+the noise of SKITTERING BENEATH the ground.
+Bug reported by Peem:
+/d/standard/cult/echamber: i am stuck in the room with anarchin. we are
+currently fighting but the fight isnt proceeding. 
+Typo reported by Caspurnia:
+/d/standard/rain_forest/home5: because it seems as the llogs that 
+Typo reported by Leviathas:
+/d/standard/daroq/cave4: Kojiro misses he slash. 
+Typo reported by Wraith:
+/d/standard/rain_forest/palace8: when partying with a female, it says that
+she: misses she stab , 
+Bug reported by Arden:
+/d/standard/rain_forest/village2: elven guard elven guard respawn too fast I
+think
+Bug reported by Peem:
+/d/standard/highway2: auction
+Typo reported by Deathshroud:
+/d/standard/forest3: in this room it says undersoot instead of underfoot
+Bug reported by Peem:
+/d/standard/highway2: You take a small leather pouch
+Bug reported by Deathshroud:
+/d/standard/rain_forest/dirt3: it says all the trees have vines on them, but you
+can't look at the vines
+Typo reported by Deathshroud:
+/d/standard/rain_forest/dirtwest: it says "vines onthem" on look trees
+Typo reported by Deathshroud:
+/d/standard/rain_forest/amatrail: look trees says "many differenth types of
+trees around you" should say different
+Typo reported by Deathshroud:
+/d/standard/rain_forest/house1: "verious" is spelled wrong on look books
+Bug reported by Peem:
+/d/standard/spass3: There are three obvious exits:  west, east, and enter. 
+hp: 188|sp: 142|mp: 330 >  e You have climbed onto a ledge, overlooking the
+Daroq Mountain pass. The pass is far below, not enabling anyone to climb down
+onto it. Several cave entrances can be seen, along the walls of the pass.  
+There are two obvious exits:  west, and down.  hp: 188|sp: 142|mp: 330 >  d
+You don't see that here. 
+Bug reported by Powerman:
+/d/standard/rain_forest/dirtse: raknid armour can wear coccoon and that at the
+same time - is it supposed to happen
+Bug reported by Powerman:
+/d/standard/rain_forest/village3: can't make more than one bag
+Bug reported by Powerman:
+/d/standard/rain_forest/shop1: resurrect needs help file
+Praise given by Finn Fri Jan  4 11:38:32 2002
+/d/standard/rain_forest/mpath3: flick nice and original, and just eff'n hilarious
+Bug reported by Finn:
+/d/standard/spass3: i ate one piece of meat and became full
+Bug reported by Finn:
+/d/standard/pass4: i ate one piece of meat and became full
+Bug reported by Powerman:
+/d/standard/spass1: make jacket is bugged
+Bug reported by Powerman:
+/d/standard/spass1: make is general is bugged
+Bug reported by Powerman:
+/d/standard/spass1: make in general is bugged (sorry about last typo) - can only
+make one of object, the original is destroyed and replaced, same with brew
+Bug reported by Ik:
+/d/standard/spass6: stuck in room again. i travel and suddenly i am back in
+the starting room 
+Bug reported by Iohcy:
+/d/standard/spass7: in ranger skills, there is nature under magic but under taht
+it says u do not have magic skills, that seems outta place
+Bug reported by Kojiro:
+/d/standard/rain_forest/village3: /cmds/skills/_boost.c line 76: Warning: Unused
+local variable 'whom' before the
+Bug reported by Nightshade:
+/d/standard/outlands/storage: help rogue needs a list of the rogue subclasses in
+it
+Bug reported by Nightshade:
+/d/standard/outlands/storage: Bad argument 1 to call_other()Expected: string or
+array or object Got: 0.program: /cmds/skills/_make.c, object:
+/cmds/skills/_make, file: /cmds/skills/_make.c:153
+Bug reported by Nightshade:
+/d/standard/rain_forest/obj/mace#35232: mace mace from elven village has no id
+set
+Typo reported by Leviathas:
+/d/standard/rain_forest/palace12: Guard misses it headbutt! 
+Bug reported by Ik:
+/d/standard/pass10: You feel more experienced for the kill.  (2,862) Child
+drops dead before you. sac You dont see that. hp: 272|sp: 208|mp: 370 >  l
+The path here is a little banged up from rock slides, but not nearly as much
+as to the east. The mountain walls cast a shade down upon the path, so dark,
+it seems like night here the entire day long.   There are two obvious exits: 
+west, and east.  A brown horse (ridden by Ik) a small goblin child (dying) 
+hp: 272|sp: 208|mp: 370 >  l The path here is a little banged up from rock
+slides, but not nearly as much as to the east. The mountain walls cast a
+shade down upon the path, so dark, it seems like night here the entire day
+long.   There are two obvious exits:  west, and east.  A brown horse (ridden
+by Ik) a small goblin child (dying)  hp: 272|sp: 208|mp: 370 >  l The path
+here is a little banged up from rock slides, but not nearly as much as to the
+east. The mountain walls cast a shade down upon the path, so dark, it seems
+like night here the entire day long.   There are two obvious exits:  west,
+and east.  A brown horse (ridden by Ik) a small goblin child (dying)  hp:
+272|sp: 208|mp: 370 >  l The path here is a little banged up from rock
+slides, but not nearly as much as to the east. The mountain walls cast a
+shade down upon the path, so dark, it seems like night here the entire day
+long.   There are two obvious exits:  west, and east.  A brown horse (ridden
+by Ik) a small goblin child (dying)  hp: 272|sp: 208|mp: 370 >  l The path
+here is a little banged up from rock slides, but not nearly as much as to the
+east. The mountain walls cast a shade down upon the path, so dark, it seems
+like night here the entire day long.   There are two obvious exits:  west,
+and east.  A brown horse (ridden by Ik) a small goblin child (dying)  hp:
+272|sp: 208|mp: 370 >                    |>>>                  |             
+\,/             |>>>      _   _   _         |>>>                  |       
+|;|_|;|_|;|        |                     _  _|_  _    \\.    .  /    _  _|_ 
+_              |;|_|;|_|;|    \\:. ,  /    |;|_|;|_|;|                   \\..
+/    ||;   . |    \\.    .  /              \\.  ,  /     ||:  .  |     \\:  .
+/               ||:   |_   _ ||_ . _ | _   _||:   |      Primal Darkness     
+||:  .|||_|;|_|;|_|;|_|;|_|;||:.  |web: www.primaldarkness.com              
+||:   ||.    .     .      . ||:  .|mud: mud.primaldarkness.com              
+||: . || .     . .   .  ,   ||:   |port: 5000                   ||:   ||:  , 
+_______   .   ||: , |                           ||:   || .   /+++++++\    .
+||:   |            /'\               ||:   ||.    |+++++++| .    ||: . |     
+__ ||: . ||: ,  |+++++++|.  . _||_   |   ____--`~    '--~~__|.   
+|+++++__|----~    ~`---,              ___ -~                   ~---__|,--~'  
+~~----_____-~'              Copyright (c) 1999-2002 Primal Darkness
+Productions.                  There are currently 10 people in the realm.    
+Driver: MudOS v22.1b23      Mudlib: PD/NM v2.0/3.0  What name do you wish? ik
+gr1mrepr wa wield knife wield knife 2 Welcome back to Primal Darkness, please
+enter your password: Reconnected. The path here is a little banged up from
+rock slides, but not nearly as much as to the east. The mountain walls cast a
+shade down upon the path, so dark, it seems like night here the entire day
+long.   There are two obvious exits:  west, and east.  A brown horse a small
+goblin child (dying)  hp: 272|sp: 207|mp: 370 >  hp: 272|sp: 207|mp: 370 > 
+You dont have any free hands. hp: 272|sp: 207|mp: 370 >  You dont have any
+free hands. hp: 272|sp: 207|mp: 370 >  l The path here is a little banged up
+from rock slides, but not nearly as much as to the east. The mountain walls
+cast a shade down upon the path, so dark, it seems like night here the entire
+day long.   There are two obvious exits:  west, and east.  A brown horse a
+small goblin child (dying)  hp: 272|sp: 207|mp: 370 >  2 hp: 272|sp: 207|mp:
+370 >  l The path here is a little banged up from rock slides, but not nearly
+as much as to the east. The mountain walls cast a shade down upon the path,
+so dark, it seems like night here the entire day long.   There are two
+obvious exits:  west, and east.  A brown horse a small goblin child (dying) 
+hp: 272|sp: 207|mp: 370 >  l The path here is a little banged up from rock
+slides, but not nearly as much as to the east. The mountain walls cast a
+shade down upon the path, so dark, it seems like night here the entire day
+long.   There are two obvious exits:  west, and east.  A brown horse a small
+goblin child (dying)  hp: 272|sp: 207|mp: 370 >  i +=+=( Inventory
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+               
+Name                               Autoload   Weight
++-----------------------------------------------+-----------+--------+ | A
+small, silver lockpick                      |    Yes    |   3    | | Three
+jagged-edged daggers (wielded)          |    None   |   30   | | A well
+crafted dagger (wielded)               |    Yes    |   11   | | Two small
+leather pouches                     |    None   |   2    | | A small greasy
+hat (worn)                     |    No     |   16   | | A steel helmet (worn)
+|    Yes    |   10   | | A hardened coccoon (worn)                     |   
+Yes    |   15   |
+|-------------------------------------+---------+-----------+--------' | 
+Total Weight: 39% (87/220)         | '-------------------------------------'
+hp: 272|sp: 207|mp: 370 >  e You can not exit while doing something else. e
+hp: 272|sp: 207|mp: 370 >  You can not exit while doing something else. e hp:
+272|sp: 207|mp: 370 >  You can not exit while doing something else. hp:
+272|sp: 207|mp: 370 >  w You can not exit while doing something else. hp:
+272|sp: 207|mp: 370 >  
+Bug reported by Kartoffel:
+/d/standard/highway1: got some warnings when i entered this room, 4
+"/std/bag_logic.c" unused variables, 'i'(line 80) 'silly'(line 80) 'inv'(line
+80) 'silly'(line 136)
+Bug reported by Wraith:
+/d/standard/rain_forest/village3: when I bid 11 gold on asrams crown it popped
+up: Bad argument 1 to call_other() Expected: string or array or object Got: 0.
+program: /daemon/chat.c, object: /daemon/chat, file: /daemon/chat.c:33
+Bug reported by Nemesis:
+/d/standard/cemetary/gravyar5: /d/standard/cemetary/mon/ghost5.c line 34:
+Warning: Unused local variable 'c'before the end of line
+Bug reported by Kartoffel:
+/d/standard/rain_forest/palace7: cerrated is spelled serrated
+Bug reported by Psychosmurf:
+/d/standard/rain_forest/shop1: Excist, the weapon master - he won't buy weapons
+Bug reported by Psychosmurf:
+/d/standard/rain_forest/shop2: Trilian, the armour keeper - he won't buy armour
+goods
+Bug reported by Joey:
+/d/standard/outlands/cover4:  > /d/standard/outlands/cover4.c line 52:
+Warning: Unused local variable 'arm' , l e n 
+Bug reported by Taz:
+/d/standard/cemetary/gravyar4: /d/standard/cemetary/mon/ghost4.c line 36:
+Warning: Unused local variable 'c' before the end of line
+Bug reported by Taz:
+/d/standard/cemetary/gravyar3: /d/standard/cemetary/mon/ghost3.c line 36:
+Warning: Unused local variable 'c' before the end of line
+Bug reported by Taz:
+/d/standard/cemetary/gravyar6: /d/standard/cemetary/mon/ghost6.c line 45:
+Warning: Unused local variable 'c' before the end of line
+Bug reported by Taz:
+/d/standard/cemetary/coffin2: /d/standard/cemetary/mon/zombie6.c line 37:
+Warning: Unused local variable 'c' before the end of line
+Bug reported by Maldane:
+/d/standard/cemetary/coffin1: /d/standard/cemetary/mon/zombie1.c line 37:
+Warning: Unused local variable 'c'before the end of line
+Typo reported by Kartoffel:
+/d/standard/rain_forest/pgate: a scimitar is a curved sword, like a sabre.  the
+thing that is described in this des is a Naginata. and it would be like a
+2-handed or a spear class weapon
+Typo reported by Kartoffel:
+/d/standard/rain_forest/puddle: in the set_sound its squeaking not squeeking
+Bug reported by Ashram:
+/d/standard/rain_forest/zexor/path6: scaly wurm gave me 125k exp.. thats way too
+much hehe
+Bug reported by Wraith:
+/d/standard/highway2: /std/bag_logic.c line 80: Warning: Unused local variable
+'i' before the end of line     in pouch room
+Bug reported by Wraith:
+/d/standard/highway2: /std/bag_logic.c line 80: Warning: Unused local variable
+'silly' before the end of line in pouch room by walking in
+Bug reported by Wraith:
+/d/standard/highway2: /std/bag_logic.c line 80: Warning: Unused local variable
+'inv' before the end of line     in pouch room by walking in
+Bug reported by Wraith:
+/d/standard/highway2: /std/bag_logic.c line 136: Warning: Unused local variable
+'silly' before the end of line       in pouch room by walking in
+Bug reported by Byblos:
+/d/standard/daroq/cave4: raknids and horses i can ride horse but not mount horse
+Bug reported by Faust:
+/d/standard/rain_forest/palace2: Array index out of bounds. program:
+/daemon/mapper.c, object: /daemon/mapper, file: /daemon/mapper.c:147  
+Bug reported by Staver:
+/d/standard/outlands/jungle1: when I walk around, I can look at things fine,
+but when I try to do an inventory, I get a "It's too dark". 
+Bug reported by Semag:
+/d/standard/pass14: forest west of main town, parts of the map is screwed
+Bug reported by Ashram:
+/d/standard/rain_forest/zexor/path11: wide-bladed falchions auto for a level 4
+Bug reported by Makaveli:
+/d/standard/daroq/cave10: dragons bite for other people it needs a space agfter
+name before BITE
+Bug reported by Dragona:
+/d/standard/cemetary/gravyar7: ghost.c line 37
+Bug reported by Wraith:
+/d/standard/rain_forest/dirt3: when stealth is off no one can see me movin
+around
+Bug reported by Staver:
+/d/standard/rain_forest/palace12: if you look at the guards in this room,
+they're neuter, not male or female. 
+Bug reported by Staver:
+/d/standard/rain_forest/house1: search vase doesn't do anything in this room.
+It looks like the key is in the vase but there's no command to fish it out. 
+Bug reported by Maldane:
+/d/standard/rain_forest/shop1: You sell An old mining helmet from Makaveli's bag
+of holding for 11 gold.Standard is not allowed to destruct Mardukobj
+Bug reported by Inquistidor:
+/d/standard/rain_forest/house1: elven guards - no heartbeat
+Bug reported by Hamoto:
+/d/standard/rain_forest/square: The Guards in the Elven Fortress seem to be
+losing their heart beats.  
+Bug reported by Zephyr:
+/d/standard/rain_forest/dirt2: I was fighting a gremlin and I looked and it said
+"Gremlin (dying)" then I looked later and it said "Gremlin (bleeding)"
+Bug reported by Urza:
+/d/standard/rain_forest/mpath3: dispell all don't work, keeps calling for
+faith 
+Bug reported by Naeblis:
+/d/standard/cemetary/gravyar9: /d/standard/cemetary/building.c line 74: parse
+error before the end of line Error in loading object
+'/d/standard/cemetary/building' program: /std/move.c, object: /std/user#17066,
+file: /std/move.c:25 when trying to 'enter' the monument to the dead
+Bug reported by Agathon:
+/d/standard/rain_forest/mpath3: decay can be done during battle 
+Bug reported by Rashka:
+/d/standard/rain_forest/palace1: 'Make' some times gives error lines
+Bug reported by Candice:
+/d/standard/cult/ent: sandcone its on the druid spells mine, but it keeps
+giving the What? 
+Bug reported by Azire:
+/d/standard/rain_forest/village3: when i swooped with Azire, i got Bad argument
+1 to environment() Expected: object Got: 0. program: /cmds/skills/_swoop.c,
+object: /cmds/skills/_swoop, file: /cmds/skills/_swoop.c:59
+Bug reported by Baitzi:
+/d/standard/rain_forest/square: if you rest, you can't wake up 
+Bug reported by Marius:
+/d/standard/pass13: you can purify yourself even when your not poisoned 
+Typo reported by Marius:
+/d/standard/rain_forest/palace1: butler in elven village, says he looks
+misterious, ---> mysterious (i think) 
+Bug reported by Kartoffel:
+/d/standard/forest1: this room still has the follow bug from before, when you
+try to go south
+Bug reported by Eios:
+/d/standard/rain_forest/square: while sleeping you don't regenerate faster
+Bug reported by Morpheus:
+/d/standard/rain_forest/village2: dispell all doesn't work
+Typo reported by Wildflower:
+/d/standard/pass7: ack! it says "YOUR" in the room! last line
+Bug reported by Nightshade:
+/d/standard/rain_forest/bookshelf: rob zombie lost his heartbeat.... 
+mochaprincess was fighting him.  dont know what caused it.
+Bug reported by Ying:
+/d/standard/rain_forest/pgate: in the elven town there are royal guards that
+throw pikes at you, after you kill them what happends to the pikes? It's not on
+the corpses and it isn't in my inventory. Please check... Thanks!
+Typo reported by Caspurnia:
+/d/standard/rain_forest/house5: This bad is not that big only 2 people could
+fit on it. 
+Typo reported by Wildflower:
+/d/standard/cemetary/building: you is used twice 
+Typo reported by Staver:
+/d/standard/cult/cave3: crown
+Typo reported by Staver:
+/d/standard/cult/cave3: crown does not reset the yellow color after it and
+bleeds into everything after in inventory. 
+Bug reported by Jumble:
+/d/standard/cemetary/coffin1: you can move while resting
+Bug reported by Calirynth:
+/d/standard/rain_forest/path4: this room and the 3 sw have same desc and it says
+exit east but there's no exit to the east
+Bug reported by Calirynth:
+/d/standard/cemetary/gravyar6: 12 skeletons here
+Bug reported by Ripskin:
+/d/standard/rain_forest/palace1: when i tried to <make cloak>, it gave me this
+error:  Bad argument 1 to call_other()  Expected: string or array or object Got:
+0.  program: /cmds/skills/_make.c, object: /cmds/skills/_make, file:
+/cmds/skills/_make.c:87
+Typo reported by Hepualahaole:
+/d/standard/rain_forest/palace6: pieces is spelled wrong 
+Typo reported by Hepualahaole:
+/d/standard/rain_forest/palace5: is elven spelled right...can't tell 
+Typo reported by Sulphur:
+/d/standard/rain_forest/palace9: the "The pike fly's out of Guardian's hand and
+hits THEIR opponent"
+Typo reported by Sulphur:
+/d/standard/rain_forest/palace9: Two Toughened leather bootses?
+Bug reported by Aumar:
+/d/standard/rain_forest/dirtse: Shock doesn't seem to initiate combat. I type
+shock monster and it just casts shock, no battle initiated.  ++Aumar 
+Typo reported by Ariel:
+/d/standard/rain_forest/palace10:  On all the tables there are nices vaces with
+roses on
+Typo reported by Ripskin:
+/d/standard/rain_forest/palace9: the spiked platemail desc is messed up
+Bug reported by Sage:
+/d/standard/pass13: when i type "scry balrog" I get this message - Bad
+argument 1 to call_other() Expected: string or array or object Got: 0.
+program: /cmds/skills/_scry.c, object: /cmds/skills/_scry, file:
+/cmds/skills/_scry.c:32  
+Bug reported by Master:
+/d/standard/cult/echamber: when I type "join" i get this error message 
+/cmds/mortal/_join.c line 21: syntax error before the end of file   Error in
+loading object '/cmds/mortal/_join'  program: /std/living.c, object:
+/std/user#19301, file: /std/living.c:182  
+Typo reported by Sage:
+/d/standard/rain_forest/palace2: when i typed wear platemail I got - You
+cannot wear regular armuur with body armour.  
+Typo reported by Sage:
+/d/standard/rain_forest/palace7: the large black knight's description reads -
+His sword is a long sword with a cerrated edge   yet his sword that he's
+wielding reads - A wicked serrated sword (wielded) 
+Typo reported by Sage:
+/d/standard/rain_forest/palace11: the vicious two-handed sword's description
+reads - It long body is about 4 feet long and 1 foot wide. 
+Bug reported by Senzei:
+/d/standard/rain_forest/home6: get all doesn't pick up the gardening rake from
+pluon the gardener
+Bug reported by Chronoch:
+/d/standard/rain_forest/palace2: follow allow turns off you rest
+Bug reported by Chronoch:
+/d/standard/rain_forest/palace2: never mind on that follow allow thing -
+misunderstanding
+Bug reported by Leviathas:
+/d/standard/void: here
+Typo reported by Tarsis:
+/d/standard/cemetary/building: look mark 'An eviL mark,...'
+Idea reported by Bork Sat Mar  9 11:25:42 2002
+/d/standard/cult/ent: If you're resting and you try to move, you should 'stand' automatically.
+Praise given by Asoc Sat Mar  9 15:50:29 2002
+/d/standard/cult/ent: The auction system is excellent! Good idea!
+Idea reported by Asoc Sat Mar  9 16:05:44 2002
+/d/standard/cult/cave2: Give everyone access to the same help files.  Newbies can't type 'help remort' and get something.  I don't know why this is in effect, but it's definitely not helping anybody.
+Typo reported by Chronoch:
+/d/standard/rain_forest/obj/arm#47157: chainmail blanket '...seems to be toO
+large...'
+Bug reported by Calirynth:
+/d/standard/rain_forest/house1: using the silver key from this vase, I cannot
+unlock books, unlock bookshelf, unlock shelf, or unlock hole.. one of those
+should work, given the clues in the room descs
+Bug reported by Jillian:
+/d/standard/cult/cave3: when i look east it say the 1 block view
+Bug reported by Jillian:
+/d/standard/cult/cave3: i bump into closed door21
+Bug reported by Jillian:
+/d/standard/cult/wchamber: armuur - wearall you return you cannot wear regular
+armuur with body armour - i think that is for the newbie chainmail.
+Bug reported by Calirynth:
+/d/standard/rain_forest/obj/platemail#13007: armour command has 6 limbs on one
+side and 4 limbs on the other side.. but body has 5 on each??
+Bug reported by Nightshade:
+/d/standard/void: "Too long evaluation. Execution aborted. program: 
+/std/object.c, object /d/guilds/darksoul/soul#4645, file: /std/object.c:243
+Bug reported by Calirynth:
+/d/standard/abyss/mob/nightmare#74563: nightmare this thing can walk while
+asleep
+Bug reported by Calirynth:
+/d/standard/abyss/mob/imp#49730: imp this imp can't cast shock.. or at least
+I've never seen him
+Bug reported by Calirynth:
+/d/standard/rain_forest/pgate: the gate only keeps people out, not in
+Bug reported by Wakko:
+/d/standard/rain_forest/house1: in elf town search bookshelf and find key in
+vase
+Typo reported by Calirynth:
+/d/standard/cemetary/gravyar7: this room says "founders of Praxis"
+Bug reported by Ashram:
+/d/standard/daroq/cave4: help rush includes knights and soldiers
+Bug reported by Calirynth:
+/d/standard/abyss/mob/assassin#84659: assassin can command him to stab more than
+once per round
+Typo reported by Jillian:
+/d/standard/cult/echamber: help rules in 12 forth sentence N one - should be No
+one
+Typo reported by Jillian:
+/d/standard/obj/mon/balrog2#6984: balrog may need reset
+Bug reported by Wraith:
+/d/standard/pass4: Bad argument 2 to member_array() Expected: string or array
+Got: 100.program: /std/armour.c, object:
+/d/merkkerri/mob/merkkirri/sapphirering#146, file: /std/armour.c:212  on wear
+all with sapphire rings
+Bug reported by Calirynth:
+/d/standard/abyss/obj/ak#25239: dagger this dagger should be worth 0 because I
+can make an infinite amount of them
+Bug reported by Calirynth:
+/d/standard/abyss/mob/assassin#29707: assassin the race is human, and I can make
+it stab more than once per round
+Bug reported by Wraith:
+/d/standard/rain_forest/pgate: in elven village there is a gate that is only
+used on one side, you can pass through it when its locked and closed from one
+side but not the other
+Bug reported by Nightshade:
+/d/standard/adv_inner: ciding...  when you cide, your bank account stays
+Bug reported by Wraith:
+/d/standard/cemetary/gravyar4: if you have neg sp's you cant be teleported by
+salox
+Bug reported by Neocount:
+/d/standard/daroq/cave9: the cost of attack for swashbucklers is huge... 52 to
+53 was 60k. thats almost as bad as raising blade from 199-200 for a fighter.
+Attack for swashbucklers is pretty important as far as i can tell and its way
+too expensive. at half the current cost it would still be very hard to raise,
+but at least a little more feasible that way
+Typo reported by Imari:
+/d/standard/rain_forest/path5: this room says there is a path leading to the
+east but i cant go east here
+Typo reported by Imari:
+/d/standard/rain_forest/path6: 'There is a path stops abruptly.' shouldnt this
+be 'The path stops abruptly here.  or Here the path stops abruptly. ?
+Typo reported by Cookie:
+/d/standard/rain_forest/zexor/path5: In the description of the wide-bladed
+falchion, it should say "which" not "witch"
+Bug reported by Cookie:
+/d/standard/rain_forest/zexor/path7: When you climb up the vines near the elven
+forest, and attack the "elemental" that ends up being a goblin, when they die,
+it says it unwields a wonderful green staff. However, there then is no corpse to
+butcher, even though you killed the monster, and this staff it talked about has
+disapeared. When you look at the room again, you see and con now pick up Bramble
+and Thorn armour. Where'd that come from? What about the Staff? Where's the
+corpse?
+Idea reported by Naeblis Tue Apr  9 12:11:13 2002
+/d/standard/rain_forest/ghut2: recall should last untill lvl 5
+Bug reported by Spiraldancer:
+/d/standard/cult/cave1: punk
+Bug reported by Spiraldancer:
+/d/standard/cult/cave1: punks aint dieing
+Bug reported by Johoram:
+/d/standard/rain_forest/village2: when slashing: if you use one blunt and one
+blade, it won't let you slash with your one blade 
+Bug reported by Gracelda:
+/d/standard/abyss/mob/assassin#68825: demon should disappear when master logs
+off
+Bug reported by Kilmor:
+/d/standard/rain_forest/village3: not that it matters... but mugging a person
+GIVES you sp... shouldn't it be the other way around? 
+Bug reported by Calirynth:
+/d/standard/obj/misc/bag#62475: pouch this thing holds way too much to be a
+small pouch
+Bug reported by Kilmor:
+/d/standard/rain_forest/palace12: it seems that lightning bolt can be
+spammed, i may be wrong. 
+Bug reported by Bloodbath:
+/d/standard/setter: pick minotaur you stay in the room where you pick them
+Typo reported by Tarfand:
+/d/standard/undead/mob/spectre#16687: spectre desc says "The spectre is
+transparent and" and stops there
+Bug reported by Tarfand:
+/d/standard/rain_forest/mon/butler#18208: butler it says "He" in the desc, but
+it's a female human
+Bug reported by Lair:
+/d/standard/rain_forest/village1: elf peasant can't backstab it
+Bug reported by Direwolf:
+/d/standard/rain_forest/house5: I'm unable to get the bow and quiver from this
+room.  I think if its here and we can look at it we should be able to take it
+and use it too.  =)
+Bug reported by Gor:
+/d/standard/rain_forest/pgate: gate guard won't die
+Bug reported by Dicer:
+/d/standard/rain_forest/mpath5: gate guard in elven fortress, the mob has no
+heartbeat
+Bug reported by Descartes:
+/d/standard/setter: unborn
+Bug reported by Descartes:
+/d/standard/setter: unborn you can become an unborn by talking to salox during
+the reboot
+Bug reported by Nightshade:
+/d/standard/adv_inner: people can fly with mounts
+Bug reported by Nightshade:
+/d/standard/adv_inner: by Spark, subject: bug.... i was wearing two saddles, and
+whenever i try to look at one of them, it says: Value being indexed is zero.
+program: /std/armour.c, object: /d/arlon/obj/armour/saddle#46182, file:
+/std/armour.c:403
+Bug reported by Quaiolys:
+/d/standard/cult/ent: when you try to 'decay corpse' while in combat the message
+you recieve needs a newline string at the end of the message.
+Bug reported by Quaiolys:
+/d/standard/pass5: when you use 'feed corpse' while in combat, the message given
+also needs a newline added
+Bug reported by Melchior:
+/d/standard/highway3: when i tried to 'sing sinners' i got: Illegal to move or
+destruct an object (/cmds/song/venom#108525) defining actions from a verb
+function which returns zero. program: (none), object: (none), file: (none)
+Bug reported by Melchior:
+/d/standard/pass4: for some reason in combat when i tried to sing sinners psalm
+i got the message: Illegal to move or destruct an object
+(/cmds/song/blades#109228) defining actions from a verb function which returns
+zero. program: (none), object: (none), file: (none)
+Bug reported by Nightshade:
+/d/standard/adv_inner: (note to self)  there's some bugs with rage, posted on
+zerker board
+Bug reported by Relain:
+/d/standard/rain_forest/square: guard lost heart beat in elven village at the
+gate 
+Idea reported by Rashka Fri Aug  2 17:50:31 2002
+/d/standard/rain_forest/path1: tame rangers and druids get tame,
+Bug reported by Sinder:
+/d/standard/cult/ent: i got a bug when trying to cast brand yes i know i don;t
+have it yet but it still said to report it so... thats what i'm doing sorry for
+the sloppy work but telnet sucks
+Typo reported by Hermes:
+/d/standard/rain_forest/puddle: Forest gremlin that's by the vines in the Elven
+village.  If you look at him it says, "This gremlin also seems to hve tough
+skin"
+Typo reported by Tendrick:
+/d/standard/cult/ent: "Your attack has wrecked havoc on Extremist's body!" this
+is part of a clerics spell 'lifewarp' i think that there should be an 'a' in
+wrecked, to make it wreaked
+Bug reported by Khale:
+/d/standard/rain_forest/mpath5: The guard at the gate, in the elven city...he
+WONT DIE!!!. 
+Bug reported by Nightshade:
+/d/standard/adv_inner: note to self: bfields soldiers keep heartbeat forever
+because of wandering.  eats up CPU.  turn off hb after a timer.
+Typo reported by Hermes:
+/d/standard/rain_forest/palace9: When you look at someone who isn't an angel
+and had worn a halo, it says a burn mark across HIS forhead. Even when the
+person in question is female 
+Bug reported by Grumsh:
+/d/standard/cult/cave2: Mob doesn't seem to die (well after it should).
+Specifically 'Punk' mob just west of town. They get down to (dying) status but
+won't die. Their limbs fall off even their torso, yet they still don't die.
+Other players said it was a 'heartbeat' issue. I apologize if this report is
+unnecessary, however I just wanted to make sure you were aware of the situation.
+I have no idea what events caused the situation. Just that it can occur. Thanks,
+Grumsh.
+Typo reported by Ilvec:
+/d/standard/rain_forest/home1: If you use <survey> and there are 3 elves in a
+direction, it says You see three eves <direction>.
+Typo reported by Rethlan:
+/d/standard/rain_forest/zexor/path6: The edge of a magnificent plain. There are
+deep holes all arouns. It appears
+Typo reported by Rethlan:
+/d/standard/rain_forest/zexor/path6: shouldn't the wurm be a worm?
+Typo reported by Rethlan:
+/d/standard/rain_forest/zexor/path5: where smoke rising up. -> should be 'is
+rising' or 'rises'
+Bug reported by Dondon:
+/d/standard/cult/cave4: I came in and entered the room where you find a punk
+and the 2 people locked behind doors.  like i always do, i enter and hit k
+for my alias.  i noticed that the punk was alraeady dying.  i spent another
+2-3 min. attacking it and it still didn't die although it was dealt 17 mortal
+blows. 
+Bug reported by Pyro:
+/d/standard/rain_forest/square: on elven village, when i go east, i cant go
+west, and there is no exit 
+Bug reported by Utaku:
+/d/standard/rain_forest/square: You can go west from here, but cannot go east
+back into the [] 
+Bug reported by Kataro:
+/d/standard/cemetary/building: dont know if this is a bug. but says kataan is in
+cemetary, this mark says to bow head to enter, I bow head and it says 'Nothing
+Happens.'
+Bug reported by Elmo:
+/d/standard/rain_forest/square: if you go west from this room it takes u to a
+room which doesn't alloq u to come back only has obvious exits north and
+south... and also the room north of this one if u go west from there it takes u
+to the same room.. which in itself is messed up and also don't allow u to
+return..
+Bug reported by Ali:
+/d/standard/cult/wchamber: um, there is a punk that keeps having mortal blows to
+the head and torso and such, but just wont die, thanks
+Bug reported by Axenos:
+/d/standard/cult/cave3: the punk in this room refuses to die no matter how many
+times his head is taken
+Bug reported by Hook:
+/d/standard/spass7: I got a bug message trying to disarm a huge rock giant who
+was wielding a boulder.
+Bug reported by Nightshade:
+/d/standard/void: Expected: string or array or object Got: 0.    program:
+/d/shadow/rooms/tower01.c, object: /d/shadow/rooms/tower01, file:
+/d/shadow/rooms/tower01.c:24
+Bug reported by Sapphron:
+/d/standard/rain_forest/dirt3: The gate guard in the elven village just died,
+reappeared and then would not die.  Just stayed 'near death'.  Got
+ERROR...bug...contact admin... thanks 
+Bug reported by Yakko:
+/d/standard/obj/magic/sky#88768: while flying fly list says i'm already flying
+Bug reported by Blackrain:
+/d/standard/cult/cave1: I backstabbed an extremist and  he died, but didnt at
+the same time. his corpse is down but he's still fighting
+Bug reported by Blackrain:
+/d/standard/cult/cave2: another error trying to kill that same extremist
+Typo reported by Wisp:
+/d/standard/obj/magic/sky#55112: It's really hard to fly to Merkkerri, when
+it spelt wrong  
+Bug reported by Yakko:
+/d/standard/rain_forest/mon/butler#32860: butler lost it's HB when i BSed it
+Bug reported by Sapphron:
+/d/standard/rain_forest/mpath5: The gate guard is the elven village north of
+Tirun is bugged again.  He won't die... thanks 
+Typo reported by Nightshade:
+/d/standard/daroq/cave4: renching
+Bug reported by Nightshade:
+/d/standard/adv_inner: offer doesnt autobag
+Idea reported by Shadimar Tue Nov 26 00:42:04 2002
+/d/standard/outlands/cover2: magic defense spells last longer with higher conj/md. also stronger more effective with higher conj/md?
+Idea reported by Shadimar Tue Nov 26 02:18:05 2002
+/d/standard/daroq/cave9: necros shouldnt get boost/absorb or absorb should be a magic attack spell not healing
+Idea reported by Shadimar Tue Nov 26 02:18:25 2002
+/d/standard/daroq/cave9: necros shouldnt get boost/absorb or absorb should be a magic attack spell not healing becuz necros dont have healing skill and shouldnt get healing spells
+Praise given by Flash Sun Dec  1 12:25:09 2002
+/d/standard/freezer: mud The mud is great, everything in it, especially the craftmanship on the guild halls and the freezer, i never would have guessed that whenever you log on it makes you type 'square' 'square'
+Bug reported by Naikon:
+/d/standard/daroq/cave5: absorb
+Bug reported by Keyoke:
+/d/standard/cult/wchamber: i was sitting down and then went to got the direction
+of east, it said i stood up then gave an message that said error this is a bug
+then said you cannot go that direction thought i could
+Typo reported by Eldrei:
+/d/standard/setter: list of race choices at race sel time 'Only only females'
+Bug reported by Aravi:
+/d/standard/setter: just logged in, typed hp and received =+=+=( Status
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+Bug reported by Aravi:
+/d/standard/setter: just logged in, typed hp and received =+=+=( Status
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+hp: 7/60  sp: 6/6
+mp: 6/60  level:
+1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!E
+RROR! This is a bug. Please contact an admin. - just following the instruction
+it gave (carraige returns edited out)
+Typo reported by Arkaine:
+/d/standard/rain_forest/shop1: You are to tired to be backstabing.
+Bug reported by Crem:
+/d/standard/cult/wchamber: punk in caves below balrog's not dying, severed all
+limbs and still dying, should be dead
+Bug reported by Prator:
+/d/standard/obj/magic/sky#46322: You can't select "start here" in angel hall. -
+This would be cool so you could change your start location and hten change it
+back. Or was this changed recently?
+Bug reported by Arach:
+/d/standard/rain_forest/village3: tellblock or boost. when I tellblock, I no
+longer can see the "You boost your own power through prayer." message.
+Bug reported by Arach:
+/d/standard/rain_forest/palace11: A raknid guard, in the elf town north of
+tirun. For some reason no longer wields his swords.
+Typo reported by Kurgan:
+/d/standard/cult/wchamber: There's a typo in the "help skills" file. It says
+"and individual" when it should say "an individual".
+Bug reported by Makaveli:
+/d/standard/pass4: thugs they suck.
+Praise given by Relain Sat Feb  1 00:47:17 2003
+/d/standard/cult/ent: this is cool
+Bug reported by Kurgan:
+/d/standard/cult/ent: I have a mob that's been killed and won't die. He's
+spamming body parts. It the cultist in this room. Thanks. =)
+Typo reported by Infinatous:
+/d/standard/rain_forest/house1: when you look bookshelf it says "On the shelf
+there are verious books." verious should be various
+Typo reported by Infinatous:
+/d/standard/rain_forest/palace4: when you l carpet in this room it says
+"beautifly embroidered carpet." is beautifly even a real word?
+Typo reported by Infinatous:
+/d/standard/rain_forest/palace10: l table in this room says "This table is odly
+circle" I beleive odly should be oddly
+Bug reported by Poseidon:
+/d/standard/rain_forest/village2: the guards in the north elf town are
+bugged, they cost 200sp to flash. 
+Typo reported by Oosen:
+/d/standard/rain_forest/pgate: "These gates protect the palace from any unwanted
+visitors or trespasors."trespasors s/b trespassers
+Typo reported by Oosen:
+/d/standard/rain_forest/home4: "Off to the southeast there is the town gates
+guarding the palace." 1) "southeast" s/b "southwest" 2) "there is the" s/b "are
+the"

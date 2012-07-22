@@ -1,0 +1,49 @@
+Bug reported by Prator:
+/d/rhondale/keep/rooms/zforest/lost/avd: this room can't go north.
+Bug reported by Prator:
+/d/rhondale/keep/rooms/zforest/lost/ate: room missing to the southwest
+Bug reported by Prator:
+/d/rhondale/keep/rooms/zforest/lost/aui: line10 of ati.c - parse error before
+KEEPROOM"aforest/lost etc
+Bug reported by Prator:
+/d/rhondale/keep/rooms/zforest/lost/avd: exit north leads nowhere. Can someone
+send the rooms and the bug reports as a mail to prator, or to aziraphale on
+builders. I will know how to fix them.
+Bug reported by Lac:
+/d/rhondale/keep/rooms/zforest/lost/aui:
+/d/rhondale/keep/rooms/zforest/lost/ati.c line 10: parse error before 
+KEEPROOM"zforest/lo cheap room 
+Bug reported by Prator:
+/d/rhondale/keep/rooms/zforest/lost/api: something is up with damage, I don't
+know what it is but I am taking dugyeah from combat.
+Bug reported by Tyste:
+/d/rhondale/keep/rooms/zforest/lost/c-20-23: this room is bugged majorly
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-21-13: At this location, you cant go west
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-15-21: in this room, it gives you an error
+when you go east
+Bug reported by Rubicante:
+/d/rhondale/keep/rooms/zforest/lost/c-21-7: the watchers in prator's piece of
+shit area repop every time you enter the room
+Bug reported by Rubicante:
+/d/rhondale/keep/rooms/zforest/lost/c-17-4: rhondale dragonite's have no
+heartbeats
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-21-11: south in this room takes you to a
+room where the dir is nw to get back
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-18-23: this room has no descrip
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-15-21: this room has no exits
+Bug reported by Eios:
+/d/rhondale/keep/rooms/zforest/path81: Rhondale is bugged, Dragonites with no
+heartbeats and some rooms you walk in and you get spamed with code.
+Bug reported by Wraith:
+/d/rhondale/keep/rooms/zforest/lost/c-10-8:
+/d/rhondale/keep/rooms/zforest/lost/c-9-9.c line 1: parse error before
+|Stormbringer||PD-Bu
+Idea reported by Wraith Sat Mar  8 19:05:52 2003
+/d/rhondale/keep/rooms/zforest/path95: Well, hers an idea for backstab. As you know its shoving a large sharp object into something. Well I was thinking about this and I came up with an idea that I dont know if its in play or not. When a backstab hits, you can let it do normal damage if it hits extremities like arms, feet and such, but if it hits a vital part (torso, head) it would increase the damage because the knife just went into a vital organ. I dont know how much more it would do, mebbie double a normal backstab or so. or at least a 300 hp boost for a vital hit.
+Bug reported by Tyste:
+/d/rhondale/keep/rooms/zforest/lost/c-21-4: this room is bugged

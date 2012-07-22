@@ -1,0 +1,25 @@
+Praise given by Kumi Thu Jan  1 05:20:13 2004
+/d/helgrath/items/armor/mrobes#8041: these are imo the best robes in pd, i do know that silver robes provide more protection, however, mage robes are so much super cooler because like.. they defend me and heal me yah.
+Bug reported by Cortoth:
+/d/helgrath/tundra/rooms/room7: get_user_data: read on fd 14 System Error:
+get_user_data: read:Connection timed out 
+Bug reported by Rull:
+/d/helgrath/tundra/rooms/room12: I can't forage in the snowy forest south of
+helgrath
+Idea reported by Tal Sun Apr  3 20:29:22 2005
+/d/helgrath/rooms/wilndursquare: message in/out it would be nice if we could make it so you didnt have to make the first name always in bold green
+Typo reported by Escobar:
+/d/helgrath/rooms/temple03: should be podiums, not podeums
+Typo reported by Ardhanarishvara:
+/d/helgrath/rooms/temple02: in the middle room of wilndur temple (1 north of
+entrance) when i type <look shelves> the descript says cieling instead of
+ceiling  kind regards ardhanarishvara 
+Bug reported by Noxus:
+/d/helgrath/rooms/wilndursquare: when you are cloaked you can't recieve tells
+you can get replies but no tells... 
+Typo reported by Cortoth:
+/d/helgrath/rooms/marketrd_egate: their armor can barely be head. (on listen)
+should be heard
+Typo reported by Kilir:
+/d/helgrath/rooms/marketrd_egate: Helgrath, im guessing both the south and
+east gates by the guardians. The listen message. 

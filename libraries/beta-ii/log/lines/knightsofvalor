@@ -1,0 +1,2021 @@
+[Feb 10-11 23:50:13]<Master> Vian <knightsofvalor> just had to update the daemon
+[Feb 10-11 23:50:23]<Master> Vian <knightsofvalor> Now, to change this to kov
+[Feb 10-11 23:50:27]<Master> Vian <knightsofvalor> or knights
+[Feb 10-11 23:50:47]<Master> Vian <knightsofvalor> or I don't think I can anymore
+[Feb 10-11 23:51:17]<Master> Vian <knightsofvalor> If this isn't the ugliest channel name ever, than my name isn't Vian
+[Feb 10-11 23:51:21]<Master> Nulvect <knightsofvalor> might be in the chat daemon or something
+[Feb 10-11 23:51:27]<Master> Vian <knightsofvalor> reading it now
+[Feb 10-11 23:51:33]<Master> Vian <knightsofvalor> i think it just sets it based off the directory
+[Feb 10-11 23:52:21]<Master> Vian <knightsofvalor>       string guild = GUILD_D->query_guild(who->query_name());
+[Feb 10-11 23:53:25]<Master> Vian <knightsofvalor> i should have made the guild name and files something different, and overridden the name in the daemon
+[Feb 10-11 23:53:57]<Master> Vian <knightsofvalor> easiest solution: leave the channel name alone
+[Feb 10-11 23:54:15]<Master> Vian <knightsofvalor> second easiest: rename the guild files and directories to knights and override the name in the master guild daemon
+[Feb 10-11 23:54:17]<Master> Nulvect <knightsofvalor> we have no limit on aliases for a reason
+[Feb 10-11 23:54:31]<Master> Vian <knightsofvalor> hardest way: find a way to code an override into chat daemon
+[Feb 10-11 23:54:57]<Master> Vian <knightsofvalor> yeah its not that ugly i guess :P
+[Feb 10-11 23:55:11]<Master> Vian <knightsofvalor> i just prefered AoD's line being AoD, and dragon warrior's being dw
+[Feb 10-11 23:55:27]<Master> Vian <knightsofvalor> its better with a non-magenta color
+[Feb 10-11 23:55:29]<Master> Nulvect <knightsofvalor> yeah I think those were overridden in the old chat daemon
+[Feb 10-11 23:55:37]<Master> Vian <knightsofvalor> nah i'm pretty sure
+[Feb 10-11 23:55:45]<Master> Vian <knightsofvalor> the guilds were set up as dw and AoD
+[Feb 10-11 23:55:51]<Master> Vian <knightsofvalor> and had the master.o file override the names
+[Feb 10-11 23:55:53]<Master> Nulvect <knightsofvalor> could be
+[Feb 10-11 23:55:59]<Master> Vian <knightsofvalor> i'm pretty positive ;P
+[Feb 10-11 23:56:21]<Master> Nulvect <knightsofvalor> yeah that would make sense
+[Feb 10-11 23:56:23]<Master> Vian <knightsofvalor> mainly because /d/guilds contains AoD and dw directories
+[Feb 10-11 23:56:46]<Master> Vian <knightsofvalor> i set it as BOLD YELLOW and its growing on me
+[Feb 10-11 23:57:20]<Master> Vian <knightsofvalor> so all thats left that i need help with is removing /d/guilds/save/knightsofvalor Yun.o
+[Feb 10-11 23:57:28]<Master> Vian <knightsofvalor> thank the setup command for that ;P
+[Feb 10-11 23:58:0]<Master> Vian <knightsofvalor> but you have ftp access so that should be easy
+[Feb 10-11 23:58:36]<Master> Vian <knightsofvalor> any other daemons to update?  or does the who command need to be updated for who knightsofvalor to work
+[Feb 10-11 23:58:46]<Master> Vian <knightsofvalor> yep
+[Feb 10-11 23:58:52]<Master> Vian <knightsofvalor> if you can add it to /cmds/mortal/_who.c
+[Feb 10-11 23:59:0]<Master> Vian <knightsofvalor> in #define GUILDS
+[Feb 10-11 23:59:18]<Master> Vian <knightsofvalor> i'd do it if i had access :P
+[Feb 10-11 23:59:46]<Master> Nulvect <knightsofvalor> rm works if you specify the full path with no quotes around it
+[Feb 10-11 23:59:52]<Master> Nulvect <knightsofvalor> rm /d/guilds/save/knightsofvalor Yun.o
+[Feb 11-11 0:0:36]<Master> Vian <knightsofvalor> that never worked for me
+[Feb 11-11 0:0:56]<Master> Vian <knightsofvalor> i tried it earlier :/
+[Feb 11-11 0:1:54]<Master> Nulvect <knightsofvalor> so just four guilds right... forsaken unholy darksouls kov
+[Feb 11-11 0:2:10]<Master> Vian <knightsofvalor> yep
+[Feb 11-11 0:2:38]<Master> Nulvect <knightsofvalor> in continuing my tradition, turning this line off now
+[Feb 11-11 0:8:44]<Master> Vian <knightsofvalor> congrats btw yun
+[Feb 11-11 0:15:9]<Master> Vian <knightsofvalor> I'll be working on your hall after I finish up this essay
+[Feb 11-11 2:24:47]<Leader> Yun <knightsofvalor> wow
+[Feb 11-11 2:26:6]<Master> Vian <knightsofvalor> welcome back!
+[Feb 11-11 2:26:12]<Leader> Yun <knightsofvalor> hehe
+[Feb 11-11 2:26:14]<Master> Vian <knightsofvalor> i'll try to work on the hall tomorrow
+[Feb 11-11 2:26:24]<Leader> Yun <knightsofvalor> kind of a surprise for me :)
+[Feb 11-11 2:27:12]<Leader> Yun <knightsofvalor> the very FIRST inducted
+[Feb 11-11 2:27:16]<knightsofvalor> Vent wins
+[Feb 11-11 2:27:18]<Squire> Vent <knightsofvalor> hehe
+[Feb 11-11 2:27:26]<Leader> Yun <knightsofvalor> haha woot
+[Feb 11-11 2:27:30]<Squire> Vent <knightsofvalor> might wanna alias kov ;p
+[Feb 11-11 2:27:32]<Squire> Vent <knightsofvalor> its what i did
+[Feb 11-11 2:27:36]<Squire> Vent <knightsofvalor> also looks a lot better if customized with yellow
+[Feb 11-11 2:27:44]<Leader> Yun <knightsofvalor> nod
+[Feb 11-11 2:28:14]<Squire> Vent <knightsofvalor> Was thinking about seeing if it would be allowed, if you want it of course, to have KoV members be peaceful always
+[Feb 11-11 2:28:20]<Squire> Vent <knightsofvalor> so like level 19 but forever
+[Feb 11-11 2:28:24]<Squire> Vent <knightsofvalor> no attacking and no being attacked
+[Feb 11-11 2:28:52]<Squire> Vent <knightsofvalor> It might be an issue seeming unfair in free pk areas, but I think Stormy will like the idea because he's had similar ones
+[Feb 11-11 2:29:12]<Leader> Yun <knightsofvalor> hehe %_YELLOW%_
+[Feb 11-11 2:29:14]<Leader> Yun <knightsofvalor> bah %_YELLOW%_
+[Feb 11-11 2:29:18]<Squire> Vent <knightsofvalor> % ^
+[Feb 11-11 2:29:30]<Squire> Vent <knightsofvalor> do all the commands work
+[Feb 11-11 2:29:38]<Squire> Vent <knightsofvalor> can you change the rank names and such
+[Feb 11-11 2:31:7]<Leader> Yun <knightsofvalor> kool, i know i definately dont want agressive pkers here %^YELLOW%^
+[Feb 11-11 2:31:10]<Squire> Vent <knightsofvalor> nod nod
+[Feb 11-11 2:31:37]<Squire> Vent <knightsofvalor> I dunno if you would want it so that its pk-free though
+[Feb 11-11 2:31:49]<Squire> Vent <knightsofvalor> because I dunno if Knights of Valor would want to kill PKers
+[Feb 11-11 2:31:53]<Squire> Vent <knightsofvalor> or simply be completely removed from it
+[Feb 11-11 2:32:1]<Leader> Yun <knightsofvalor> %^YELLOW%^ hrmm
+[Feb 11-11 2:32:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ something ill have to think about, but yeah i like your idea, just that i dont think others would agree to it
+[Feb 11-11 2:32:41]<Squire> Vent <knightsofvalor> Do you mean you don't think people would want to join
+[Feb 11-11 2:32:46]<Squire> Vent <knightsofvalor> or you think people would think its unfair that KoV is unpkable
+[Feb 11-11 2:33:26]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol think we thinking on 2 different wave lengths :P
+[Feb 11-11 2:33:31]<Squire> Vent <knightsofvalor> %^BOLD%^?%^RESET%^
+[Feb 11-11 2:34:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ so i know i dont want pkers here, i was thinking that we would fight for good and help the weak
+[Feb 11-11 2:34:25]<Squire> Vent <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 11-11 2:34:39]<Squire> Vent <knightsofvalor> %^BOLD%^I'm just bringing it up, because Stormy was throwing around an idea with guilds choosing if they were PK or not%^RESET%^
+[Feb 11-11 2:34:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 2:34:51]<Squire> Vent <knightsofvalor> %^BOLD%^so players who weren't in a guild would be no-pk%^RESET%^
+[Feb 11-11 2:34:55]<Squire> Vent <knightsofvalor> %^BOLD%^but if you wanted to PK, you would join a PK guild%^RESET%^
+[Feb 11-11 2:35:1]<Squire> Vent <knightsofvalor> %^BOLD%^and then PK would be turned on for you%^RESET%^
+[Feb 11-11 2:35:15]<Squire> Vent <knightsofvalor> %^BOLD%^theres honestly a lot of ideas going around with PK right now, since its such an issue%^RESET%^
+[Feb 11-11 2:35:19]<Leader> Yun <knightsofvalor> %^YELLOW%^ aww ok now i get it
+[Feb 11-11 2:35:27]<Squire> Vent <knightsofvalor> %^BOLD%^but yeah%^RESET%^
+[Feb 11-11 2:35:37]<Squire> Vent <knightsofvalor> %^BOLD%^I think it would be nice either way for KoV%^RESET%^
+[Feb 11-11 2:35:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ sorry didnt know about all the things floating around
+[Feb 11-11 2:35:47]<Squire> Vent <knightsofvalor> %^BOLD%^well who knows if that owuld ever go in%^RESET%^
+[Feb 11-11 2:35:49]<Squire> Vent <knightsofvalor> %^BOLD%^but even if it doesnt ever%^RESET%^
+[Feb 11-11 2:35:53]<Squire> Vent <knightsofvalor> %^BOLD%^I think KoV could go either way%^RESET%^
+[Feb 11-11 2:36:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ well being a peaceful guild we should def be non-pk
+[Feb 11-11 2:36:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 2:36:43]<Squire> Vent <knightsofvalor> %^BOLD%^I think it could be great either way, depending on what you want%^RESET%^
+[Feb 11-11 2:36:51]<Squire> Vent <knightsofvalor> %^BOLD%^whether you want to keep PK on to be able to hunt PKers%^RESET%^
+[Feb 11-11 2:37:3]<Squire> Vent <knightsofvalor> %^BOLD%^or turn PK off, to give people a guild they can join if they don't want to be involved in PK at all%^RESET%^
+[Feb 11-11 2:37:17]<Squire> Vent <knightsofvalor> %^BOLD%^go and exp in merk without having to worry about being backstabbed by Sopboo%^RESET%^
+[Feb 11-11 2:37:25]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 2:37:39]<Squire> Vent <knightsofvalor> %^BOLD%^but that would mean that if you get strong enough to kill Sopboo, you wouldn't be able to%^RESET%^
+[Feb 11-11 2:37:47]<Squire> Vent <knightsofvalor> %^BOLD%^it would technically be reversible by leaving the guild%^RESET%^
+[Feb 11-11 2:37:53]<Squire> Vent <knightsofvalor> %^BOLD%^but abusing it would be harshly punished%^RESET%^
+[Feb 11-11 2:38:1]<Squire> Vent <knightsofvalor> %^BOLD%^IE: a member leaves, pks someone, and rejoins to not be able to be pked%^RESET%^
+[Feb 11-11 2:38:9]<Squire> Vent <knightsofvalor> %^BOLD%^I'd probably ban them from all guilds and kill them 50 times ;P%^RESET%^
+[Feb 11-11 2:38:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ hahaha
+[Feb 11-11 2:39:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ i think being a non pk guild would be great, to truly be a peaceful guild, and to be the first to do it would be great
+[Feb 11-11 2:39:25]<Leader> Yun <knightsofvalor> %^YELLOW%^ so if SB would be down with it, that would be great
+[Feb 11-11 2:40:51]<Squire> Vent <knightsofvalor> %^BOLD%^I was looking into how to code it, but I am not nearly smart enough%^RESET%^
+[Feb 11-11 2:40:53]<Squire> Vent <knightsofvalor> %^BOLD%^I'm talking to Nul though%^RESET%^
+[Feb 11-11 2:40:57]<Squire> Vent <knightsofvalor> %^BOLD%^ooh%^RESET%^
+[Feb 11-11 2:40:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 2:41:1]<Squire> Vent <knightsofvalor> %^BOLD%^Lets get a help file added%^RESET%^
+[Feb 11-11 2:41:7]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 11-11 2:41:25]<Master> Vian <knightsofvalor> What do you think for the help file?
+[Feb 11-11 2:42:10]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe nice
+[Feb 11-11 2:42:34]<Leader> Yun <knightsofvalor> %^YELLOW%^ right under DS
+[Feb 11-11 2:42:42]<Master> Vian <knightsofvalor> its alphabetical :P
+[Feb 11-11 2:44:38]<Master> Vian <knightsofvalor> I need to sleep for class tomorrow though, so lets figure out the help file for you :P
+[Feb 11-11 2:44:46]<Leader> Yun <knightsofvalor> %^YELLOW%^ k
+[Feb 11-11 2:45:4]<Leader> Yun <knightsofvalor> %^YELLOW%^ lemme pull up my notepad
+[Feb 11-11 2:45:42]<Master> Vian <knightsofvalor> I think you should include the fact from your mudmail to me, that they should be the first to help a newbie with stuff
+[Feb 11-11 2:45:56]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 2:48:39]<Master> Vian <knightsofvalor> gonna have a 3 way chat next time me nul and stormy are on about the pk thing btw
+[Feb 11-11 2:48:42]<Master> Vian <knightsofvalor> so we'll find out eventually
+[Feb 11-11 2:50:57]<Leader> Yun <knightsofvalor> %^YELLOW%^ k sorry flipping through screens trying to type
+[Feb 11-11 3:0:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ knightsofvalor travels the land in search of peace. Righting the wrongs of evil and helping all that are in need. Unable to kill another brother or sister, KoV's nobility is known throughout the lands. Seek peace and they shall find you. Know respect and they will shelter you. Show valor and we will be as one.
+[Feb 11-11 3:1:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe first draft
+[Feb 11-11 3:3:51]<Master> Vian <knightsofvalor> help knightsofvalor
+[Feb 11-11 3:3:59]<Master> Vian <knightsofvalor> I edited it a little bit, I can change it if you don't like it ;P
+[Feb 11-11 3:4:17]<Master> Vian <knightsofvalor> the line is knightsofvalor, but the actual guild name is Knights of Valor
+[Feb 11-11 3:4:19]<Leader> Yun <knightsofvalor> %^YELLOW%^ ooo
+[Feb 11-11 3:4:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ me like
+[Feb 11-11 3:4:43]<Master> Vian <knightsofvalor> I mean, I can change it for you at any time
+[Feb 11-11 3:4:47]<Master> Vian <knightsofvalor> if you come up with new ideas etc
+[Feb 11-11 3:4:57]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 11-11 3:5:1]<Leader> Yun <knightsofvalor> %^YELLOW%^ i like it tho
+[Feb 11-11 3:5:13]<Master> Vian <knightsofvalor> you don't need to pretend just cause i edit something ;P
+[Feb 11-11 3:5:21]<Master> Vian <knightsofvalor> I did write help blacksails though
+[Feb 11-11 3:5:25]<Master> Vian <knightsofvalor> i'm hella proud of that
+[Feb 11-11 3:5:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ hay i like it, its what i said but with stile
+[Feb 11-11 3:5:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ herr style
+[Feb 11-11 3:5:53]<Master> Vian <knightsofvalor> pfft its exactly what you said
+[Feb 11-11 3:6:7]<Leader> Yun <knightsofvalor> %^YELLOW%^ but Vian style :P
+[Feb 11-11 3:6:7]<Master> Vian <knightsofvalor> I just edited it grammatically :P
+[Feb 11-11 3:6:11]<Leader> Yun <knightsofvalor> %^YELLOW%^ think ppl will like it
+[Feb 11-11 3:6:23]<Master> Vian <knightsofvalor> you can't blame me, I'm an english major :D
+[Feb 11-11 3:6:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah english isnt my strong suit
+[Feb 11-11 3:6:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol
+[Feb 11-11 3:6:55]<Master> Vian <knightsofvalor> I'm currently taking a class on teaching English to students who have English as their second language
+[Feb 11-11 3:7:1]<Master> Vian <knightsofvalor> so interesting
+[Feb 11-11 3:7:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 3:7:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ my cousin used to do that for $$$
+[Feb 11-11 3:7:25]<Leader> Yun <knightsofvalor> %^YELLOW%^ talk to Japanese students in english
+[Feb 11-11 3:7:29]<Master> Vian <knightsofvalor> nod
+[Feb 11-11 3:7:47]<Squire> Vent <knightsofvalor> I could do that :D  I speak some japanese hehe
+[Feb 11-11 3:7:53]<Squire> Vent <knightsofvalor> %^BOLD%^hmph%^RESET%^
+[Feb 11-11 3:7:55]<Squire> Vent <knightsofvalor> %^BOLD%^forgot to use the alias%^RESET%^
+[Feb 11-11 3:7:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ it was great like 50 bucks for 2 hrs and she used to have them hang out at my parents
+[Feb 11-11 3:7:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo
+[Feb 11-11 3:8:11]<Leader> Yun <knightsofvalor> %^YELLOW%^ used to talk about naruto for hourse
+[Feb 11-11 3:8:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ hours*
+[Feb 11-11 3:8:17]<Squire> Vent <knightsofvalor> %^BOLD%^hehe%^RESET%^
+[Feb 11-11 3:8:25]<Squire> Vent <knightsofvalor> %^BOLD%^well I'm off to bed, gonna close the computer%^RESET%^
+[Feb 11-11 3:8:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 11-11 3:8:37]<Leader> Yun <knightsofvalor> %^YELLOW%^ thnx tho Vent
+[Feb 11-11 3:8:39]<Squire> Vent <knightsofvalor> %^BOLD%^hopefully you get a few people to keep you company in here tonight hehe%^RESET%^
+[Feb 11-11 3:8:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 11-11 3:8:51]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo
+[Feb 11-11 3:9:1]<Leader> Yun <knightsofvalor> %^YELLOW%^ i gotta get someone to add Yang  :P
+[Feb 11-11 3:9:5]<Squire> Vent <knightsofvalor> %^BOLD%^did you tell me if the commands work?%^RESET%^
+[Feb 11-11 3:9:17]<Leader> Yun <knightsofvalor> %^YELLOW%^ havent tried yet
+[Feb 11-11 3:9:28]<Leader> Yun <knightsofvalor> %^YELLOW%^ well inducted worked :P
+[Feb 11-11 3:9:29]<Squire> Vent <knightsofvalor> %^BOLD%^I dunno what they even are%^RESET%^
+[Feb 11-11 3:9:33]<Member> Vent <knightsofvalor> %^BOLD%^ooh promote works too ;P%^RESET%^
+[Feb 11-11 3:9:35]<Leader> Yun <knightsofvalor> %^YELLOW%^ that worked
+[Feb 11-11 3:9:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 11-11 3:9:41]<Member> Vent <knightsofvalor> %^BOLD%^type commands%^RESET%^
+[Feb 11-11 3:9:45]<Member> Vent <knightsofvalor> %^BOLD%^itll show you the commands :P%^RESET%^
+[Feb 11-11 3:9:45]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 3:10:7]<Member> Vent <knightsofvalor> %^BOLD%^if you cna try to change a rank name just to test it before i sleep%^RESET%^
+[Feb 11-11 3:11:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ k
+[Feb 11-11 3:11:9]<Knight> Vent <knightsofvalor> %^BOLD%^nice%^RESET%^
+[Feb 11-11 3:11:9]<Leader> Yun <knightsofvalor> %^YELLOW%^ you should be a knight now
+[Feb 11-11 3:11:11]<Knight> Vent <knightsofvalor> %^BOLD%^it worked hehe%^RESET%^
+[Feb 11-11 3:11:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 11-11 3:11:16]<Knight> Vent <knightsofvalor> %^BOLD%^alright have fun!%^RESET%^
+[Feb 11-11 3:11:18]<Leader> Yun <knightsofvalor> %^YELLOW%^ ill work out the kinks with that one
+[Feb 11-11 3:11:20]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 11-11 3:11:24]<Knight> Vent <knightsofvalor> %^BOLD%^nod hehe%^RESET%^
+[Feb 11-11 3:11:36]<Knight> Vent <knightsofvalor> %^BOLD%^send Vian a mudmail umm%^RESET%^
+[Feb 11-11 3:11:47]<Knight> Vent <knightsofvalor> %^BOLD%^I have some ideas for a guild hall and I can just start building it%^RESET%^
+[Feb 11-11 3:11:48]<Knight> Vent <knightsofvalor> %^BOLD%^but if you want to write descs and stuff%^RESET%^
+[Feb 11-11 3:11:56]<Knight> Vent <knightsofvalor> %^BOLD%^its obviously your choice%^RESET%^
+[Feb 11-11 3:12:0]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 11-11 3:12:12]<Leader> Yun <knightsofvalor> %^YELLOW%^ V and i will talk
+[Feb 11-11 3:12:14]<Knight> Vent <knightsofvalor> %^BOLD%^you can give me all the descs you want, you can give me the general idea you want, etc%^RESET%^
+[Feb 11-11 3:12:41]<Knight> Vent <knightsofvalor> %^BOLD%^just like with player houses hehe%^RESET%^
+[Feb 11-11 3:12:50]<Knight> Vent <knightsofvalor> %^BOLD%^either you can write it or i can write it hehehe%^RESET%^
+[Feb 11-11 3:13:0]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 11-11 3:13:5]<Knight> Vent <knightsofvalor> %^BOLD%^but if you write it, I'll still edit it for grammar, unless theres too many colors for me to read it :P%^RESET%^
+[Feb 11-11 3:13:12]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool, V and i work well together
+[Feb 11-11 3:13:22]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 11-11 3:13:24]<Knight> Vent <knightsofvalor> %^BOLD%^nod nod%^RESET%^
+[Feb 11-11 3:13:28]<Knight> Vent <knightsofvalor> %^BOLD%^wait%^RESET%^
+[Feb 11-11 3:13:29]<Knight> Vent <knightsofvalor> %^BOLD%^V as in Vian?%^RESET%^
+[Feb 11-11 3:13:38]<Leader> Yun <knightsofvalor> %^YELLOW%^ doh 2 Vs huh
+[Feb 11-11 3:13:44]<Knight> Vent <knightsofvalor> %^BOLD%^you just went way over my head%^RESET%^
+[Feb 11-11 3:13:46]<Knight> Vent <knightsofvalor> %^BOLD%^its like inception%^RESET%^
+[Feb 11-11 3:13:48]<Knight> Vent <knightsofvalor> %^BOLD%^a dream within a dream%^RESET%^
+[Feb 11-11 3:13:52]<Knight> Vent <knightsofvalor> %^BOLD%^a character within a character%^RESET%^
+[Feb 11-11 3:13:56]<Knight> Vent <knightsofvalor> %^BOLD%^a mudder within a mudder%^RESET%^
+[Feb 11-11 3:13:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ hah i wanna see that
+[Feb 11-11 3:14:0]<Knight> Vent <knightsofvalor> %^BOLD%^I don't even know who I am anymore%^RESET%^
+[Feb 11-11 3:14:4]<Leader> Yun <knightsofvalor> %^YELLOW%^ still havent seen that
+[Feb 11-11 3:14:10]<Knight> Vent <knightsofvalor> %^BOLD%^its realllly good%^RESET%^
+[Feb 11-11 3:14:24]<Leader> Yun <knightsofvalor> %^YELLOW%^ someone told me it made his head spin
+[Feb 11-11 3:14:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ but he has ADD tho
+[Feb 11-11 3:14:32]<Knight> Vent <knightsofvalor> %^BOLD%^yeah it blew my mind hehehe%^RESET%^
+[Feb 11-11 3:14:40]<Knight> Vent <knightsofvalor> %^BOLD%^i need to close this comptuer before i stay up all night tho :D %^RESET%^
+[Feb 11-11 3:14:44]<Knight> Vent <knightsofvalor> %^BOLD%^nightnight <3%^RESET%^
+[Feb 11-11 3:14:46]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 11-11 3:14:48]<Leader> Yun <knightsofvalor> %^YELLOW%^ nite
+[Feb 11-11 3:14:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 11-11 23:44:6]<Knight> Vent <knightsofvalor> %^BOLD%^YUN where are you baby%^RESET%^
+[Feb 12-11 1:21:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ been kinda sick today
+[Feb 12-11 1:26:16]<Knight> Vent <knightsofvalor> %^BOLD%^:(%^RESET%^
+[Feb 12-11 1:26:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe bad cheese burger from a lunch wagon
+[Feb 12-11 1:26:43]<Squire> Larry <knightsofvalor> man am going to have to alias that guildname for guild chat
+[Feb 12-11 1:26:51]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol
+[Feb 12-11 1:26:53]<Knight> Vent <knightsofvalor> %^BOLD%^welcome Larry :)%^RESET%^
+[Feb 12-11 1:27:2]<knightsofvalor> Larry bows
+[Feb 12-11 1:27:9]<Knight> Vent <knightsofvalor> %^BOLD%^like my title?%^RESET%^
+[Feb 12-11 1:27:25]<Knight> Vent <knightsofvalor> %^BOLD%^okay%^RESET%^
+[Feb 12-11 1:27:25]<Knight> Vent <knightsofvalor> %^BOLD%^lets build a guild hall, shall we?%^RESET%^
+[Feb 12-11 1:27:49]<Leader> Yun <knightsofvalor> %^YELLOW%^ i was wondering if there is anything with the church alter in tirun
+[Feb 12-11 1:28:13]<Master> Vian <knightsofvalor> thats where vorticon was
+[Feb 12-11 1:28:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ ive nver seen it used, but you have any ideas V? just think it would be appropriate
+[Feb 12-11 1:28:17]<Master> Vian <knightsofvalor> makes tons of sense, amiright?
+[Feb 12-11 1:28:37]<Squire> Larry <knightsofvalor> test
+[Feb 12-11 1:28:37]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 12-11 1:28:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 12-11 1:29:59]<knightsofvalor> Larry %^WHITE%^<%^RED%^Berserker%^WHITE%^>%^RESET%^ test
+[Feb 12-11 1:30:21]<knightsofvalor> Larry %^WHITE%^<%^RED%^Berserker%^WHITE%^>%^RESET%^ line tags ok Yun? or you want guild ranks showen?
+[Feb 12-11 1:31:35]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah was gonna keep with the ranks :)
+[Feb 12-11 1:31:43]<knightsofvalor> Larry %^WHITE%^<%^RED%^Berserker%^WHITE%^>%^RESET%^ ok one sec
+[Feb 12-11 1:31:59]<Squire> Larry <knightsofvalor> done
+[Feb 12-11 1:32:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ thnx
+[Feb 12-11 1:32:19]<Squire> Larry <knightsofvalor> cool
+[Feb 12-11 1:32:43]<Squire> Larry <knightsofvalor> if they make the guild non-pk, non-pkable ill bring back Orcha
+[Feb 12-11 1:32:49]<Squire> Larry <knightsofvalor> and ill join up
+[Feb 12-11 1:32:59]<Master> Vian <knightsofvalor> %^BOLD%^if you dont mind, we could just put the hall where vorticon's used to be%^RESET%^
+[Feb 12-11 1:33:7]<Master> Vian <knightsofvalor> %^BOLD%^northwest of the monastery, hidden exit%^RESET%^
+[Feb 12-11 1:33:9]<Leader> Yun <knightsofvalor> %^YELLOW%^ and ill be glad to bring him in
+[Feb 12-11 1:33:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ k, ive never been in vorticon :P
+[Feb 12-11 1:33:39]<Squire> Larry <knightsofvalor> i think they have a guild hall in Helgrath as well
+[Feb 12-11 1:33:43]<Squire> Larry <knightsofvalor> thats still in place
+[Feb 12-11 1:33:53]<Squire> Larry <knightsofvalor> oh wait thats Archon nm :P
+[Feb 12-11 1:34:1]<Master> Vian <knightsofvalor> %^BOLD%^so how do you want to do this%^RESET%^
+[Feb 12-11 1:34:17]<Master> Vian <knightsofvalor> %^BOLD%^want me to just work on it and you tell me what you think?  want to give me full descriptions and i'll put them in?  want to tell me a general idea and have me work on it?%^RESET%^
+[Feb 12-11 1:34:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ to the tells batman!
+[Feb 12-11 2:2:51]<Leader> Yun <knightsofvalor> %^YELLOW%^ hey does Chun Li still have her super air kick the one where she kicks through you and takes a riddiculos amout of dmg
+[Feb 12-11 2:9:19]<Leader> Yun <knightsofvalor> %^YELLOW%^ think im dehydrated ill go get me some gatorade in a few
+[Feb 12-11 2:9:27]<Master> Vian <knightsofvalor> only if its the yellow kind
+[Feb 12-11 2:9:27]<Squire> Larry <knightsofvalor> okies
+[Feb 12-11 2:9:35]<Leader> Yun <knightsofvalor> %^YELLOW%^ yes Yellow only
+[Feb 12-11 2:9:37]<Squire> Larry <knightsofvalor> am mapping the Daroq mountains
+[Feb 12-11 2:9:55]<Master> Vian <knightsofvalor> %^BOLD%^yellow gatorade is my faaavorite%^RESET%^
+[Feb 12-11 2:10:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ same
+[Feb 12-11 2:10:11]<Leader> Yun <knightsofvalor> %^YELLOW%^ all the others taste like watered down juice
+[Feb 12-11 2:10:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ at least the yellow is tasty
+[Feb 12-11 2:10:23]<Squire> Larry <knightsofvalor> you could just drink water
+[Feb 12-11 2:10:35]<Squire> Larry <knightsofvalor> it is the ebst for you
+[Feb 12-11 2:10:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah been sipping water , dont think that burger was cooked right or it was left out
+[Feb 12-11 2:15:17]<Squire> Larry <knightsofvalor> thats nasty man
+[Feb 12-11 2:15:29]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe yeah
+[Feb 12-11 2:15:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ stomach hasnt been rite since, my sisters b-day tomorrow too
+[Feb 12-11 2:16:1]<Squire> Larry <knightsofvalor> this place is a maze no wonder i never found my way out of here lol
+[Feb 12-11 2:16:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ mountains?
+[Feb 12-11 2:16:19]<Squire> Larry <knightsofvalor> yeah
+[Feb 12-11 2:16:19]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah fun
+[Feb 12-11 2:16:25]<Squire> Larry <knightsofvalor> am mapping them with Cmud
+[Feb 12-11 2:16:37]<Squire> Larry <knightsofvalor> I might be able to post copys of my maps some where
+[Feb 12-11 2:17:45]<Squire> Larry <knightsofvalor> not sure about trying to post the mountains tho, there are a few differnt levels
+[Feb 12-11 2:17:53]<Squire> Larry <knightsofvalor> and it would be heck trying to post them
+[Feb 12-11 2:23:52]<Master> Vian <knightsofvalor> %^BOLD%^alright%^RESET%^
+[Feb 12-11 2:23:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ hey
+[Feb 12-11 2:24:0]<Squire> Larry <knightsofvalor> never seen this befor
+[Feb 12-11 2:24:1]<Master> Vian <knightsofvalor> %^BOLD%^The basic hall is in game.%^RESET%^
+[Feb 12-11 2:24:14]<Master> Vian <knightsofvalor> %^BOLD%^It includes an entrance, a hall with a board, and a treasury.%^RESET%^
+[Feb 12-11 2:24:16]<Leader> Yun <knightsofvalor> %^YELLOW%^ cause your awesome
+[Feb 12-11 2:24:24]<Master> Vian <knightsofvalor> %^BOLD%^The descriptions are a little short%^RESET%^
+[Feb 12-11 2:24:25]<Master> Vian <knightsofvalor> %^BOLD%^and will be worked on ;p%^RESET%^
+[Feb 12-11 2:24:25]<Squire> Larry <knightsofvalor> thats wicked
+[Feb 12-11 2:24:28]<Master> Vian <knightsofvalor> %^BOLD%^but%^RESET%^
+[Feb 12-11 2:24:36]<Master> Vian <knightsofvalor> %^BOLD%^Note that you're gonna need to raise 1.5 million gold for what is here%^RESET%^
+[Feb 12-11 2:24:40]<Master> Vian <knightsofvalor> %^BOLD%^before you can start buying more addons%^RESET%^
+[Feb 12-11 2:24:48]<Squire> Larry <knightsofvalor> done, i can pay for that now if you want
+[Feb 12-11 2:24:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ no prob
+[Feb 12-11 2:25:0]<Master> Vian <knightsofvalor> %^BOLD%^It can be put in the treasury%^RESET%^
+[Feb 12-11 2:25:8]<Master> Vian <knightsofvalor> %^BOLD%^help guild addons contains prices for addons%^RESET%^
+[Feb 12-11 2:25:12]<Master> Vian <knightsofvalor> %^BOLD%^Each guild is allowed 1 special item%^RESET%^
+[Feb 12-11 2:25:18]<Leader> Yun <knightsofvalor> %^YELLOW%^ hey Larry dont think you should be paying for it all man
+[Feb 12-11 2:25:20]<Master> Vian <knightsofvalor> %^BOLD%^unique to the guild%^RESET%^
+[Feb 12-11 2:25:28]<Squire> Larry <knightsofvalor> Yun
+[Feb 12-11 2:25:34]<Squire> Larry <knightsofvalor> go to tirun square
+[Feb 12-11 2:25:36]<Master> Vian <knightsofvalor> %^BOLD%^for example, Darksoul has a mask which functions like Mage Robes, and Forsaken has a ring which functions like the small golden ring of healing%^RESET%^
+[Feb 12-11 2:25:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ k
+[Feb 12-11 2:25:54]<Leader> Yun <knightsofvalor> %^YELLOW%^ cause i have gold
+[Feb 12-11 2:25:58]<Squire> Larry <knightsofvalor> Yun you in tirun square?
+[Feb 12-11 2:25:58]<Master> Vian <knightsofvalor> %^BOLD%^These items are both stackable with the in game equivalents, and are the guilds special items, they were 3 million each%^RESET%^
+[Feb 12-11 2:25:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ oh V
+[Feb 12-11 2:26:6]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 12-11 2:26:10]<Master> Vian <knightsofvalor> %^BOLD%^honestly these descriptions I put in kinda suck :P%^RESET%^
+[Feb 12-11 2:26:12]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol i gotta get Yang in this guild
+[Feb 12-11 2:26:44]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo
+[Feb 12-11 2:27:4]<Master> Vian <knightsofvalor> %^BOLD%^special rooms like the alignment room will cost twice a regular room%^RESET%^
+[Feb 12-11 2:27:12]<Squire> Larry <knightsofvalor> Vian, i have a question
+[Feb 12-11 2:27:16]<Master> Vian <knightsofvalor> %^BOLD%^yep%^RESET%^
+[Feb 12-11 2:27:20]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 12-11 2:27:47]<Squire> Larry <knightsofvalor> Yun was talking about possable changes to guilds where they can be made unable to attack players and visa versa, is that true?
+[Feb 12-11 2:27:47]<Master> Vian <knightsofvalor> %^BOLD%^larry?%^RESET%^
+[Feb 12-11 2:28:9]<Master> Vian <knightsofvalor> %^BOLD%^Its a possibility%^RESET%^
+[Feb 12-11 2:28:14]<Master> Vian <knightsofvalor> %^BOLD%^I need to talk to Stormy and Nul about it at the same time%^RESET%^
+[Feb 12-11 2:28:46]<Squire> Larry <knightsofvalor> ok, its just going to ultimatly effect what i ened up doign on PD is all
+[Feb 12-11 2:29:15]<Squire> Larry <knightsofvalor> If it goes into play, ill be bringing back Orcha, if it dont happen ill prolly stick with this character
+[Feb 12-11 2:29:41]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 12-11 2:29:49]<Leader> Yun <knightsofvalor> %^YELLOW%^ sweet
+[Feb 12-11 2:29:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 12-11 2:30:5]<Squire> Larry <knightsofvalor> if its cool with you id like to be kept posted on that :p
+[Feb 12-11 2:30:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ stuck at door
+[Feb 12-11 2:31:35]<Master> Vian <knightsofvalor> %^BOLD%^i know the descs are crap%^RESET%^
+[Feb 12-11 2:31:41]<Master> Vian <knightsofvalor> %^BOLD%^i just wanted to get it in game%^RESET%^
+[Feb 12-11 2:33:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ hey Larry can you do me a fav and induct Yang? gonna up you for a sec
+[Feb 12-11 2:34:3]<Squire> Larry <knightsofvalor> ok
+[Feb 12-11 2:37:19]<Master> Vian <knightsofvalor> %^BOLD%^initial dues paid%^RESET%^
+[Feb 12-11 2:37:39]<Knight> Yang <knightsofvalor> kool
+[Feb 12-11 2:37:49]<Leader> Larry <knightsofvalor> awsome
+[Feb 12-11 2:40:41]<Master> Vian <knightsofvalor> %^BOLD%^so just for your mind%^RESET%^
+[Feb 12-11 2:41:49]<Master> Vian <knightsofvalor> %^BOLD%^a locker will be 1 million, the alignment room will be 400,000, and healing item shop will be 400,000 and a regular shop will also be 400,000.  a guard for the entrance will be 200,000%^RESET%^
+[Feb 12-11 2:42:1]<Master> Vian <knightsofvalor> %^BOLD%^a special item will be 3 million :P%^RESET%^
+[Feb 12-11 2:42:9]<Master> Vian <knightsofvalor> %^BOLD%^I was going to just build the whole hall and give it all to you for free%^RESET%^
+[Feb 12-11 2:42:13]<Master> Vian <knightsofvalor> %^BOLD%^but decided that wouldn't be fair%^RESET%^
+[Feb 12-11 2:42:57]<Council> Larry <knightsofvalor> Yun you still in Tirun square?
+[Feb 12-11 2:43:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ ill be there in a sec :)
+[Feb 12-11 2:43:25]<Master> Vian <knightsofvalor> %^BOLD%^larry you can come ot the hall%^RESET%^
+[Feb 12-11 2:43:33]<Council> Larry <knightsofvalor> am mapping :S
+[Feb 12-11 2:43:35]<Master> Vian <knightsofvalor> %^BOLD%^its northwest from the monastery%^RESET%^
+[Feb 12-11 2:43:43]<Leader> Yun <knightsofvalor> %^YELLOW%^ im here
+[Feb 12-11 2:45:11]<Council> Larry <knightsofvalor> that should help a bit
+[Feb 12-11 2:45:29]<Leader> Yun <knightsofvalor> %^YELLOW%^ that will help alot
+[Feb 12-11 2:46:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ thnx Larry, depositing now
+[Feb 12-11 2:46:9]<Knight> Vent <knightsofvalor> %^BOLD%^I'm depositing some too%^RESET%^
+[Feb 12-11 2:46:17]<Leader> Yun <knightsofvalor> %^YELLOW%^ woot thnx vent
+[Feb 12-11 2:46:43]<Council> Larry <knightsofvalor> roger
+[Feb 12-11 2:46:53]<Knight> Vent <knightsofvalor> %^BOLD%^i thought the 3 million i donated was a lot%^RESET%^
+[Feb 12-11 2:46:53]<Knight> Vent <knightsofvalor> %^BOLD%^jesus%^RESET%^
+[Feb 12-11 2:47:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 12-11 2:47:7]<Council> Larry <knightsofvalor> ^_^
+[Feb 12-11 2:47:9]<Leader> Yun <knightsofvalor> %^YELLOW%^ KoV thnx you both
+[Feb 12-11 2:47:27]<Council> Larry <knightsofvalor> I have more, but that donation will depend on what happens with guilds
+[Feb 12-11 2:47:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 12-11 2:47:56]<Leader> Yun <knightsofvalor> %^YELLOW%^ thol
+[Feb 12-11 2:47:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ bah miss
+[Feb 12-11 2:48:12]<Leader> Yun <knightsofvalor> %^YELLOW%^ wow
+[Feb 12-11 2:51:26]<Knight> Vent <knightsofvalor> %^BOLD%^I think a requirement of having knight in your title after level 20 would be cool%^RESET%^
+[Feb 12-11 2:51:40]<Knight> Vent <knightsofvalor> %^BOLD%^show uniformity%^RESET%^
+[Feb 12-11 2:52:4]<Knight> Vent <knightsofvalor> %^BOLD%^I want a ring of valor :P%^RESET%^
+[Feb 12-11 2:52:12]<Knight> Vent <knightsofvalor> %^BOLD%^just regular old item like Sash of Forsaken%^RESET%^
+[Feb 12-11 2:52:18]<Knight> Vent <knightsofvalor> %^BOLD%^something to show that im a KoV%^RESET%^
+[Feb 12-11 2:52:18]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 12-11 2:52:40]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah we should def have something that symbolizes our loyalty to the cause
+[Feb 12-11 2:52:52]<Knight> Vent <knightsofvalor> %^BOLD%^i vote for a ring so dragon can wear hehe%^RESET%^
+[Feb 12-11 2:53:4]<Leader> Yun <knightsofvalor> %^YELLOW%^ i second that
+[Feb 12-11 2:53:12]<knightsofvalor> Yun pokes Larry
+[Feb 12-11 2:53:24]<Council> Larry <knightsofvalor> sorry
+[Feb 12-11 2:53:24]<Knight> Vent <knightsofvalor> %^BOLD%^we gotta recruit Cyan%^RESET%^
+[Feb 12-11 2:53:34]<Council> Larry <knightsofvalor> i was haven a mapping issue lol
+[Feb 12-11 2:53:36]<Leader> Yun <knightsofvalor> %^YELLOW%^ wondering if he would leave forsaken
+[Feb 12-11 2:53:46]<Knight> Vent <knightsofvalor> %^BOLD%^I dont want to try to recruit too hard from forsaken%^RESET%^
+[Feb 12-11 2:54:2]<Knight> Vent <knightsofvalor> %^BOLD%^I feel like Ab already dislikes us enough just for existing %^RESET%^
+[Feb 12-11 2:54:14]<Council> Larry <knightsofvalor> ab?
+[Feb 12-11 2:54:20]<Knight> Vent <knightsofvalor> %^BOLD%^abraxas%^RESET%^
+[Feb 12-11 2:54:26]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol and im sure im not on his top 10
+[Feb 12-11 2:54:32]<Council> Larry <knightsofvalor> whys that
+[Feb 12-11 2:54:44]<Leader> Yun <knightsofvalor> %^YELLOW%^ he was mad when i left forsaken
+[Feb 12-11 2:54:54]<Leader> Yun <knightsofvalor> %^YELLOW%^ pretty bad timing i have to admit
+[Feb 12-11 2:54:58]<Council> Larry <knightsofvalor> ah ok
+[Feb 12-11 2:55:2]<Council> Larry <knightsofvalor> shit happens
+[Feb 12-11 2:55:6]<Leader> Yun <knightsofvalor> %^YELLOW%^ but what he was doing wasnt rite
+[Feb 12-11 2:55:14]<Leader> Yun <knightsofvalor> %^YELLOW%^ putting down V picking fights
+[Feb 12-11 2:55:16]<Council> Larry <knightsofvalor> what was happening?
+[Feb 12-11 2:55:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ picking fights with ppl, having to be rite all the time
+[Feb 12-11 2:55:58]<Council> Larry <knightsofvalor> oh hes like that normaly
+[Feb 12-11 2:56:8]<Council> Larry <knightsofvalor> he really really really pissed me off a while back, just ask VIan
+[Feb 12-11 2:56:18]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo?
+[Feb 12-11 2:56:22]<Council> Larry <knightsofvalor> Id like to think that my request to have all my stuff removed from that house was followed
+[Feb 12-11 2:57:6]<Council> Larry <knightsofvalor> yep, along with some other things, hes one of the reasons i bailed on Orcha and almost fully on PD
+[Feb 12-11 2:57:30]<Council> Larry <knightsofvalor> Hell, am sure he even bitches about his dragon
+[Feb 12-11 2:57:31]<Leader> Yun <knightsofvalor> %^YELLOW%^ ouch
+[Feb 12-11 2:57:37]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol
+[Feb 12-11 2:57:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ all the time
+[Feb 12-11 2:57:45]<Council> Larry <knightsofvalor> exactly
+[Feb 12-11 2:58:15]<Council> Larry <knightsofvalor> he just wants shit on a platter for nothing with no hardwork required
+[Feb 12-11 2:59:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ but yeah i couldnt handle it anymore, esp when he would talk about it on the guild line on forsaken
+[Feb 12-11 2:59:21]<Council> Larry <knightsofvalor> and then there was that shit dueing the event
+[Feb 12-11 2:59:27]<Council> Larry <knightsofvalor> BAH!
+[Feb 12-11 2:59:27]<Council> Larry <knightsofvalor> lol
+[Feb 12-11 2:59:29]<Knight> Vent <knightsofvalor> %^BOLD%^it will be :P  it hasnt yet%^RESET%^
+[Feb 12-11 2:59:33]<Knight> Vent <knightsofvalor> %^BOLD%^not just because Vian forgot about it%^RESET%^
+[Feb 12-11 2:59:37]<Knight> Vent <knightsofvalor> %^BOLD%^but because the fees were never paid%^RESET%^
+[Feb 12-11 2:59:57]<Council> Larry <knightsofvalor> meh either way its got to be done.
+[Feb 12-11 3:0:27]<Knight> Vent <knightsofvalor> %^BOLD%^and he gets too much crap for the event, that was all vian's fault%^RESET%^
+[Feb 12-11 3:1:17]<Council> Larry <knightsofvalor> *Shurgs*
+[Feb 12-11 3:1:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ you have to admit tho Abr gave V alot of crap even after V did all that stuff for him
+[Feb 12-11 3:1:55]<Knight> Vent <knightsofvalor> %^BOLD%^shrug, V is a big pushover%^RESET%^
+[Feb 12-11 3:1:57]<Council> Larry <knightsofvalor> if they put into force a fully nonpkable guild, then ill join that guild with my Dragon and ill be done with it all.
+[Feb 12-11 3:1:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ V was the only one to stand up for him during the event
+[Feb 12-11 3:2:49]<Knight> Vent <knightsofvalor> %^BOLD%^shrugs %^RESET%^
+[Feb 12-11 3:3:5]<Knight> Vent <knightsofvalor> %^BOLD%^well, I'mma watch a movie and fall asleep, I did way too much today and I'm super tired%^RESET%^
+[Feb 12-11 3:3:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ if that happens ill run with Yang more
+[Feb 12-11 3:3:15]<Council> Larry <knightsofvalor> *nods*
+[Feb 12-11 3:3:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 12-11 3:3:25]<Knight> Vent <knightsofvalor> %^BOLD%^I'm completely pooped ;P%^RESET%^
+[Feb 12-11 3:3:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ nite mini V
+[Feb 12-11 3:3:33]<Council> Larry <knightsofvalor> Orcha needs to beat Yangs stat total :p
+[Feb 12-11 3:3:33]<Knight> Vent <knightsofvalor> %^BOLD%^probably the reason V made such shitty descs for the guild%^RESET%^
+[Feb 12-11 3:3:41]<Knight> Vent <knightsofvalor> %^BOLD%^Im sure he'll work on them tomorrow when he's awake%^RESET%^
+[Feb 12-11 3:3:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ im sure Orcha has already
+[Feb 12-11 3:3:49]<Knight> Vent <knightsofvalor> %^BOLD%^My stat total is up to 169!%^RESET%^
+[Feb 12-11 3:3:53]<Knight> Vent <knightsofvalor> %^BOLD%^1 str from 50%^RESET%^
+[Feb 12-11 3:3:57]<Knight> Vent <knightsofvalor> %^BOLD%^and I still suck ;)%^RESET%^
+[Feb 12-11 3:4:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ woot
+[Feb 12-11 3:4:3]<Council> Larry <knightsofvalor> 206 stat total here
+[Feb 12-11 3:4:9]<Knight> Vent <knightsofvalor> %^BOLD%^49 25 25 30 20 20%^RESET%^
+[Feb 12-11 3:4:23]<Council> Larry <knightsofvalor> 30,58,70,25,9,14
+[Feb 12-11 3:4:23]<Knight> Vent <knightsofvalor> %^BOLD%^I need a really buff 34 to help me get to 50 :P%^RESET%^
+[Feb 12-11 3:4:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ i should work on my necro for ya
+[Feb 12-11 3:5:9]<Knight> Vent <knightsofvalor> %^BOLD%^or keep workin on Yun hehe, when I'm 50 we can do mass damage together ;)%^RESET%^
+[Feb 12-11 3:5:19]<Council> Larry <knightsofvalor> you all 50?
+[Feb 12-11 3:5:19]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 12-11 3:5:25]<Knight> Vent <knightsofvalor> %^BOLD%^oh stupid V%^RESET%^
+[Feb 12-11 3:5:31]<Knight> Vent <knightsofvalor> %^BOLD%^the dummie forgot to make the hall no_reset%^RESET%^
+[Feb 12-11 3:5:37]<Knight> Vent <knightsofvalor> %^BOLD%^so dropping items in it will reset when the room rests%^RESET%^
+[Feb 12-11 3:5:41]<Council> Larry <knightsofvalor> right, get this guild non attack stuff happening, so i can roll on ORch a:P ill make xp ull shit ur pants on :p
+[Feb 12-11 3:5:45]<Knight> Vent <knightsofvalor> %^BOLD%^i'm sure he'll fix that tomorrow%^RESET%^
+[Feb 12-11 3:5:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 12-11 3:6:9]<Knight> Vent <knightsofvalor> %^BOLD%^V talked to Nul about it, but gotta wait on Stormo%^RESET%^
+[Feb 12-11 3:6:19]<Council> Larry <knightsofvalor> roger
+[Feb 12-11 3:6:23]<Knight> Vent <knightsofvalor> %^BOLD%^I have a good feeling stormo will like the idea, so long as I don't call him Stormo%^RESET%^
+[Feb 12-11 3:6:29]<Council> Larry <knightsofvalor> rofl
+[Feb 12-11 3:6:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ hahaha
+[Feb 12-11 3:6:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ sounds like a pasta
+[Feb 12-11 3:6:53]<Council> Larry <knightsofvalor> i have lamost fully mapped Doraq maountains
+[Feb 12-11 3:6:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ bah even thinkin of food aint rite
+[Feb 12-11 3:7:7]<Knight> Vent <knightsofvalor> %^BOLD%^i dunno what to fall asleep watchin%^RESET%^
+[Feb 12-11 3:7:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ Vent
+[Feb 12-11 3:7:17]<Leader> Yun <knightsofvalor> %^YELLOW%^ watch RED
+[Feb 12-11 3:7:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ awesome movie
+[Feb 12-11 3:7:23]<Knight> Vent <knightsofvalor> %^BOLD%^seen it, don't have it saved%^RESET%^
+[Feb 12-11 3:7:31]<Leader> Yun <knightsofvalor> %^YELLOW%^ beter than Expendables
+[Feb 12-11 3:8:15]<Knight> Vent <knightsofvalor> %^BOLD%^hmm i'd do the lion king%^RESET%^
+[Feb 12-11 3:8:17]<Knight> Vent <knightsofvalor> %^BOLD%^but i won't want to sleep%^RESET%^
+[Feb 12-11 3:8:25]<Knight> Vent <knightsofvalor> %^BOLD%^i'll want to stay up through it :P%^RESET%^
+[Feb 12-11 3:8:45]<Knight> Vent <knightsofvalor> %^BOLD%^hm what level is orcha at%^RESET%^
+[Feb 12-11 3:8:45]<Leader> Yun <knightsofvalor> %^YELLOW%^ hrmm a disney show you thinkni bout?
+[Feb 12-11 3:9:1]<Council> Larry <knightsofvalor> i dont remember what level he is
+[Feb 12-11 3:9:3]<Knight> Vent <knightsofvalor> %^BOLD%^lemme paste what i have saved on my computer%^RESET%^
+[Feb 12-11 3:9:11]<Council> Larry <knightsofvalor> possably 55?
+[Feb 12-11 3:9:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ Orcha?
+[Feb 12-11 3:9:31]<Council> Larry <knightsofvalor> yeah
+[Feb 12-11 3:9:51]<Council> Larry <knightsofvalor> he can AOE in ZOlina
+[Feb 12-11 3:9:51]<Leader> Yun <knightsofvalor> %^YELLOW%^ i need to up my wizard
+[Feb 12-11 3:9:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ wow
+[Feb 12-11 3:10:15]<Leader> Yun <knightsofvalor> %^YELLOW%^ i can barely do FF :P
+[Feb 12-11 3:10:23]<Knight> Vent <knightsofvalor> %^BOLD%^13, 127 hours, aladdin, atonement, black swan, buried, burlesque, death race 2, devil, dirty dancing, dirty dancing 2, due date, eat pray love, eclipse, game of death, harry potter 6, harry potter 7, howl, i hope they serve beer in hell, legends of the guardians, love and other drugs, rabbit hole, saw 3d, say anything, skyline, somewhere, stone, the day after tomorrow, the fighter, the kings speech, the last airbender, the lion king, the little mermaid, the tourist, the town, tomorrow when the war began, twelve, ultramarines, unstoppable, wall street money never sleep,s wanted, wuthering heights%^RESET%^
+[Feb 12-11 3:10:27]<Knight> Vent <knightsofvalor> %^BOLD%^hehe%^RESET%^
+[Feb 12-11 3:10:33]<Council> Larry <knightsofvalor> i think hes at about 250+ int
+[Feb 12-11 3:10:45]<Leader> Yun <knightsofvalor> %^YELLOW%^ aww was gonna say if you had 23 youd be a sleep in a minute
+[Feb 12-11 3:10:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ nice
+[Feb 12-11 3:10:57]<Leader> Yun <knightsofvalor> %^YELLOW%^ how was buried?
+[Feb 12-11 3:11:7]<Knight> Vent <knightsofvalor> %^BOLD%^i liked it, but it was pretty terrible%^RESET%^
+[Feb 12-11 3:11:15]<Council> Larry <knightsofvalor> that movie is SHIT
+[Feb 12-11 3:11:21]<Council> Larry <knightsofvalor> the only good bit is the end
+[Feb 12-11 3:11:21]<Knight> Vent <knightsofvalor> %^BOLD%^hehehe i won't deny it%^RESET%^
+[Feb 12-11 3:11:25]<Knight> Vent <knightsofvalor> %^BOLD%^WHAT%^RESET%^
+[Feb 12-11 3:11:25]<Knight> Vent <knightsofvalor> %^BOLD%^i hated the end%^RESET%^
+[Feb 12-11 3:11:25]<Council> Larry <knightsofvalor> that had me SO devo
+[Feb 12-11 3:11:55]<Knight> Vent <knightsofvalor> %^BOLD%^i only liked it cause hes hot%^RESET%^
+[Feb 12-11 3:11:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ bah i migt rent it just 2 see it
+[Feb 12-11 3:11:59]<Knight> Vent <knightsofvalor> %^BOLD%^i'm gonna just do the lion king%^RESET%^
+[Feb 12-11 3:12:13]<Knight> Vent <knightsofvalor> %^BOLD%^i'll fall asleep pretty quick and it will give me good dreams :)  night%^RESET%^
+[Feb 12-11 3:12:33]<Knight> Vent <knightsofvalor> %^BOLD%^i'll decide between banking some xp and playing wow tomorrow%^RESET%^
+[Feb 12-11 3:12:34]<Knight> Vent <knightsofvalor> %^BOLD%^maybe i'll do a little of both%^RESET%^
+[Feb 12-11 3:12:42]<Knight> Vent <knightsofvalor> %^BOLD%^depending on whos on to party hehe %^RESET%^
+[Feb 12-11 3:12:46]<Council> Larry <knightsofvalor> i dunno what am mapping atm, but its great xp
+[Feb 12-11 3:14:8]<Knight> Vent <knightsofvalor> %^BOLD%^wish larry was on more at my time :p%^RESET%^
+[Feb 12-11 3:14:14]<Knight> Vent <knightsofvalor> %^BOLD%^he starts xpin when i start yawnin%^RESET%^
+[Feb 12-11 3:14:18]<Council> Larry <knightsofvalor> aww :(
+[Feb 12-11 3:14:44]<Council> Larry <knightsofvalor> well its tough being an aussie, tho i do get to miss out on seeing those dickheads that grace this place from time to time so i like that bit
+[Feb 12-11 3:14:56]<Knight> Vent <knightsofvalor> %^BOLD%^hehehe%^RESET%^
+[Feb 12-11 3:14:56]<Council> Larry <knightsofvalor> i do miss out on some xp mates tho, Uza normaly xps with me
+[Feb 12-11 3:15:14]<Knight> Vent <knightsofvalor> %^BOLD%^I used to xp with an aussie on Merentha all the time%^RESET%^
+[Feb 12-11 3:15:24]<Council> Larry <knightsofvalor> Uza was a bit cut up about Orcha leaving Darksoul
+[Feb 12-11 3:15:32]<Knight> Vent <knightsofvalor> %^BOLD%^I'd stay up til 4am exping with him, then when he woke up he'd exp with me at 2pm my time%^RESET%^
+[Feb 12-11 3:15:46]<Council> Larry <knightsofvalor> nice
+[Feb 12-11 3:16:28]<Knight> Vent <knightsofvalor> %^BOLD%^I'm leaving for real now though ;P  Night!!!%^RESET%^
+[Feb 12-11 3:16:34]<Council> Larry <knightsofvalor> nighty night
+[Feb 12-11 3:17:22]<Council> Larry <knightsofvalor> found Tenebrae so i can now speed walk to there :D
+[Feb 12-11 3:18:4]<Council> Larry <knightsofvalor> i think ill need more con/dex/str to xp there tho
+[Feb 12-11 3:18:28]<Council> Larry <knightsofvalor> Yun you still there?
+[Feb 12-11 3:18:40]<Council> Larry <knightsofvalor> I wa thinking about catalogging all the weapons and armour and items in PD
+[Feb 12-11 3:18:52]<Council> Larry <knightsofvalor> this client has a really powerful database thingie
+[Feb 12-11 3:19:8]<Leader> Yun <knightsofvalor> %^YELLOW%^ really? guess i should have bout Cmud 2
+[Feb 12-11 3:19:14]<Leader> Yun <knightsofvalor> %^YELLOW%^ sup bro whatcha need
+[Feb 12-11 3:19:34]<Council> Larry <knightsofvalor> oh nothing, i was just going to tell you about my thoughts on maken an Item database
+[Feb 12-11 3:19:54]<Council> Larry <knightsofvalor> we could put on it what items are good at what level etc etc
+[Feb 12-11 3:20:12]<Council> Larry <knightsofvalor> what items do what
+[Feb 12-11 3:20:14]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod nod
+[Feb 12-11 3:20:22]<Leader> Yun <knightsofvalor> %^YELLOW%^ hey btw how was the Prince of Persia?
+[Feb 12-11 3:20:28]<Council> Larry <knightsofvalor> meh so so
+[Feb 12-11 3:20:48]<Council> Larry <knightsofvalor> just another game-to-movie type thing
+[Feb 12-11 3:20:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ i can get it on insta on Netflix
+[Feb 12-11 3:20:56]<Leader> Yun <knightsofvalor> %^YELLOW%^ never liked the game
+[Feb 12-11 3:21:24]<Council> Larry <knightsofvalor> if you have nothiern better to watch it will do
+[Feb 12-11 3:21:26]<Leader> Yun <knightsofvalor> %^YELLOW%^ ooo dreamcacther
+[Feb 12-11 3:21:38]<Council> Larry <knightsofvalor> it wount leave a bad taste in your mouth, but you wont wrie home about it either
+[Feb 12-11 3:22:16]<Council> Larry <knightsofvalor> man this place ROCKS for my level
+[Feb 12-11 3:22:36]<Leader> Yun <knightsofvalor> %^YELLOW%^ wheres that?
+[Feb 12-11 3:22:40]<Leader> Yun <knightsofvalor> %^YELLOW%^ and what lvl
+[Feb 12-11 3:22:52]<Council> Larry <knightsofvalor> some where in the north easten area of the Daroq mountains. lvl19
+[Feb 12-11 3:23:8]<Leader> Yun <knightsofvalor> %^YELLOW%^ spiders?
+[Feb 12-11 3:23:12]<Council> Larry <knightsofvalor> fighting bears, boars, lions and wanderers and hunters
+[Feb 12-11 3:23:30]<Council> Larry <knightsofvalor> 7-24k per kill
+[Feb 12-11 3:23:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ not the desert is it?
+[Feb 12-11 3:23:46]<Council> Larry <knightsofvalor> i dont think so
+[Feb 12-11 3:23:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ wodden flails?
+[Feb 12-11 3:24:4]<Council> Larry <knightsofvalor> nopes
+[Feb 12-11 3:24:40]<Leader> Yun <knightsofvalor> %^YELLOW%^ i need to make me a notgher lvl 19 but not sure what to make
+[Feb 12-11 3:24:46]<Leader> Yun <knightsofvalor> %^YELLOW%^ something i can stat
+[Feb 12-11 3:24:56]<Council> Larry <knightsofvalor> thats what am doing atm
+[Feb 12-11 3:25:14]<Council> Larry <knightsofvalor> made a zerker cause of the bonus to attack skill
+[Feb 12-11 3:25:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah zerkers are pretty nice at low lvl
+[Feb 12-11 3:25:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ once 30 get 4 of the arlon warhawks. more paras
+[Feb 12-11 3:26:0]<Council> Larry <knightsofvalor> am Puca
+[Feb 12-11 3:26:4]<Leader> Yun <knightsofvalor> %^YELLOW%^ with raknid i mean
+[Feb 12-11 3:26:6]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 12-11 3:26:14]<Council> Larry <knightsofvalor> nods
+[Feb 12-11 3:27:12]<Leader> Yun <knightsofvalor> %^YELLOW%^ whats not skill/lvl based and i can stat at lvl 19
+[Feb 12-11 3:27:24]<Council> Larry <knightsofvalor> found lodos
+[Feb 12-11 3:27:31]<Leader> Yun <knightsofvalor> %^YELLOW%^ pally?
+[Feb 12-11 3:27:32]<Council> Larry <knightsofvalor> can now speed walk to lodos
+[Feb 12-11 3:27:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 12-11 3:27:36]<Council> Larry <knightsofvalor> umm
+[Feb 12-11 3:27:40]<Council> Larry <knightsofvalor> Monk?
+[Feb 12-11 3:27:48]<Council> Larry <knightsofvalor> not sure if they get anything at low levels
+[Feb 12-11 3:27:56]<Council> Larry <knightsofvalor> but they are all about the Str
+[Feb 12-11 3:28:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe i have akuma :P
+[Feb 12-11 3:29:16]<Leader> Yun <knightsofvalor> %^YELLOW%^ never went past 5 tho
+[Feb 12-11 3:29:38]<Council> Larry <knightsofvalor> humm
+[Feb 12-11 3:30:14]<Council> Larry <knightsofvalor> Ranger?
+[Feb 12-11 3:33:10]<Council> Larry <knightsofvalor> whoot 60 con :D
+[Feb 12-11 3:33:24]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe nice
+[Feb 12-11 3:59:24]<Council> Larry <knightsofvalor> am off mate
+[Feb 12-11 3:59:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 12-11 3:59:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ laterz dude
+[Feb 12-11 3:59:38]<Council> Larry <knightsofvalor> mapped all of south forest from ldoos
+[Feb 12-11 3:59:42]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol wow
+[Feb 12-11 3:59:52]<Leader> Yun <knightsofvalor> %^YELLOW%^ thnx for the contribution again
+[Feb 12-11 4:0:8]<Council> Larry <knightsofvalor> theres more to come if the Guild laws change
+[Feb 12-11 4:0:24]<Council> Larry <knightsofvalor> will need a bigger vault :p
+[Feb 12-11 4:0:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol
+[Feb 12-11 4:0:34]<Council> Larry <knightsofvalor> misuss is calling me i gotta head off
+[Feb 12-11 4:0:38]<Council> Larry <knightsofvalor> thatnks for the guild invite :D
+[Feb 12-11 4:0:42]<Council> Larry <knightsofvalor> ttyl mate
+[Feb 12-11 4:0:46]<Leader> Yun <knightsofvalor> %^YELLOW%^ course dude
+[Feb 12-11 4:0:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ laterz man
+[Feb 12-11 23:47:56]<Council> Larry <knightsofvalor> Ello Vent
+[Feb 13-11 2:6:39]<Council> Larry <knightsofvalor> Tirun forest is really badly designed
+[Feb 13-11 2:30:52]<Council> Larry <knightsofvalor> Some of the rooms have bad connections, doubbling back on them selfs and rooms with exits leading to rooms that dont connect with them.
+[Feb 13-11 15:10:9]<Knight> Vent <knightsofvalor> %^BOLD%^yangers!%^RESET%^
+[Feb 13-11 15:10:13]<Knight> Yang <knightsofvalor> hey Vent
+[Feb 13-11 15:17:33]<Knight> Vent <knightsofvalor> %^BOLD%^lol%^RESET%^
+[Feb 13-11 15:17:54]<Knight> Vent <knightsofvalor> %^BOLD%^thaedrin is complaining to me about putting in Knights of Valor instead of putting blacksails back in..%^RESET%^
+[Feb 13-11 15:18:4]<Knight> Vent <knightsofvalor> %^BOLD%^I just keep saying "I'm sorry you don't like my decisions." and he keeps complaining%^RESET%^
+[Feb 13-11 15:18:5]<Knight> Yang <knightsofvalor> BS?
+[Feb 13-11 15:18:12]<Knight> Vent <knightsofvalor> %^BOLD%^yeah%^RESET%^
+[Feb 13-11 15:18:15]<Knight> Yang <knightsofvalor> why does he want BS back in
+[Feb 13-11 15:18:23]<Knight> Vent <knightsofvalor> %^BOLD%^i dunno%^RESET%^
+[Feb 13-11 15:19:50]<Master> Vian <knightsofvalor> %^BOLD%^lets get some stuff in?%^RESET%^
+[Feb 13-11 15:20:2]<Knight> Yang <knightsofvalor> sweet
+[Feb 13-11 15:20:16]<Knight> Yang <knightsofvalor> k where should we start
+[Feb 13-11 15:20:52]<Master> Vian <knightsofvalor> %^BOLD%^you want um%^RESET%^
+[Feb 13-11 15:21:2]<Master> Vian <knightsofvalor> %^BOLD%^the alignment pool room%^RESET%^
+[Feb 13-11 15:21:20]<Knight> Yang <knightsofvalor> k
+[Feb 13-11 15:21:38]<Master> Vian <knightsofvalor> %^BOLD%^do you want to bother with an oil/stone shop?%^RESET%^
+[Feb 13-11 15:21:40]<Master> Vian <knightsofvalor> %^BOLD%^most people use heads/paws :P%^RESET%^
+[Feb 13-11 15:21:46]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 15:21:56]<Master> Vian <knightsofvalor> %^BOLD%^i mean its only 400k gold and is kinda neat%^RESET%^
+[Feb 13-11 15:21:58]<Master> Vian <knightsofvalor> %^BOLD%^but who really uses them%^RESET%^
+[Feb 13-11 15:22:2]<Knight> Yang <knightsofvalor> no need for oil/stones atm
+[Feb 13-11 15:22:8]<Knight> Yang <knightsofvalor> if not we can add on later
+[Feb 13-11 15:22:14]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:23:43]<Knight> Yang <knightsofvalor> think in the descript we could have a holy beam of light shines from the ceiling onto the well/pool
+[Feb 13-11 15:23:55]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:24:15]<Knight> Yang <knightsofvalor> the light glistens off the water expelling its purity
+[Feb 13-11 15:25:1]<Knight> Yang <knightsofvalor> have to ascend in lodos tower to get to mage hall
+[Feb 13-11 15:25:13]<Knight> Yang <knightsofvalor> not mage hall
+[Feb 13-11 15:25:15]<Knight> Yang <knightsofvalor> lol
+[Feb 13-11 15:26:31]<Master> Vian <knightsofvalor> %^BOLD%^do you want it to be like angel hall where theres a room that you "wade" in to move into the pool?%^RESET%^
+[Feb 13-11 15:27:5]<Knight> Yang <knightsofvalor> kool but instead of wade can we repent sins or something
+[Feb 13-11 15:27:17]<Master> Vian <knightsofvalor> %^BOLD%^well theres no command to make it happen%^RESET%^
+[Feb 13-11 15:27:21]<Master> Vian <knightsofvalor> %^BOLD%^the command is to enter the water%^RESET%^
+[Feb 13-11 15:27:27]<Master> Vian <knightsofvalor> %^BOLD%^once oyure in the water it moves you to a new room%^RESET%^
+[Feb 13-11 15:27:33]<Master> Vian <knightsofvalor> %^BOLD%^where it does the alignment thing%^RESET%^
+[Feb 13-11 15:27:51]<Master> Vian <knightsofvalor> %^BOLD%^but if you want the command repent sins to make you jump into the pool%^RESET%^
+[Feb 13-11 15:27:53]<Master> Vian <knightsofvalor> %^BOLD%^that works%^RESET%^
+[Feb 13-11 15:28:3]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 15:28:13]<Knight> Yang <knightsofvalor> just wanted it to be different from the angel hall
+[Feb 13-11 15:28:15]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:28:25]<Master> Vian <knightsofvalor> %^BOLD%^what exit from this room?%^RESET%^
+[Feb 13-11 15:28:27]<Knight> Yang <knightsofvalor> want ppl to know that V is unique! :)
+[Feb 13-11 15:31:51]<Knight> Yang <knightsofvalor> making my wife go do the test again
+[Feb 13-11 15:32:7]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:34:33]<Knight> Yang <knightsofvalor> switching
+[Feb 13-11 15:38:29]<Master> Vian <knightsofvalor> %^BOLD%^having trouble with the repent sins syntax%^RESET%^
+[Feb 13-11 15:39:3]<Leader> Yun <knightsofvalor> %^YELLOW%^ hrmm
+[Feb 13-11 15:39:11]<Leader> Yun <knightsofvalor> %^YELLOW%^ should we try something else?
+[Feb 13-11 15:40:43]<Master> Vian <knightsofvalor> %^BOLD%^got the pool room in%^RESET%^
+[Feb 13-11 15:40:45]<Leader> Yun <knightsofvalor> %^YELLOW%^ err positive again
+[Feb 13-11 15:40:53]<Leader> Yun <knightsofvalor> %^YELLOW%^ light but positive
+[Feb 13-11 15:41:25]<Master> Vian <knightsofvalor> %^BOLD%^Well then, congratulations :P%^RESET%^
+[Feb 13-11 15:41:29]<Leader> Yun <knightsofvalor> %^YELLOW%^ woot
+[Feb 13-11 15:41:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ haha
+[Feb 13-11 15:41:37]<Master> Vian <knightsofvalor> %^BOLD%^disney can wait ;P%^RESET%^
+[Feb 13-11 15:41:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ happy but no disney
+[Feb 13-11 15:41:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ gotta break it to my son
+[Feb 13-11 15:42:1]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:42:5]<Master> Vian <knightsofvalor> %^BOLD%^probably want a locker%^RESET%^
+[Feb 13-11 15:42:9]<Master> Vian <knightsofvalor> %^BOLD%^want that down from the treasury?%^RESET%^
+[Feb 13-11 15:42:43]<Leader> Yun <knightsofvalor> %^YELLOW%^ oh yeah that wold be kool
+[Feb 13-11 15:44:19]<Master> Vian <knightsofvalor> %^BOLD%^took 400k for the pool btw%^RESET%^
+[Feb 13-11 15:44:25]<Leader> Yun <knightsofvalor> %^YELLOW%^ kool
+[Feb 13-11 15:44:35]<Leader> Yun <knightsofvalor> %^YELLOW%^ tax write off
+[Feb 13-11 15:44:37]<Master> Vian <knightsofvalor> %^BOLD%^hehe%^RESET%^
+[Feb 13-11 15:44:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ dude kinda excited
+[Feb 13-11 15:44:41]<Master> Vian <knightsofvalor> %^BOLD%^you got some good donators though%^RESET%^
+[Feb 13-11 15:44:45]<Master> Vian <knightsofvalor> %^BOLD%^so might as well spend it and make a sweet guild%^RESET%^
+[Feb 13-11 15:45:5]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 13-11 15:45:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah so far i have awesome ppl
+[Feb 13-11 15:46:25]<Master> Vian <knightsofvalor> %^BOLD%^lol storage rooms are always super boring%^RESET%^
+[Feb 13-11 15:47:55]<Master> Vian <knightsofvalor> %^BOLD%^the storage wont work until nul fixes it, so i'm not putting the room in yet%^RESET%^
+[Feb 13-11 15:47:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ okie
+[Feb 13-11 15:48:7]<Master> Vian <knightsofvalor> %^BOLD%^but um%^RESET%^
+[Feb 13-11 15:48:13]<Master> Vian <knightsofvalor> %^BOLD%^it is ready to be put in%^RESET%^
+[Feb 13-11 15:48:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ talking to Thaedrin, making peacefull like
+[Feb 13-11 15:48:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ luuuuuuuuuuuvvvv u Vian
+[Feb 13-11 15:48:43]<Master> Vian <knightsofvalor> %^BOLD%^hehe%^RESET%^
+[Feb 13-11 15:48:47]<Master> Vian <knightsofvalor> %^BOLD%^thanks%^RESET%^
+[Feb 13-11 15:49:1]<Master> Vian <knightsofvalor> %^BOLD%^I just dont get complaining%^RESET%^
+[Feb 13-11 15:49:11]<Master> Vian <knightsofvalor> %^BOLD%^I'm sorry I couldn't put in a 4th evil guild%^RESET%^
+[Feb 13-11 15:49:23]<Master> Vian <knightsofvalor> %^BOLD%^sorry some people don't like to play like assholes %^RESET%^
+[Feb 13-11 15:49:29]<Master> Vian <knightsofvalor> %^BOLD%^*shakes*%^RESET%^
+[Feb 13-11 15:49:59]<Master> Vian <knightsofvalor> %^BOLD%^taking the money for the storage now though%^RESET%^
+[Feb 13-11 15:50:1]<Master> Vian <knightsofvalor> %^BOLD%^:P%^RESET%^
+[Feb 13-11 15:50:5]<Master> Vian <knightsofvalor> %^BOLD%^i'm greedy for gold%^RESET%^
+[Feb 13-11 15:50:21]<Leader> Yun <knightsofvalor> %^YELLOW%^ sorry called my sister to let her know bout the positive test
+[Feb 13-11 15:50:25]<Leader> Yun <knightsofvalor> %^YELLOW%^ take it all !
+[Feb 13-11 15:50:45]<Leader> Yun <knightsofvalor> %^YELLOW%^ yea 4 evil guilds wouldnt be smert
+[Feb 13-11 15:50:47]<Master> Vian <knightsofvalor> %^BOLD%^so%^RESET%^
+[Feb 13-11 15:50:53]<Master> Vian <knightsofvalor> %^BOLD%^the things you said you wanted and still need are%^RESET%^
+[Feb 13-11 15:50:53]<Leader> Yun <knightsofvalor> %^YELLOW%^ need a balance
+[Feb 13-11 15:50:59]<Master> Vian <knightsofvalor> %^BOLD%^scry pool, if you want a scry pool%^RESET%^
+[Feb 13-11 15:51:3]<Master> Vian <knightsofvalor> %^BOLD%^you were indecisive about that one%^RESET%^
+[Feb 13-11 15:51:7]<Master> Vian <knightsofvalor> %^BOLD%^a paladin guard for the entrance%^RESET%^
+[Feb 13-11 15:51:13]<Master> Vian <knightsofvalor> %^BOLD%^and a shop with a little gear%^RESET%^
+[Feb 13-11 15:51:39]<Leader> Yun <knightsofvalor> %^YELLOW%^ yeah i thought about the pool thing, it would be good if we just had it just in case
+[Feb 13-11 15:51:43]<Master> Vian <knightsofvalor> %^BOLD%^maybe a training hall?%^RESET%^
+[Feb 13-11 15:51:57]<Master> Vian <knightsofvalor> %^BOLD%^i wouldnt make you get one for ever class like amun hehe%^RESET%^
+[Feb 13-11 15:51:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ if a noob got lost we could help them out
+[Feb 13-11 15:52:5]<Master> Vian <knightsofvalor> %^BOLD%^it would be like the arlon training hall, anyone can train%^RESET%^
+[Feb 13-11 15:52:7]<Leader> Yun <knightsofvalor> %^YELLOW%^ woot
+[Feb 13-11 15:52:9]<Leader> Yun <knightsofvalor> %^YELLOW%^ sweeeet
+[Feb 13-11 15:52:9]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 15:52:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ was just thinking about adventurer hall
+[Feb 13-11 15:52:25]<Master> Vian <knightsofvalor> %^BOLD%^do you want to start working on a couple items?%^RESET%^
+[Feb 13-11 15:52:35]<Master> Vian <knightsofvalor> %^BOLD%^maybe we'll start with a backpack item, and a ring%^RESET%^
+[Feb 13-11 15:52:41]<Master> Vian <knightsofvalor> %^BOLD%^and you can think about the special item you'll get?%^RESET%^
+[Feb 13-11 15:52:45]<Master> Vian <knightsofvalor> %^BOLD%^brb smokebreak%^RESET%^
+[Feb 13-11 15:52:47]<Leader> Yun <knightsofvalor> %^YELLOW%^ k
+[Feb 13-11 15:52:51]<Master> Vian <knightsofvalor> %^BOLD%^ill just bring my comp%^RESET%^
+[Feb 13-11 15:52:59]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 13-11 15:54:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ leather pack, look like it was made for traveling wandering
+[Feb 13-11 15:55:28]<Leader> Yun <knightsofvalor> %^YELLOW%^ uh oh another one
+[Feb 13-11 16:12:8]<Leader> Yun <knightsofvalor> %^YELLOW%^ think i convinced Tha to go angel and told him how great this guild is going to be
+[Feb 13-11 16:12:16]<Master> Vian <knightsofvalor> %^BOLD%^nice%^RESET%^
+[Feb 13-11 16:12:54]<Leader> Yun <knightsofvalor> %^YELLOW%^ told him that you have alot in store for this place, and that you have something that PD hasnt seen yet, may change guilds all together
+[Feb 13-11 16:20:2]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe you know whats funny V every great person was made even greater by a bunch of dickheads
+[Feb 13-11 16:20:14]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 16:20:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ thats what make ppl legends i guess ;)
+[Feb 13-11 16:20:44]<Master> Vian <knightsofvalor> %^BOLD%^from the ashes of your old guild comes a better one :)%^RESET%^
+[Feb 13-11 16:20:52]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe :)
+[Feb 13-11 16:20:56]<Leader> Yun <knightsofvalor> %^YELLOW%^ well i was talkin bout you man
+[Feb 13-11 16:21:2]<Leader> Yun <knightsofvalor> %^YELLOW%^ ppl always dick you around
+[Feb 13-11 16:21:6]<Master> Vian <knightsofvalor> %^BOLD%^and i was returning the compliment hehe%^RESET%^
+[Feb 13-11 16:21:10]<Leader> Yun <knightsofvalor> %^YELLOW%^ oh
+[Feb 13-11 16:21:18]<Leader> Yun <knightsofvalor> %^YELLOW%^ :)
+[Feb 13-11 16:21:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ switching
+[Feb 13-11 16:21:34]<Master> Vian <knightsofvalor> %^BOLD%^i think you can permanently change pd for the better%^RESET%^
+[Feb 13-11 16:21:58]<Knight> Yang <knightsofvalor> well def couldnt do any of that without you bro
+[Feb 13-11 16:23:12]<Knight> Yang <knightsofvalor> haha your the one changing it man, you got the Astronomical Imm power!
+[Feb 13-11 16:23:22]<Master> Vian <knightsofvalor> %^BOLD%^itll be a group efford%^RESET%^
+[Feb 13-11 16:30:17]<Master> Vian <knightsofvalor> %^BOLD%^I personally have no problem with Thaedrin playing Drizzt%^RESET%^
+[Feb 13-11 16:30:23]<Master> Vian <knightsofvalor> %^BOLD%^My only problem is Demons%^RESET%^
+[Feb 13-11 16:30:27]<Master> Vian <knightsofvalor> %^BOLD%^my main problem%^RESET%^
+[Feb 13-11 16:30:29]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 16:30:33]<Master> Vian <knightsofvalor> %^BOLD%^I'd prefer to not have assassins/necromancers/etc%^RESET%^
+[Feb 13-11 16:30:43]<Knight> Yang <knightsofvalor> which totally makes sense
+[Feb 13-11 16:30:51]<Master> Vian <knightsofvalor> %^BOLD%^if you want%^RESET%^
+[Feb 13-11 16:30:53]<Master> Vian <knightsofvalor> %^BOLD%^I can add Thaedrin for you%^RESET%^
+[Feb 13-11 16:30:59]<Master> Vian <knightsofvalor> %^BOLD%^so you dont have to switch%^RESET%^
+[Feb 13-11 16:31:1]<Master> Vian <knightsofvalor> %^BOLD%^if youll allow him%^RESET%^
+[Feb 13-11 16:31:31]<Knight> Yang <knightsofvalor> ehh
+[Feb 13-11 16:31:41]<Master> Vian <knightsofvalor> %^BOLD%^He has a past, its true%^RESET%^
+[Feb 13-11 16:31:47]<Master> Vian <knightsofvalor> %^BOLD%^but if he's willing to have a different future%^RESET%^
+[Feb 13-11 16:31:53]<Knight> Yang <knightsofvalor> yeah no he is def kool
+[Feb 13-11 16:31:59]<Master> Vian <knightsofvalor> %^BOLD%^I mean%^RESET%^
+[Feb 13-11 16:32:3]<Master> Vian <knightsofvalor> %^BOLD%^I've seem him flip out way too many times%^RESET%^
+[Feb 13-11 16:32:3]<Knight> Yang <knightsofvalor> he helped me back when too
+[Feb 13-11 16:32:39]<Master> Vian <knightsofvalor> %^BOLD%^hes pretty into it though, just said he'd be willing to do a description/char history etc%^RESET%^
+[Feb 13-11 16:32:45]<Master> Vian <knightsofvalor> %^BOLD%^He at least changed my mind on banning drow haha%^RESET%^
+[Feb 13-11 16:32:47]<Knight> Yang <knightsofvalor> wow
+[Feb 13-11 16:32:49]<Master> Vian <knightsofvalor> %^BOLD%^from here its your decision%^RESET%^
+[Feb 13-11 16:33:9]<Master> Vian <knightsofvalor> %^BOLD%^but no demons%^RESET%^
+[Feb 13-11 16:33:15]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 16:34:1]<Knight> Yang <knightsofvalor> Tha is kool and id like to add him in i think past is past and he will do great here, i just wanna make sure that your kool with it V
+[Feb 13-11 16:34:5]<Master> Vian <knightsofvalor> %^BOLD%^nod%^RESET%^
+[Feb 13-11 16:34:9]<Knight> Yang <knightsofvalor> spaming
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:11]<Knight> Yang <knightsofvalor> .
+[Feb 13-11 16:34:15]<Knight> Yang <knightsofvalor> clearing
+[Feb 13-11 16:35:25]<knightsofvalor> Thaedrin bows before Yang.
+[Feb 13-11 16:35:33]<Knight> Yang <knightsofvalor> woot
+[Feb 13-11 16:35:35]<knightsofvalor> Yang bows
+[Feb 13-11 16:35:55]<Knight> Yang <knightsofvalor> mount
+[Feb 13-11 16:36:9]<Squire> Thaedrin <knightsofvalor> Going to work on inking down my past... it wasn't pretty but it has shaped me :)
+[Feb 13-11 16:37:9]<Master> Vian <knightsofvalor> %^BOLD%^Those who fall climb back up and brighter they shine in those about them. %^RESET%^
+[Feb 13-11 16:37:25]<Knight> Yang <knightsofvalor> :)
+[Feb 13-11 16:37:33]<Master> Vian <knightsofvalor> %^BOLD%^thats a drizzt quote ;p%^RESET%^
+[Feb 13-11 16:37:43]<Knight> Yang <knightsofvalor> ooo
+[Feb 13-11 16:37:51]<Knight> Yang <knightsofvalor> English major :P
+[Feb 13-11 16:37:59]<Master> Vian <knightsofvalor> %^BOLD%^Drizzt do Urden%^RESET%^
+[Feb 13-11 16:38:1]<Master> Vian <knightsofvalor> %^BOLD%^more like fantasy major%^RESET%^
+[Feb 13-11 16:39:46]<Knight> Yang <knightsofvalor> hehe V thought of it all man
+[Feb 13-11 16:39:54]<Squire> Thaedrin <knightsofvalor> neat :)
+[Feb 13-11 16:39:58]<Master> Vian <knightsofvalor> %^BOLD%^Oh I was thinking%^RESET%^
+[Feb 13-11 16:40:4]<Master> Vian <knightsofvalor> %^BOLD%^necromancers have a corpse finding ability right?%^RESET%^
+[Feb 13-11 16:40:6]<Knight> Yang <knightsofvalor> see he hasnt stopped thinking since
+[Feb 13-11 16:40:10]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 16:40:12]<Squire> Thaedrin <knightsofvalor> gravescent
+[Feb 13-11 16:40:14]<Knight> Yang <knightsofvalor> ooo here it comes
+[Feb 13-11 16:40:16]<Knight> Yang <knightsofvalor> wait for it
+[Feb 13-11 16:40:22]<Master> Vian <knightsofvalor> %^BOLD%^I'm gonna see if I can apply that to a scry pool type thing%^RESET%^
+[Feb 13-11 16:40:26]<Master> Vian <knightsofvalor> %^BOLD%^so you could help people get their corpses%^RESET%^
+[Feb 13-11 16:40:28]<Knight> Yang <knightsofvalor> aww nice
+[Feb 13-11 16:40:40]<Knight> Yang <knightsofvalor> i luv that idea
+[Feb 13-11 16:40:50]<Master> Vian <knightsofvalor> %^BOLD%^that wont be something I put in yet tho%^RESET%^
+[Feb 13-11 16:40:54]<Master> Vian <knightsofvalor> %^BOLD%^gonna take me a while to make :P%^RESET%^
+[Feb 13-11 16:40:54]<Squire> Thaedrin <knightsofvalor> if only I could teleport corpse :) but yea good idea
+[Feb 13-11 16:41:2]<Knight> Yang <knightsofvalor> hehe
+[Feb 13-11 16:41:16]<Knight> Yang <knightsofvalor> telling ya Thaedrin hes been like this since the guild opened
+[Feb 13-11 16:41:22]<Master> Vian <knightsofvalor> %^BOLD%^of course if it is abused it will be removed :P%^RESET%^
+[Feb 13-11 16:41:22]<Knight> Yang <knightsofvalor> rippin out ideas and stuff
+[Feb 13-11 16:41:38]<knightsofvalor> Thaedrin nods
+[Feb 13-11 16:41:50]<Master> Vian <knightsofvalor> %^BOLD%^but anyway you said you thought of it all%^RESET%^
+[Feb 13-11 16:41:52]<Master> Vian <knightsofvalor> %^BOLD%^items?%^RESET%^
+[Feb 13-11 16:42:8]<Squire> Thaedrin <knightsofvalor> %^CYAN%^hrm
+[Feb 13-11 16:42:12]<Squire> Thaedrin <knightsofvalor> %^CYAN%^ok it works
+[Feb 13-11 16:42:32]<Knight> Yang <knightsofvalor> k so the ring would we be able to have the ranks on it?
+[Feb 13-11 16:42:56]<Master> Vian <knightsofvalor> %^BOLD%^possibly hehe%^RESET%^
+[Feb 13-11 16:43:14]<Knight> Yang <knightsofvalor> Thaedrin dont be afraid to throw some ideas bro
+[Feb 13-11 16:43:26]<Master> Vian <knightsofvalor> %^BOLD%^it would be a coding experiment too :P%^RESET%^
+[Feb 13-11 16:43:32]<Knight> Yang <knightsofvalor> personally i need help with that creativity stuff
+[Feb 13-11 16:43:40]<Knight> Yang <knightsofvalor> :)
+[Feb 13-11 16:43:52]<Squire> Thaedrin <knightsofvalor> I am pretty good at thinking of stuff but not when I'm on the spot
+[Feb 13-11 16:43:58]<Knight> Yang <knightsofvalor> hehe
+[Feb 13-11 16:44:42]<Knight> Yang <knightsofvalor> k just throwing this out there
+[Feb 13-11 16:45:14]<Master> Vian <knightsofvalor> %^BOLD%^i'm listenin ;p%^RESET%^
+[Feb 13-11 16:45:46]<Squire> Thaedrin <knightsofvalor> I'm thinking we could craft an eq list. A detailed list for each statting range... 19s....30s....50s
+[Feb 13-11 16:45:48]<Knight> Yang <knightsofvalor> bah almost had it, was thining about a regen type of ring but if it someway could affect another
+[Feb 13-11 16:46:8]<Squire> Thaedrin <knightsofvalor> %^CYAN%^and we could display which items should be sought after
+[Feb 13-11 16:46:28]<Squire> Thaedrin <knightsofvalor> %^CYAN%^would give newbs an idea of what to look for :)
+[Feb 13-11 16:46:46]<Master> Vian <knightsofvalor> %^BOLD%^ya'll could make a website hehe%^RESET%^
+[Feb 13-11 16:46:50]<Master> Vian <knightsofvalor> %^BOLD%^with Larry mapping out PD, could put maps on it too%^RESET%^
+[Feb 13-11 16:47:2]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod
+[Feb 13-11 16:47:12]<Squire> Thaedrin <knightsofvalor> %^CYAN%^oh oh
+[Feb 13-11 16:47:18]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I could run around areas using compel
+[Feb 13-11 16:47:30]<Squire> Thaedrin <knightsofvalor> %^CYAN%^creating detailed lists of mob vitals and spells/abils
+[Feb 13-11 16:47:46]<Knight> Yang <knightsofvalor> hey V what are the limitations of a guild item?
+[Feb 13-11 16:47:56]<Master> Vian <knightsofvalor> %^BOLD%^throw an idea for one and I'll elt you know if its okay%^RESET%^
+[Feb 13-11 16:48:8]<Master> Vian <knightsofvalor> %^BOLD%^For examples, Forsaken has a small golden ring replica, and Darksoul has a mages robes replica%^RESET%^
+[Feb 13-11 16:48:40]<Knight> Yang <knightsofvalor> oo
+[Feb 13-11 16:48:44]<Knight> Yang <knightsofvalor> just read that Thaedrin
+[Feb 13-11 16:48:52]<Knight> Yang <knightsofvalor> thatd be a hudge list bro
+[Feb 13-11 16:48:58]<Squire> Thaedrin <knightsofvalor> %^CYAN%^darkblade replica that we can use without feeling tainted
+[Feb 13-11 16:49:48]<Master> Vian <knightsofvalor> %^BOLD%^there will be custom armour/weapons eventually that follow a formula for all guilds%^RESET%^
+[Feb 13-11 16:49:56]<Knight> Yang <knightsofvalor> thing with the weapons is that they would be capped, was thinking bout an armour that could be worn by everyone
+[Feb 13-11 16:50:10]<Master> Vian <knightsofvalor> %^BOLD%^the special item is kinda different%^RESET%^
+[Feb 13-11 16:50:12]<Knight> Yang <knightsofvalor> with forsaken their ring can be worn with a gold ring making it twice as awesome
+[Feb 13-11 16:50:27]<Master> Vian <knightsofvalor> %^BOLD%^for example the mask of darksoul can be worn by anyone, including dragons, and stacks with mage robes%^RESET%^
+[Feb 13-11 16:50:46]<Knight> Yang <knightsofvalor> was thinking necklace
+[Feb 13-11 16:50:51]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I think it only can be worn by darksoul, Baine said the mask was unwearable
+[Feb 13-11 16:51:6]<Master> Vian <knightsofvalor> %^BOLD%^they'll only be wearable by the guild that owns them soon%^RESET%^
+[Feb 13-11 16:51:20]<Squire> Thaedrin <knightsofvalor> %^CYAN%^A necklace would be cool. We dont have to worry about anyone choosing to wear guild necklace over amulet of the netherdemon
+[Feb 13-11 16:51:22]<Master> Vian <knightsofvalor> %^BOLD%^but the mask is unwearable for dragon because nul changed armour daemon and how overriding items so dragons can wear them works%^RESET%^
+[Feb 13-11 16:51:46]<Knight> Yang <knightsofvalor> only thing is ppl that use crystal because of the amulet
+[Feb 13-11 16:51:52]<Knight> Yang <knightsofvalor> unless we do earrings
+[Feb 13-11 16:52:6]<Squire> Thaedrin <knightsofvalor> %^CYAN%^you dont have to wear all of crystal armor to have it crystal
+[Feb 13-11 16:52:10]<Squire> Thaedrin <knightsofvalor> %^CYAN%^you can remove amulet
+[Feb 13-11 16:52:19]<Knight> Yang <knightsofvalor> oo
+[Feb 13-11 16:52:32]<Squire> Thaedrin <knightsofvalor> %^CYAN%^and still have crystal armor, you can remove any one piece of crystal armor
+[Feb 13-11 16:52:35]<Knight> Yang <knightsofvalor> seriously... egg on my face
+[Feb 13-11 16:54:43]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I wanna post a picture of my dog on facebook
+[Feb 13-11 16:54:47]<Squire> Thaedrin <knightsofvalor> %^CYAN%^she's so cute
+[Feb 13-11 16:55:3]<Knight> Yang <knightsofvalor> i need your facebook
+[Feb 13-11 16:55:35]<Squire> Thaedrin <knightsofvalor> %^CYAN%^aight
+[Feb 13-11 16:56:3]<Knight> Yang <knightsofvalor> might turn off lines for now to get workin on this stuff
+[Feb 13-11 16:56:31]<Knight> Yang <knightsofvalor> k so amulet sounds good
+[Feb 13-11 16:56:35]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod i need to write :P
+[Feb 13-11 16:56:41]<Squire> Thaedrin <knightsofvalor> %^CYAN%^ya amulet/necklace
+[Feb 13-11 16:57:35]<Master> Vian <knightsofvalor> %^BOLD%^what do you want it to do :P%^RESET%^
+[Feb 13-11 16:58:3]<Knight> Yang <knightsofvalor> whatcha think Thaed hp?
+[Feb 13-11 16:58:23]<Knight> Yang <knightsofvalor> cant do anything with def skill rite?
+[Feb 13-11 16:58:27]<Knight> Yang <knightsofvalor> that would be a bit much :P
+[Feb 13-11 16:59:5]<Master> Vian <knightsofvalor> %^BOLD%^maybe not with defense skill, but maybe with armour..%^RESET%^
+[Feb 13-11 16:59:17]<Knight> Yang <knightsofvalor> hrmm
+[Feb 13-11 16:59:17]<Master> Vian <knightsofvalor> %^BOLD%^amulet of protection type thing%^RESET%^
+[Feb 13-11 16:59:19]<Master> Vian <knightsofvalor> %^BOLD%^but %^RESET%^
+[Feb 13-11 16:59:29]<Master> Vian <knightsofvalor> %^BOLD%^it wouldnt be as strong as lodos amulets since it would be permanent%^RESET%^
+[Feb 13-11 16:59:35]<Master> Vian <knightsofvalor> %^BOLD%^and wouldn't stack %^RESET%^
+[Feb 13-11 16:59:41]<Knight> Yang <knightsofvalor> aww
+[Feb 13-11 17:0:9]<Knight> Yang <knightsofvalor> ok might be better we go with the hp thing i can see that goign wierd with other things :)
+[Feb 13-11 17:0:35]<Knight> Yang <knightsofvalor> like defense spells buffs songs and such
+[Feb 13-11 17:0:53]<Master> Vian <knightsofvalor> %^BOLD%^small golden ring style?%^RESET%^
+[Feb 13-11 17:1:9]<Knight> Yang <knightsofvalor> yups
+[Feb 13-11 17:1:17]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sorry was afk
+[Feb 13-11 17:1:40]<Master> Vian <knightsofvalor> %^BOLD%^you can take your time thinking about it if you want too%^RESET%^
+[Feb 13-11 17:1:42]<Knight> Yang <knightsofvalor> hehe whatcha think Thaed
+[Feb 13-11 17:1:42]<Master> Vian <knightsofvalor> %^BOLD%^no rush%^RESET%^
+[Feb 13-11 17:2:1]<Squire> Thaedrin <knightsofvalor> %^CYAN%^hmm
+[Feb 13-11 17:2:3]<Master> Vian <knightsofvalor> %^BOLD%^Unholy was thinking about an item that adds to your fullness every so often%^RESET%^
+[Feb 13-11 17:2:7]<Knight> Yang <knightsofvalor> super mario world for the Super NES helps me think
+[Feb 13-11 17:2:7]<Master> Vian <knightsofvalor> %^BOLD%^haven't made a decision about that one yet%^RESET%^
+[Feb 13-11 17:2:26]<Master> Vian <knightsofvalor> %^BOLD%^it doesn't have to be something already in game necessarily %^RESET%^
+[Feb 13-11 17:2:40]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 17:2:52]<Squire> Thaedrin <knightsofvalor> %^CYAN%^amulet of protection sounds neat but idk if it'd be obsolete or not
+[Feb 13-11 17:3:26]<Knight> Yang <knightsofvalor> i use the amulet from lodos alot when im in drow
+[Feb 13-11 17:3:38]<Squire> Thaedrin <knightsofvalor> %^CYAN%^how does the small golden ring work?
+[Feb 13-11 17:3:46]<Knight> Yang <knightsofvalor> slowly regens hp
+[Feb 13-11 17:3:46]<Master> Vian <knightsofvalor> %^BOLD%^random hp/sp/mp ticks on heartbeats%^RESET%^
+[Feb 13-11 17:3:50]<Master> Vian <knightsofvalor> %^BOLD%^its really pretty weak though%^RESET%^
+[Feb 13-11 17:3:52]<Master> Vian <knightsofvalor> %^BOLD%^even with 2%^RESET%^
+[Feb 13-11 17:3:52]<Master> Vian <knightsofvalor> %^BOLD%^but%^RESET%^
+[Feb 13-11 17:3:56]<Master> Vian <knightsofvalor> %^BOLD%^it does make a difference%^RESET%^
+[Feb 13-11 17:4:0]<Master> Vian <knightsofvalor> %^BOLD%^and a lot more with 2 of them%^RESET%^
+[Feb 13-11 17:4:6]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod
+[Feb 13-11 17:4:14]<Master> Vian <knightsofvalor> %^BOLD%^i dont see the big deal about mage robes either%^RESET%^
+[Feb 13-11 17:4:16]<Master> Vian <knightsofvalor> %^BOLD%^they're really not that good%^RESET%^
+[Feb 13-11 17:4:18]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 17:4:20]<Squire> Thaedrin <knightsofvalor> %^CYAN%^naw they aren't
+[Feb 13-11 17:4:28]<Knight> Yang <knightsofvalor> just cause their rare
+[Feb 13-11 17:4:32]<Squire> Thaedrin <knightsofvalor> %^CYAN%^the premier items in game I would say would be dark blades
+[Feb 13-11 17:4:46]<Squire> Thaedrin <knightsofvalor> %^CYAN%^esp on a zerker :)
+[Feb 13-11 17:4:54]<Squire> Thaedrin <knightsofvalor> %^CYAN%^awesome specials
+[Feb 13-11 17:4:56]<Knight> Yang <knightsofvalor> aww dude you gotta try 4 warhawks
+[Feb 13-11 17:5:0]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I have
+[Feb 13-11 17:5:4]<Knight> Yang <knightsofvalor> i need to bring in Yinn here
+[Feb 13-11 17:5:10]<Knight> Yang <knightsofvalor> eps with hew
+[Feb 13-11 17:5:20]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I did that with m y raknid and he died
+[Feb 13-11 17:5:24]<Squire> Thaedrin <knightsofvalor> %^CYAN%^with 4 dark blades
+[Feb 13-11 17:5:28]<Knight> Yang <knightsofvalor> oo
+[Feb 13-11 17:5:30]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I coul dheal like 500 hp in a round at 50
+[Feb 13-11 17:5:36]<Squire> Thaedrin <knightsofvalor> %^CYAN%^err
+[Feb 13-11 17:5:40]<Squire> Thaedrin <knightsofvalor> %^CYAN%^with 2 darkblades* as demon
+[Feb 13-11 17:5:44]<Knight> Yang <knightsofvalor> nice
+[Feb 13-11 17:5:44]<Squire> Thaedrin <knightsofvalor> %^CYAN%^could heal like 500 in a round
+[Feb 13-11 17:5:56]<Knight> Yang <knightsofvalor> i need to up Yinn
+[Feb 13-11 17:6:4]<Knight> Yang <knightsofvalor> hes only 30 atm
+[Feb 13-11 17:6:14]<Master> Vian <knightsofvalor> %^BOLD%^:O really?  500hp?%^RESET%^
+[Feb 13-11 17:6:18]<Master> Vian <knightsofvalor> %^BOLD%^that sounds like a bit much%^RESET%^
+[Feb 13-11 17:6:18]<Knight> Yang <knightsofvalor> but with 4 warhawks he is pretty awesome
+[Feb 13-11 17:6:26]<Squire> Thaedrin <knightsofvalor> %^CYAN%^what if the amulet was like small golden ring, but you could touch it and get minor protection for a little while
+[Feb 13-11 17:6:28]<Knight> Yang <knightsofvalor> warhawks special rox
+[Feb 13-11 17:6:40]<Squire> Thaedrin <knightsofvalor> %^CYAN%^upto 500 yeah, but during rage, with 600 attack
+[Feb 13-11 17:6:44]<Squire> Thaedrin <knightsofvalor> %^CYAN%^8 idle hits
+[Feb 13-11 17:6:48]<Knight> Yang <knightsofvalor> wow
+[Feb 13-11 17:6:50]<Squire> Thaedrin <knightsofvalor> %^CYAN%^it was a gamble
+[Feb 13-11 17:7:2]<Knight> Yang <knightsofvalor> i like that idea Thaedrin
+[Feb 13-11 17:7:4]<Squire> Thaedrin <knightsofvalor> %^CYAN%^but sometimes if you get 5-6 specials in a round
+[Feb 13-11 17:7:12]<Squire> Thaedrin <knightsofvalor> %^CYAN%^it will heal 500 hp np
+[Feb 13-11 17:7:44]<Master> Vian <knightsofvalor> %^BOLD%^small golden ring + minor protection is a bit much, especially if another guild has just a small golden ring%^RESET%^
+[Feb 13-11 17:7:54]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod thats what I was thinkin
+[Feb 13-11 17:7:56]<Master> Vian <knightsofvalor> %^BOLD%^unless it was a weaker small golden ring%^RESET%^
+[Feb 13-11 17:8:4]<Master> Vian <knightsofvalor> %^BOLD%^but its hard to get much weaker ;p%^RESET%^
+[Feb 13-11 17:8:10]<Knight> Yang <knightsofvalor> hehe
+[Feb 13-11 17:8:27]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod I was also thinkin that, 50% golden ring 50% protection, but might as well choose one or the other
+[Feb 13-11 17:10:9]<Master> Vian <knightsofvalor> %^BOLD%^all the time in the world to think%^RESET%^
+[Feb 13-11 17:10:15]<Knight> Yang <knightsofvalor> i like the protection idea its unique to make them a guild item
+[Feb 13-11 17:12:47]<Knight> Yang <knightsofvalor> i say we go with the protection thing, what say you noble Thaedrin?
+[Feb 13-11 17:12:51]<knightsofvalor> Yang is bad at role playing
+[Feb 13-11 17:13:17]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I think thats a good idea
+[Feb 13-11 17:13:29]<Squire> Thaedrin <knightsofvalor> %^CYAN%^especially for bugs like you... *coughs raknids*
+[Feb 13-11 17:13:47]<Knight> Yang <knightsofvalor> hahahaha
+[Feb 13-11 17:13:55]<Squire> Thaedrin <knightsofvalor> %^CYAN%^everyone can use more protection tho
+[Feb 13-11 17:14:1]<Knight> Yang <knightsofvalor> i told my wife what i was on the game and she said dude your an insect
+[Feb 13-11 17:14:21]<Knight> Yang <knightsofvalor> and being a sorc more the protection the better :)
+[Feb 13-11 17:14:29]<Knight> Yang <knightsofvalor> i still havent maxed Yuns defense man
+[Feb 13-11 17:14:35]<Knight> Yang <knightsofvalor> dumped 20 mil in it
+[Feb 13-11 17:14:43]<Knight> Yang <knightsofvalor> and it moved up like 15 pts
+[Feb 13-11 17:15:23]<Squire> Thaedrin <knightsofvalor> %^CYAN%^ya Im waiting til i have 200s
+[Feb 13-11 17:15:27]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I have 35/125 def
+[Feb 13-11 17:15:47]<Knight> Yang <knightsofvalor> haha i should have done that
+[Feb 13-11 17:16:37]<Knight> Yang <knightsofvalor> V code me a Yoshi
+[Feb 13-11 17:16:49]<Knight> Yang <knightsofvalor> blue one with flying capabilities
+[Feb 13-11 17:20:41]<Squire> Thaedrin <knightsofvalor> %^CYAN%^afk for a bit writing :P
+[Feb 13-11 17:22:41]<Knight> Yang <knightsofvalor> k my washer over flowed :P
+[Feb 13-11 17:23:1]<Knight> Yang <knightsofvalor> had a dish in there that i forgot to take in and it sealed the drain
+[Feb 13-11 17:34:17]<Knight> Yang <knightsofvalor> how you doin V
+[Feb 13-11 17:39:45]<Squire> Thaedrin <knightsofvalor> %^CYAN%^back
+[Feb 13-11 17:42:5]<Knight> Yang <knightsofvalor> i think we broke V
+[Feb 13-11 17:52:17]<Squire> Thaedrin <knightsofvalor> %^CYAN%^So Yang, I have a new description
+[Feb 13-11 17:52:53]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Its not shining with light, but it is intriguing and I will show character with example and action. :)
+[Feb 13-11 17:54:47]<Knight> Yang <knightsofvalor> nice man
+[Feb 13-11 17:55:3]<Knight> Yang <knightsofvalor> we dont have to be uber holy and what not
+[Feb 13-11 17:55:13]<Knight> Yang <knightsofvalor> and i think that fits nicely
+[Feb 13-11 17:55:15]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nod
+[Feb 13-11 17:56:7]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I wanted to enforce the fact that I am a powerful Sorceror so it's very unclear what you can gather from my image
+[Feb 13-11 17:56:29]<Squire> Thaedrin <knightsofvalor> %^CYAN%^and action and example will determine character rather than my dark skin :)
+[Feb 13-11 17:57:9]<Knight> Yang <knightsofvalor> aww nice
+[Feb 13-11 17:57:17]<Knight> Yang <knightsofvalor> kool man
+[Feb 13-11 18:0:43]<Master> Vian <knightsofvalor> %^BOLD%^going to a friends house to get high and do some homework, will bring my comp with me but dunno how much ill be coding%^RESET%^
+[Feb 13-11 18:1:1]<Knight> Yang <knightsofvalor> nod
+[Feb 13-11 18:1:9]<Knight> Yang <knightsofvalor> go have fun V
+[Feb 13-11 18:1:9]<Knight> Yang <knightsofvalor> go have fun V
+[Feb 13-11 18:1:13]<Knight> Yang <knightsofvalor> oops
+[Feb 13-11 18:1:23]<Squire> Thaedrin <knightsofvalor> %^CYAN%^later man
+[Feb 13-11 18:7:5]<Knight> Yang <knightsofvalor> shit gonna have to quit smoking
+[Feb 13-11 18:32:43]<Knight> Yang <knightsofvalor> hey Thead ill bbl dude
+[Feb 13-11 18:32:50]<Squire> Thaedrin <knightsofvalor> %^CYAN%^aight dude
+[Feb 13-11 18:32:52]<Knight> Yang <knightsofvalor> gonna do a few chores before wife comes back
+[Feb 13-11 18:32:54]<Knight> Yang <knightsofvalor> laterz
+[Feb 13-11 22:30:2]<Master> Vian <knightsofvalor> %^BOLD%^hmph%^RESET%^
+[Feb 14-11 12:50:19]<Master> Vian <knightsofvalor> %^BOLD%^The storage has been put in under the treasury, thanks to Nully :)%^RESET%^
+[Feb 14-11 18:23:42]<Master> Vian <knightsofvalor> %^BOLD%^hey thae, the storage room is in%^RESET%^
+[Feb 14-11 18:24:6]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Awesome
+[Feb 14-11 18:24:16]<knightsofvalor> Thaedrin greets Vian :P
+[Feb 14-11 18:47:14]<Master> Vian <knightsofvalor> %^BOLD%^grats on angel%^RESET%^
+[Feb 14-11 18:47:18]<Squire> Thaedrin <knightsofvalor> %^CYAN%^thanks man
+[Feb 14-11 18:47:28]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sorry for the whole drow thing, it was for nothing
+[Feb 14-11 18:47:32]<Master> Vian <knightsofvalor> %^BOLD%^:P%^RESET%^
+[Feb 14-11 20:54:44]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Looks like I wont be able to make my detailed lists with compel anymore hehe
+[Feb 14-11 20:55:16]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I figured Angel Druid would be more suitable for helping newbies and such. And will be less boring than just AoE'ing everywhere I move
+[Feb 14-11 22:1:35]<Knight> Yang <knightsofvalor> Thaedrin!
+[Feb 15-11 4:6:44]<Council> Larry <knightsofvalor> Vian you there
+[Feb 15-11 4:58:26]<Council> Larry <knightsofvalor> how do i get into the guild hall?
+[Feb 15-11 12:48:25]<knightsofvalor> Yang limped to work today
+[Feb 15-11 13:27:28]<Knight> Yang <knightsofvalor> hrmm
+[Feb 15-11 13:27:42]<Knight> Yang <knightsofvalor> pally angel would be nice....
+[Feb 15-11 18:27:7]<Knight> Yang <knightsofvalor> Thaedrin!
+[Feb 15-11 18:28:15]<knightsofvalor> Yang sticks V in his pocket
+[Feb 15-11 18:40:51]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Yo :P
+[Feb 15-11 18:42:59]<Knight> Yang <knightsofvalor> sup bro
+[Feb 15-11 18:43:3]<Squire> Thaedrin <knightsofvalor> %^CYAN%^not much xping :P
+[Feb 15-11 18:43:7]<Knight> Yang <knightsofvalor> kool
+[Feb 15-11 18:43:9]<Squire> Thaedrin <knightsofvalor> %^CYAN%^doin work son, went druid/angel
+[Feb 15-11 18:43:19]<Knight> Yang <knightsofvalor> thow is that goin with the wis boost
+[Feb 15-11 18:43:25]<Squire> Thaedrin <knightsofvalor> %^CYAN%^117 int 87 dex
+[Feb 15-11 18:43:27]<Squire> Thaedrin <knightsofvalor> %^CYAN%^wis*
+[Feb 15-11 18:43:29]<Squire> Thaedrin <knightsofvalor> %^CYAN%^lol
+[Feb 15-11 18:43:31]<Knight> Yang <knightsofvalor> oo
+[Feb 15-11 18:43:51]<Knight> Yang <knightsofvalor> thats a kick ass start man
+[Feb 15-11 18:44:9]<Knight> Yang <knightsofvalor> that with or without buffs?
+[Feb 15-11 18:44:35]<Squire> Thaedrin <knightsofvalor> %^CYAN%^imma cheater, its with
+[Feb 15-11 18:44:39]<Squire> Thaedrin <knightsofvalor> %^CYAN%^buffs are +17
+[Feb 15-11 18:44:47]<Squire> Thaedrin <knightsofvalor> %^CYAN%^but I got 2079 mp at level 25 :P
+[Feb 15-11 19:11:32]<Knight> Yang <knightsofvalor> wow nice
+[Feb 15-11 19:41:4]<Squire> Thaedrin <knightsofvalor> %^CYAN%^level 30 now, maxing skills then stat time :D
+[Feb 15-11 20:8:21]<Knight> Yang <knightsofvalor> sweet
+[Feb 15-11 20:8:57]<Master> Vian <knightsofvalor> %^BOLD%^hiya%^RESET%^
+[Feb 15-11 20:9:3]<Knight> Yang <knightsofvalor> V!
+[Feb 15-11 20:10:41]<Knight> Yang <knightsofvalor> whats new dude
+[Feb 15-11 20:10:51]<Master> Vian <knightsofvalor> %^BOLD%^kinda sickish right now, tired, just woke up from a big ol nap%^RESET%^
+[Feb 15-11 21:20:8]<Knight> Yang <knightsofvalor> V how was your V day yesterday?
+[Feb 15-11 21:20:50]<Master> Vian <knightsofvalor> %^BOLD%^decent haha%^RESET%^
+[Feb 15-11 21:21:18]<Knight> Yang <knightsofvalor> we went to a Japanese resturant last night,
+[Feb 15-11 21:21:22]<Knight> Yang <knightsofvalor> made more zits
+[Feb 15-11 21:21:52]<Master> Vian <knightsofvalor> %^BOLD%^nice lol%^RESET%^
+[Feb 16-11 14:47:49]<Knight> Yang <knightsofvalor> i think its in SC
+[Feb 16-11 18:31:34]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sup bro
+[Feb 16-11 18:35:20]<Knight> Yang <knightsofvalor> hey man
+[Feb 16-11 18:35:32]<Squire> Thaedrin <knightsofvalor> %^CYAN%^how goes it
+[Feb 16-11 18:35:40]<Knight> Yang <knightsofvalor> dude just been so tired lately, think i better go get checked out ir it might be my new meds
+[Feb 16-11 18:36:22]<Squire> Thaedrin <knightsofvalor> %^CYAN%^l
+[Feb 16-11 18:36:26]<Squire> Thaedrin <knightsofvalor> %^CYAN%^oops
+[Feb 16-11 18:36:48]<Squire> Thaedrin <knightsofvalor> %^CYAN%^yea dude not a bad idea
+[Feb 16-11 18:40:26]<Master> Vian <knightsofvalor> %^BOLD%^me too yang%^RESET%^
+[Feb 16-11 18:40:28]<Master> Vian <knightsofvalor> %^BOLD%^been sick for 2 days%^RESET%^
+[Feb 16-11 18:40:30]<Master> Vian <knightsofvalor> %^BOLD%^just sleepin all day%^RESET%^
+[Feb 16-11 18:59:39]<Knight> Yang <knightsofvalor> i think i have to go back to my nightly drinking ritual
+[Feb 16-11 18:59:49]<Master> Vian <knightsofvalor> %^BOLD%^lol%^RESET%^
+[Feb 16-11 18:59:59]<Knight> Yang <knightsofvalor> ohly way i can regulate my sleep
+[Feb 16-11 19:46:9]<Leader> Yun <knightsofvalor> %^YELLOW%^ Thaedrin
+[Feb 16-11 19:46:13]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Yo
+[Feb 16-11 19:46:33]<Leader> Yun <knightsofvalor> %^YELLOW%^ you smell holy
+[Feb 16-11 19:46:39]<Squire> Thaedrin <knightsofvalor> %^CYAN%^mmmhm :P
+[Feb 16-11 19:46:57]<Squire> Thaedrin <knightsofvalor> %^CYAN%^statting wisdom finally too :)
+[Feb 16-11 19:47:13]<Leader> Yun <knightsofvalor> %^YELLOW%^ lol that ws fast :P
+[Feb 16-11 21:34:10]<Leader> Yun <knightsofvalor> %^YELLOW%^ hrmm 2 or 3 Mc sumthin
+[Feb 17-11 14:18:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ bah i forget how to get to Nuls place
+[Feb 17-11 16:4:22]<Leader> Yun <knightsofvalor> %^YELLOW%^ V?
+[Feb 17-11 16:4:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ VVVVV?
+[Feb 17-11 16:4:36]<Leader> Yun <knightsofvalor> %^YELLOW%^ VVV!!!!
+[Feb 17-11 16:27:52]<Master> Vian <knightsofvalor> %^BOLD%^V!%^RESET%^
+[Feb 17-11 16:28:20]<Master> Vian <knightsofvalor> %^BOLD%^how are you%^RESET%^
+[Feb 17-11 16:42:26]<Leader> Yun <knightsofvalor> %^YELLOW%^ V V
+[Feb 17-11 16:42:42]<Leader> Yun <knightsofvalor> %^YELLOW%^  _
+[Feb 17-11 16:42:57]<Leader> Yun <knightsofvalor> %^YELLOW%^
+[Feb 17-11 16:43:2]<Leader> Yun <knightsofvalor> %^YELLOW%^  w
+[Feb 17-11 16:47:8]<Master> Vian <knightsofvalor> %^BOLD%^v%^RESET%^
+[Feb 17-11 16:47:10]<Master> Vian <knightsofvalor> %^BOLD%^v v v v v v%^RESET%^
+[Feb 17-11 16:50:8]<Leader> Yun <knightsofvalor> %^YELLOW%^ sup man
+[Feb 17-11 16:53:26]<Leader> Yun <knightsofvalor> %^YELLOW%^ think i might remort
+[Feb 17-11 16:53:36]<Leader> Yun <knightsofvalor> %^YELLOW%^ try out my bard again
+[Feb 17-11 16:53:52]<Leader> Yun <knightsofvalor> %^YELLOW%^ do the helping thing again
+[Feb 18-11 5:10:32]<Leader> Yun <knightsofvalor> %^YELLOW%^ hrmm monk or wizard
+[Feb 18-11 5:10:48]<Leader> Yun <knightsofvalor> %^YELLOW%^ monk would be better for rp i guess
+[Feb 18-11 13:59:51]<Leader> Yun <knightsofvalor> %^YELLOW%^ i need a professional
+[Feb 18-11 13:59:55]<Leader> Yun <knightsofvalor> %^YELLOW%^ where is V
+[Feb 18-11 14:21:28]<Master> Vian <knightsofvalor> %^BOLD%^lol%^RESET%^
+[Feb 18-11 14:21:31]<Master> Vian <knightsofvalor> %^BOLD%^leaving for class soon%^RESET%^
+[Feb 18-11 14:21:36]<Knight> Yang <knightsofvalor> V
+[Feb 18-11 14:21:40]<Knight> Yang <knightsofvalor> hey bro
+[Feb 18-11 14:21:44]<Master> Vian <knightsofvalor> %^BOLD%^sup%^RESET%^
+[Feb 18-11 14:21:58]<Knight> Yang <knightsofvalor> figure i save up xp
+[Feb 18-11 14:22:0]<Knight> Yang <knightsofvalor> gonna lvl
+[Feb 18-11 14:22:2]<Master> Vian <knightsofvalor> %^BOLD%^nice%^RESET%^
+[Feb 18-11 14:22:8]<Master> Vian <knightsofvalor> %^BOLD%^50 is where its at haha%^RESET%^
+[Feb 18-11 14:22:11]<Knight> Yang <knightsofvalor> think since i xp in zol and roston and such
+[Feb 18-11 14:22:18]<Master> Vian <knightsofvalor> %^BOLD%^ya 50 wont really hurt u, only help%^RESET%^
+[Feb 18-11 14:22:20]<Knight> Yang <knightsofvalor> i wont really get cuts
+[Feb 18-11 14:22:23]<Master> Vian <knightsofvalor> %^BOLD%^atleast it should%^RESET%^
+[Feb 18-11 14:22:27]<Knight> Yang <knightsofvalor> and the armour would be better
+[Feb 18-11 14:22:32]<Master> Vian <knightsofvalor> %^BOLD%^plus your skills%^RESET%^
+[Feb 18-11 14:22:39]<Master> Vian <knightsofvalor> %^BOLD%^and being on par with the mobs instead of under%^RESET%^
+[Feb 18-11 14:22:39]<Knight> Yang <knightsofvalor> i got an exo somewhere
+[Feb 18-11 14:22:52]<Knight> Yang <knightsofvalor> nod nod
+[Feb 18-11 14:23:5]<Master> Vian <knightsofvalor> %^BOLD%^gonna run to class, ill tty soon :)%^RESET%^
+[Feb 18-11 14:23:14]<Knight> Yang <knightsofvalor> laterz bro
+[Feb 19-11 0:32:10]<Knight> Yang <knightsofvalor> hrmm i need more ppl
+[Feb 19-11 0:32:22]<Knight> Yang <knightsofvalor> lotta unholys
+[Feb 19-11 13:0:24]<Knight> Yang <knightsofvalor> V!
+[Feb 19-11 13:0:32]<Master> Vian <knightsofvalor> %^BOLD%^heya%^RESET%^
+[Feb 19-11 13:0:34]<Knight> Yang <knightsofvalor> i feel insulted, to tickle?
+[Feb 19-11 13:0:52]<Master> Vian <knightsofvalor> %^BOLD%^i was just fixing my start room hehe%^RESET%^
+[Feb 19-11 13:0:58]<Master> Vian <knightsofvalor> %^BOLD%^was starting in angel hall%^RESET%^
+[Feb 19-11 13:8:50]<Knight> Yang <knightsofvalor> Nul confuses me when he changes subclasses :P
+[Feb 19-11 13:10:14]<Master> Vian <knightsofvalor> %^BOLD%^what happened this time :P%^RESET%^
+[Feb 19-11 13:10:26]<Master> Vian <knightsofvalor> %^BOLD%^what happened to saving up for 50 btw lol%^RESET%^
+[Feb 19-11 13:20:12]<Knight> Yang <knightsofvalor> just evened out my dex a bit
+[Feb 19-11 13:20:24]<Knight> Yang <knightsofvalor> would have been wierd to have 29 then lvl
+[Feb 19-11 13:20:48]<Knight> Yang <knightsofvalor> wonder if i should do some int and wis first
+[Feb 19-11 13:22:4]<Squire> Thaedrin <knightsofvalor> %^CYAN%^heya
+[Feb 19-11 15:8:30]<Knight> Yang <knightsofvalor> hey Thaed
+[Feb 19-11 15:8:34]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sup
+[Feb 19-11 15:8:48]<Knight> Yang <knightsofvalor> you have anyone in mind that we could induct
+[Feb 19-11 15:9:0]<Knight> Yang <knightsofvalor> thinking if we need to expand a bit
+[Feb 19-11 15:9:10]<Knight> Yang <knightsofvalor> i wanted to know if that parson guy was kool
+[Feb 19-11 15:9:22]<Squire> Thaedrin <knightsofvalor> %^CYAN%^yea parson is cool
+[Feb 19-11 15:9:36]<Knight> Yang <knightsofvalor> think ill bring it up with him when i see him on
+[Feb 19-11 15:9:46]<Squire> Thaedrin <knightsofvalor> %^CYAN%^good idea :) cleric would be neet
+[Feb 19-11 15:9:54]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 3:55:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ welcome
+[Feb 20-11 3:56:12]<Squire> Vanlikapa <knightsofvalor> test
+[Feb 20-11 3:56:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Woo!
+[Feb 20-11 3:56:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ in the hall we have something like an angel wading pool
+[Feb 20-11 3:56:36]<Leader> Yun <knightsofvalor> %^YELLOW%^ ooo greeeeeeen
+[Feb 20-11 3:56:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^raise align just like it?
+[Feb 20-11 3:56:44]<Leader> Yun <knightsofvalor> %^YELLOW%^ the synthax is repent sins
+[Feb 20-11 3:56:46]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 20-11 3:56:50]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^sweet. :)
+[Feb 20-11 3:56:50]<Leader> Yun <knightsofvalor> %^YELLOW%^ switching
+[Feb 20-11 3:56:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo did you need any eq
+[Feb 20-11 3:57:10]<Leader> Yun <knightsofvalor> %^YELLOW%^ got me some compeling power
+[Feb 20-11 3:57:10]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^no thanks, I'm good. :) level 62. *winks*
+[Feb 20-11 3:57:20]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^oooo, u got compel?
+[Feb 20-11 3:57:20]<Leader> Yun <knightsofvalor> %^YELLOW%^ wow
+[Feb 20-11 3:57:22]<Leader> Yun <knightsofvalor> %^YELLOW%^ nod
+[Feb 20-11 3:57:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^lets go to eye of hell?
+[Feb 20-11 3:57:34]<Leader> Yun <knightsofvalor> %^YELLOW%^ sure
+[Feb 20-11 3:57:38]<Leader> Yun <knightsofvalor> %^YELLOW%^ lemme get some supplies first
+[Feb 20-11 3:57:44]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ditto
+[Feb 20-11 3:58:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ you need a seal?
+[Feb 20-11 3:59:16]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^yeah, or a gate or somethin
+[Feb 20-11 4:10:32]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I love it, I can just drink booze to heal and keep sp up hehe
+[Feb 20-11 4:10:49]<Leader> Yun <knightsofvalor> %^YELLOW%^ ahahaha
+[Feb 20-11 4:10:55]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^liquid lunch!
+[Feb 20-11 4:11:17]<Leader> Yun <knightsofvalor> %^YELLOW%^ drunken master fighting
+[Feb 20-11 4:11:21]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hehehe
+[Feb 20-11 4:11:45]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^drunken style!
+[Feb 20-11 4:12:1]<Leader> Yun <knightsofvalor> %^YELLOW%^ LEE!
+[Feb 20-11 4:12:9]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^lol
+[Feb 20-11 4:12:25]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^that reminds me, I need to watch and read the latest Naruto!
+[Feb 20-11 4:12:41]<Leader> Yun <knightsofvalor> %^YELLOW%^ its been a while for me
+[Feb 20-11 4:12:54]<Leader> Yun <knightsofvalor> %^YELLOW%^ not on cartoon network anymore
+[Feb 20-11 4:13:1]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^internetz, my man!
+[Feb 20-11 4:13:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I watch at animecrazy.net
+[Feb 20-11 4:13:43]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^they show the ones that were on new in Japan last week
+[Feb 20-11 4:13:57]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and you can prolly check a lot of the most recent eps
+[Feb 20-11 4:14:23]<Leader> Yun <knightsofvalor> %^YELLOW%^ i should go make a day of it
+[Feb 20-11 4:14:45]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^yeah...I'm sure someone out there could pick up where you left off
+[Feb 20-11 4:16:1]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^want kazoos?
+[Feb 20-11 4:18:1]<Leader> Yun <knightsofvalor> %^YELLOW%^ switching
+[Feb 20-11 4:18:3]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^k
+[Feb 20-11 4:18:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^woo!
+[Feb 20-11 4:18:33]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^need anything, Yang?
+[Feb 20-11 4:18:37]<Knight> Yang <knightsofvalor> nah im koo man
+[Feb 20-11 4:18:43]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cool. :)
+[Feb 20-11 4:18:43]<Knight> Yang <knightsofvalor> thnx
+[Feb 20-11 5:2:24]<Knight> Yang <knightsofvalor> Van
+[Feb 20-11 5:2:28]<Knight> Yang <knightsofvalor> i gotta lvl
+[Feb 20-11 5:2:34]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cmon up, baby!
+[Feb 20-11 5:2:48]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 5:2:54]<Knight> Yang <knightsofvalor> gonna start saving up
+[Feb 20-11 5:3:22]<Knight> Yang <knightsofvalor> hopefully my charge gets stronger
+[Feb 20-11 5:3:24]<Knight> Yang <knightsofvalor> at 50
+[Feb 20-11 5:3:46]<Knight> Yang <knightsofvalor> hey dude you remember the coords for Nuls area?
+[Feb 20-11 5:4:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^u mean the place with the ogres?
+[Feb 20-11 5:4:38]<Knight> Yang <knightsofvalor> the place with the coconuts
+[Feb 20-11 5:4:50]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and like 3 or 4 weak mobs?
+[Feb 20-11 5:4:58]<Knight> Yang <knightsofvalor> nod
+[Feb 20-11 5:5:2]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hmmm
+[Feb 20-11 5:5:8]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^was south of the place
+[Feb 20-11 5:5:20]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^south of town
+[Feb 20-11 5:5:30]<Knight> Yang <knightsofvalor> nod
+[Feb 20-11 5:5:34]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I will find it later
+[Feb 20-11 5:5:38]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 5:5:48]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^someone has it in their mail, I think
+[Feb 20-11 5:5:56]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^but not me
+[Feb 20-11 5:5:56]<Knight> Yang <knightsofvalor> kool
+[Feb 20-11 5:5:58]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^too new. :)
+[Feb 20-11 5:5:58]<Knight> Yang <knightsofvalor> haha
+[Feb 20-11 5:6:22]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hehe, I am square sitting
+[Feb 20-11 5:6:30]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I think my ferrets are ripping people off. :)
+[Feb 20-11 5:6:32]<Knight> Yang <knightsofvalor> imma keep asking around and let you know when i hear bout it
+[Feb 20-11 5:6:48]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^wait, that doesnt sound valorific. :)
+[Feb 20-11 5:7:0]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I HOPE my ferrets arent ripping people off. :)
+[Feb 20-11 5:7:6]<Knight> Yang <knightsofvalor> there ya go
+[Feb 20-11 5:7:54]<Knight> Yang <knightsofvalor> V is usually on at this time but heard he was sick
+[Feb 20-11 5:8:4]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^awww
+[Feb 20-11 5:8:12]<Knight> Yang <knightsofvalor> other V
+[Feb 20-11 5:8:16]<Knight> Yang <knightsofvalor> Vian
+[Feb 20-11 5:8:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I gotcha. :)
+[Feb 20-11 5:11:4]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^oh crap
+[Feb 20-11 5:11:22]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I think my ferrets may be stealing from me!
+[Feb 20-11 5:11:28]<Knight> Yang <knightsofvalor> lol
+[Feb 20-11 5:11:56]<Knight> Yang <knightsofvalor> discipline them with luv
+[Feb 20-11 5:12:12]<knightsofvalor> Yang waits for the hammer
+[Feb 20-11 5:12:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^forgot copper
+[Feb 20-11 5:13:2]<Knight> Yang <knightsofvalor> oh btw can you "return" your animals?
+[Feb 20-11 5:13:16]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^one sec...
+[Feb 20-11 5:13:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^nope
+[Feb 20-11 5:13:44]<Knight> Yang <knightsofvalor> oo
+[Feb 20-11 5:13:48]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^they dont wanna hang out near my balls.
+[Feb 20-11 5:13:54]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^not after the last time
+[Feb 20-11 5:14:2]<Knight> Yang <knightsofvalor> oooo?
+[Feb 20-11 5:14:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hehe
+[Feb 20-11 5:15:12]<Knight> Yang <knightsofvalor> you at work tonite man?
+[Feb 20-11 5:15:18]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^nope, night off. :)
+[Feb 20-11 5:15:23]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^at work tomorrow night
+[Feb 20-11 5:15:23]<Knight> Yang <knightsofvalor> nic
+[Feb 20-11 5:15:29]<Knight> Yang <knightsofvalor> booo
+[Feb 20-11 5:15:42]<Knight> Yang <knightsofvalor> its presidents day man
+[Feb 20-11 5:15:48]<Knight> Yang <knightsofvalor> wait..
+[Feb 20-11 5:15:51]<Knight> Yang <knightsofvalor> no nm
+[Feb 20-11 5:15:53]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^someone's gotta do it. :)
+[Feb 20-11 5:16:12]<Knight> Yang <knightsofvalor> double pay?
+[Feb 20-11 5:16:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ummm, not for that holiday, no
+[Feb 20-11 5:16:50]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^next holiday we get extra pay for is...memorial day? eesh
+[Feb 20-11 5:17:7]<Knight> Yang <knightsofvalor> geez when is Memorial day?
+[Feb 20-11 5:17:10]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^may
+[Feb 20-11 5:17:17]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^mid may
+[Feb 20-11 5:17:17]<Knight> Yang <knightsofvalor> ouch
+[Feb 20-11 5:17:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^spring break comes soon
+[Feb 20-11 5:17:33]<Knight> Yang <knightsofvalor> bah
+[Feb 20-11 5:17:50]<Knight> Yang <knightsofvalor> that just means more college parties where i liv
+[Feb 20-11 5:17:55]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hehe
+[Feb 20-11 5:18:0]<Knight> Yang <knightsofvalor> late night loud music and drunk drivers
+[Feb 20-11 5:18:8]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^they kick em off campus. :)
+[Feb 20-11 5:18:12]<Knight> Yang <knightsofvalor> i live close to the university of Hawaii
+[Feb 20-11 5:18:18]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ahhh
+[Feb 20-11 5:19:7]<Knight> Yang <knightsofvalor> oo wife wants to get a 360
+[Feb 20-11 5:19:14]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^tell her ps3!!!
+[Feb 20-11 5:19:19]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^oh wait, u has one
+[Feb 20-11 5:19:20]<Knight> Yang <knightsofvalor> yups
+[Feb 20-11 5:19:23]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^lol
+[Feb 20-11 5:19:27]<Knight> Yang <knightsofvalor> and a Wii
+[Feb 20-11 5:19:33]<Knight> Yang <knightsofvalor> she so kool
+[Feb 20-11 5:19:33]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^y not? :)
+[Feb 20-11 5:19:50]<Knight> Yang <knightsofvalor> i told her we can save it
+[Feb 20-11 5:19:54]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Yang and his cool wife. :)
+[Feb 20-11 5:19:54]<Knight> Yang <knightsofvalor> since we expecting and all
+[Feb 20-11 5:20:1]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^gasp!
+[Feb 20-11 5:20:2]<Knight> Yang <knightsofvalor> ooo
+[Feb 20-11 5:20:4]<Knight> Yang <knightsofvalor> oops
+[Feb 20-11 5:20:7]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^You didnt tell meeee!
+[Feb 20-11 5:20:8]<Knight> Yang <knightsofvalor> didnt tell you?
+[Feb 20-11 5:20:10]<Knight> Yang <knightsofvalor> DOH
+[Feb 20-11 5:20:13]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^CONGRATS!
+[Feb 20-11 5:20:17]<Knight> Yang <knightsofvalor> sorry lotsa stuff going on this week
+[Feb 20-11 5:20:21]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Papa Yang!
+[Feb 20-11 5:20:25]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^hehehe
+[Feb 20-11 5:20:29]<Knight> Yang <knightsofvalor> diagnosed with turrets and this stuff now
+[Feb 20-11 5:20:32]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^very glad for ya
+[Feb 20-11 5:20:32]<Knight> Yang <knightsofvalor> i kno man
+[Feb 20-11 5:20:39]<Knight> Yang <knightsofvalor> thnx
+[Feb 20-11 5:20:48]<Knight> Yang <knightsofvalor> havent really told my fam yet tho
+[Feb 20-11 5:20:53]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^see? you got a little something with you and she's got a little something in her. :)
+[Feb 20-11 5:20:53]<Knight> Yang <knightsofvalor> gonna wait
+[Feb 20-11 5:20:59]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 5:20:59]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^tell em to mud. :)
+[Feb 20-11 5:21:3]<Knight> Yang <knightsofvalor> lol
+[Feb 20-11 5:21:9]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^then ya break it to em here
+[Feb 20-11 5:30:53]<Knight> Yang <knightsofvalor> think im gonna bring yun back down to 32
+[Feb 20-11 5:31:3]<Knight> Yang <knightsofvalor> 34 that is
+[Feb 20-11 5:40:57]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ouch, why?
+[Feb 20-11 5:45:55]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Yang, can I see what firebreathe does to you?
+[Feb 20-11 5:46:13]<Knight> Yang <knightsofvalor> kool
+[Feb 20-11 5:46:27]<Knight> Yang <knightsofvalor> want me to sit?
+[Feb 20-11 5:46:33]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^dont matta. :)
+[Feb 20-11 5:47:53]<Knight> Yang <knightsofvalor> ooo
+[Feb 20-11 5:47:53]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Thanks. :0
+[Feb 20-11 5:48:3]<Knight> Yang <knightsofvalor> the second one hurt more
+[Feb 20-11 5:48:11]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ahhh, cool
+[Feb 20-11 5:48:11]<Knight> Yang <knightsofvalor> is that area?
+[Feb 20-11 5:48:15]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^nah, 1 mob
+[Feb 20-11 5:48:23]<Knight> Yang <knightsofvalor> oo
+[Feb 20-11 5:49:30]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^wanna figure out what makes it stronger. :)
+[Feb 20-11 5:49:46]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^so I plan to level out stats by cost
+[Feb 20-11 5:49:54]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^top 3 at one level
+[Feb 20-11 5:49:58]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^bottom 3 at another
+[Feb 20-11 5:50:6]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^then experiment, I guess
+[Feb 20-11 5:50:42]<Knight> Yang <knightsofvalor> nod
+[Feb 20-11 5:50:44]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 5:50:56]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^anything you wanna test?
+[Feb 20-11 5:51:12]<Knight> Yang <knightsofvalor> its gonna take a while for me to lvl only got 30 mil banks
+[Feb 20-11 5:51:14]<Knight> Yang <knightsofvalor> banked
+[Feb 20-11 5:51:26]<Knight> Yang <knightsofvalor> nah im kool thnx
+[Feb 20-11 5:51:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^how much you wanna bank b4 leveling?
+[Feb 20-11 5:51:30]<Knight> Yang <knightsofvalor> gonna try and xp in drow
+[Feb 20-11 5:51:38]<Knight> Yang <knightsofvalor> prob 100 mil
+[Feb 20-11 5:51:42]<Knight> Yang <knightsofvalor> for skills and all
+[Feb 20-11 5:51:44]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cool. what lvl again?
+[Feb 20-11 5:52:0]<Knight> Yang <knightsofvalor> 50
+[Feb 20-11 5:52:6]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^yer 50 now?
+[Feb 20-11 5:52:8]<Knight> Yang <knightsofvalor> then ill see how i do in hell and what not
+[Feb 20-11 5:52:18]<Knight> Yang <knightsofvalor> oh no going to 50
+[Feb 20-11 5:52:20]<Knight> Yang <knightsofvalor> only 34 now
+[Feb 20-11 5:52:22]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 5:52:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ahhh ok. :)
+[Feb 20-11 7:20:56]<Knight> Yang <knightsofvalor> hey Thead
+[Feb 20-11 7:21:2]<Squire> Thaedrin <knightsofvalor> %^CYAN%^morning
+[Feb 20-11 7:21:8]<Knight> Yang <knightsofvalor> hehe
+[Feb 20-11 7:21:20]<Knight> Yang <knightsofvalor> bout to crash out for the nite man
+[Feb 20-11 7:21:28]<Knight> Yang <knightsofvalor> 2 am here
+[Feb 20-11 7:21:50]<Knight> Yang <knightsofvalor> trynna save to go 50
+[Feb 20-11 7:23:24]<Squire> Thaedrin <knightsofvalor> %^CYAN%^hehe
+[Feb 20-11 7:23:34]<Squire> Thaedrin <knightsofvalor> %^CYAN%^Im about to dump xp into con then do more wis
+[Feb 20-11 7:23:40]<Knight> Yang <knightsofvalor> sweet
+[Feb 20-11 7:24:12]<Knight> Yang <knightsofvalor> man i shouldnt even be up man got church in a few hourse
+[Feb 20-11 7:24:22]<Knight> Yang <knightsofvalor> lol cant even spell
+[Feb 20-11 7:34:6]<Squire> Thaedrin <knightsofvalor> %^CYAN%^want to xp for a bit?
+[Feb 20-11 7:34:14]<Knight> Yang <knightsofvalor> sweet
+[Feb 20-11 8:12:45]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sleepw ell
+[Feb 20-11 13:52:53]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Vian!
+[Feb 20-11 14:2:4]<Master> Vian <knightsofvalor> %^BOLD%^hiya%^RESET%^
+[Feb 20-11 14:2:12]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I'm a Valorian!
+[Feb 20-11 14:2:16]<Master> Vian <knightsofvalor> %^BOLD%^i like it hehe%^RESET%^
+[Feb 20-11 14:2:20]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^me too. :D
+[Feb 20-11 14:2:22]<Squire> Thaedrin <knightsofvalor> %^CYAN%^:P
+[Feb 20-11 14:2:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^honorable jesterer!
+[Feb 20-11 14:2:35]<Knight> Vent <knightsofvalor> %^BOLD%^me 2%^RESET%^
+[Feb 20-11 14:2:47]<Knight> Vent <knightsofvalor> %^BOLD%^^_^;;%^RESET%^
+[Feb 20-11 14:2:47]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I'm gonna report you for not waiting 2 min. >:)
+[Feb 20-11 14:3:1]<knightsofvalor> Vent del33ts the logz.
+[Feb 20-11 14:3:5]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ooooo
+[Feb 20-11 14:3:11]<Knight> Vent <knightsofvalor> %^BOLD%^*hides*%^RESET%^
+[Feb 20-11 14:3:13]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^teach me how!
+[Feb 20-11 14:3:31]<Knight> Vent <knightsofvalor> %^BOLD%^paypal 10000 dollars to nulvect@primaldarkness.com%^RESET%^
+[Feb 20-11 14:3:49]<Knight> Vent <knightsofvalor> %^BOLD%^ez%^RESET%^
+[Feb 20-11 14:3:57]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^man, Thae, I stacked a room and lost it!
+[Feb 20-11 14:4:15]<Squire> Thaedrin <knightsofvalor> %^CYAN%^lol
+[Feb 20-11 14:57:16]<Knight> Yang <knightsofvalor> sup Thaed
+[Feb 20-11 15:40:1]<Knight> Vent <knightsofvalor> %^BOLD%^hiya yang%^RESET%^
+[Feb 20-11 16:43:2]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sup yun
+[Feb 20-11 16:43:6]<Leader> Yun <knightsofvalor> %^YELLOW%^ sup man
+[Feb 20-11 16:43:14]<Squire> Thaedrin <knightsofvalor> %^CYAN%^not much, xpin
+[Feb 20-11 16:43:16]<Leader> Yun <knightsofvalor> %^YELLOW%^ took a while but i got my coffee
+[Feb 20-11 16:43:48]<Leader> Yun <knightsofvalor> %^YELLOW%^ didnt know i was out so had to walk to store, found out i didnt have any cash wwalked to atm then back to store then home
+[Feb 20-11 16:43:56]<Squire> Thaedrin <knightsofvalor> %^CYAN%^lol
+[Feb 20-11 16:44:58]<Leader> Yun <knightsofvalor> %^YELLOW%^ oo gonna check rhon real quick btw
+[Feb 20-11 16:45:2]<Leader> Yun <knightsofvalor> %^YELLOW%^ wanna see the xp cut
+[Feb 20-11 16:45:10]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nodnod
+[Feb 20-11 16:45:14]<Leader> Yun <knightsofvalor> %^YELLOW%^ haha
+[Feb 20-11 16:45:16]<Squire> Thaedrin <knightsofvalor> %^CYAN%^lol
+[Feb 20-11 16:45:22]<Leader> Yun <knightsofvalor> %^YELLOW%^ i found a 2 mober
+[Feb 20-11 16:45:30]<Leader> Yun <knightsofvalor> %^YELLOW%^ ooo cut not that bad
+[Feb 20-11 16:45:34]<Leader> Yun <knightsofvalor> %^YELLOW%^ 32 and 41k
+[Feb 20-11 16:45:48]<Leader> Yun <knightsofvalor> %^YELLOW%^ so yang def can still rock it there
+[Feb 20-11 16:46:24]<Leader> Yun <knightsofvalor> %^YELLOW%^ switching
+[Feb 20-11 16:46:28]<Squire> Thaedrin <knightsofvalor> %^CYAN%^kk
+[Feb 20-11 16:47:58]<Knight> Yang <knightsofvalor> i gots 80mil prob just another 20 will do
+[Feb 20-11 16:48:12]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cool beans. :)
+[Feb 20-11 16:48:16]<Knight> Yang <knightsofvalor> hey Van
+[Feb 20-11 16:48:20]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ya?
+[Feb 20-11 16:48:36]<Knight> Yang <knightsofvalor> just sayin hi :P
+[Feb 20-11 16:48:50]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Hey yang. :)
+[Feb 20-11 16:52:31]<Knight> Yang <knightsofvalor> west side
+[Feb 20-11 16:55:1]<Knight> Yang <knightsofvalor> he needs to get on in this
+[Feb 20-11 16:55:3]<Knight> Yang <knightsofvalor> miss
+[Feb 20-11 16:59:56]<Knight> Yang <knightsofvalor> hey Trooper
+[Feb 20-11 17:0:0]<Knight> Yang <knightsofvalor> boo mt
+[Feb 20-11 17:22:11]<Knight> Yang <knightsofvalor> Vian tell Thaed to shar rhon, everything here is dead
+[Feb 20-11 18:1:4]<Knight> Yang <knightsofvalor> bah woman doesnt wanna go anywhere
+[Feb 20-11 18:1:12]<Knight> Yang <knightsofvalor> stuck at home i guess
+[Feb 20-11 18:19:28]<Knight> Yang <knightsofvalor> hey thaed, gonna lvl i think
+[Feb 20-11 18:19:34]<Squire> Thaedrin <knightsofvalor> %^CYAN%^nodnod
+[Feb 20-11 18:19:42]<Knight> Yang <knightsofvalor> got 104 banked
+[Feb 20-11 18:19:48]<Knight> Yang <knightsofvalor> hope thats enough
+[Feb 20-11 18:19:54]<Squire> Thaedrin <knightsofvalor> %^CYAN%^should be fine
+[Feb 20-11 18:19:56]<Knight> Yang <knightsofvalor> its all because of Vian
+[Feb 20-11 18:20:2]<Knight> Yang <knightsofvalor> zol kicks my ass too much
+[Feb 20-11 18:20:30]<Knight> Yang <knightsofvalor> bah Vian's idle :P
+[Feb 20-11 22:2:28]<Knight> Yang <knightsofvalor> lol man you still at it? your a machine dude!
+[Feb 20-11 22:55:4]<Knight> Yang <knightsofvalor> hrmm spinach and garlic pizza
+[Feb 21-11 2:12:26]<Knight> Yang <knightsofvalor> wb Van
+[Feb 21-11 2:12:38]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Thanks Yang. :) Power outage happened at work
+[Feb 21-11 2:12:54]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^it came back up most places but it gave me the runaround for a while checking stuff
+[Feb 21-11 2:13:10]<Knight> Yang <knightsofvalor> ooo excitment
+[Feb 21-11 2:13:16]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^basically!
+[Feb 21-11 2:14:39]<Knight> Yang <knightsofvalor> lol watching Family Guy
+[Feb 21-11 2:14:45]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^nice. :)
+[Feb 21-11 2:14:55]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Stewie did it!
+[Feb 21-11 3:38:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^yaaang1
+[Feb 21-11 3:38:50]<Knight> Yang <knightsofvalor> hey Van
+[Feb 21-11 3:39:2]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^xpin?
+[Feb 21-11 3:39:26]<Knight> Yang <knightsofvalor> off and on
+[Feb 21-11 3:39:36]<Knight> Yang <knightsofvalor> watching old skool spiderman
+[Feb 21-11 3:39:56]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and his amazing friends or before that?
+[Feb 21-11 3:40:12]<Knight> Yang <knightsofvalor> hehe not that old skool
+[Feb 21-11 3:40:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^ahh hehe k
+[Feb 21-11 3:42:23]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I'm relieving someone for lunch who owes me money, I wonder if they got it. I sure could use it!
+[Feb 21-11 3:42:51]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^left my wallet at home
+[Feb 21-11 3:42:55]<Knight> Yang <knightsofvalor> hehe i hear ya
+[Feb 21-11 3:42:57]<Knight> Yang <knightsofvalor> ooo
+[Feb 21-11 3:42:59]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^sucky feelin!
+[Feb 21-11 3:43:39]<Knight> Yang <knightsofvalor> ive done that more than once
+[Feb 21-11 3:44:3]<Knight> Yang <knightsofvalor> driving without your liscence is scary too
+[Feb 21-11 3:44:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^lucky for me, my license is suspended, so i didnt drive. :D
+[Feb 21-11 3:44:41]<Knight> Yang <knightsofvalor> nod
+[Feb 21-11 3:44:55]<Knight> Yang <knightsofvalor> well hope your bud comes back with a steak lunch fer ya
+[Feb 21-11 3:45:23]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^she went in the lounge ta sleep. will want me to wake her up too when break is done heh
+[Feb 21-11 4:25:55]<Knight> Yang <knightsofvalor> omg Thaed
+[Feb 21-11 4:26:25]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sup
+[Feb 21-11 4:26:31]<Knight> Yang <knightsofvalor> i dunno
+[Feb 21-11 4:26:39]<Knight> Yang <knightsofvalor> tired feeling delirious
+[Feb 21-11 9:35:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^The Other mr. V!
+[Feb 21-11 9:39:24]<Master> Vian <knightsofvalor> %^BOLD%^*waves*%^RESET%^
+[Feb 22-11 0:13:44]<Knight> Yang <knightsofvalor> v
+[Feb 22-11 0:13:50]<Knight> Yang <knightsofvalor> you ever watch Being human?
+[Feb 22-11 0:14:0]<Squire> Thaedrin <knightsofvalor> %^CYAN%^naw its on my facebook tho
+[Feb 22-11 0:14:20]<Knight> Yang <knightsofvalor> pretty kool stuff
+[Feb 22-11 0:35:54]<Squire> Thaedrin <knightsofvalor> %^CYAN%^roar :P
+[Feb 22-11 0:36:10]<Knight> Yang <knightsofvalor> hehe
+[Feb 22-11 0:36:12]<Squire> Thaedrin <knightsofvalor> %^CYAN%^16m til level 50
+[Feb 22-11 0:36:18]<Knight> Yang <knightsofvalor> woooot
+[Feb 22-11 0:36:40]<Knight> Yang <knightsofvalor> dude you quick
+[Feb 22-11 1:35:39]<Knight> Yang <knightsofvalor> Thaedrin!
+[Feb 22-11 1:42:2]<Squire> Thaedrin <knightsofvalor> %^CYAN%^sup dude
+[Feb 22-11 1:42:16]<Knight> Yang <knightsofvalor> got spider armour for ya
+[Feb 22-11 1:42:20]<Squire> Thaedrin <knightsofvalor> %^CYAN%^:O yay
+[Feb 22-11 1:42:48]<Knight> Yang <knightsofvalor> where you at
+[Feb 22-11 1:42:56]<Squire> Thaedrin <knightsofvalor> %^CYAN%^doin rhon, i can be in tirun in a second
+[Feb 22-11 1:43:0]<Knight> Yang <knightsofvalor> k
+[Feb 22-11 12:10:40]<Squire> Thaedrin <knightsofvalor> %^CYAN%^
+[Feb 22-11 12:37:26]<Master> Vian <knightsofvalor> %^BOLD%^%^RESET%^
+[Feb 23-11 18:37:40]<Squire> Thaedrin <knightsofvalor> %^CYAN%^yo
+[Feb 23-11 18:37:50]<Knight> Yang <knightsofvalor> sup Thaedrin
+[Feb 23-11 18:37:58]<Squire> Thaedrin <knightsofvalor> %^CYAN%^we should def xp sometime :P got 175 wis now hehe
+[Feb 23-11 18:38:4]<Squire> Thaedrin <knightsofvalor> %^CYAN%^with buffs tho...
+[Feb 23-11 18:38:10]<Knight> Yang <knightsofvalor> wow sweet
+[Feb 23-11 18:38:16]<Squire> Thaedrin <knightsofvalor> %^CYAN%^3125 mana hehe
+[Feb 23-11 18:38:20]<knightsofvalor> Yang faints
+[Feb 23-11 18:38:30]<Knight> Yang <knightsofvalor> dude thats crazy
+[Feb 23-11 18:38:34]<Squire> Thaedrin <knightsofvalor> %^CYAN%^yea im quick haha
+[Feb 23-11 18:38:36]<Knight> Yang <knightsofvalor> we gotta xp another time tho
+[Feb 23-11 18:38:40]<Knight> Yang <knightsofvalor> at work atm
+[Feb 23-11 18:38:44]<Squire> Thaedrin <knightsofvalor> %^CYAN%^no prob just hit me up
+[Feb 23-11 18:38:48]<Knight> Yang <knightsofvalor> just got off of lunch
+[Feb 23-11 18:38:52]<Knight> Yang <knightsofvalor> sweet
+[Feb 23-11 18:38:54]<Squire> Thaedrin <knightsofvalor> %^CYAN%^I give +35 buffs now plus resonate
+[Feb 23-11 21:26:36]<Knight> Yang <knightsofvalor> nah on mer
+[Feb 23-11 21:26:40]<Master> Vian <knightsofvalor> %^BOLD%^oh lol%^RESET%^
+[Feb 23-11 21:26:46]<Knight> Yang <knightsofvalor> sorry kinda slow today
+[Feb 23-11 21:26:52]<Master> Vian <knightsofvalor> %^BOLD%^hahaha i was confused%^RESET%^
+[Feb 23-11 21:27:22]<Knight> Yang <knightsofvalor> im gaining weight but im hungry all the time
+[Feb 23-11 21:27:30]<Master> Vian <knightsofvalor> %^BOLD%^its the pregnancy %^RESET%^
+[Feb 23-11 21:27:36]<Knight> Yang <knightsofvalor> how come i gett he cravings
+[Feb 23-11 21:28:2]<Master> Vian <knightsofvalor> %^BOLD%^because you're pregnant duh%^RESET%^
+[Feb 23-11 21:28:10]<Knight> Yang <knightsofvalor> dude like an ice cream sandwich withe peanut butter was choice yesterday
+[Feb 23-11 21:28:26]<Master> Vian <knightsofvalor> %^BOLD%^mmmmm%^RESET%^
+[Feb 23-11 21:28:50]<Knight> Yang <knightsofvalor> it was pretty much a recese ice cream but dang it rocked
+[Feb 23-11 21:29:8]<Master> Vian <knightsofvalor> %^BOLD%^i want some ice cream -_-%^RESET%^
+[Feb 23-11 21:29:12]<Knight> Yang <knightsofvalor> hehe
+[Feb 23-11 21:29:26]<Knight> Yang <knightsofvalor> ooo we had smoked fish and pickles the other day
+[Feb 23-11 21:29:36]<Knight> Yang <knightsofvalor> with a few bheers
+[Feb 23-11 21:29:46]<Master> Vian <knightsofvalor> %^BOLD%^mmmm%^RESET%^
+[Feb 23-11 21:29:50]<Master> Vian <knightsofvalor> %^BOLD%^cant be drinkin yang%^RESET%^
+[Feb 23-11 21:29:52]<Knight> Yang <knightsofvalor> i did not her
+[Feb 23-11 21:29:58]<Master> Vian <knightsofvalor> %^BOLD%^same difference, you're preggers too%^RESET%^
+[Feb 23-11 21:29:58]<Knight> Yang <knightsofvalor> hehe
+[Feb 23-11 21:30:2]<Knight> Yang <knightsofvalor> lol
+[Feb 23-11 21:30:6]<Knight> Yang <knightsofvalor> meanie
+[Feb 23-11 21:31:46]<Master> Vian <knightsofvalor> %^BOLD%^:P%^RESET%^
+[Feb 24-11 20:18:59]<Knight> Yang <knightsofvalor> lol i missed the drama
+[Feb 24-11 20:19:7]<Knight> Yang <knightsofvalor> i always miss the drama
+[Feb 24-11 20:19:19]<> Thaedrin <knightsofvalor> %^CYAN%^prob for the best.
+[Feb 24-11 20:19:45]<Knight> Vent <knightsofvalor> %^BOLD%^:O %^RESET%^
+[Feb 24-11 20:20:39]<Knight> Yang <knightsofvalor> doh
+[Feb 24-11 20:22:59]<Knight> Yang <knightsofvalor> oh well
+[Feb 24-11 20:23:37]<Knight> Vent <knightsofvalor> %^BOLD%^Thaedrin, if you could "restartheart" or quit out to lose the guild line...  Dunno why you left, but if you're gone, you shouldn't have the line anymore.%^RESET%^
+[Feb 24-11 20:24:3]<> Thaedrin <knightsofvalor> %^CYAN%^I have supplies on me I didn't want to quit. Not my fault its bugged
+[Feb 24-11 20:24:37]<Knight> Yang <knightsofvalor> lol oh well
+[Feb 24-11 20:24:51]<Knight> Vent <knightsofvalor> %^BOLD%^Glad to see he was able to last so long before wanting to go be a PKer again.%^RESET%^
+[Feb 24-11 20:25:23]<Knight> Yang <knightsofvalor> well i knew we weren't gonna be the biggest guild
+[Feb 24-11 20:25:31]<Knight> Yang <knightsofvalor> lotta ppl like to pk and all
+[Feb 24-11 20:25:47]<Knight> Vent <knightsofvalor> %^BOLD%^*sigh*%^RESET%^
+[Feb 24-11 20:25:51]<Knight> Yang <knightsofvalor> oh btw
+[Feb 24-11 20:26:1]<Knight> Vent <knightsofvalor> %^BOLD%^I really don't know what his problem is with me.%^RESET%^
+[Feb 24-11 20:26:11]<Knight> Yang <knightsofvalor> did SB say ok to the X on the pk thing?
+[Feb 24-11 20:26:39]<Knight> Vent <knightsofvalor> %^BOLD%^sb has been goneish for a while now%^RESET%^
+[Feb 24-11 20:26:53]<Knight> Yang <knightsofvalor> oo
+[Feb 24-11 20:26:55]<Knight> Yang <knightsofvalor> okie
+[Feb 24-11 20:26:59]<Knight> Yang <knightsofvalor> must be the new job
+[Feb 24-11 20:27:3]<Knight> Yang <knightsofvalor> ill do my best on recruiting
+[Feb 24-11 20:27:9]<Knight> Yang <knightsofvalor> have ppl to talk to :P
+[Feb 24-11 20:27:19]<Knight> Yang <knightsofvalor> but i still luv this idea
+[Feb 24-11 20:27:21]<Knight> Yang <knightsofvalor> our idea
+[Feb 24-11 20:27:39]<Knight> Yang <knightsofvalor> Ive been in guilds with 1 or 2 loyal ppl before
+[Feb 24-11 20:27:49]<Knight> Yang <knightsofvalor> usually its best that way
+[Feb 24-11 20:28:23]<Knight> Yang <knightsofvalor> then they eventually get more ppl and grow, thats how Forsaken and DS were for a while, just gotta find ppl that share our vision
+[Feb 24-11 20:28:27]<Knight> Vent <knightsofvalor> %^BOLD%^nod nod%^RESET%^
+[Feb 24-11 20:33:21]<Knight> Yang <knightsofvalor> ooo Vent
+[Feb 24-11 20:33:31]<Knight> Yang <knightsofvalor> i forgot how to remove my descript
+[Feb 24-11 20:41:17]<Knight> Vent <knightsofvalor> %^BOLD%^i think just type describe%^RESET%^
+[Feb 24-11 20:41:23]<Knight> Yang <knightsofvalor> hehe
+[Feb 24-11 20:41:29]<Knight> Yang <knightsofvalor> got it
+[Feb 25-11 0:17:23]<Master> A shadow <knightsofvalor> %^BOLD%^yangerz%^RESET%^
+[Feb 25-11 0:17:29]<Knight> Yang <knightsofvalor> wasnt me
+[Feb 25-11 0:17:37]<Knight> Yang <knightsofvalor> ok it was
+[Feb 25-11 0:17:39]<Master> A shadow <knightsofvalor> %^BOLD%^i saw you%^RESET%^
+[Feb 25-11 0:17:41]<Knight> Yang <knightsofvalor> ill put it away
+[Feb 25-11 0:17:43]<Knight> Yang <knightsofvalor> DOH
+[Feb 25-11 0:17:43]<Master> A shadow <knightsofvalor> %^BOLD%^this is your last straw%^RESET%^
+[Feb 25-11 0:17:49]<Master> A shadow <knightsofvalor> %^BOLD%^i'm afraid the punishment is 1000 deaths%^RESET%^
+[Feb 25-11 0:17:51]<Knight> Yang <knightsofvalor> no more straws?
+[Feb 25-11 0:17:55]<Knight> Yang <knightsofvalor> doh!
+[Feb 25-11 0:18:19]<Knight> Yang <knightsofvalor> any new drama since ive been at dinner?
+[Feb 25-11 0:19:21]<Master> A shadow <knightsofvalor> %^BOLD%^nah%^RESET%^
+[Feb 25-11 0:19:30]<Master> A shadow <knightsofvalor> %^BOLD%^just the same bullshit we've been dealing with for the past since sopboo's been her%^RESET%^
+[Feb 25-11 0:19:58]<Knight> Yang <knightsofvalor> hehe
+[Feb 25-11 0:20:37]<Knight> Yang <knightsofvalor> hopefully we can get SB approve of that no pk stuff and we just put ppl we dont like on ignore :)
+[Feb 25-11 0:21:21]<Master> A shadow <knightsofvalor> %^BOLD%^would be a beautiful situation%^RESET%^
+[Feb 25-11 0:21:27]<Master> A shadow <knightsofvalor> %^BOLD%^start hounding him about it ;P%^RESET%^
+[Feb 25-11 0:22:1]<Knight> Yang <knightsofvalor> hehe
+[Feb 25-11 0:22:49]<Master> A shadow <knightsofvalor> %^BOLD%^my net didnt work all day i was tethering%^RESET%^
+[Feb 25-11 0:22:51]<Master> A shadow <knightsofvalor> %^BOLD%^was annoying%^RESET%^
+[Feb 25-11 0:23:23]<Knight> Yang <knightsofvalor> got scared today at work when 2 comp techs showed up
+[Feb 25-11 0:23:53]<Master> A shadow <knightsofvalor> %^BOLD%^haha%^RESET%^
+[Feb 25-11 0:24:21]<Knight> Yang <knightsofvalor> they said they are gonna install a Rogue program
+[Feb 25-11 0:25:33]<Master> A shadow <knightsofvalor> %^BOLD%^which would do what%^RESET%^
+[Feb 25-11 0:26:16]<Knight> Yang <knightsofvalor> think the guy said ppl been trynna break our wifi
+[Feb 25-11 0:26:22]<Master> A shadow <knightsofvalor> %^BOLD%^ohh%^RESET%^
+[Feb 25-11 0:27:34]<Knight> Yang <knightsofvalor> lol funny just a 2 yrs ago my friend and i were able to watch porn on our comps
+[Feb 25-11 0:27:44]<Knight> Yang <knightsofvalor> now we can barely go to FB
+[Feb 25-11 0:28:16]<Master> A shadow <knightsofvalor> %^BOLD%^lolll%^RESET%^
+[Feb 25-11 0:28:18]<Master> A shadow <knightsofvalor> %^BOLD%^why were oyu watching porn at work%^RESET%^
+[Feb 25-11 0:28:20]<Master> A shadow <knightsofvalor> %^BOLD%^weirdo%^RESET%^
+[Feb 25-11 0:28:24]<Master> A shadow <knightsofvalor> %^BOLD%^:P%^RESET%^
+[Feb 25-11 0:28:50]<Knight> Yang <knightsofvalor> you ever try to tell someone they have diabetes while watching Paris Hilton's reason for existing on 2 separate monitors?
+[Feb 25-11 0:28:56]<Knight> Yang <knightsofvalor> funny as hell
+[Feb 25-11 0:31:44]<Master> A shadow <knightsofvalor> %^BOLD%^-_-%^RESET%^
+[Feb 25-11 0:40:18]<Knight> Yang <knightsofvalor> wish we had more "saintly" based quest races
+[Feb 25-11 0:40:52]<Knight> Yang <knightsofvalor> the good guys have angel and a few dragons, bad guys got demon lich vamps and dragons
+[Feb 25-11 0:42:52]<Master> A shadow <knightsofvalor> %^BOLD%^lol true%^RESET%^
+[Feb 25-11 0:43:5]<Master> A shadow <knightsofvalor> %^BOLD%^maybe lich could be dropped/changed%^RESET%^
+[Feb 25-11 0:43:10]<Master> A shadow <knightsofvalor> %^BOLD%^since theres really no plans with it at all%^RESET%^
+[Feb 25-11 0:43:14]<Knight> Yang <knightsofvalor> oo
+[Feb 25-11 0:43:26]<Knight> Yang <knightsofvalor> what good races are there tho
+[Feb 25-11 0:43:28]<Master> A shadow <knightsofvalor> %^BOLD%^i know Smokey already has minotaur all coded up%^RESET%^
+[Feb 25-11 0:43:36]<Master> A shadow <knightsofvalor> %^BOLD%^which i think couuld be a good race%^RESET%^
+[Feb 25-11 0:43:46]<Knight> Yang <knightsofvalor> i had a minotaur
+[Feb 25-11 0:44:8]<Knight> Yang <knightsofvalor> minotaurs are the best thugs
+[Feb 25-11 0:44:12]<Master> A shadow <knightsofvalor> %^BOLD%^oh its already a race here%^RESET%^
+[Feb 25-11 0:44:16]<Knight> Yang <knightsofvalor> nod
+[Feb 25-11 0:44:36]<Master> A shadow <knightsofvalor> %^BOLD%^cant really take over a race like that haha%^RESET%^
+[Feb 25-11 0:57:8]<Knight> Yang <knightsofvalor> bah cant think of any good races cept pegesus
+[Feb 26-11 13:25:16]<Council> Larry <knightsofvalor> sup
+[Feb 26-11 13:25:38]<Council> Larry <knightsofvalor> you there SB
+[Feb 28-11 15:41:27]<Leader> Yun <knightsofvalor> %^YELLOW%^ hehe
+[Feb 28-11 15:41:31]<Leader> Yun <knightsofvalor> %^YELLOW%^ talked to SB
+[Feb 28-11 15:41:37]<Leader> Yun <knightsofvalor> %^YELLOW%^ he as plans
+[Feb 28-11 15:49:21]<Master> A shadow <knightsofvalor> %^BOLD%^about kov?%^RESET%^
+[Feb 28-11 16:4:5]<Knight> Yang <knightsofvalor> V that you?
+[Feb 28-11 16:49:56]<Knight> Yang <knightsofvalor> V V V V V V V V
+[Feb 28-11 17:7:31]<Master> Vian <knightsofvalor> %^BOLD%^hi%^RESET%^
+[Feb 28-11 20:13:30]<knightsofvalor> Yang slaps his forhead
+[Feb 28-11 20:13:32]<Knight> Yang <knightsofvalor> hey v
+[Feb 28-11 20:50:46]<Knight> Yang <knightsofvalor> V
+[Feb 28-11 20:51:52]<Knight> Yang <knightsofvalor> V!
+[Feb 28-11 21:0:5]<Master> Vian <knightsofvalor> %^BOLD%^hi%^RESET%^
+[Feb 28-11 21:12:53]<Knight> Yang <knightsofvalor> lol lotta excitment today huh
+[Feb 28-11 21:12:57]<Master> Vian <knightsofvalor> %^BOLD%^so much%^RESET%^
+[Feb 28-11 21:13:3]<Master> Vian <knightsofvalor> %^BOLD%^i love being told what to do by ungrateful assholes %^RESET%^
+[Feb 28-11 21:13:7]<Master> Vian <knightsofvalor> %^BOLD%^inb4 thaedrin %^RESET%^
+[Feb 28-11 21:13:19]<Knight> Yang <knightsofvalor> haha dont worry bout him
+[Feb 28-11 21:13:25]<Knight> Yang <knightsofvalor> guess he will never change
+[Feb 28-11 21:14:4]<Knight> Yang <knightsofvalor> guess as long as we dont let others change us =)
+[Feb 28-11 21:14:5]<Master> Vian <knightsofvalor> %^BOLD%^and to think i had high hopes%^RESET%^
+[Feb 28-11 21:14:22]<Knight> Yang <knightsofvalor> well we weeded out another one for good
+[Feb 28-11 21:14:31]<Knight> Yang <knightsofvalor> wont stop me from my goal
+[Feb 28-11 21:14:37]<Master> Vian <knightsofvalor> %^BOLD%^nod nod%^RESET%^
+[Feb 28-11 21:16:19]<Master> Vian <knightsofvalor> %^BOLD%^just had to put thaedrin on ignore%^RESET%^
+[Feb 28-11 21:32:6]<Knight> Yang <knightsofvalor> id rather just not be killed at all thank you :P
+[Feb 28-11 21:32:20]<Master> Vian <knightsofvalor> %^BOLD%^hahaha%^RESET%^
+[Feb 28-11 21:40:57]<Knight> Yang <knightsofvalor> no worries man soon things will be changed
+[Mar 1-11 12:55:4]<Knight> Yang <knightsofvalor> we have Vian in our guild so we have 2 specials here :P
+[Mar 1-11 12:56:28]<Master> Stormbringer <knightsofvalor> what a long guild name
+[Mar 1-11 12:56:52]<Master> Stormbringer <knightsofvalor> had to alias the line =P
+[Mar 1-11 12:57:32]<Knight> Yang <knightsofvalor> hey SB
+[Mar 1-11 12:58:2]<Master> Stormbringer <knightsofvalor> Yangypoo, how goes the island life?
+[Mar 1-11 12:58:22]<Master> Stormbringer <knightsofvalor> gotta be better than unemplyed on the mainland?
+[Mar 1-11 12:58:34]<Knight> Yang <knightsofvalor> lol i think i shouldnt have kissed that old sick lady on the lips
+[Mar 1-11 12:58:38]<Knight> Yang <knightsofvalor> feelin junk
+[Mar 1-11 13:1:14]<Knight> Yang <knightsofvalor> hows yer job been SB
+[Mar 1-11 13:1:24]<Master> Stormbringer <knightsofvalor> I got booted
+[Mar 1-11 13:1:32]<Master> Stormbringer <knightsofvalor> I am unemployed again
+[Mar 1-11 13:1:44]<Master> Stormbringer <knightsofvalor> dirty office politics
+[Mar 1-11 13:2:8]<Master> Stormbringer <knightsofvalor> the other mapper sabataged me with the owner, convinced him I couldn't do the job
+[Mar 1-11 13:2:22]<Knight> Yang <knightsofvalor> what happen!
+[Mar 1-11 13:2:24]<Knight> Yang <knightsofvalor> omg
+[Mar 1-11 13:2:30]<Knight> Yang <knightsofvalor> bastids
+[Mar 1-11 13:2:34]<Master> Stormbringer <knightsofvalor> yeah
+[Mar 1-11 13:2:44]<Master> Stormbringer <knightsofvalor> it's not good
+[Mar 1-11 13:2:44]<Knight> Yang <knightsofvalor> well wouldnt be good for you to work in an environment like that too
+[Mar 1-11 13:2:50]<Knight> Yang <knightsofvalor> would have gotten alot worse
+[Mar 1-11 13:2:56]<Master> Stormbringer <knightsofvalor> I have been talking to some others but nothing yet
+[Mar 1-11 13:3:18]<Knight> Yang <knightsofvalor> good you got out now tho, you guys had an HR?
+[Mar 1-11 13:3:26]<Master> Stormbringer <knightsofvalor> nah, I could have hacked it
+[Mar 1-11 13:3:32]<Master> Stormbringer <knightsofvalor> nah
+[Mar 1-11 13:3:38]<Master> Stormbringer <knightsofvalor> not really
+[Mar 1-11 13:4:8]<Master> Stormbringer <knightsofvalor> in fact, I worked through a weekend to speed through a job just to turn something in to prove I could do the work
+[Mar 1-11 13:4:18]<Master> Stormbringer <knightsofvalor> but they had already hired someone else...
+[Mar 1-11 13:4:26]<Master> Stormbringer <knightsofvalor> shrug
+[Mar 1-11 13:6:30]<Knight> Yang <knightsofvalor> dude thats bs
+[Mar 1-11 13:6:46]<Knight> Yang <knightsofvalor> they knew you worked hard so they thought of you as competition
+[Mar 1-11 13:6:56]<Master> Stormbringer <knightsofvalor> I impressed the vp enough he arranged for some other interviews though
+[Mar 1-11 13:7:14]<Knight> Yang <knightsofvalor> kool
+[Mar 1-11 13:7:24]<Knight> Yang <knightsofvalor> kep them impressed :)
+[Mar 1-11 13:40:40]<Knight> Yang <knightsofvalor> sweet raknid zerker
+[Mar 1-11 13:40:46]<Knight> Yang <knightsofvalor> bah mt
+[Mar 1-11 13:54:23]<Knight> Yang <knightsofvalor> hey SB you there?
+[Mar 1-11 13:54:45]<Knight> Yang <knightsofvalor> i wanna kinda talk to you bout something
+[Mar 1-11 13:54:47]<Master> Stormbringer <knightsofvalor> yo
+[Mar 1-11 13:54:53]<Master> Stormbringer <knightsofvalor> hit me with it
+[Mar 1-11 15:44:31]<Leader> Yun <knightsofvalor> bah have to redo my aliases
+[Mar 6-11 13:6:37]<Knight> Yang <knightsofvalor> hrmm wonder if Nul is concidering what i mailed to him
+[Mar 6-11 13:7:5]<Knight> Yang <knightsofvalor> i havent gotten a heck no response yet, so this might be good
+[Mar 6-11 13:14:49]<Master> A shadow <knightsofvalor> %^BOLD%^heck no, techno%^RESET%^
+[Mar 6-11 13:14:53]<Knight> Yang <knightsofvalor> lol
+[Mar 6-11 13:15:11]<Knight> Yang <knightsofvalor> oh well better find me a cleric then
+[Mar 6-11 13:15:14]<Knight> Yang <knightsofvalor> how you doin V
+[Mar 6-11 13:19:25]<Knight> Yang <knightsofvalor> hrmm i did the demon quest
+[Mar 6-11 13:19:33]<Knight> Yang <knightsofvalor> wonder if i can do the angel quest
+[Mar 6-11 13:21:1]<Master> A shadow <knightsofvalor> %^BOLD%^id think youd be fine with angel quest but hey what do i know%^RESET%^
+[Mar 6-11 13:21:9]<Knight> Yang <knightsofvalor> haha
+[Mar 6-11 13:21:31]<Master> A shadow <knightsofvalor> %^BOLD%^i dont know if a demon can do it%^RESET%^
+[Mar 6-11 13:21:35]<Master> A shadow <knightsofvalor> %^BOLD%^but youre not a demon anymore%^RESET%^
+[Mar 6-11 13:21:39]<Knight> Yang <knightsofvalor> nod
+[Mar 6-11 22:51:24]<Council> Larry <knightsofvalor> any one able to tlel me how to get to and into our guild hall?
+[Mar 7-11 7:20:1]<Council> Larry <knightsofvalor> afk
+[Mar 7-11 7:20:13]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Aye, councillor. >:)
+[Mar 7-11 7:20:43]<Council> Larry <knightsofvalor> no shop, and no bank
+[Mar 7-11 7:20:51]<Council> Larry <knightsofvalor> humm
+[Mar 7-11 7:20:59]<Council> Larry <knightsofvalor> afk
+[Mar 7-11 7:21:17]<Council> Larry <knightsofvalor> Happy Hunting Squire
+[Mar 7-11 7:21:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^:D
+[Mar 8-11 18:30:17]<Knight> Vent <knightsofvalor> %^BOLD%^:O%^RESET%^
+[Mar 8-11 18:32:58]<Council> Larry <knightsofvalor> Morning
+[Mar 8-11 18:34:56]<Council> Larry <knightsofvalor> no shops or bank yet
+[Mar 8-11 18:36:4]<Squire> Tai <knightsofvalor> test
+[Mar 8-11 18:36:6]<Squire> Tai <knightsofvalor> sweet
+[Mar 8-11 18:36:10]<Council> Larry <knightsofvalor> nice hehe
+[Mar 8-11 18:36:44]<Squire> Tai <knightsofvalor> Larry, just the guy i wanna talk to
+[Mar 8-11 18:36:52]<Council> Larry <knightsofvalor> whats up
+[Mar 8-11 18:37:34]<Squire> Tai <knightsofvalor> wonder at the shop if we should sell foods and drinks
+[Mar 8-11 18:37:58]<Council> Larry <knightsofvalor> the shop that is currently being worked out for the guild?
+[Mar 8-11 18:38:2]<Squire> Tai <knightsofvalor> i still like the idea of an amulet with + to gen armour
+[Mar 8-11 18:38:20]<Squire> Tai <knightsofvalor> need more ideas
+[Mar 8-11 18:38:32]<Squire> Tai <knightsofvalor> so if you have any pls post them up
+[Mar 8-11 18:38:42]<Squire> Tai <knightsofvalor> was also thinking bout a shepards staff
+[Mar 8-11 18:39:19]<Council> Larry <knightsofvalor> is there anything that you had in mind?
+[Mar 8-11 18:39:23]<Council> Larry <knightsofvalor> + to armour
+[Mar 8-11 18:40:9]<Squire> Tai <knightsofvalor> so far the amulet if you grasp amulet you get something extra like magical type to armour
+[Mar 8-11 18:40:25]<Council> Larry <knightsofvalor> ok, did you really want to worry about guild weapons?
+[Mar 8-11 18:40:39]<Council> Larry <knightsofvalor> there are so many great weapons out there it just seems like a waste of coin
+[Mar 8-11 18:41:11]<Council> Larry <knightsofvalor> Def a guild item tho, like a ring, amulet, or somthing like that
+[Mar 8-11 18:41:33]<Council> Larry <knightsofvalor> to show that you are a KOV
+[Mar 8-11 18:42:29]<Council> Larry <knightsofvalor> If you wanted to save on guild weapons, you could think about the possablity of items that show ur rank in the guild
+[Mar 8-11 18:43:7]<Council> Larry <knightsofvalor> eg a sash for squires, ring for knights, amulet for council and a crown or something for Leaders
+[Mar 8-11 18:43:41]<Council> Larry <knightsofvalor> as we are a helping guild it wouldnt hurt to show status
+[Mar 8-11 18:44:29]<Council> Larry <knightsofvalor> Any one above Squire should need to put a reference to the guild in their title, be it their rank in the guild or something about KOV
+[Mar 8-11 18:44:59]<Council> Larry <knightsofvalor> We cant help if we dont show we are online.
+[Mar 8-11 18:45:15]<Council> Larry <knightsofvalor> Kind a stuck for me tho as am lvl19 and cant post a title.
+[Mar 8-11 18:45:49]<Council> Larry <knightsofvalor> Are we going to have a shop in the guild hall that sells food stuffs?
+[Mar 8-11 18:46:7]<Council> Larry <knightsofvalor> again, prolly not somthing that we need as there is so much great food out there all ready.
+[Mar 8-11 18:46:47]<Council> Larry <knightsofvalor> A guild vendor would be good tho, one that guild members can sell their items to, one that wont reset.
+[Mar 8-11 18:47:27]<Council> Larry <knightsofvalor> So that guild members can feel as though they are helping even tho they might not beonline. Their EQ sold might aid another player when they log on.
+[Mar 8-11 18:48:47]<Council> Larry <knightsofvalor> do we have their good align room because we are a good alighn guild?
+[Mar 8-11 18:49:43]<Council> Larry <knightsofvalor> *mumbles* Tai why ask me these questions then go idle!
+[Mar 8-11 18:49:49]<Council> Larry <knightsofvalor> haha
+[Mar 8-11 18:53:26]<Squire> Tai <knightsofvalor> haha
+[Mar 8-11 18:53:26]<Squire> Tai <knightsofvalor> sorry
+[Mar 8-11 18:53:34]<Squire> Tai <knightsofvalor> work kickin my butt
+[Mar 8-11 18:54:46]<Council> Larry <knightsofvalor> doing a quick post
+[Mar 8-11 18:54:52]<Council> Larry <knightsofvalor> one sec, i have gym in 5min
+[Mar 8-11 18:55:8]<Squire> Tai <knightsofvalor> so def wanna get a vuild vender that sells
+[Mar 8-11 18:55:22]<Squire> Tai <knightsofvalor> food drinks... lol soul food
+[Mar 8-11 18:55:40]<Council> Larry <knightsofvalor> two sec bro then you can read my post
+[Mar 8-11 18:56:4]<Squire> Tai <knightsofvalor> and i know the generic would be a ring i like the crown idea for the higher ups, something like the auqa tiara
+[Mar 8-11 18:56:14]<Council> Larry <knightsofvalor> one sec
+[Mar 8-11 19:0:32]<Council> Larry <knightsofvalor> quick
+[Mar 8-11 19:0:40]<Council> Larry <knightsofvalor> come to guild hall
+[Mar 8-11 19:1:18]<Council> Larry <knightsofvalor> bah
+[Mar 8-11 19:1:24]<Council> Larry <knightsofvalor> i have to change it all
+[Mar 8-11 19:1:34]<Council> Larry <knightsofvalor> cause Cmud wont let me post it with brackets
+[Mar 8-11 19:3:56]<Council> Larry <knightsofvalor> ok i did one for the item descips but i ran out of time for the Leaders
+[Mar 8-11 19:4:0]<Council> Larry <knightsofvalor> ill have to do that laters
+[Mar 8-11 19:4:22]<Council> Larry <knightsofvalor> if you get a chance go to the guild hall and try unjumble all that
+[Mar 8-11 19:4:47]<Council> Larry <knightsofvalor> and repost to let me know what you think and if you want me to make more sutff
+[Mar 8-11 19:4:59]<Council> Larry <knightsofvalor> afk
+[Mar 8-11 19:18:30]<Squire> Tai <knightsofvalor> lol sorry Larry, gotta do an I&O cath on a patient
+[Mar 8-11 19:19:54]<Squire> Tai <knightsofvalor> hey Vent check out Larry's post
+[Mar 8-11 19:19:56]<Squire> Tai <knightsofvalor> very nice
+[Mar 10-11 1:32:11]<Council> Larry <knightsofvalor> humm
+[Mar 12-11 0:15:7]<Squire> Tai <knightsofvalor> this is what happens when i dump my main char
+[Mar 13-11 6:14:29]<Council> Larry <knightsofvalor> evning
+[Mar 13-11 11:41:55]<Council> Larry <knightsofvalor> any one getten bad lag?
+[Mar 13-11 21:55:9]<Council> Larry <knightsofvalor> Morning
+[Mar 13-11 21:55:15]<Council> Larry <knightsofvalor> woot the lag is gone
+[Mar 13-11 21:55:47]<Squire> Tai <knightsofvalor> i lagging off and on :(
+[Mar 13-11 21:55:51]<Squire> Tai <knightsofvalor> sup man
+[Mar 13-11 21:55:52]<Council> Larry <knightsofvalor> oh
+[Mar 13-11 21:55:58]<Council> Larry <knightsofvalor> leveled up to 30
+[Mar 13-11 21:56:1]<Council> Larry <knightsofvalor> for warblade
+[Mar 13-11 21:56:11]<Squire> Tai <knightsofvalor> how u liking 30?
+[Mar 13-11 21:56:15]<Council> Larry <knightsofvalor> not sure yet
+[Mar 13-11 21:56:26]<Council> Larry <knightsofvalor> am weighing up the options betwn Terek and Larry
+[Mar 13-11 21:56:32]<Council> Larry <knightsofvalor> Both my berzerkers
+[Mar 13-11 21:56:50]<Council> Larry <knightsofvalor> i was hoping to make a dex intence fighter for slash and warblade.
+[Mar 13-11 21:57:2]<Council> Larry <knightsofvalor> and to see how much of a difference Dex makes to Pummel
+[Mar 13-11 21:57:10]<Squire> Tai <knightsofvalor> nod
+[Mar 13-11 21:57:41]<Council> Larry <knightsofvalor> if things dont work out, i think ill side line Larry and move back to Terek. Least then I have cheep str and con. Both good for Wielding axes and melee
+[Mar 13-11 21:57:43]<Squire> Tai <knightsofvalor> kinda like pummel, tho its a bit random
+[Mar 13-11 21:57:51]<Squire> Tai <knightsofvalor> nod
+[Mar 13-11 21:57:59]<Council> Larry <knightsofvalor> having more dex might fix that tho
+[Mar 13-11 21:58:12]<Council> Larry <knightsofvalor> dex for hits, str for dmg
+[Mar 13-11 21:58:49]<Squire> Tai <knightsofvalor> what lvl is terek?
+[Mar 13-11 21:58:55]<Council> Larry <knightsofvalor> 35
+[Mar 13-11 21:59:0]<Council> Larry <knightsofvalor> not sure why, but he is
+[Mar 13-11 21:59:40]<Squire> Tai <knightsofvalor> hew is 36 or 35?
+[Mar 13-11 21:59:53]<Council> Larry <knightsofvalor> not sure when Hew is, but he has it at 35
+[Mar 13-11 22:0:15]<Squire> Tai <knightsofvalor> nod
+[Mar 13-11 22:0:45]<Council> Larry <knightsofvalor> also getten two hits on my warblade is sweet
+[Mar 13-11 22:0:54]<Squire> Tai <knightsofvalor> your attack must be pimp at 30
+[Mar 13-11 22:1:7]<Council> Larry <knightsofvalor> 486 raged
+[Mar 13-11 22:1:10]<Squire> Tai <knightsofvalor> wow
+[Mar 13-11 22:1:21]<Master> Vian <knightsofvalor> %^BOLD%^i didnt like pummel on my zerker%^RESET%^
+[Mar 13-11 22:1:24]<Master> Vian <knightsofvalor> %^BOLD%^i said fuck it and got weapons%^RESET%^
+[Mar 13-11 22:1:31]<Council> Larry <knightsofvalor> really vian?
+[Mar 13-11 22:1:32]<Squire> Tai <knightsofvalor> nod nod
+[Mar 13-11 22:1:34]<Council> Larry <knightsofvalor> i liked it
+[Mar 13-11 22:1:38]<Master> Vian <knightsofvalor> %^BOLD%^yeah%^RESET%^
+[Mar 13-11 22:1:42]<Master> Vian <knightsofvalor> %^BOLD%^and i got to level 50ish with 150s in stats%^RESET%^
+[Mar 13-11 22:1:46]<Master> Vian <knightsofvalor> %^BOLD%^this was recently%^RESET%^
+[Mar 13-11 22:1:52]<Council> Larry <knightsofvalor> i just got upset cause it didnt seem to go off enough while raged
+[Mar 13-11 22:2:1]<Master> Vian <knightsofvalor> %^BOLD%^yeah%^RESET%^
+[Mar 13-11 22:2:11]<Master> Vian <knightsofvalor> %^BOLD%^i thought spiked gloves would be sweet too but they didnt really help that much%^RESET%^
+[Mar 13-11 22:2:20]<Council> Larry <knightsofvalor> yeah those gloves are great
+[Mar 13-11 22:2:32]<Council> Larry <knightsofvalor> but its why am trying a sword zerker this zime
+[Mar 13-11 22:3:33]<Council> Larry <knightsofvalor> i would liek ot have an elite berserker
+[Mar 13-11 22:3:38]<Master> Vian <knightsofvalor> %^BOLD%^yeah%^RESET%^
+[Mar 13-11 22:3:59]<Council> Larry <knightsofvalor> actually I would love to have a berserker as the second character i take to legend
+[Mar 13-11 22:4:43]<Council> Larry <knightsofvalor> I have a question about rage, does it reset ur sp per round as a percentage of the amout you start with?
+[Mar 13-11 22:4:53]<Council> Larry <knightsofvalor> or is it a % of the full sp you have
+[Mar 13-11 22:5:8]<Squire> Tai <knightsofvalor> think its the sp you have
+[Mar 13-11 22:5:33]<Council> Larry <knightsofvalor> I have notived that if i start on full sp, i reset each round to full sp
+[Mar 13-11 22:5:42]<Council> Larry <knightsofvalor> if i start below half, it resets to half
+[Mar 13-11 22:5:51]<Squire> Tai <knightsofvalor> oh
+[Mar 13-11 22:6:49]<Council> Larry <knightsofvalor> Raging on full sp give you BEAST idles
+[Mar 13-11 22:7:49]<Council> Larry <knightsofvalor> so did you like my ideas i posted?
+[Mar 13-11 22:8:41]<Squire> Tai <knightsofvalor> yeah i def do wanted to ask V what he thought about it
+[Mar 13-11 22:8:46]<Squire> Tai <knightsofvalor> sorry still laggin
+[Mar 13-11 22:9:1]<Council> Larry <knightsofvalor> also, what did you want to have in titles? As am 30 now i can have a title. what idd you want me to have?
+[Mar 13-11 22:10:14]<Squire> Tai <knightsofvalor> usually dont tell ppl what to have in their tittles
+[Mar 13-11 22:10:17]<Council> Larry <knightsofvalor> I noticed Knight Vent has a good title.
+[Mar 13-11 22:10:21]<Squire> Tai <knightsofvalor> but its a nice idea
+[Mar 13-11 22:10:39]<Council> Larry <knightsofvalor> i thought i rememberd you wanted us o have a reference to the guild in our title?
+[Mar 13-11 22:10:54]<Council> Larry <knightsofvalor> we are a newbie helping guild, it would be good to show that we are online
+[Mar 13-11 22:11:59]<Squire> Tai <knightsofvalor> nod white knight, always seemed standard
+[Mar 13-11 22:12:9]<Master> Stormbringer <knightsofvalor> hrm
+[Mar 13-11 22:12:15]<Council> Larry <knightsofvalor> I am a council member tho
+[Mar 13-11 22:12:20]<Master> Stormbringer <knightsofvalor> long name ;)
+[Mar 13-11 22:12:21]<Squire> Tai <knightsofvalor> haha not for long
+[Mar 13-11 22:12:34]<Council> Larry <knightsofvalor> you are busting me down?
+[Mar 13-11 22:12:41]<Master> Stormbringer <knightsofvalor> how goes gents?
+[Mar 13-11 22:12:44]<Squire> Tai <knightsofvalor> no no no
+[Mar 13-11 22:12:48]<Squire> Tai <knightsofvalor> was gonna change the names
+[Mar 13-11 22:12:54]<Council> Larry <knightsofvalor> very well thanks SB
+[Mar 13-11 22:12:57]<Council> Larry <knightsofvalor> how are you?
+[Mar 13-11 22:13:5]<Master> Stormbringer <knightsofvalor> tired :/
+[Mar 13-11 22:13:13]<Council> Larry <knightsofvalor> :(
+[Mar 13-11 22:13:20]<Master> Stormbringer <knightsofvalor> Daylight Savings time kicked my arse last night
+[Mar 13-11 22:13:43]<Squire> Tai <knightsofvalor> bah
+[Mar 13-11 22:13:45]<Council> Larry <knightsofvalor> I hate DLS :(
+[Mar 13-11 22:13:54]<Council> Larry <knightsofvalor> am going to Distopia
+[Mar 13-11 22:13:56]<Squire> Tai <knightsofvalor> laging
+[Mar 13-11 22:14:2]<Master> Vian <knightsofvalor> %^BOLD%^vent has the best title%^RESET%^
+[Mar 13-11 22:14:16]<Squire> Tai <knightsofvalor> naked vent
+[Mar 13-11 22:14:20]<Council> Larry <knightsofvalor> it is a great title. Hey Vent.
+[Mar 13-11 22:14:21]<Knight> Vent <knightsofvalor> %^BOLD%^White Knight Vent the Valarous %^RESET%^
+[Mar 13-11 22:14:22]<Knight> Vent <knightsofvalor> %^BOLD%^so many Vs%^RESET%^
+[Mar 13-11 22:14:30]<Council> Larry <knightsofvalor> What do you think of my guild item ideas?
+[Mar 13-11 22:14:39]<Council> Larry <knightsofvalor> based off what rank in the guild you are at
+[Mar 13-11 22:14:58]<Knight> Vent <knightsofvalor> %^BOLD%^i think it sounds kinda cool%^RESET%^
+[Mar 13-11 22:15:1]<Knight> Vent <knightsofvalor> %^BOLD%^but would be confusing to code :P%^RESET%^
+[Mar 13-11 22:15:3]<Squire> Tai <knightsofvalor> yeah, was wondering what V thought about it, since it would kinda be more than one item
+[Mar 13-11 22:15:8]<Squire> Tai <knightsofvalor> nod
+[Mar 13-11 22:15:28]<Council> Larry <knightsofvalor> humm ok.. well its still an idea
+[Mar 13-11 22:15:35]<Knight> Vent <knightsofvalor> %^BOLD%^arena me for it%^RESET%^
+[Mar 13-11 22:15:46]<Squire> Tai <knightsofvalor> gettum larry!
+[Mar 13-11 22:15:47]<Council> Larry <knightsofvalor> i suppose can just trust members to only buy what they are ment to wear lol
+[Mar 13-11 22:15:52]<Knight> Vent <knightsofvalor> %^BOLD%^i warn you i've been exping more than usual lately%^RESET%^
+[Mar 13-11 22:15:53]<Council> Larry <knightsofvalor> get who?
+[Mar 13-11 22:16:16]<Squire> Tai <knightsofvalor> Vent wants an arena
+[Mar 13-11 22:16:29]<Council> Larry <knightsofvalor> i will only if you dont leave the room
+[Mar 13-11 22:16:34]<Council> Larry <knightsofvalor> am usless with out rage
+[Mar 13-11 22:16:36]<Knight> Vent <knightsofvalor> %^BOLD%^ok%^RESET%^
+[Mar 13-11 22:16:40]<Knight> Vent <knightsofvalor> %^BOLD%^you're useless with rage too though%^RESET%^
+[Mar 13-11 22:16:44]<Knight> Vent <knightsofvalor> %^BOLD%^just warning you%^RESET%^
+[Mar 13-11 22:16:53]<Council> Larry <knightsofvalor> yeah prolly
+[Mar 13-11 22:17:0]<Council> Larry <knightsofvalor> omw
+[Mar 13-11 22:17:42]<Knight> Vent <knightsofvalor> %^BOLD%^omg you gotta let df hit%^RESET%^
+[Mar 13-11 22:17:49]<Council> Larry <knightsofvalor> nice dragon fury!
+[Mar 13-11 22:17:54]<Knight> Vent <knightsofvalor> %^BOLD%^that was breathe df didnt hit%^RESET%^
+[Mar 13-11 22:18:0]<Knight> Vent <knightsofvalor> %^BOLD%^oh wait it did%^RESET%^
+[Mar 13-11 22:18:4]<Council> Larry <knightsofvalor> yeah it did
+[Mar 13-11 22:18:18]<Council> Larry <knightsofvalor> df did 1k
+[Mar 13-11 22:18:24]<Council> Larry <knightsofvalor> breathe did 400ish
+[Mar 13-11 22:18:29]<Council> Larry <knightsofvalor> almost 500 dmg
+[Mar 13-11 22:18:49]<Knight> Vent <knightsofvalor> %^BOLD%^i suck%^RESET%^
+[Mar 13-11 22:19:0]<Council> Larry <knightsofvalor> dunno about that lol
+[Mar 13-11 22:19:4]<Council> Larry <knightsofvalor> whooped my ass
+[Mar 13-11 22:19:16]<Council> Larry <knightsofvalor> my dragon sucks :p
+[Mar 13-11 22:19:21]<Knight> Vent <knightsofvalor> %^BOLD%^which one :P%^RESET%^
+[Mar 13-11 22:19:26]<Council> Larry <knightsofvalor> the black one
+[Mar 13-11 22:20:51]<Council> Larry <knightsofvalor> got a small ways to go
+[Mar 13-11 22:21:5]<Council> Larry <knightsofvalor> noticed our guild coffers overrunth
+[Mar 13-11 22:22:6]<Squire> Tai <knightsofvalor> ok brb gonna restart
+[Mar 13-11 22:22:12]<Council> Larry <knightsofvalor> ok
+[Mar 13-11 22:22:31]<Council> Larry <knightsofvalor> Hey Vian
+[Mar 13-11 22:22:46]<Council> Larry <knightsofvalor> i tryed to upload a photo for my character but it woulndt let me log on
+[Mar 13-11 22:22:49]<Council> Larry <knightsofvalor> how do i do that
+[Mar 13-11 22:24:46]<Master> Vian <knightsofvalor> %^BOLD%^try all lowercase for ur username, fixed it for me%^RESET%^
+[Mar 13-11 22:24:59]<Council> Larry <knightsofvalor> ok ill try now
+[Mar 13-11 22:25:38]<Council> Larry <knightsofvalor> nope didnt work
+[Mar 13-11 22:26:42]<Council> Larry <knightsofvalor> its my character name and password right?
+[Mar 13-11 22:29:6]<Master> Vian <knightsofvalor> %^BOLD%^ya%^RESET%^
+[Mar 13-11 22:29:9]<Master> Vian <knightsofvalor> %^BOLD%^gotta ask whit on that one%^RESET%^
+[Mar 13-11 22:29:13]<Master> Vian <knightsofvalor> %^BOLD%^it worked for me%^RESET%^
+[Mar 13-11 22:29:17]<Council> Larry <knightsofvalor> really?
+[Mar 13-11 22:29:21]<Council> Larry <knightsofvalor> lame :(
+[Mar 13-11 22:29:48]<Council> Larry <knightsofvalor> do i need to register my name or somthing some where
+[Mar 13-11 22:30:21]<Master> Vian <knightsofvalor> %^BOLD%^no%^RESET%^
+[Mar 13-11 22:30:24]<Master> Vian <knightsofvalor> %^BOLD%^i just logged in hehe%^RESET%^
+[Mar 13-11 22:30:52]<Council> Larry <knightsofvalor> serious.. dammt
+[Mar 13-11 22:31:2]<Council> Larry <knightsofvalor> its telling me invald username and password
+[Mar 13-11 22:31:51]<Council> Larry <knightsofvalor> its just hateing on me :p
+[Mar 13-11 22:34:58]<Council> Larry <knightsofvalor> i have a cool pic and everything :p
+[Mar 13-11 22:57:13]<Council> Larry <knightsofvalor> well that hurt lol
+[Mar 13-11 22:57:23]<Council> Larry <knightsofvalor> rates paid and car rego paid
+[Mar 13-11 22:57:23]<Council> Larry <knightsofvalor> rates paid and car rego paid
+[Mar 13-11 22:59:23]<Master> Vian <knightsofvalor> %^BOLD%^whatever im poor as shit right now%^RESET%^
+[Mar 13-11 22:59:30]<Master> Vian <knightsofvalor> %^BOLD%^like terrible%^RESET%^
+[Mar 13-11 23:0:30]<Council> Larry <knightsofvalor> :S
+[Mar 13-11 23:1:8]<Council> Larry <knightsofvalor> you dont want to know what i just paid then lol
+[Mar 13-11 23:24:48]<Council> Larry <knightsofvalor> twooooo more to go!
+[Mar 13-11 23:29:51]<Council> Larry <knightsofvalor> dam i need a bigger bags
+[Mar 15-11 16:7:11]<Squire> Tai <knightsofvalor> i need a coleader
+[Mar 18-11 20:56:19]<Leader> Yun <knightsofvalor> hey Van
+[Mar 18-11 20:56:27]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Yuuuuun!
+[Mar 18-11 20:57:32]<Leader> Yun <knightsofvalor> bah lately havent had the will to mud
+[Mar 18-11 20:57:39]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I understand, bro
+[Mar 18-11 20:58:2]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Is your wife feeling better?
+[Mar 18-11 20:58:28]<Leader> Yun <knightsofvalor> last night she saw a commercial with kids in it and she started crying
+[Mar 18-11 20:58:34]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^:(
+[Mar 18-11 20:58:43]<Leader> Yun <knightsofvalor> so she definately feeling bad still
+[Mar 18-11 20:59:24]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^will she talk to you?
+[Mar 18-11 20:59:27]<Leader> Yun <knightsofvalor> gonna try and take her out this weekend
+[Mar 18-11 20:59:30]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^bout stuff yet?
+[Mar 18-11 20:59:41]<Leader> Yun <knightsofvalor> she is really internalizing everything
+[Mar 18-11 20:59:51]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^that's unhealthy
+[Mar 18-11 20:59:59]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^any thoughts about counseling?
+[Mar 18-11 21:0:3]<Leader> Yun <knightsofvalor> see if i can take her out to eat and the car show this weekend
+[Mar 18-11 21:0:10]<Leader> Yun <knightsofvalor> she def dont want to
+[Mar 18-11 21:0:17]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^wine and dine her?
+[Mar 18-11 21:0:19]<Leader> Yun <knightsofvalor> she thinks im forcing her to do stuff
+[Mar 18-11 21:0:42]<Leader> Yun <knightsofvalor> ill see what she wants to do
+[Mar 18-11 21:0:46]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^sometimes you gotta force a lil
+[Mar 18-11 21:1:4]<Leader> Yun <knightsofvalor> nod
+[Mar 18-11 21:1:31]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cant get a walnut out of the shell without some work
+[Mar 18-11 21:33:5]<Leader> Yun <knightsofvalor> hey man
+[Mar 18-11 21:33:13]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^mind taking care of Terek?
+[Mar 18-11 21:33:17]<Leader> Yun <knightsofvalor> sorry ive been out so much, going through a really rough time right now
+[Mar 18-11 21:33:21]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^he wants Larry's job
+[Mar 18-11 21:33:25]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^you know I know, bro
+[Mar 18-11 21:33:33]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^we're here for ya
+[Mar 18-11 21:33:38]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^no matter what
+[Mar 18-11 21:33:38]<Leader> Yun <knightsofvalor> oo inducted him already :)
+[Mar 18-11 21:33:47]<Council> Terek <knightsofvalor> whats happend dude?
+[Mar 18-11 21:33:47]<Leader> Yun <knightsofvalor> thnx Van
+[Mar 18-11 21:33:56]<Leader> Yun <knightsofvalor> wife had a miscarriage on Monday
+[Mar 18-11 21:33:57]<Council> Terek <knightsofvalor> missus is palying on FB
+[Mar 18-11 21:34:8]<Council> Terek <knightsofvalor> oh sht :( am sorry to hear that bro
+[Mar 18-11 21:34:12]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^sad stuff, man
+[Mar 18-11 21:34:14]<Leader> Yun <knightsofvalor> thnx man
+[Mar 18-11 21:34:19]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and worse, she wont talk to em
+[Mar 18-11 21:34:25]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^about stuff
+[Mar 18-11 21:34:26]<Leader> Yun <knightsofvalor> she was sooooo happy when we found out, we found out on Valentines day too
+[Mar 18-11 21:34:32]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^oh wow
+[Mar 18-11 21:34:36]<Leader> Yun <knightsofvalor> yeah she really not opneining up
+[Mar 18-11 21:34:41]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^that was like...the perfect present
+[Mar 18-11 21:35:9]<Council> Terek <knightsofvalor> thats really fucked up
+[Mar 18-11 21:35:30]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^crap. gave my hamster my armour
+[Mar 18-11 21:35:30]<Council> Terek <knightsofvalor> can you demote/remove Larry from the guild
+[Mar 18-11 21:35:43]<Council> Terek <knightsofvalor> wait i can do that lol
+[Mar 18-11 21:36:1]<Council> Terek <knightsofvalor> BAM
+[Mar 18-11 21:36:14]<Leader> Yun <knightsofvalor> haha
+[Mar 18-11 21:36:26]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^larry gone
+[Mar 18-11 21:36:29]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^:(
+[Mar 18-11 21:36:38]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Terek's almost as cool
+[Mar 18-11 21:36:47]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^almost!
+[Mar 18-11 21:36:49]<Council> Terek <knightsofvalor> Well, its kinda hard to share over the internet. but am here if you catch me and wanna vent
+[Mar 18-11 21:36:49]<Leader> Yun <knightsofvalor> im gonna try and take her out this weekend to see if it helps open her up
+[Mar 18-11 21:36:52]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I picked out that name!
+[Mar 18-11 21:37:2]<Leader> Yun <knightsofvalor> thnx Terek
+[Mar 18-11 21:37:6]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^what does she like doing most, Yun?
+[Mar 18-11 21:37:22]<Council> Terek <knightsofvalor> Id have to say that Larry is a better name then terek :p
+[Mar 18-11 21:37:27]<Leader> Yun <knightsofvalor> she always said that she likes just hanging out with my son and I
+[Mar 18-11 21:37:45]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^go to Chuck E. cheese or Hawaiian equivalent
+[Mar 18-11 21:38:18]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^let the kid have fun
+[Mar 18-11 21:38:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^remind her of what she has, not what she lost
+[Mar 18-11 21:38:39]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and there' plenty of time for more
+[Mar 18-11 21:38:44]<Leader> Yun <knightsofvalor> =)
+[Mar 18-11 21:38:53]<Leader> Yun <knightsofvalor> she keeps blaming herself thinknig she did something wrong
+[Mar 18-11 21:39:14]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I know
+[Mar 18-11 21:39:22]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^but we gotta try for the positive
+[Mar 18-11 21:39:25]<Leader> Yun <knightsofvalor> we are very strong Christians so told her that we will have all the time in the world when we meet the baby in heaven
+[Mar 18-11 21:39:40]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^what is funnest place for kids in hawaii?
+[Mar 18-11 21:39:44]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^awesome. :)
+[Mar 18-11 21:40:41]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^man, I am gonna have my animals pimped out!
+[Mar 18-11 21:40:51]<Leader> Yun <knightsofvalor> hrmm not much but the car sho  comming up this weekend, other than that it could be Rascals
+[Mar 18-11 21:41:0]<Leader> Yun <knightsofvalor> or Fun Factory
+[Mar 18-11 21:41:17]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Fun Factory sounds good. :)
+[Mar 18-11 21:45:2]<Leader> Yun <knightsofvalor> yeah we might have to do something like that
+[Mar 18-11 21:47:25]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^the main focus is to get her mind on the positive
+[Mar 18-11 21:47:45]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^and can we ask that our line get shortened to kov?
+[Mar 18-11 21:48:2]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I'm wrapping down to the bottom like every time heh
+[Mar 18-11 22:12:10]<Leader> Yun <knightsofvalor> ill ask Vian if we can just have it as KoV
+[Mar 18-11 22:12:41]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^thanks. :) not a big deal tho
+[Mar 18-11 22:12:48]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^but a lil annoyance
+[Mar 19-11 3:3:20]<Council> Terek <knightsofvalor> sup man
+[Mar 19-11 3:4:49]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Councilman!
+[Mar 19-11 3:5:6]<Council> Terek <knightsofvalor> Squire, how are you
+[Mar 19-11 3:5:12]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^squirin' :)
+[Mar 19-11 3:5:16]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^chillin
+[Mar 19-11 3:5:23]<Council> Terek <knightsofvalor> nice nice
+[Mar 19-11 3:5:29]<Council> Terek <knightsofvalor> am working con to 100 atm
+[Mar 19-11 3:5:43]<Council> Terek <knightsofvalor> 18 to go
+[Mar 19-11 3:7:27]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I aint gonna get con up for a bit
+[Mar 19-11 3:7:37]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^course, I could use it
+[Mar 19-11 3:8:15]<Council> Terek <knightsofvalor> i think at 100s i might level to 50
+[Mar 19-11 3:8:27]<Council> Terek <knightsofvalor> see if i can xp in lower zol
+[Mar 19-11 3:8:28]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^cool. :)
+[Mar 19-11 3:8:55]<Council> Terek <knightsofvalor> if not the Forbdn forrest
+[Mar 19-11 3:9:8]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^good place to xp
+[Mar 19-11 3:9:30]<Council> Terek <knightsofvalor> i wouldnt mind being able to rage there tho
+[Mar 19-11 3:9:55]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^u could in ff if you knock out the wolfmaster
+[Mar 19-11 3:10:9]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^bump 2 out, rage and they come back in gradually
+[Mar 19-11 3:10:40]<Council> Terek <knightsofvalor> mm
+[Mar 19-11 3:10:47]<Council> Terek <knightsofvalor> 100 str enough to bump ff?
+[Mar 19-11 3:11:0]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I got 102 and I can bump em yeah
+[Mar 19-11 3:11:9]<Council> Terek <knightsofvalor> roger
+[Mar 19-11 3:11:37]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^not every time 1st try tho
+[Mar 19-11 3:11:53]<Council> Terek <knightsofvalor> ok am off. Going out to a Bodybuilding comp tonight
+[Mar 19-11 3:11:58]<Council> Terek <knightsofvalor> might be online laters
+[Mar 19-11 3:12:7]<Squire> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^wooo, have fun!
+[Mar 19-11 12:58:3]<Squire> Tai <knightsofvalor> darn it forgot to promote Van to knight
+[Mar 20-11 16:7:31]<Knight> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^oooo
+[Mar 20-11 16:7:37]<Knight> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^I gots promoted!!
+[Mar 20-11 16:8:7]<Knight> Vanlikapa <knightsofvalor> %^GREEN%^%^BOLD%^Thanks upper management!!! :D
+[Mar 25-11 3:56:55]<Council> Terek <knightsofvalor> gday vian
+[Apr 1-11 13:47:20]<Squire> Tai <knightsofvalor> new event?
+[Apr 8-11 21:16:41]<Leader> Yun <knightsofvalor> i want terek to helm me run things
+[Apr 8-11 21:21:19]<Leader> Yun <knightsofvalor> lol ive had my alt camping for a ida for am month now and the first round at Kez i get a diamond
+[Apr 8-11 21:21:38]<Leader> Terek <knightsofvalor> haha Grats!
+[Apr 8-11 21:21:44]<Leader> Yun <knightsofvalor> :P
+[Apr 8-11 21:21:56]<Leader> Terek <knightsofvalor> And I will do my best to make this promotion one worth giveing me.
+[Apr 8-11 21:22:5]<Leader> Terek <knightsofvalor> ill be back in an hour or so.
+[Apr 8-11 21:22:16]<Leader> Yun <knightsofvalor> i have all the confidence in the world that you will
+[Apr 11-11 4:53:43]<Squire> Scoff <knightsofvalor> xp with me
+[Apr 11-11 4:54:2]<Squire> Scoff <knightsofvalor> Vent! i can boost yooooo
+[Apr 11-11 4:54:22]<Squire> Scoff <knightsofvalor> test
+[Apr 15-11 10:38:3]<Leader> Terek <knightsofvalor> any one there
+[Apr 16-11 3:41:55]<Leader> Terek <knightsofvalor> Vian
+[Apr 16-11 3:42:0]<Master> Vian <knightsofvalor> %^BOLD%^*bows* Whats up?%^RESET%^
+[Apr 16-11 3:42:12]<Leader> Terek <knightsofvalor> You know if Vent is level 50?
+[Apr 16-11 3:42:18]<Master> Vian <knightsofvalor> %^BOLD%^I cided him.%^RESET%^
+[Apr 16-11 3:42:45]<Master> Vian <knightsofvalor> %^BOLD%^I switched him from White to Red to play around, and it was unfair, so I deleted him hehe.%^RESET%^
+[Apr 16-11 3:42:48]<Leader> Terek <knightsofvalor> ok, i have removed him from the guild then.
+[Apr 16-11 3:43:25]<Leader> Terek <knightsofvalor> I want to play my cleric haha
+[Apr 16-11 3:43:31]<Leader> Terek <knightsofvalor> I need some one to party with :P
+[Apr 16-11 3:43:50]<Master> Vian <knightsofvalor> %^BOLD%^Maybe I'll start something new soon, but I really want to put something new into the game first.%^RESET%^
+[Apr 16-11 3:44:20]<Master> Vian <knightsofvalor> %^BOLD%^I can't really keep up with your hours anyways :P  You gotta get your sister back on here :P%^RESET%^
+[Apr 16-11 3:44:32]<Leader> Terek <knightsofvalor> yeah i know
+[Apr 22-11 1:55:57]<Squire> Tai <knightsofvalor> hey Scoff man!
+[Apr 22-11 1:56:8]<Leader> Scoff <knightsofvalor> sup big boss
+[Apr 22-11 1:56:45]<Squire> Tai <knightsofvalor> was gonna test Yinn out for a bit
+[Apr 22-11 1:56:54]<Squire> Tai <knightsofvalor> not sure raknid str is worth it
+[Apr 22-11 1:56:58]<Leader> Scoff <knightsofvalor> sure thing
+[Apr 22-11 1:57:4]<Leader> Scoff <knightsofvalor> well rounds cap at 8
+[Apr 22-11 1:57:10]<Squire> Tai <knightsofvalor> nod
+[Apr 22-11 1:57:19]<Squire> Tai <knightsofvalor> ya gotta luv giant stats
+[Apr 22-11 1:57:23]<Leader> Scoff <knightsofvalor> so if you are going raknid for more rounds, theres notmuch point
+[Apr 22-11 1:57:29]<Squire> Tai <knightsofvalor> nod
+[Apr 22-11 1:57:37]<Leader> Scoff <knightsofvalor> yeah Giant str is really nice
+[Apr 22-11 1:58:4]<Leader> Scoff <knightsofvalor> Oh also, so you know. Am asking a donation for resurrections which i am giving to the guild.
+[Apr 22-11 2:44:42]<Knight> Yang <knightsofvalor> where ya at?
+[Apr 22-11 2:45:16]<Master> Vian <knightsofvalor> %^BOLD%^under yur bed%^RESET%^
+[Apr 22-11 2:45:25]<Knight> Yang <knightsofvalor> oooo kinky
+[Apr 30-11 23:55:5]<Leader> Scoff <knightsofvalor> You free?
+[May 1-11 0:7:9]<Master> Vian <knightsofvalor> %^BOLD%^I've got a ton of homework to get done in the next 2 hours%^RESET%^
+[May 10-11 23:2:27]<Knight> Yang <knightsofvalor> hrmm wonder how much i should save to go legend
+[Jun 7-11 16:56:29]<Knight> Yang <knightsofvalor> thinking bout lvling Tai
+[Jun 7-11 16:56:39]<Knight> Yang <knightsofvalor> go to 20 and see how that xp bonus is
+[Jun 7-11 16:56:44]<Leader> Scoff <knightsofvalor> nice!
+[Jun 7-11 16:56:54]<Knight> Yang <knightsofvalor> that guy needs some serious stats
+[Jun 7-11 16:57:1]<Leader> Scoff <knightsofvalor> hehe
+[Jun 7-11 17:48:34]<Knight> Yang <knightsofvalor> wonce i can insta 50ks with warblade i think ill be ok
+[Jun 15-11 23:3:23]<Knight> Yang <knightsofvalor> hehe i gotta get my zerker a ring like this :P
+[Jun 15-11 23:3:36]<Knight> Yang <knightsofvalor> prob gonna be playing him more anywayz
+[Sep 22-11 21:45:37]<Leader> Yun <knightsofvalor> woot 2 more int!
+[Oct 2-11 6:47:14]<Leader> Yun <knightsofvalor> dude this indian goth chick is hot
+[Oct 2-11 6:47:18]<Leader> Yun <knightsofvalor> err
+[Oct 18-11 1:24:10]<Knight> Yang <knightsofvalor> i hate being weak
+[Oct 18-11 20:47:58]<Squire> Tai <knightsofvalor> sounds like someone to be-friend
+[Jan 4-12 23:42:17]<Squire> Terek <knightsofvalor> wee guild line
+[Jan 4-12 23:42:29]<Leader> Yun <knightsofvalor> hehe
+[Jan 4-12 23:42:30]<Squire> Terek <knightsofvalor> do we have a guild shop or anything yet?
+[Jan 4-12 23:43:11]<Leader> Yun <knightsofvalor> nah not yet not sure if we should just go with rings or anything like that
+[Jan 4-12 23:43:30]<Leader> Yun <knightsofvalor> was talking to Vian and wanted something that would be just for the guild members
+[Jan 4-12 23:43:41]<Squire> Terek <knightsofvalor> as knights we should have tabards
+[Jan 4-12 23:44:1]<Leader> Yun <knightsofvalor> i mean things like oils and ointments can be bought in most towns
+[Jan 4-12 23:44:16]<Leader> Yun <knightsofvalor> weapons will have a major cap
+[Jan 4-12 23:44:56]<Squire> Terek <knightsofvalor> mm
+[Jan 4-12 23:45:27]<Leader> Yun <knightsofvalor> i want a pet :P
+[Jan 4-12 23:45:37]<Squire> Terek <knightsofvalor> yeah pets would be cool
+[Jan 4-12 23:46:8]<Squire> Terek <knightsofvalor> one you could level up would be even cooler :p
+[Jan 4-12 23:46:42]<Leader> Yun <knightsofvalor> id probably be more like one that would stay at your lvl
+[Jan 4-12 23:47:2]<Leader> Yun <knightsofvalor> because i can see ppl grumbling and taking advantage of that
+[Jan 4-12 23:47:6]<Squire> Terek <knightsofvalor> or one that you could level up and it would cap at ur level
+[Jan 4-12 23:47:21]<Leader> Yun <knightsofvalor> nod nod
+[Jan 4-12 23:47:36]<Leader> Yun <knightsofvalor> brb food

@@ -1,0 +1,42 @@
+Bug reported by Wraith:
+/wizards/wraith/workroom: FIX THIS SOON!!! IMPORTANT!!!!! the command people
+does NOT show cloaked players!!!
+Bug reported by A shadow:
+/wizards/wraith/workroom: found when snooping mephiston :Bad argument 1 to
+call_other() Expected: string or array or object Got: 0. program:
+/cmds/skills/_demonfire.c, object: /cmds/skills/_demonfire, file:
+/cmds/skills/_demonfire.c:66
+Bug reported by Wraith:
+/wizards/wraith/workroom: reported to me by gabriel, the ability 'choke' can be
+used on yourself, you can choke your self. Gabriel has done it in the arena, if
+he does it to himself he can lost his outlaw status
+Bug reported by Wraith:
+/wizards/wraith/workroom: choke also initiates combat with yourself when you do
+it
+Bug reported by Wraith:
+/wizards/wraith/workroom: reported by oracle on the bard board: when i sing this
+song, it works fine, but if a mob dies be for it finishes i get this error
+anathema au vengeance Bad argument 3 to message() Expected: string or array or
+object Got: 0. program: /cmds/song/veng.c, object: /cmds/song/veng#42293, file:
+/cmds/song/veng .c: and from then on i cant sing any other songs, till i quit
+and come back
+Bug reported by Wraith:
+/wizards/wraith/workroom: sinners psalm needs a help file if there al;ready isnt
+one
+Bug reported by Wraith:
+/wizards/wraith/workroom: reported by Nisel, URGENT and i dont know how to fix
+it. Nisel can advance and probably train skills anywhere on the mud and not just
+in his hall. An old bug that reared its head.
+Bug reported by Wraith:
+/wizards/wraith/workroom: Minor bug, Ive tried everything I can to the gags to
+make it so you cant reclaim them from a locker. The gag itself stays in your
+inv, but when you reclaim it from the lockers you just get another gag. Ive made
+it so players cant give it to people and updated a few other commands. Stormie,
+or nightshade, can you guys look at the locker sys (I aint fucking with it) and
+see if you can set something up for the gag when you have time.
+Bug reported by Wraith:
+/wizards/wraith/workroom: %hop%
+Bug reported by Wraith:
+/wizards/wraith/workroom: %hop Bad argument 1 to sscanf Expected: string Got: 0.
+program: /d/quests/dragon/two.c, object: /d/quests/dragon/two, file:
+/d/quests/dragon/two.c:47

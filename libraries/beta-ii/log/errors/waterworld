@@ -1,0 +1,28 @@
+/d/waterworld/level1/rooms/room-1c7.c line 5: Cannot #include waterworld.h before the end of line
+/d/waterworld/level1/rooms/room-1c7.c line 17: Undefined variable 'ROOMS1' before ,
+/d/waterworld/level1/rooms/room-1c7.c line 17: parse error before ,
+/d/waterworld/pearl_game/blue_pearl.c line 8: Undefined variable 'This' before  a %^BLUE%^ROYAL blu
+/d/waterworld/pearl_game/blue_pearl.c line 8: parse error before  a %^BLUE%^ROYAL blu
+/d/waterworld/pearl_game/blue_pearl.c line 17: End of file in string at the end of the file
+/d/waterworld/level1/monsters/pelican_pete.c line 49: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/waterworld/level1/monsters/pelican_pete.c line 55: Undefined function set_menu_long before ;
+/d/waterworld/level1/monsters/pelican_pete.c line 61: Undefined function set_my_mess before ;
+/d/waterworld/level1/monsters/pelican_pete.c line 69: Undefined function set_your_mess before ;
+/d/waterworld/level1/monsters/pelican_pete.c line 75: Undefined function set_empty_container before ;
+/d/waterworld/level2/rooms/room-2h2.c line 25: parse error before "These animals have 
+/d/waterworld/level2/rooms/secret-3b.c line 73: parse error before  (prize->move(TP)) p
+/d/waterworld/level2/rooms/secret-6d.c line 51: parse error before the end of line
+/d/waterworld/level2/items/angler_lure.c line 36: Undefined variable 'ROOM_CACHE' before ;
+/d/waterworld/level2/rooms/prober.c line 3: Undefined variable 'TRIVIA' before );
+/d/waterworld/level2/rooms/prober.c line 3: parse error before );
+/d/waterworld/level2/rooms/prober.c line 4: Illegal LHS before the end of line
+/d/waterworld/level2/rooms/prober.c line 4: parse error before the end of line
+/d/waterworld/level2/rooms/prober.c line 5: Undefined variable 'TP' before query_name();
+/d/waterworld/level2/rooms/prober.c line 5: Illegal LHS before the end of line
+/d/waterworld/level2/rooms/prober.c line 3: Undefined variable 'TRIVIA' before );
+/d/waterworld/level2/rooms/prober.c line 3: parse error before );
+/d/waterworld/level2/rooms/prober.c line 4: Illegal LHS before the end of line
+/d/waterworld/level2/rooms/prober.c line 4: parse error before the end of line
+/d/waterworld/level2/rooms/prober.c line 5: Undefined variable 'TP' before query_name();
+/d/waterworld/level2/rooms/prober.c line 5: Illegal LHS before the end of line

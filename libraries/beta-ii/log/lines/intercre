@@ -1,0 +1,55 @@
+[Feb 7-06 21:0:46]Daboura %^MAGENTA%^<intercre>%^RESET%^ ROAR!
+[Feb 18-06 17:11:18]A shadow %^MAGENTA%^<intercre>%^RESET%^ Holy intercre!
+[Feb 18-06 17:11:48]A shadow %^MAGENTA%^<intercre>%^RESET%^ Don't see this line getting us very often
+[Feb 20-06 1:22:30]Whit %^MAGENTA%^<intercre>%^RESET%^ sup all
+[Feb 20-06 1:39:50]Whit %^MAGENTA%^<intercre>%^RESET%^ Where did DreamShadow go?
+[Feb 28-06 10:16:41]Daboura %^MAGENTA%^<intercre>%^RESET%^ hrm
+[Jun 13-06 13:14:18]Daos %^BOLD%^%^YELLOW%^<intercre>%^RESET%^ hey Ninja
+[Sep 25-06 18:28:2]Whit %^BOLD%^%^YELLOW%^<intercre>%^RESET%^ Wow, this mudlist is getting small
+[Sep 22-07 0:13:2]Nulvect <intercre> since when do people talk on here??
+[Oct 14-07 8:14:40]Daos <intercre> Is anyone awake?
+[Oct 14-07 8:20:34]Daos <intercre> Hey Ideysus, think you could help me with something? I got it almost working
+[Oct 14-07 8:22:14]Daos <intercre> It has to do with i2
+[Oct 14-07 8:22:40]Daos <intercre> When I send an intermud tell over to a person on another mud, they get my tell ok but if I reply back from the other mud I can't see the reply here.  Any ideas?
+[Oct 14-07 8:23:2]Daos <intercre> It seems to be a bug in our original tell command too.
+[Oct 14-07 8:24:30]Daos <intercre> Yeah, I can't receive tells here but I can send them out
+[Oct 14-07 8:24:36]Daos <intercre> That is what I'm trying to fix
+[Oct 14-07 8:25:16]Daos <intercre> I'm not sure where to look or if there is something I need to add to my current tell command.
+[Oct 14-07 8:25:26]Daos <intercre> Yeah, all other things I get back.
+[Oct 14-07 8:25:34]Daos <intercre> I just rewrote our tell command and realized that small bug.
+[Oct 14-07 8:26:0]Daos <intercre> Well, we control the replies with this line of code on the mud
+[Oct 14-07 8:26:12]Daos <intercre> ob->set("reply", (string)this_player()->query_name());
+[Oct 14-07 8:26:30]Daos <intercre> That allows me to send a reply to a tell that I have received
+[Oct 14-07 8:26:40]Daos <intercre> But that only works on the mud.
+[Oct 14-07 8:27:8]Daos <intercre> Yeah, I have written the i2 code
+[Oct 14-07 8:27:32]Daos <intercre> It's basically this one line that handles the intermud tell
+[Oct 14-07 8:27:32]Daos <intercre>   SERVICES_D->send_gtell(mud, who, msg);
+[Oct 14-07 8:27:56]Daos <intercre> I don't get any notifications from i2
+[Oct 14-07 8:28:10]Daos <intercre> Hmm
+[Oct 14-07 8:29:34]Daos <intercre> heh
+[Oct 14-07 8:29:44]Daos <intercre> Well, i2 is pretty old.
+[Oct 14-07 8:30:30]Daos <intercre> Oh, really?
+[Oct 14-07 8:30:56]Daos <intercre> Well, I haven't heard from anything intermud in a long time so I figured they all switched over to i3
+[Oct 14-07 8:31:16]Daos <intercre> Although one of the arches here said that he did hear something on the intermud line about a week ago
+[Oct 14-07 8:32:42]Daos <intercre> Is ShadowMUD going to return? Players have been talking about how they miss that mud Ide
+[Oct 14-07 8:32:50]Daos <intercre> I know you guys had several hard drive crashes
+[Oct 14-07 8:33:38]Daos <intercre> Oh, damn.
+[Oct 14-07 8:34:6]Daos <intercre> Is the original admin team still there?
+[Oct 14-07 8:34:22]Daos <intercre> Heh, I like how you add thankfully.
+[Oct 14-07 8:34:30]Daos <intercre> I never got to meet Xith, but I knew that other grump. ;)
+[Oct 14-07 8:36:24]Daos <intercre> PD has added a couple new staff, three areas that we know of in the works, and a lot of new abilities
+[Oct 14-07 8:37:8]Daos <intercre> I can't believe I have been a wizard here since 2001
+[Oct 14-07 8:37:14]Daos <intercre> Man how the time flies
+[Oct 14-07 8:37:48]Daos <intercre> When did shadowmuddev start up?
+[Oct 14-07 8:38:48]Daos <intercre> Are you guys changing a lot of things?
+[Oct 14-07 8:39:4]Daos <intercre> Particularly what I remember, even though I didn't prefer it... a lot of players did is the slow leveling system.
+[Oct 14-07 8:39:14]Daos <intercre> Experience gaining was a really slow process.
+[Oct 14-07 8:40:10]Daos <intercre> About time :P
+[Oct 14-07 8:41:2]Daos <intercre> Thanks, I'll bookmark it in FF
+[Oct 14-07 8:41:42]Daos <intercre> What is your role on shadowmuddev... everything?
+[Oct 14-07 8:43:3]Daos <intercre> You got to learn some way ;)
+[Jul 17-08 18:59:19]Pyro <intercre> test
+[Apr 8-10 23:54:44]Stormbringer <intercre> test
+[May 26-10 23:46:3]Daos <intercre> is anyone out here?
+[Dec 1-10 17:38:12]Vian <intercre> hi
+[Sep 27-11 3:2:26]Vian <intercre> test

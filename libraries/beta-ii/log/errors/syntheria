@@ -1,0 +1,17 @@
+/d/syntheria/arund_mines/room/arund001.c line 2: Cannot #include arund.h before #include <daemons.h>
+/d/syntheria/arund_mines/room/arund001.c line 2: Cannot #include arund.h before #include <daemons.h>
+/d/syntheria/arund_mines/mob/bilino.c line 18: parse error before ");                 
+/d/syntheria/arund_mines/mob/bilino.c line 39: End of file in string at the end of the file
+/d/syntheria/simaril/rooms/warship04.c line 37: "#pragma strict_types" requires type of function before "door",    "The door
+/d/syntheria/simaril/rooms/warship04.c line 37: parse error before ,    "The door is mo
+/d/syntheria/simaril/rooms/warship04.c line 39: "#pragma strict_types" requires type of function before "door",    "The door
+/d/syntheria/simaril/rooms/warship04.c line 39: parse error before ,    "The door is mo
+/d/syntheria/simaril/rooms/warship04.c line 39: "#pragma strict_types" requires type of function before "door",    "The door
+/d/syntheria/simaril/rooms/warship04.c line 39: parse error before ,    "The door is mo
+/d/syntheria/simaril/rooms/simaril003.c line 27: parse error before    "It is far below 
+/d/syntheria/simaril/rooms/simaril003.c line 58: "#pragma strict_types" requires type of function before "target", "You leap 
+/d/syntheria/simaril/rooms/simaril003.c line 58: parse error before , "You leap off the 
+/d/syntheria/simaril/rooms/island05.c line 51: Undefined variable 'ob' before ;
+/d/syntheria/simaril/rooms/island05.c line 51: parse error before ;
+/d/syntheria/simaril/rooms/island05.c line 88: Undefined function add_hp before ;
+/d/syntheria/simaril/rooms/island05.c line 88: Bad argument number 1 to '-': "object " before the end of line

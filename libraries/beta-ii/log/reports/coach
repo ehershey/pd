@@ -1,0 +1,34 @@
+Bug reported by Asonti:
+/d/coach/rooms/roston_coach: at the tenebrae coach, if you "coach to tirun" it
+goes to roston
+Idea reported by Dantares Fri Oct  1 09:21:08 2004
+/d/coach/rooms/transroom#72326: godspeed and demonstrength should have higher caps based on level
+Bug reported by Kaster:
+/d/coach/rooms/tirun_coach: the coach system will still work when you are
+transported out of the room with a seal, then when the program ends it will send
+you to the coachs final destination
+Bug reported by Utaku:
+/d/coach/rooms/tirun_coach: I received this in the tirun coach room
+/d/coach/rooms/transroom.c line 57: Too few arguments to message before  
+d/coach/rooms/transroom.c line 64: parse error before the end of line 
+Bug reported by Naeblis:
+/d/coach/rooms/transroom#4076: if demonstrength was removed, then please remove
+it from the help files
+Typo reported by Ardhanarishvara:
+/d/coach/rooms/tirun_coach: the item description for Spiders Websack is missing
+an "n" on ancient
+Typo reported by Sabbathiel:
+/d/coach/rooms/lodos_coach: sapphire ring emanating
+Typo reported by Sabbathiel:
+/d/coach/rooms/tirun_coach: knight's shield shield has the shap(e) AND rearing
+up on their HIND legs
+Bug reported by Thoralac:
+/d/coach/rooms/transroom#20523: Broken coach.  I went link dead when on a cart
+due to ISP problems when I reconnected I was still in the cart but It was not
+moving.
+Idea reported by Escobar Fri Jan  4 10:41:04 2008
+/d/coach/rooms/transroom#3771: A party coach would be awesome to transport everyone in a party to a specific locatin at the same time
+Bug reported by Terek:
+/d/coach/rooms/transroom#16222: Error: *Bad type argument to +.  Had mapping
+and int. File: "/cmds/mortal/_cost.c" Line: 73 I got a rez into another race
+and then my stats bugged out. I have a screen shot post rez 

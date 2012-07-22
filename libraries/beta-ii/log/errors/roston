@@ -1,0 +1,6 @@
+/d/roston/obj/mob/gypsy_child.c line 24: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/d/roston/obj/mob/gypsy_child.c line 24: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/d/roston/obj/mob/gypsy_child.c line 39: Redeclaration of function create. before the end of line
+/d/roston/rooms/sb4.c line 15: Undefined variable 'searched' before  0;
+/d/roston/rooms/sb4.c line 15: Illegal lvalue before  0;
+/d/roston/rooms/sb4.c line 24: Undefined variable 'searched' before the end of line

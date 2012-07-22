@@ -1,0 +1,84 @@
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'WEB_D' before  }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/pyro/bin/_iw
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'who' before  GUILD_D->query_guil
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'who' before , ({"leader"}));; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'echo' before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/whit/tmp.c line 1: "#pragma strict_types" requires type of function before resolv_path("/"))
+/wizards/whit/tmp.c line 1: Missing type for argument before ("/"))
+/wizards/whit/tmp.c line 1: parse error before "/"))
+/wizards/whit/_ls.c line 12: parse error before ;
+/wizards/whit/_ls.c line 14: Undefined function set_type before ; }
+/wizards/whit/_ls.c line 32: Undefined function align before +"%^RESET%^" });
+/wizards/whit/_ls.c line 76: Undefined function resolve_path before ;
+/wizards/whit/_ls.c line 80: Undefined function valid_dir before ) str += "/";
+/wizards/whit/_ls.c line 86: Undefined function adminp before )
+/wizards/whit/_ls.c line 123: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/_ls.c line 30: Undefined function align before +"%^RESET%^" });
+/wizards/whit/_ls.c line 74: Undefined function resolve_path before ;
+/wizards/whit/_ls.c line 78: Undefined function valid_dir before ) str += "/";
+/wizards/whit/_ls.c line 84: Undefined function adminp before )
+/wizards/whit/_ls.c line 121: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/_ls.c line 94: Undefined function resolve_path before ;
+/wizards/whit/_ls.c line 98: Undefined function valid_dir before ) str += "/";
+/wizards/whit/_ls.c line 104: Undefined function adminp before )
+/wizards/whit/_ls.c line 141: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/_ls.c line 94: Undefined function resolve_path before ;
+/wizards/whit/_ls.c line 98: Undefined function valid_dir before ) str += "/";
+/wizards/whit/_ls.c line 104: Undefined function adminp before )
+/wizards/whit/_ls.c line 141: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/_ls.c line 104: Undefined function adminp before )
+/wizards/whit/_ls.c line 141: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/_ls.c line 141: Undefined variable 'MORE_D' before more(out2);
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before  }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/whit/ocean/ocean.c line 159: parse error before  a += ({all[i]});
+/wizards/whit/ocean/ocean.c line 159: Illegal LHS before the end of line
+/wizards/whit/ocean/ocean.c line 159: parse error before  a += ({all[i]});
+/wizards/whit/ocean/ocean.c line 159: Illegal LHS before the end of line
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'BOAT' before  }
+/wizards/whit/ocean/ocean.c line 196: Undefined variable 'DIR_BOATS' before );
+/wizards/whit/ocean/ocean.c line 238: Undefined variable 't' before keys(STATIC_SHIPS));
+/wizards/whit/ocean/ocean.c line 238: Illegal lvalue before keys(STATIC_SHIPS));
+/wizards/whit/ocean/ocean.c line 240: Undefined variable 'o' before new(BOAT);
+/wizards/whit/ocean/ocean.c line 240: Illegal lvalue before new(BOAT);
+/wizards/whit/ocean/ocean.c line 241: Undefined variable 'o' before new(BOAT);
+/wizards/whit/ocean/ocean.c line 241: Illegal lvalue before new(BOAT);
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined function in_array before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'char' before ; i='a';; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: parse error before ; i='a';; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/ocean.c line 101: Type of returned value doesn't match function return type ( mapping vs string ) before [a];
+/wizards/whit/ocean/ocean.c line 101: parse error before a];
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/debug.h line 49: Macro text too long before   "-----------------
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/ship/ship.c line 13: Illegal to inherit after defining global variables. before the end of line
+/wizards/whit/ocean/ship/ship.c line 246: Undefined variable 'MAX_OCEAN_X' before 1;
+/wizards/whit/ocean/ship/ship.c line 248: Undefined variable 'MAX_OCEAN_Y' before 1;
+/wizards/whit/ocean/ship/ship.c line 255: Undefined variable 'STRONG_CURRENTS' before  {
+/wizards/whit/ocean/ship/ship.c line 259: Undefined variable 'LAND' before  {
+/wizards/whit/ocean/ship/ship.c line 263: Undefined variable 'ICE' before  {
+/wizards/whit/ocean/ship/ship.c line 11: Cannot #include ../debug.h before the end of line
+/wizards/whit/ocean/ship/ship.c line 13: parse error before ;
+/wizards/whit/ocean/ship/ship.c line 250: Undefined variable 'MAX_OCEAN_X' before 1;
+/wizards/whit/ocean/ship/ship.c line 252: Undefined variable 'MAX_OCEAN_Y' before 1;
+/wizards/whit/ocean/ship/ship.c line 425: Missing type for argument before , y) {
+/wizards/whit/ocean/ship/ship.c line 425: Missing type for argument before ) {
+/wizards/whit/ocean/ocean.c line 117: Undefined variable 'SHIP' before ;
+/wizards/whit/ocean/ocean.c line 133: Undefined variable 'SHIP' before ;
+/wizards/whit/ocean/ocean.c line 173: Undefined variable 'SHIP' before ;
+/wizards/whit/ocean/ocean.c line 247: Undefined variable 'SHIP' before ;
+/wizards/whit/citrin_new/rooms/entrance.c line 15: Undefined variable 'set_smell' before "wood", "burning woo
+/wizards/whit/citrin_new/rooms/entrance.c line 15: parse error before "wood", "burning woo
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to crypt before ;; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to localtime before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to crypt before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Undefined function fopen before ; }
+/wizards/whit/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to find_living before ; }

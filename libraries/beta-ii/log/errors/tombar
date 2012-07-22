@@ -1,0 +1,8 @@
+/d/tombar/rooms/island/ship_1.c line 36: Undefined variable 'note_found' before  0;
+/d/tombar/rooms/island/ship_1.c line 36: Illegal lvalue before  0;
+/d/tombar/rooms/island/ship_1.c line 47: Undefined variable 'note_found' before  {
+/d/tombar/rooms/island/ship_1.c line 36: Undefined variable 'note_found' before  0;
+/d/tombar/rooms/island/ship_1.c line 36: Illegal lvalue before  0;
+/d/tombar/rooms/island/ship_1.c line 47: Undefined variable 'note_found' before  {
+/d/tombar/rooms/island/ship_nest.c line 47: Undefined variable 'query_rest_type' before  return 0;
+/d/tombar/rooms/island/ship_nest.c line 47: Left argument of -> is not a class before  return 0;

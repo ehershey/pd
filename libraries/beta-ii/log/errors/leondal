@@ -1,0 +1,52 @@
+/wizards/leondal/_cripple.c line 32: Undefined function FAIL before ;
+/wizards/leondal/_cripple.c line 140: Undefined variable 'COL' before "sneak"+RES+" around
+/wizards/leondal/_cripple.c line 140: Undefined variable 'RES' before " around "+COL+"behi
+/wizards/leondal/_cripple.c line 155: parse error before  tgt=args[1];
+/wizards/leondal/_cripple.c line 155: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 156: Reserved type name unexpected. before =args[2];
+/wizards/leondal/_cripple.c line 44: Newline in string before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: Undefined variable 'FAIL' before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: parse error before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: Newline in string before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: Undefined variable 'FAIL' before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: parse error before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: Newline in string before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: Undefined variable 'FAIL' before  not attack here.\n"
+/wizards/leondal/_cripple.c line 44: parse error before  not attack here.\n"
+/wizards/leondal/_cripple.c line 78: Newline in string before "+limb+".\n");
+/wizards/leondal/_cripple.c line 78: Undefined variable 'FAIL' before "+limb+".\n");
+/wizards/leondal/_cripple.c line 78: parse error before "+limb+".\n");
+/wizards/leondal/_cripple.c line 159: parse error before  tgt=args[1];
+/wizards/leondal/_cripple.c line 159: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 160: Reserved type name unexpected. before =args[2];
+/wizards/leondal/_cripple.c line 160: parse error before =args[2];
+/wizards/leondal/_cripple.c line 160: Undefined variable 'args' before 2];
+/wizards/leondal/_cripple.c line 160: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 242: Undefined variable 's' before ])
+/wizards/leondal/_cripple.c line 242: parse error before ])
+/wizards/leondal/_cripple.c line 243: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 245: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 250: Illegal LHS before the end of line
+/wizards/leondal/_cripple.c line 250: parse error before the end of line
+/wizards/leondal/obj/ring.c line 3: parse error before ;
+/wizards/leondal/obj/ring.c line 9: Undefined variable 'armor' before create();
+/wizards/leondal/obj/ring.c line 9: parse error before create();
+/wizards/leondal/obj/ring.c line 14: parse error before (1);
+/wizards/leondal/cmds/p.c line 5: "#pragma strict_types" requires type of function before string arg) {
+/wizards/leondal/obj/ring.c line 28: "#pragma strict_types" requires type of function before ) {
+/wizards/leondal/obj/ring.c line 30: Too few arguments to message before ;
+/wizards/leondal/obj/ring.c line 31: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/leondal/obj/ring.c line 50: Redeclaration of function query_auto_load. before the end of line
+/wizards/leondal/obj/ring.c line 62: Redeclaration of function create. before the end of line
+/wizards/leondal/obj/ring.c line 69: Redeclaration of function init. before the end of line
+/wizards/leondal/obj/ring.c line 76: Redeclaration of function drop. before the end of line
+/wizards/leondal/obj/ring.c line 90: Redeclaration of function filter. before the end of line
+/wizards/leondal/cmds/update.c line 13: Too many arguments to move_object before ;
+/wizards/leondal/cmds/dblog.c line 21: Undefined function tail before )
+/wizards/leondal/cmds/dblog.c line 21: Undefined function cat before )
+/wizards/leondal/cmds/dblog.c line 5: parse error before ;
+/wizards/leondal/cmds/dblog.c line 7: Illegal LHS before the end of line
+/wizards/leondal/cmds/dblog.c line 8: parse error before  file = sprintf("/lo
+/wizards/leondal/cmds/dblog.c line 8: Illegal LHS before the end of line
+/wizards/leondal/cmds/dblog.c line 10: Undefined variable 'text' before  read_file(file,1,30
+/wizards/leondal/cmds/dblog.c line 10: Illegal lvalue before  read_file(file,1,30

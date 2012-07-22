@@ -1,0 +1,4 @@
+/ftp/combat.c line 28: parse error before  BODY;
+/ftp/combat.c line 289: Undefined variable 'CHEATER_D' before log_suspect_kill(
+/ftp/combat.c line 290: Undefined function attackers before [0]->query_name(),
+/ftp/combat.c line 290: Undefined function attackers before [0]->query_name(),

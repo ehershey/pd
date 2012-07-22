@@ -1,0 +1,605 @@
+/std/user/save.c line 52: Undefined variable 'WEB_D' before update_player(name);
+/std/user/communication.c line 241: Bad argument 2 to efun member_array() before  != -1)
+/std/living/stealth.c line 13: Undefined function query_stealth_bonus before ; }
+/std/elemental.c line 48: Undefined function query_element before  + x);
+/std/elemental.c line 94: parse error before the end of line
+/std/elemental.c line 95: Illegal LHS before the end of line
+/std/elemental.c line 103: Reserved type name unexpected. before (string limb, string
+/std/elemental.c line 103: parse error before (string limb, string
+/std/elemental.c line 104: Illegal LHS before the end of line
+/std/elemental.c line 49: Invalid argument types to '+' ( void vs int ) before ;
+/std/living/delay.c line 60: Undefined variable 'time' before )) return;
+/std/user.c line 20: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/std/user.c line 20: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/std/user.c line 57: Too many global variables before the end of line
+/std/user.c line 58: Too many global variables before  *mysites, *message,
+/std/user.c line 58: Too many global variables before  *message, guild, ma
+/std/user.c line 58: Too many global variables before  guild, married;
+/std/ride.c line 13: No such inherited function object::set_id before ;
+/std/living/riding.c line 147: parse error before ) ) +
+/std/living/riding.c line 148: Invalid argument types to '+' ( string * vs string ) before  l[<1..<1] });
+/std/user.c line 376: Undefined variable 'tp' before query_cap_name()+" r
+/std/room/range.c line 72: Undefined variable 'i' before ->query_attackers())
+/std/room/range.c line 72: continue statement outside loop before the end of line
+/std/room/range.c line 82: continue statement outside loop before the end of line
+/std/room/range.c line 87: continue statement outside loop before the end of line
+/std/room/range.c line 92: continue statement outside loop before the end of line
+/std/room/range.c line 72: continue statement outside loop before the end of line
+/std/room/range.c line 82: continue statement outside loop before the end of line
+/std/room/range.c line 87: continue statement outside loop before the end of line
+/std/room/range.c line 92: continue statement outside loop before the end of line
+/std/room.c line 72: Undefined variable 'this_object' before ;
+/std/room.c line 72: Undefined variable 'this_object' before ;
+/std/room.c line 72: Undefined variable 'this_object' before ;
+/std/room.c line 73: Undefined variable 'x' before the end of line
+/std/room.c line 73: parse error before the end of line
+/std/room.c line 73: Undefined variable 'x' before the end of line
+/std/room.c line 73: parse error before the end of line
+/std/room.c line 73: Undefined variable 'x' before the end of line
+/std/room.c line 73: parse error before the end of line
+/std/room.c line 73: Undefined variable 'x' before the end of line
+/std/room.c line 73: parse error before the end of line
+/std/room.c line 73: Undefined function this_obhect before ); }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/room.c line 73: Undefined function set_initial_position before ; }
+/std/seal.c line 51: Undefined function set_mark_cmd before ;
+/std/seal.c line 52: Undefined function set_break_cmd before ;
+/std/seal.c line 137: Too few arguments to message before ;
+/std/seal.c line 168: Undefined function query_break_cmd before );
+/std/seal.c line 190: Undefined variable 'env' before ;
+/std/seal.c line 198: Undefined function query_marked_short before , "$L", query_marked
+/std/seal.c line 138: Wrong number of arguments to set_marked
+    Expected: 1  Got: 2 before ;
+/std/seal.c line 138: Bad type for argument 1 of set_marked ( int vs string ) before ;
+/std/seal.c line 209: Undefined function query_marked_long before , "$L", query_marked
+/std/seal.c line 210: Undefined function query_marked_id before ) ? query_marked_id(
+/std/seal.c line 149: Illegal to redeclare local name 'exp' before , mixed f)
+/std/seal.c line 149: parse error before the end of line
+/std/seal.c line 150: Illegal LHS before the end of line
+/std/seal.c line 233: parse error before "%^RESET%^", newenv,
+/std/seal.c line 259: Undefined variable 'args' before 0];
+/std/seal.c line 259: Illegal LHS before the end of line
+/std/room/join.c line 9: Illegal to inherit after defining global variables. before the end of line
+/std/room/join.c line 56: Undefined variable 'badraces' before  && member_array(thi
+/std/test/living/commandhook.c line 198: Reserved type name unexpected. before $1) && ($1[0] != $(o
+/std/test/living/commandhook.c line 198: parse error before ) && ($1[0] != $(ob)
+/std/test/living/commandhook.c line 200: Undefined variable 'list' before the end of line
+/std/test/living/commandhook.c line 200: Illegal LHS before the end of line
+/std/test/living/commandhook.c line 205: Undefined variable 'cmds' before the end of line
+/std/test/living/commandhook.c line 205: Illegal LHS before the end of line
+/std/test/living/combat.c line 116: parse error before ) );
+/std/test/living/combat.c line 118: Illegal LHS before the end of line
+/std/test/living/combat.c line 118: parse error before the end of line
+/std/test/living/combat.c line 119: Illegal LHS before the end of line
+/std/test/living/combat.c line 119: parse error before the end of line
+/std/test/living/combat.c line 120: Illegal LHS before the end of line
+/std/test/living/combat.c line 482: Undefined function query_attackers before [0];
+/std/test/living/combat.c line 482: Undefined function query_attackers before [0];
+/std/test/living/combat.c line 114: Undefined function query_hunters before ;
+/std/test/living/combat.c line 145: Undefined variable 'borg_people' before  ({});
+/std/test/living/combat.c line 145: Illegal lvalue before  ({});
+/std/test/living/vitals.c line 27: Undefined function do_status before ;
+/std/test/living/vitals.c line 29: Undefined function query_age before  > ok_to_heal)
+/std/test/living/vitals.c line 30: Undefined function do_healing before ;
+/std/test/living/vitals.c line 42: Undefined function query_intox before ;
+/std/test/living/vitals.c line 43: Undefined function add_intox before ;
+/std/test/living/vitals.c line 45: Undefined function query_quenched before  < query_max_quenche
+/std/test/living/vitals.c line 74: Undefined function query_age before  > ok_to_heal)
+/std/test/living/vitals.c line 161: Undefined function query_rest_type before ) {
+/std/test/living/vitals.c line 200: Undefined function query_limbs before )
+/std/test/living/vitals.c line 201: Undefined function heal_limb before ;
+/std/test/living/vitals.c line 221: Undefined function query_stats before ;
+/std/test/living/vitals.c line 234: Undefined function query_level before *12 +
+/std/test/living/vitals.c line 201: Undefined variable 'to' before query_limbs())
+/std/test/living/vitals.c line 220: Undefined function query_age before /1000.0;
+/std/test/living/vitals.c line 222: Undefined variable 'to' before query_stats("wisdom"
+/std/test/living/vitals.c line 235: Undefined variable 'to' before query_level()*12 +
+/std/test/living/vitals.c line 250: Undefined variable 'to' before query_level()*4 +
+/std/test/living/vitals.c line 265: Undefined variable 'to' before query_level()*8 +
+/std/test/living/vitals.c line 308: Undefined variable 'to' before query("vigor_spell")
+/std/test/living/vitals.c line 337: Undefined variable 'to' before query_level();
+/std/test/living/vitals.c line 345: Undefined variable 'to' before query_race() == "vam
+/std/living/vitals.c line 284: Undefined variable 'player_data' before "general"]["max_hp"]
+/std/living/vitals.c line 284: Illegal lvalue before  hp; }
+/std/living/vitals.c line 285: Undefined variable 'player_data' before "general"]["max_hp"]
+/std/living/vitals.c line 290: Undefined variable 'player_data' before "general"]["hp"] = h
+/std/living/vitals.c line 290: Illegal lvalue before  hp;
+/std/living/vitals.c line 293: Undefined variable 'player_data' before "general"]["hp"]; }
+/std/livingtest.c line 698: parse error before  death"; break;
+/std/livingtest.c line 700: Illegal LHS before  break;
+/std/living/vitals.c line 226: parse error before the end of line
+/std/living/vitals.c line 233: Illegal LHS before the end of line
+/std/living/vitals.c line 262: Reserved type name unexpected. before (int x) {
+/std/living/vitals.c line 262: parse error before (int x) {
+/std/room/sky_room_new.c line 131: Undefined variable 'EMERGENCY_ROOM' before the end of line
+/std/room/sky_room_new.c line 132: parse error before  {
+/std/room/sky_room_new.c line 134: parse error before (!ROOMS[sym]) fail("
+/std/room/sky_room_new.c line 131: Undefined variable 'S' before the end of line
+/std/room/sky_room_new.c line 132: parse error before  {
+/std/room/sky_room_new.c line 134: parse error before (!ROOMS[sym]) fail("
+/std/room/sky_room_new.c line 132: parse error before  {
+/std/room/sky_room_new.c line 134: parse error before (!ROOMS[sym]) fail("
+/std/armournew.c line 508: Undefined function query_actual_limbs before )+".";
+/std/test/living/body.c line 139: Undefined function query_max_hp before /((int)RACE_D->query
+/std/test/living/body.c line 342: Undefined function add_hp before ;
+/std/test/living/body.c line 345: Undefined function query_hp before ) set_hp(query_max_h
+/std/test/living/body.c line 345: Undefined function set_hp before ;
+/std/test/living/body.c line 346: Undefined function show_status_line before ;
+/std/test/living/body.c line 585: Illegal to declare local variable of type void. before (string str, int x) 
+/std/test/living/body.c line 146: Undefined function query_max_hp before /RACE_D->query_max_d
+/std/test/living/body.c line 347: Undefined function show_status_line before ;
+/std/test/living/body.c line 364: Undefined function add_hp before ;
+/std/test/living/body.c line 367: Undefined function query_hp before ) set_hp(query_max_h
+/std/test/living/body.c line 367: Undefined function set_hp before ;
+/std/test/living/body.c line 599: Undefined variable 'player_data' before "general"]["hp"] = -
+/std/test/living/body.c line 350: Undefined function show_status_line before ;
+/std/test/living/body.c line 670: Undefined variable 'player_data' before "general"]["hp"] -= 
+/std/test/living/body.c line 670: Illegal lvalue before  70;
+/std/test/living/body.c line 671: Undefined variable 'heal_rate' before  -3;
+/std/test/living/body.c line 671: Illegal lvalue before  -3;
+/std/test/living/body.c line 369: Undefined function show_status_line before ;
+/std/test/living/combat.c line 217: Undefined function query_hp before , query_max_hp())) <
+/std/test/living/combat.c line 217: Undefined function query_max_hp before )) < wimpy)
+/std/test/living/combat.c line 409: Undefined function query_sp before )/10;
+/std/test/living/combat.c line 410: Undefined function add_sp before ;
+/std/test/living/combat.c line 409: Undefined variable 'to' before query_sp())/10;
+/std/test/monster.c line 57: parse error before  = ([]);
+/std/test/monster.c line 57: Illegal LHS before the end of line
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/body.c line 662: Reserved type name unexpected. before query_wielding_limbs
+/std/living/body.c line 662: parse error before query_wielding_limbs
+/std/living/body.c line 665: Illegal LHS before the end of line
+/std/living/body.c line 667: Undefined variable 'i' before 0; i<sizeof(limbs); 
+/std/living/body.c line 667: Illegal lvalue before 0; i<sizeof(limbs); 
+/std/living/body.c line 669: Undefined variable 'tmp' before  ({ limbs[i] });
+/std/living/stealthnew.c line 73: Bad assignment ( string vs mixed * ). before the end of line
+/std/living/stealthnew.c line 74: Bad assignment ( string vs mixed * ). before the end of line
+/std/living/stealth.c line 78: Undefined function remove_stolen before ;
+/std/living/stealth.c line 71: Undefined function remove_stolen before ;
+/std/room.c line 169: No such inherited function ::set_items before ; }
+/std/room.c line 170: No such inherited function ::set_item before ; }
+/std/room.c line 171: No such inherited function ::remove_item before ; }
+/std/room.c line 172: No such inherited function ::set_search before ; }
+/std/room.c line 173: No such inherited function ::set_search before ; }
+/std/room.c line 174: No such inherited function ::set_search before ; }
+/std/test/living/vitals.c line 281: Overlapping cases: std/test/living/vitals.c:268 and std/test/living/vitals.c:267. before the end of line
+/std/test/living/vitals.c line 237: parse error before  *= 3;
+/std/test/living/vitals.c line 237: Illegal LHS before the end of line
+/std/test/_eat.c line 34: parse error before  = tp->query_cap_nam
+/std/test/_eat.c line 34: Illegal LHS before the end of line
+/std/barkeep.c line 162: parse error before (temp < 16) temp = 1
+/std/barkeep.c line 60: Undefined variable 'read_menu' before ) );
+/std/barkeep.c line 61: Illegal to use local variable in functional. before  );
+/std/living/follow.c line 86: Undefined variable 'str' before  allowed_to_follow;
+/std/pet.c line 146: Reserved type name unexpected. before );
+/std/pet.c line 146: parse error before );
+/std/pet.c line 153: Illegal LHS before the end of line
+/std/pet.c line 153: parse error before the end of line
+/std/pet.c line 154: Illegal LHS before the end of line
+/std/pet.c line 154: parse error before the end of line
+/std/pet.c line 196: parse error before "\n";
+/std/pet.c line 198: Illegal LHS before the end of line
+/std/usernew.c line 557: Undefined function query_ip before +"";
+/std/usernul.c line 668: parse error before the end of line
+/std/usernul.c line 685: Illegal LHS before the end of line
+/std/usernul.c line 685: parse error before the end of line
+/std/usernul.c line 686: Illegal LHS before the end of line
+/std/usernul.c line 686: parse error before the end of line
+/std/usernul.c line 689: Illegal LHS before the end of line
+/std/living/followfix.c line 67: Undefined function evironment before ) continue;
+/std/guild/treasury.c line 234: Left argument of -> is not a class before  " " + query_guild()
+/std/vaultnew.c line 510: Too many arguments to capitalize before ;
+/std/vaultnew.c line 510: parse error before the end of line
+/std/vaultnew.c line 515: Illegal LHS before )
+/std/vaultnew.c line 515: Too few arguments to message before )
+/std/vaultnew.c line 515: parse error before the end of line
+/std/vaultnew.c line 518: Illegal LHS before )
+/std/vaultnew.c line 551: Too many arguments to capitalize before ;
+/std/vaultnew.c line 551: parse error before the end of line
+/std/vaultnew.c line 555: Illegal LHS before )
+/std/vaultnew.c line 555: Too few arguments to message before )
+/std/vaultnew.c line 555: parse error before the end of line
+/std/vaultnew.c line 558: Illegal LHS before )
+/std/vaultnew.c line 759: Redeclaration of function query_open. before the end of line
+/std/vaultnew.c line 767: Undefined variable 'destination' before ) }), 1), "");
+/std/vaultnew.c line 757: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; return !query_clos
+/std/vaultnew.c line 759: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; return query_key(i
+/std/vaultnew.c line 760: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; set_door_func(id, 
+/std/vaultnew.c line 761: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; set_door_msg(id, w
+/std/vaultnew.c line 762: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; set_door_func(id, 
+/std/vaultnew.c line 763: Wrong number of arguments to fixId
+    Expected: 3  Got: 1 before ; set_closed(id, !op
+/std/vault.c line 257: parse error before  = fixId(id);
+/std/vault.c line 257: Undefined function fixId before ;
+/std/vault.c line 257: Illegal LHS before the end of line
+/std/vault.c line 258: Reserved type name unexpected. before ;
+/std/vault.c line 258: parse error before ;
+/std/vault.c line 261: Undefined variable 'id' before the end of line
+/std/vault.c line 258: parse error before  = fixId(id);
+/std/vault.c line 258: Illegal LHS before the end of line
+/std/vault.c line 259: Reserved type name unexpected. before ;
+/std/vault.c line 259: parse error before ;
+/std/vault.c line 262: Undefined variable 'id' before the end of line
+/std/vault.c line 262: Illegal LHS before the end of line
+/std/living/combattest.c line 896: Undefined variable 'FP_OWNER_DESTED' before ) {
+/std/living/combathaste.c line 907: Undefined variable 'CombatRoundBonus' before  -1 }), 0);
+/std/living/combathaste.c line 913: Undefined variable 'CombatRoundBonus' before  x;
+/std/living/combathaste.c line 913: Illegal lvalue before  x;
+/std/living/combathaste.c line 915: Undefined variable 'CombatRoundBonus' before  }
+/std/living/combathaste.c line 927: Undefined function query_race before =="raknid")
+/std/living/reaction.c line 27: Undefined variable 'FP_OWNER_DESTED' before ;
+/std/living/reaction.c line 125: Undefined variable 'FP_OWNER_DESTED' before )
+/std/living/effects.c line 83: Undefined variable 'name' before  EffectNames);
+/std/living/effects.c line 218: Left argument of -> is not a class before the end of line
+/std/living/effects.c line 339: Undefined variable 'tmp' before  bleed/4 + random(bl
+/std/living/effects.c line 339: Illegal lvalue before  bleed/4 + random(bl
+/std/living/effects.c line 425: Undefined variable 'cap' before " coughs up some blo
+/std/living/effects.c line 440: Illegal to redeclare local name 'cap' before ;
+/std/living/effects.c line 56: Undefined variable 'dELAYTimers' before  ([]);
+/std/living/effects.c line 56: Illegal lvalue before  ([]);
+/std/living/effects.c line 127: Undefined function endfunctionp before  & FP_LOCAL || endfu
+/std/instance.c line 56: Undefined variable 'DIR_SECURE_DAEMON' before "/instance_d")->get_
+/std/instance.c line 82: Undefined variable 'DIR_SECURE_DAEMON' before "/instance_d")->set_
+/std/instance.c line 105: Undefined variable 'DIR_SECURE_DAEMON' before "/instance_d")->get_
+/std/livingnultest.c line 137: Type of returned value doesn't match function return type ( int vs object * ) before the end of line
+/std/monster.c line 352: Illegal to declare local variable of type void. before (int x) {
+/std/monster.c line 352: parse error before int x) {
+/std/monster.c line 353: Illegal LHS before the end of line
+/std/monster.c line 385: Undefined function query_race before ;
+/std/monster.c line 384: Undefined function query_race before ;
+/std/monster.c line 389: Type mismatch ( string vs mixed * ) when initializing all_stats before the end of line
+/std/room.c line 71: No such inherited function exits::initiate_exits before ;
+/std/room/exits.c line 706: Undefined variable 'verb' before ) return;
+/std/room/hallnew.c line 60: Wrong number of arguments to map
+    Expected: 0  Got: 3 before ;
+/std/room/hallnew.c line 60: Bad assignment ( mixed * vs void ). before the end of line
+/std/room/hallnew.c line 61: Wrong number of arguments to map
+    Expected: 0  Got: 3 before ;
+/std/room/hallnew.c line 61: Bad assignment ( mixed * vs void ). before the end of line
+/std/room.c line 71: Undefined function set_initial_position before ; }
+/std/weapon.c line 253: Undefined variable 'FP_LOCAL' before  functionp(val) & FP
+/std/weapon.c line 253: Undefined variable 'FP_NOT_BINDABLE' before ) {
+/std/vroom.c line 67: parse error before is_monster() :) ));
+/std/vroom.c line 69: Illegal LHS before the end of line
+/std/vroom.c line 69: parse error before the end of line
+/std/vroom.c line 71: Illegal LHS before  i > 0; i--)
+/std/vroom.c line 71: parse error before  i > 0; i--)
+/std/monster.c line 146: No such inherited function container::reset before ;
+/std/container_new.c line 91: parse error before  needed = count - no
+/std/container_new.c line 91: Illegal LHS before  i < needed; i++) {
+/std/container_new.c line 91: Undefined variable 'needed' before  i++) {
+/std/container_new.c line 91: parse error before  int needed = count 
+/std/container_new.c line 91: Illegal LHS before  i < needed; i++) {
+/std/container_new.c line 91: Undefined variable 'needed' before  i++) {
+/std/virtual/virtualmap.c line 77: Type mismatch ( unknown vs string ) when initializing path before the end of line
+/std/virtual/virtualmap.c line 77: Missing type for global variable declaration before the end of line
+/std/virtual/virtualmap.c line 80: Invalid argument types to '+' ( unknown vs string ) before the end of line
+/std/virtual/virtualmap.c line 80: Missing type for global variable declaration before the end of line
+/std/virtual/virtualmap.c line 81: parse error before  (file_size(virt_roo
+/std/virtual/virtualmap.c line 77: Type mismatch ( unknown vs string ) when initializing virtpath before the end of line
+/std/virtual/virtualmap.c line 77: Missing type for global variable declaration before the end of line
+/std/virtual/virtualmap.c line 80: Invalid argument types to '+' ( unknown vs string ) before the end of line
+/std/virtual/virtualmap.c line 80: Missing type for global variable declaration before the end of line
+/std/virtual/virtualmap.c line 81: parse error before  (file_size(virt_roo
+/std/virtual/virtualmap.c line 93: Undefined function load_descs before ;
+/std/virtual/virtualmap.c line 297: Bad type for argument 1 of parse_descriptions ( string vs string * ) before ;
+/std/virtual/virtualmap.c line 344: parse error before the end of line
+/std/virtual/virtualmap.c line 345: Illegal LHS before the end of line
+/std/virtual/virtualmap.c line 364: Wrong number of arguments to query_server
+    Expected: 3  Got: 2 before  || ({});
+/std/virtual/virtualmap.c line 372: Wrong number of arguments to query_server
+    Expected: 3  Got: 2 before  || ({});
+/std/virtual/virtualmap.c line 296: Bad type for argument 1 of parse_descriptions ( string vs string * ) before ;
+/std/virtual/virtualmap.c line 449: Undefined variable 'rest' before 0 .. pos-1];
+/std/virtual/virtualmap.c line 503: Bad assignment ( int vs string ). before the end of line
+/std/virtual/virtualmap.c line 505: Bad assignment ( int vs string ). before the end of line
+/std/virtual/virtualmap.c line 507: Bad assignment ( int vs string ). before the end of line
+/std/virtual/virtualmap.c line 519: Bad assignment ( int vs string ). before the end of line
+/std/virtual/virtualmap.c line 653: Undefined variable 'orig_x' before  x;
+/std/virtual/virtualmap.c line 653: Illegal lvalue before  x;
+/std/virtual/virtualmap.c line 654: Undefined variable 'orig_y' before  y;
+/std/virtual/virtualmap.c line 654: Illegal lvalue before  y;
+/std/virtual/virtualmap.c line 655: Undefined variable 'orig_z' before  z;
+/std/virtual/virtualmap.c line 655: Illegal lvalue before  z;
+/std/virtual/vserver.c line 152: parse error before  i > 0; i--) {
+/std/virtual/vserver.c line 153: Illegal LHS before the end of line
+/std/virtual/vserver.c line 154: Reserved type name unexpected. before  = keys(allowed)[r];
+/std/virtual/vserver.c line 154: parse error before  = keys(allowed)[r];
+/std/virtual/vserver.c line 154: Undefined variable 'allowed' before [r];
+/std/virtual/vserver.c line 154: Undefined variable 'r' before ;
+/std/virtual/vserver.c line 180: parse error before  i > 0; i--) {
+/std/virtual/vserver.c line 181: Illegal LHS before the end of line
+/std/virtual/vserver.c line 182: Reserved type name unexpected. before  = keys(allowed)[r];
+/std/virtual/vserver.c line 182: parse error before  = keys(allowed)[r];
+/std/virtual/vserver.c line 182: Undefined variable 'allowed' before [r];
+/std/virtual/vserver.c line 182: Undefined variable 'r' before ;
+/std/virtual/vmaproom.c line 20: parse error before (map);
+/std/virtual/vmaproom.c line 31: Undefined variable 'x' before  y, z));
+/std/virtual/vmaproom.c line 31: Undefined variable 'y' before  z));
+/std/virtual/vmaproom.c line 31: Undefined variable 'z' before );
+/std/virtual/vmaproom.c line 57: Bad assignment ( int vs string ). before the end of line
+/std/virtual/vmaproom.c line 59: Bad assignment ( int vs string ). before the end of line
+/std/virtual/vmaproom.c line 61: Bad assignment ( int vs string ). before the end of line
+/std/virtual/vmaproom.c line 65: Undefined variable 'coord_arr' before  }
+/std/virtual/vmaproom.c line 26: Undefined variable 'map' before query_server(coord_s
+/std/virtual/virtualmap.c line 637: parse error before  (search[coords])
+/std/virtual/vserver.c line 130: parse error before  += longs[rand] + " 
+/std/virtual/vserver.c line 130: Undefined variable 'rand' before  + " ";
+/std/virtual/vserver.c line 130: Illegal LHS before the end of line
+/std/virtual/vserver.c line 130: Undefined variable 'rand' before  + " ";
+/std/user.c line 575: Wrong number of arguments to fix_vital_bonus
+    Expected: 1  Got: 0 before ;
+/std/living/body.c line 124: Bad type of index: "string " before ]["max_dam"] = RACE_
+/std/living/body.c line 136: Undefined function query_severed_limbs before ) == -1)
+/std/living/body.c line 157: Undefined function add_wielding_limb before ;
+/std/living/body.c line 404: Undefined function set_last_damage before ;
+/std/living/body.c line 426: Undefined variable '_LivingData' before "last damage"] = sou
+/std/living/body.c line 426: Illegal lvalue before  source;
+/std/living/body.c line 429: Undefined variable '_LivingData' before "last damage"] || 0;
+/std/living/body.c line 430: Undefined variable '_LivingData' before "last damage time"] 
+/std/living/body.c line 212: Undefined function query_body_type before  || query_race();
+/std/living/body.c line 212: Undefined function query_race before ;
+/std/obj/sensecmd.c line 136: Undefined variable 'verb' before  "look at")
+/std/living/effects.c line 215: parse error before (para);
+/std/user_new.c line 1392: Undefined function query_race before ); }
+/std/pet.c line 71: == always false because of incompatible types ( object vs string ). before  {
+/std/living/combat.c line 499: Undefined variable 'str' before  != -1) to->force_me
+/std/living/combat17.c line 101: Undefined variable '__Combat' before  ([]);
+/std/living/combat17.c line 101: Illegal lvalue before  ([]);
+/std/room/fishing.c line 26: No such inherited function ::init before ;
+/std/virtual/vmaproom.c line 47: Undefined variable 'o' before ;
+/std/drink.c line 67: Undefined function set_my_serving_mess before ;
+/std/drink.c line 68: Undefined function set_your_serving_mess before ;
+/std/user.c line 1169: parse error before ^RESET%^ <<<", this_
+/std/user.c line 1191: $var illegal outside of function pointer. before N%s", foo,fii) )
+/std/user.c line 1194: $var illegal outside of function pointer. before N", query_cap_name()
+/std/user.c line 1257: Illegal character constant before  to "+pos+" on "+ ct
+/std/user.c line 1281: $var illegal outside of function pointer. before N the fallen high mo
+/std/user.c line 1555: Illegal character constant before +(query_race()?query
+/std/userfixnul.c line 1434: Undefined variable 'to' before query_all_resistance
+/std/userfixnul.c line 1446: Illegal to redeclare local name 'resistance' before , int value in RACE_
+/std/livingzone.c line 293: parse error before ->cmd_zone();
+/std/livingzone.c line 298: Illegal LHS before  }
+/std/livingzone.c line 298: parse error before  }
+/std/livingzone.c line 306: Illegal LHS before the end of line
+/std/livingzone.c line 306: parse error before the end of line
+/std/livingzone.c line 307: Illegal LHS before  i<sizeof(ind); i++)
+/std/room.c line 74: Illegal to use local variable in functional. before  );
+/std/virtual/virtualmap.c line 101: Undefined variable 'Server' before , (: objectp($1) :) 
+/std/room_blarf.c line 28: parse error before ) );
+/std/room_blarf.c line 60: Illegal LHS before the end of line
+/std/room_blarf.c line 63: Undefined variable 'NO_TELEPORT_DIRS' before  "|") + ")";
+/std/room_blarf.c line 63: Illegal LHS before the end of line
+/std/room_blarf.c line 63: parse error before the end of line
+/std/room_blarf.c line 66: Undefined variable 'z' before  }
+/std/room_blarf.c line 28: parse error before ;
+/std/living/effects86.c line 417: Undefined variable 'DAMAGE_PHYSICAL' before the end of line
+/std/living/effects86.c line 418: Undefined variable 'DAMAGE_HP_ONLY' before  DAMAGE_BYPASS_ARMOU
+/std/living/effects86.c line 418: Undefined variable 'DAMAGE_BYPASS_ARMOUR' before  DAMAGE_BYPASS_STREN
+/std/living/effects86.c line 418: Undefined variable 'DAMAGE_BYPASS_STRENGTHS' before the end of line
+/std/living/effects86.c line 534: Undefined variable 'DAMAGE_POISON' before  DAMAGE_HP_ONLY | DA
+/std/living/effects86.c line 534: Undefined variable 'DAMAGE_HP_ONLY' before  DAMAGE_BYPASS_ARMOU
+/std/container.c line 166: $var illegal outside of function pointer. before 1));
+/std/container.c line 166: parse error before ));
+/std/container.c line 167: Illegal LHS before the end of line
+/std/container.c line 167: parse error before the end of line
+/std/container.c line 169: Illegal LHS before the end of line
+/std/container.c line 169: parse error before the end of line
+/std/guild/treasury.c line 333: parse error before ;
+/std/object_test.c line 53: Undefined function init_ob before ;
+/std/object_test.c line 117: parse error before the end of line
+/std/object_test.c line 119: Illegal LHS before the end of line
+/std/object_test.c line 121: Undefined variable 'value' before the end of line
+/std/object_test.c line 231: Undefined variable 'short_more' before  !sizeof(short_more)
+/std/object_test.c line 245: Undefined variable 'long_more' before  !sizeof(long_more))
+/std/object_test.c line 168: parse error before the end of line
+/std/object_test.c line 170: Illegal LHS before the end of line
+/std/object_test.c line 172: Undefined variable 'value' before the end of line
+/std/object_test.c line 282: Undefined variable 'short_more' before  !sizeof(short_more)
+/std/object_test.c line 296: Undefined variable 'long_more' before  !sizeof(long_more))
+/std/object_test.c line 282: Undefined variable 'ob_date' before "short_more"]))
+/std/bag_logic_test.c line 69: Undefined function set_long_more before ;
+/std/bag_logic_test.c line 72: Undefined function set_short_more before ;
+/std/backpack_test.c line 14: Undefined function set_long_more before ;
+/std/backpack_test.c line 18: Undefined function set_short_more before ;
+/std/user/death.c line 28: Undefined function query_max_hp before );
+/std/user/death.c line 28: Undefined function set_hp before ;
+/std/user/death.c line 57: Undefined variable 'WAR_D' before query_conflict(to, a
+/std/user/death.c line 70: Undefined variable 'tp' before query_subrace() == "
+/std/user/death.c line 72: Undefined variable 'VAMPIRE_D' before query_sunlight(to)) 
+/std/user/death.c line 80: Undefined variable 'mymsg' before the end of line
+/std/user/death.c line 76: Undefined variable 'WAR_D' before query_conflict(to, a
+/std/user/death.c line 107: Undefined function query_cap_name before +"!%^RESET%^";
+/std/user/death.c line 115: Undefined function query_alignment before  > random(6000)) {
+/std/user/death.c line 158: Undefined variable 'x' before  sizeof( d=get_dir("
+/std/user/death.c line 158: Illegal lvalue before  sizeof( d=get_dir("
+/std/user/death.c line 158: Undefined variable 'd' before get_dir("/news/death
+/std/user/death.c line 167: Undefined variable 'x' before  sizeof( d=get_dir("
+/std/user/death.c line 167: Illegal lvalue before  sizeof( d=get_dir("
+/std/user/death.c line 167: Undefined variable 'd' before get_dir("/news/death
+/std/user/death.c line 167: Illegal lvalue before get_dir("/news/death
+/std/user/death.c line 176: Undefined function query_cap_name before +" dies a horrible d
+/std/user/death.c line 192: No such inherited function living::die before ;
+/std/user/death.c line 31: Undefined function query_cap_name before + " returns from the
+/std/user/death.c line 338: Undefined variable 'tp' before query_exp() * ((leve
+/std/user/death.c line 400: Undefined function setenv before ;
+/std/user/death.c line 409: Undefined variable 'skills' before  copy(to->query_skil
+/std/user/death.c line 409: Illegal lvalue before  copy(to->query_skil
+/std/user/death.c line 436: Undefined variable 'stats' before  copy(to->query_base
+/std/usertest.c line 304: Wrong number of arguments to query_snoop
+    Expected: 0  Got: 1 before ) {
+/std/usertest.c line 305: Wrong number of arguments to query_snoop
+    Expected: 0  Got: 1 before ,
+/std/usertest.c line 1061: Undefined variable 'to' before ) {
+/std/living/effects.c line 421: Bad left argument to '|' : "object " before  eff->startzone);
+/std/living/effects.c line 421: Bad right argument to '|' : "string " before  eff->startzone);
+/std/living/effects.c line 537: Bad left argument to '|' : "object " before  eff->startzone);
+/std/living/effects.c line 537: Bad right argument to '|' : "string " before  eff->startzone);
+/std/user/punishments.c line 8: Undefined function query_property before ) return x;
+/std/user/punishments.c line 30: Undefined function remove_property before ;
+/std/user/punishments.c line 31: Undefined function set_property before ;

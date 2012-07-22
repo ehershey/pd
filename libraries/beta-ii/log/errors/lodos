@@ -1,0 +1,29 @@
+/d/lodos/obj/mon/alchemist.c line 124: parse error before the end of file
+/d/lodos/obj/mon/alchemist.c line 109: Bad argument 1 to efun environment() before ) {
+/d/lodos/obj/mon/alchemist.c line 124: parse error before the end of file
+/d/lodos/obj/mon/alchemist.c line 124: parse error before the end of file
+/d/lodos/obj/mon/alchemist.c line 109: Undefined function envrionment before )) {
+/d/lodos/obj/mon/alchemist.c line 109: == always false because of incompatible types ( int vs object ). before  {
+/d/lodos/obj/mon/alchemist.c line 116: parse error before the end of line
+/d/lodos/obj/mon/alchemist.c line 125: parse error before the end of file
+/d/lodos/obj/mon/alchemist.c line 109: Illegal lvalue before  environment(this_ob
+/d/lodos/obj/mon/alchemist.c line 125: parse error before the end of file
+/d/lodos/obj/mon/alchemist.c line 123: parse error before the end of file
+/d/lodos/obj/mon/talon.c line 25: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/lodos/obj/mon/talon.c line 33: Undefined function set_my_mess before ;
+/d/lodos/obj/mon/talon.c line 41: Undefined function set_your_mess before ;
+/d/lodos/obj/mon/talon.c line 49: Undefined function set_menu_short before ;
+/d/lodos/obj/mon/talon.c line 57: Undefined function set_menu_long before ;
+/d/lodos/cafe.c line 30: parse error before the end of line
+/d/lodos/cafe.c line 30: parse error before the end of line
+/d/lodos/cafe.c line 30: parse error before the end of line
+/d/lodos/cafe.c line 30: parse error before the end of line
+/d/lodos/farm/room/house3.c line 15: parse error before the end of line
+/d/lodos/farm/room/house3.c line 15: parse error before the end of line
+/d/lodos/farm/room/house3.c line 15: parse error before the end of line
+/d/lodos/farm/room/attic.c line 15: parse error before the end of line
+/d/lodos/farm/room/attic.c line 15: parse error before the end of line
+/d/lodos/farm/room/bedroom.c line 15: parse error before the end of line
+/d/lodos/farm/room/attic.c line 15: parse error before the end of line
+/d/lodos/farm/room/bedroom.c line 15: parse error before the end of line

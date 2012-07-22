@@ -1,0 +1,109 @@
+Bug reported by Semag:
+/d/forest/forest94: jesters have songs but not the ability
+Bug reported by Semag:
+/d/forest/forest94: this happens when i type abil: /cmds/skills/_flash.c line
+30: Undefined variable 'wield' before (object*)this_playe/cmds/skills/_flash.c
+line 30: Illegal lvalue before (object *)this_playe/cmds/skills/_flash.c line
+53: Undefined variable 'this_player' beforequery_possessive()+"
+Bug reported by Kartoffel:
+/d/forest/forest10: got an error, when i was following makaveli Can't catch eval
+cost too big error   program: /adm/obj/simul_efun.c, object:
+/adm/obj/simul_efun, file: /adm/simul_efun/get_object.c:72
+Bug reported by Spawnkiller:
+/d/forest/forest97: absorb is a healing spell yet kataans don't have a
+healing skill.  Just wondering 
+Typo reported by Calirynth:
+/d/forest/forest13: score command says "Stanima" instead of "Stamina"
+Bug reported by Aeris:
+/d/forest/forest66: you can add mobs to guilds
+Bug reported by Oreme:
+/d/forest/forest89: if you kill the monster before fugue of woes is finished:
+Bad argument 3 to message() Expected: string or array or object Got: 0. program:
+/cmds/song/woe.c, object: /cmds/song/woe#1827, file: /cmds/song/woe.c:27
+Bug reported by Ashram:
+/d/forest/forest86: forsaken dagger healed me for almost 100 hp... kinda
+overpowered special
+Bug reported by Mickey:
+/d/forest/forest91: it says i have the songs sinners and psalm, but i cant sing
+them. 'sing sinners' or 'sing psalm' gives me you dont know that song
+Bug reported by Gracelda:
+/d/forest/nwvforest1/rooms/room17: I can trip flying hawks
+Bug reported by Gracelda:
+/d/forest/nwvforest1/wrooms/room13: the eastern exit here goes to a room with no
+western exit..
+Bug reported by Naeblis:
+/d/forest/forest10: kill all atttacks the horse you are riding
+Bug reported by Tarfand:
+/d/forest/forest63: you can peek at yourself over and over and train the skill
+really quick that way
+Bug reported by Tarfand:
+/d/forest/npc/deer#8252: deer this thing has hands
+Bug reported by Tarfand:
+/d/forest/npc/cougar#8152: cougar this cougar has hands
+Bug reported by Mist:
+/d/forest/forest66: scry can be spammed to train conjuring
+Bug reported by Jack:
+/d/forest/nwvforest1/wrooms/room76: dfferent different
+Typo reported by Imari:
+/d/forest/forest94: help wanderer   last sentence, to should be too
+Typo reported by Imari:
+/d/forest/nwvforest1/erooms/room50: help notify   it says  Syntax: skills notify
+should say    Syntax: notify skills   since that's the one that works
+Typo reported by Jillian:
+/d/forest/nwvforest1/rooms/room4: neardy trees
+Typo reported by Jillian:
+/d/forest/nwvforest1/rooms/room6: nerdy trees!
+Typo reported by Jillian:
+/d/forest/nwvforest1/rooms/room6: dfferent
+Typo reported by Jillian:
+/d/forest/nwvforest1/rooms/room6: thornbushes should be two words.
+Bug reported by Durst:
+/d/forest/forest97: 
+Bug reported by Halas:
+/d/forest/nwvforest1/erooms/room4: heal, when i heal myself in xombat the next
+hit i get after i heal is one with magic. Its like i'm attacking the mob with a
+magic spell...
+Typo reported by Aragorn:
+/d/forest/forest58: This is a typo with the trip attack, "You spin at
+Squirrel and miss -->*she*<-- and fall to the ground" 
+Bug reported by Kiara:
+/d/forest/forest96: You exclaim: im more skilled in the art of ATTACK! happens
+when my attack skill goes up
+Typo reported by Rage:
+/d/forest/path/room/enter3: Bone Gloves The Bones release there grip. (should
+be their) Also I think there's some bonza typos in swashbuckler slashy thing.
+Hrm. :) 
+Bug reported by Staver:
+/d/forest/nwvforest1/erooms/room4: consider
+Bug reported by Staver:
+/d/forest/nwvforest1/erooms/room4: drink fountain oc put fangs in diamond
+consider. When you con something you can kill easily, it says you wouldnt
+have...not apostrophe 
+Praise given by Sindel Thu Nov  7 02:52:44 2002
+/d/forest/forest11: daos North of Tirun....Forest/Orchard....Very good place, I like the style maping, and the discriptions of the rooms, very inventive.....I think Daos did a great job on it....Its from my view the best newbie place to xp in the game:) Good job!
+Bug reported by Rethlan:
+/d/forest/forest98: when buffer wears off of someone else when i cast it, it
+tells me the other person is still buffered and won't let me cast it again, till
+i quit out - is it related to the fact that i see the spell wear off, instead of
+the other player?
+Bug reported by Wraith:
+/d/forest/nwvforest1/rooms/room66: stormie /d/forest/nwvforest1/rooms/room66 and
+/d/forest/nwvforest1/rooms/room62v with the se exits just leasd back to each
+other
+Bug reported by Markela:
+/d/forest/forest55: when casting spell i get no melee attacks, yet my Attack
+skill is increased.
+Bug reported by Keyoke:
+/d/forest/forest62: i am a centaur and even though i should be able to wear the
+chainmail blanket and the forbiden armour at the same time i am told, it keep
+getting a you may not wear body armour and armour at the same time message. is
+this bugged or just as it is supposed to be?
+Bug reported by Wraith:
+/d/forest/nwvforest1/wrooms/room99: where this is coming from, sw and nw inthe
+sw room leads to each other
+Idea reported by Madoc Tue Mar 25 02:36:52 2003
+/d/forest/forest46: The you run away message from wimpy would be more handy if it indicated which direction you ran away in
+Bug reported by Wraith:
+/d/forest/nwvforest1/rooms/room66: se keeps looping in these rooms
+Idea reported by Glance Fri May  2 23:13:09 2003
+/d/forest/nwvforest1/erooms/room21: levels A command: "levels" that tells you what the cost for each level is.

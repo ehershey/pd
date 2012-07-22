@@ -1,0 +1,675 @@
+Bug reported by Stormbringer:
+/d/lodos/alchem: /d/lodos/alchem seems to go missing it's exit alot.
+Bug reported by Firenzia:
+/d/lodos/ntower7: loop
+Bug reported by Staver:
+/d/lodos/etown6: can't go east here, class hall shield thingie blocking exit 
+Bug reported by Staver:
+/d/lodos/wtower3: scorch spell
+Bug reported by Staver:
+/d/lodos/wtower3: scorch spell is bugged I think.  I have 100 (max) in magic
+attack, but the  scorch spell will still fail every now and again.  I think
+the failure rate is maybe every 1 in 30 or 50 times I cast it.  I don't think
+it should fail that much when my skill is maxxed and at 100 right?  -Staver 
+Typo reported by Staver:
+/d/lodos/weaponry: long desripotion fashioned not fasion shedding not sheding
+
+Praise given by Psychosmurf Sat Oct 14 15:40:31 2000
+/d/lodos/etower4: healing oil This stuff simply RULZ!
+Bug reported by Ragnos:
+/d/lodos/secret2: No exit to this room...
+Bug reported by Draco:
+/d/lodos/obj/armour/wingarm#11366: armour help
+Idea reported by Abbess Thu Dec  7 13:32:06 2000
+/d/lodos/etower2: i find that when i type skills it takes up alot of space and u aren't using it effectivly... u could pu weapon skills and magic skills on the same row to waste less space because u r putting 2 big ones beside each other not on top of each other. and if u pair them up they take about the same amount of space
+Idea reported by Matthias Sun Dec 10 05:58:14 2000
+/d/lodos/wtower6: make the body (window) all fit on the same line...they are messed up
+Bug reported by Alonzo:
+/d/lodos/etower1: resurrect
+Bug reported by Abbess:
+/d/lodos/ntower1: boost won't work cure won't work and lost buffer....what has
+the world come to?!?!?
+Bug reported by Berserker:
+/d/lodos/tower7: prisoner in tower in lodos
+Bug reported by Jaeik:
+/d/lodos/wroad3: auction, able to price fix
+Bug reported by Powerman:
+/d/lodos/town4: rub oil rubs oil on the ground - it doesn't check if it's in
+your inventory
+Bug reported by Powerman:
+/d/lodos/wgarden3: can spam eat
+Bug reported by Ashram:
+/d/lodos/mount3: 0 in hm pretitles
+Bug reported by Ashram:
+/d/lodos/etower3: shadowguards body damage seems to be set low. i can sever them
+very easily leading to almost always insta-kills first round
+Bug reported by Ashram:
+/d/lodos/ltower3: cant look at silver wrought brand
+Bug reported by Kojiro:
+/d/lodos/etower1: all my autoing equipment is gone
+Bug reported by Powerman:
+/d/lodos/ltower4: get all consolidation doesn't check if actual items -> three
+pieces of x meat, one piece of y meat are here -> get all -> you take four
+pieces of x meat.
+Typo reported by Deathshroud:
+/d/lodos/wgarden1: when someone messes there slash it says "Person misses he
+slash"
+Bug reported by Powerman:
+/d/lodos/stown5: build fire lets me move
+Bug reported by Powerman:
+/d/lodos/stown5: warm lost colour
+Bug reported by Powerman:
+/d/lodos/mount2: warm looks ugly
+Bug reported by Nisel:
+/d/lodos/fshack: raknids need spider abdomens u wussies :P hehe sorry jk ^^
+Bug reported by Powerman:
+/d/lodos/mount1: randomly forage does "forage what?"
+Bug reported by Ashram:
+/d/lodos/etower1: some kind of error when i use the whip command with no target
+Bug reported by Ashram:
+/d/lodos/etower12: error when i try and buy an amulet from the magician in lodos
+Typo reported by Wraith:
+/d/lodos/stown1: <-> Blossom descends from the sky to begin his journey in
+life. blossom was female 
+Typo reported by Psychosmurf:
+/d/lodos/ltower5: nobel guard should be noble guard in the lodos tower south
+from []
+Bug reported by Kartoffel:
+/d/lodos/pipes: i try to put the tobacco in the pipe, but it tells me the pipe
+is closed, and i cant open the pipe
+Bug reported by Kartoffel:
+/d/lodos/pipes: nevermind, i figured it out
+Bug reported by Wraith:
+/d/lodos/etower8: if a mob has the same name as a mob that has already killed
+you it dosent recored the death, ive been killed by 2 different guards only one
+is recorded
+Bug reported by Wraith:
+/d/lodos/etower9: death isnt right by any standard
+Bug reported by Wraith:
+/d/lodos/wtower6: on a raknid a black steel bracer will not wear, it says you
+cannot wear bracer witl armour on that limb
+Typo reported by Wraith:
+/d/lodos/ntower1: on party adds when im the leader it tells me this when someone
+cant join: Too great a level difference for you to join this party.
+Bug reported by Wraith:
+/d/lodos/etower10: on when you cannot carry that much: Illegal to move or
+destruct an object (/std/obj/oil#9158) defining actions from a verb function
+which returns zero.program: (none), object: (none), file: (none)
+Bug reported by Wraith:
+/d/lodos/ntower9: when there are 3 corpses in a room and 2 of the same type of
+mob you cant get all from corpse 3
+Bug reported by Ashram:
+/d/lodos/wtower3: heal can be spammed and same for mheal
+Bug reported by A shadow:
+/d/lodos/square: idle <someone> dont work
+Bug reported by Ashram:
+/d/lodos/ntown8: Continuing the disease whine.... 1 round to sever the demonic
+servants head in golden city... 50k mob
+Bug reported by Ashram:
+/d/lodos/l2nw2: you can get all from locked chest by queen in merk's golden city
+wihtout unlocking it
+Bug reported by Wraith:
+/d/lodos/wtower7: last tell dont list tells to pd-builders
+Bug reported by Ashram:
+/d/lodos/ltower4: drow general unwields the dragon slayers as she fights... got
+no weapons for killing her
+Typo reported by Kartoffel:
+/d/lodos/weaponry: when you look at the counter, it spells sits as "sites"
+Bug reported by Faust:
+/d/lodos/fshack: i think the ress thing is broken, the lodos 1, take a look
+guys?? 
+Bug reported by Wraith:
+/d/lodos/l1ne1: the mob Samul in golden city is still without a heartbeat
+Bug reported by Dryfus:
+/d/lodos/ntower1: heal/mend/cure limb does almost nothing... kinda underpowered
+Bug reported by Zephyr:
+/d/lodos/stown3: you can slash while resting
+Bug reported by Zephyr:
+/d/lodos/ltower1: campfires dont disappear
+Bug reported by Artanis:
+/d/lodos/stown4: Long green dress, long magenta dress, and long silver dress
+are here. get all > You take three long silver dresses. thats all 
+Typo reported by Flood:
+/d/lodos/stown3: Problem: help swashbuckler  Typo: docks is spelled docs 
+Bug reported by Ashram:
+/d/lodos/wgarden3: boost is not terribly useful since it cant be spammed and we
+cant use a command like 'boost me 20'
+Typo reported by Marius:
+/d/lodos/wgarden2: when you smoke pipe-weed, hysterically is spelled wrong
+Idea reported by Rashka Fri Feb  8 22:07:08 2002
+/d/lodos/etown4: Swords Need more cool colourful descriptive swords in this game.
+Bug reported by Yakko:
+/d/lodos/gates: i lost half my eq after reboot
+Bug reported by Wraith:
+/d/lodos/etower8: full body scalemail from lodos towers dosent auto on a lvl 50
+shouldnt they auto somewhere around the 20's?
+Bug reported by Wraith:
+/d/lodos/etower9: same goes for the weapons
+Bug reported by Ashram:
+/d/lodos/ntower8: raknid double wielding doesnt go up through plain combat as
+other races do
+Bug reported by Ashram:
+/d/lodos/ltower6: raknids cant wear rings yet
+Bug reported by Faust:
+/d/lodos/gates: Raknids can't wear wedding rings. It looks for hand four, not
+fourth hand 
+Bug reported by Loki:
+/d/lodos/wtower3: My defense it bugged. It goes up sometimes, it might be
+supplication or maybe my defense im not sure but it keeps going down, if you
+could plz fix it 
+Typo reported by Staver:
+/d/lodos/tower6: the special on the mace has his's it should just be his 
+Bug reported by Ashram:
+/d/lodos/ltower3: when you boost yourself it doesnt show text saying anything
+Bug reported by Kartoffel:
+/d/lodos/square: customize doesnt work with auction line, it is still purple for
+me and i set it to red.  it shows it as red when i type lines but not when it
+actually auctions
+Idea reported by Kalidas Mon Feb 18 00:52:37 2002
+/d/lodos/etower1: "get # <item> from <item>" would be usefull
+Bug reported by Ashram:
+/d/lodos/etower11: the readied soldier's level is too high. still gives 15k to
+me
+Bug reported by Besnell:
+/d/lodos/ltower4: program: /cmds/skills/_paralyze.c, object:
+/cmds/skills/_paralyze, file:
+Bug reported by Ashram:
+/d/lodos/fshack: Paladins get hack... it looks like the kinda of move that would
+be good for warrior only
+Bug reported by Rain:
+/d/lodos/ltower6: if i firebomb on entering it stuns mobs a little it seems so i
+can leave the room before they hit me at all
+Bug reported by Ashram:
+/d/lodos/l2sw1: is it possible to get a message saying when godspeed wears off? 
+i dunno maybe for demonstrength too.  thx :)
+Bug reported by Artanis:
+/d/lodos/l1nw4: in the languages list there are 2 linos. you might want to
+look at it. 
+Typo reported by Wildflower:
+/d/lodos/wroad4: recognisable...in the last sentence 
+Typo reported by Wildflower:
+/d/lodos/mount1: the word you is used...last sentence. 
+Typo reported by Wildflower:
+/d/lodos/gates: someone kill this coder... You is used again..first word. 
+Typo reported by Wildflower:
+/d/lodos/wroad4: stands tall has a ; after it, should be a , 
+Typo reported by Wildflower:
+/d/lodos/town3: You in the last sentence 
+Typo reported by Wildflower:
+/d/lodos/etown6: You  
+Bug reported by Kartoffel:
+/d/lodos/peace_hall: the improve isnt workingfor me
+Bug reported by Nightshade:
+/d/lodos/peace_hall: here a monk was unable to raise his charisma, even though
+he had 200k xp and it only cost 80k according to the cost command.  It said he
+did not have enough xp
+Typo reported by Staver:
+/d/lodos/ntower2: blood sabre does not color reset. 
+Bug reported by Jumble:
+/d/lodos/stown4: absorb saved me from a mortal blow to the torso
+Bug reported by Jumble:
+/d/lodos/stown2: not that many people would do this, but stack: drop 1 gold, get
+coins, auction coins, will give you this: program: /cmds/mortal/_auction.c,
+object: /cmds/mortal/_auction, file:/cmds/mortal/_auction.c:42
+Typo reported by Leviathas:
+/d/lodos/wroad5: sindarii?
+Bug reported by Reaver:
+/d/lodos/square: you can wear more then 10 rings
+Bug reported by Ashram:
+/d/lodos/etown4: hack does no damage and only 1 axe hacks at a time
+Bug reported by Jumble:
+/d/lodos/wtower6: absorb: Expected: string or array or object Got: 0. program:
+/std/living/combat.c, object: /std/user#56722, file: /std/living/combat.c:114
+Typo reported by Oreme:
+/d/lodos/wgarden1: song of winter: body is wracked in pain as hisbones freeze!
+"hisbones"
+Bug reported by Ashram:
+/d/lodos/ntower7: envelop can reduce a mob's sp very fast making them deal no
+damage at all
+Bug reported by Jumble:
+/d/lodos/wtower7: chaoswave
+Bug reported by Faust:
+/d/lodos/l1ne4: Apprentice in the northern temple of lodos, they have eq but
+are not wearing them. 
+Typo reported by Sage:
+/d/lodos/fshack: The artrell is part of the gang of fighters. He is not very
+strong, but is insanley fast.  
+Bug reported by Leviathas:
+/d/lodos/ltower2: dstr you can cast dstr and use oil in the same round.
+Idea reported by Leviathas Sat Mar  9 10:12:50 2002
+/d/lodos/square: war an evil monk spell that causes every mob/player to attack each other.
+Bug reported by Lucifer:
+/d/lodos/wroad5: charge horse
+Idea reported by Leviathas Sun Mar 17 13:52:46 2002
+/d/lodos/etower8: cost make it so cost shows you how many levels you can afford with your xp
+Bug reported by Sage:
+/d/lodos/ntown8: peer door The 1 blocks your view.
+Bug reported by Kymas:
+/d/lodos/ltower5: lodoss south tower is bugged.. cant move towards the section
+w, d, w from lord of the tower
+Bug reported by Kymas:
+/d/lodos/square: ok.. this is pretty messed up. scorch kills in 2 hits for me
+but inferno or sear takes 3 on the same mob...
+Typo reported by Cookie:
+/d/lodos/gates: When you have over 100 oil, it says something like "one hundred
+two vials of healing oil". It should say "One hundred and two vials of healing
+oil" Or something like that. :)
+Bug reported by Artanis:
+/d/lodos/etower9: get all from corpse sacrifice corpse demonstrength artanis
+Blade is Bugged big time. i put 1.7 into it and got one point. its ment to be
+one of my cheapest combat skills 
+Bug reported by Calirynth:
+/d/lodos/ntown6: fear spell gave me some weird errors after I used it
+Bug reported by Tax:
+/d/lodos/square: i hade about 50 stones i tried to to rub them about once every
+5 times it allowed me to rub them the other times i got a fail message
+Bug reported by Calirynth:
+/d/lodos/obj/weapon/mstar#24528: star the special says "Soldier smashes he
+opponent..."
+Bug reported by Crimson:
+/d/lodos/ntown7: Bad argument 1 to call_other()  Expected: string or array or
+object Got: 0.  program: /std/user.c, object: /std/user#43334, file:
+/std/user.c:876
+Typo reported by Wraith:
+/d/lodos/alchem: lodos tower with the alchemist: no actualy door,
+Typo reported by Calirynth:
+/d/lodos/obj/weapon/mstar#67052: star the special says "his's star"
+Bug reported by Cookie:
+/d/lodos/l1m8: when you are on a mount, a player specificly, you always see the
+mount enter, but never the rider, the rider enters first, this somehow seems not
+quite right.
+Bug reported by Tyste:
+/d/lodos/obj/mon/deer#3337: deer don't respond to monster :(
+Bug reported by Tyste:
+/d/lodos/obj/mon/cleric#1267: cleric doesn't respond to monster perhaps missing
+set_id(({""})) ....
+Bug reported by Tyste:
+/d/lodos/obj/mon/lord#890: lord doesn't respond to monster ...
+Bug reported by Cookie:
+/d/lodos/npath3: If you have a snakeband ring, you can't use it unless it's
+"ring". Like, it can't be "ring 2" or "ring 3" etc. For example, if you try to
+"rub ring 3" you get "you rub your tummy ring 3".
+Idea reported by Azire Wed Apr 10 10:35:12 2002
+/d/lodos/square: it would be fun to have a wandering bard... even neater if you could hire that bard to seek out a player and have him sing to them.. he could sing an annoying song, love song, hate song..
+Bug reported by Tyste:
+/d/lodos/etower10: vinearmour when i cast vinearmour when i have it on already i
+get a message like bad argument 1 to capitalize() ...Expected:string Got: 0.    
+program: ...
+Bug reported by Xell:
+/d/lodos/gates: if you have one blade wielded, you can slash with the other
+blunt
+Bug reported by Xell:
+/d/lodos/wroad3: make shelters do something
+Bug reported by Xell:
+/d/lodos/wtower3: cure wraps the sentance...
+Bug reported by Xell:
+/d/lodos/stown3: clerics get both belief and faith?
+Bug reported by Calirynth:
+/d/lodos/stown1: when you I get all, and there's "long green dress" and "silver
+dress" on the ground, it says I get "two silver dresses"
+Bug reported by Cookie:
+/d/lodos/l1se2: While you're riding, you don't train your ride skill. I don't
+think this is right.
+Bug reported by Cookie:
+/d/lodos/ntower9: white leather boots, when discerned, are worn on your legs.
+This doesn't seem right.
+Bug reported by Cookie:
+/d/lodos/npath1: In the party list thing, if your sp or mp ever hits 0, it
+doesn't hold it's place. Like, under hp, sp, and mp. Right now, my sp is 0, and
+it disapeared, doesn't show the zero, my mp moved over to my sp spot, and exp
+earned moved left to the mp space.
+Bug reported by Boffa:
+/d/lodos/wtower8: rage... i raged and than got disconnected, when I reconnected
+I could move again, even though the mobs were still alive.
+Bug reported by Soulfly:
+/d/lodos/ltower8: sometimes when i para, it says you are concentrating on
+paralyzing for like 3 rounds, para'ing me while the para wares away on the
+mob.   
+Bug reported by Aziraphale:
+/d/lodos/square: oils, if you drop an oil with 15 uses, then drop more oils with
+any number of uses, when you pick them all up they have the same number of uses
+as the first one.
+Bug reported by Cookie:
+/d/lodos/l1nw3: Shouldn't berserkers be able to see "who" and "time" while
+raged?
+Bug reported by Cookie:
+/d/lodos/ntower2: More and more I am noticing the "you are too tired to
+slash/whirl" while I'm raged. I suggest setting the sp level up in the 60+
+range. Since it get's set to 0 when the fight's over anyways. It'd be a quick
+and easy fix.
+Idea reported by Alustriel Sat May  4 15:39:32 2002
+/d/lodos/stown3: dispell all monster(Dispells all monsters in room, not players)
+Bug reported by Clearmoon:
+/d/lodos/tower4: I cant do who but my alts can
+Bug reported by Stormbringer:
+/d/lodos/wtower2: if an item is to heavey to hold when you remove it from a
+locker, the item vanishes
+Bug reported by Cookie:
+/d/lodos/etown6: I tried yelling... and I got this...   call_other() couldn't
+find object     program: /cmds/mortal/_yell.c, object: /cmds/mortal/_yell, file:
+/cmds/mortal/_yell.c:71
+Typo reported by Cookie:
+/d/lodos/ntower2: Misso piko nipto BINGO!
+Typo reported by Hermes:
+/d/lodos/ntown8: Ferrels are by nature extremely self serving and most make a
+living as  con artist or petty theif. THEY great ones, however, are amoung
+the best jesters, bards, and assassins in the realm. Shouldn't it say THE
+great ones? 
+Bug reported by Direwolf:
+/d/lodos/wtower8: You feel more experienced for the kill. (26,000) Paladin
+drops dead before you. Paladin unwields a master longsword (wielded). Bad
+argument 1 to call_other() Expected: string or array or object Got: 0.
+program: /cmds/skills/_bump.c, object: /cmds/skills/_bump, file:
+/cmds/skills/_bump.c:93 Hermes exclaims: Great idea! Hermes sacrifices the
+corpse to the god. Hermes puts a master longsword in a Black Diamond.  
+Bug reported by Silentstep:
+/d/lodos/obj/mon/syphon#43720: monster cant sell all from pack to him
+Bug reported by Neocount:
+/d/lodos/etower3: bladedance does very low damage compared to cut. since
+bladedance is the only benifit of swashbuckler (no dances/songs) then it should
+be better than cut. raknid cut is isane at the moment. its better than a
+fighter's slash (75 per cut in arena vs a lvl 31)
+Bug reported by Hermes:
+/d/lodos/wgarden3: seals disappear from inventory when reboot comes 
+Bug reported by Neocount:
+/d/lodos/tower6: bladedance is very weak. at lvl 22 with max attack/blade i
+still take around 7 rounds to kill a 11k monster. this is the equivalent of a
+level 10 fighter
+Typo reported by Cookie:
+/d/lodos/l1m9: when you look at a pile of coins it reads "A pile of"   that's
+it... nothing else.
+Bug reported by Hermes:
+/d/lodos/alchem: The customer/alchemist miniquest doesn't work 
+Bug reported by Hermes:
+/d/lodos/npath5: Pigmy = Smurf, maybe. But when you attack it still says
+smurf.   
+Typo reported by Cookie:
+/d/lodos/npath4: note that when you attack this so-called "pigmy" of lodos... it
+says "you slash Smurf with your blah". Should say "Pigmy"
+Bug reported by Yakko:
+/d/lodos/wgarden1: there are some times more then 1 flying squirl in lobos
+Typo reported by Reltach:
+/d/lodos/cafe: when you eat the Perfectly cooked salmon, the message recieved
+has a period and a question mark at the end.
+Bug reported by Reltach:
+/d/lodos/ntown5: if you're at your wimpy level, you can enter a room and use an
+ability very fast and wimpy will make you leave before you get hit.
+Bug reported by Wraith:
+/d/lodos/wroad3: trip makes a player almost invincible in battle, since they can
+use it every time an opponent stands up, not letting the opponent hit with any
+attack. Think there should be a call out time limit on that one? or make it an
+init attack.
+Idea reported by Romeo Wed Jul 10 08:10:31 2002
+/d/lodos/etown4: trip should be stackable or its para length should increase as you get stronger
+Bug reported by Hermes:
+/d/lodos/ltower8: wierd... For some reason I was able to loot/sacrifice a
+corpse even though I was still fighting.   
+Typo reported by Naeblis:
+/d/lodos/tower6: If you dont have enough sp for charge it tells you "your to
+tired to charge" need to be "You are too tired to charge"
+Bug reported by Seth:
+/d/lodos/wroad3: ignore doesn't work, the person you ignore can still send you
+tells.
+Bug reported by Eios:
+/d/lodos/l2nw2: for some reason at my guild orb/scroll shop you can't 'buy 100
+<bleh>'
+Bug reported by Rethlan:
+/d/lodos/ltower5: when i don't have enough mana to raise an undead, the msg that
+comes up is 'Syntax: <summon [undead_name]>' insted of 'Syntax: <raise
+[undead_name]>'
+Typo reported by Prator:
+/d/lodos/tower7: sacrifice writes "Name sacrifices the corpse to the god.".
+Shouldn't it be "gods"...?
+Typo reported by Rethlan:
+/d/lodos/ltower7: actually its the help for weimics, height is mispelled
+Typo reported by Rethlan:
+/d/lodos/egarden2: actually a typo on the description of a nightstalker - "it
+serves evil an stalks the living" ->an should be and
+Bug reported by Kabaal:
+/d/lodos/ltower3: i'm wearing an acrilite mask and a demon mask at the same
+time..
+Bug reported by Tyste:
+/d/lodos/stown3: icestorm i seem to be getting an !error! this is a bug message
+sometimes when i cast icestorm  it occurs when u kill one mob and there are
+others still left and i think it happens when the icestorm u are trying to cast
+should kill all 3 at once but doesn't
+Bug reported by Ghani:
+/d/lodos/tower5: peace boost scarab 30 boost scarab 30 boost scarab 30 cure
+is bugged, i get a message to contact an admin 
+Bug reported by Abzigal:
+/d/lodos/ltower3: i can't cure other poeple. "!ERROR! This is a bug. Please
+contact an admin."
+Bug reported by Rethlan:
+/d/lodos/ntower7: tried to scry kezruul and got !ERROR! This is a bug. Please
+contact an admin.
+Bug reported by Baudros:
+/d/lodos/ntown8: rage
+Bug reported by Baudros:
+/d/lodos/ntown8: rage sorry about the first one, i forgot it ain't like a post,
+there has been changes to stop rage from bugging but its made things worse,
+sometimes u just type rage, then u are stuck without even starting combat, but
+sometimes u just get like a cleave after the mob is dead and then u are stuck,
+please fix this, i need my xp partner
+Bug reported by Baudros:
+/d/lodos/square: rage i think have worked it out, OK, there are random abilities
+in rage, and i have just noticed things like 'Slash what?' while playing my
+demon zerker, all the jab,slash,whirl, and stuff just leave a message saying
+'Slash what?, but if u get the rage only special cleave after they are already
+dead u become stuck, it is quiet ugly aswell to see Slash what after every
+battle, please fix asap.... and if u can add demon abils to rage :P
+Idea reported by Baudros Sun Aug 11 01:26:00 2002
+/d/lodos/ntown6: Swoop with rider, a fighter with rider can assist in the dmg that swoop does depending on the riding skill of the rider kinda like charge
+Bug reported by Rethlan:
+/d/lodos/ntower9: if you have more than 1 stone in your inventory, you can't rub
+any but the first (You rub your tummy stone 2.)
+Bug reported by Prator:
+/d/lodos/tower7: after curing I can't boost or cast levin for 2 rounds, but I
+can cure or use abilities again after 1 round.
+Bug reported by Rubicante:
+/d/lodos/wtower6: lodos paladins need more blade to wield their longswords
+Bug reported by Kilir:
+/d/lodos/wtower8: i was stuck in the ocean at the location -34 28, it doesnt
+even go that far does it? and i was stuck with strong currents,and i left of
+at -2 8 and apeared at -34 28, and it wouldnt let me use any seals....just
+bugging it. 
+Bug reported by Xell:
+/d/lodos/wroad3: heal can be spammed
+Bug reported by Wakko:
+/d/lodos/stown1: autobag only seems to work if u sacrifice corpse
+Bug reported by Kilmor:
+/d/lodos/l1sw1: When wielding a flail and two swords (being a raknid), it
+will not let me entangle. 
+Idea reported by Yakko Tue Sep 24 12:41:56 2002
+/d/lodos/l1m9: make a blacksmith to re sharpen weapons
+Idea reported by Yakko Tue Sep 24 12:42:16 2002
+/d/lodos/l1m9: when you look at weapon it shows wear amount
+Idea reported by Yakko Thu Sep 26 23:51:16 2002
+/d/lodos/l1se4: guild wars
+Bug reported by Lily:
+/d/lodos/armoury: I cant sell all from pack here
+Bug reported by Lily:
+/d/lodos/armoury: nevermind.....
+Bug reported by Disaster:
+/d/lodos/ltower2: I was told to contrac an admin because my charge just missed
+and I got a bug message.
+Bug reported by Rage:
+/d/lodos/etower7: You send a punch to Bluejay's stomach knocking the wind out
+of him. hp: 590|sp: 145|mp: 420 >   You strike Bluejay letting blood in the
+torso with your Dragon Slayer. You shear Bluejay to pieces in the torso with
+your blade. You shear Bluejay to pieces in the torso with your Dragon Slayer.
+You shear Bluejay to pieces in the torso with your blade. You decide to
+daydream a moment instead of attack. rush You rush at Bluejay and slam your
+shoulder into her!  Very fast sex change there, eh? from Him to her.  -Rage 
+Bug reported by Disaster:
+/d/lodos/ltower1: I got received a bug message when I tried to charge a tower
+guard in Lodos.
+Bug reported by Disaster:
+/d/lodos/npath4: I got a bug message trying to charge a blue pigmy. *shrug*
+Bug reported by Disaster:
+/d/lodos/ltower3: I got another bug message trying to charge a guard in Lodos.
+Bug reported by Disaster:
+/d/lodos/ltower4: I got another error message trying to charge a tower guard in
+Lodos.
+Bug reported by Disaster:
+/d/lodos/ltower5: Another bug message, charging a guard in a Lodos tower.
+Typo reported by Rethlan:
+/d/lodos/wtower5: This peice of armour is bugged.  It has been reported.  We
+appreciate your patience. ->should be piece :-P
+Bug reported by Disaster:
+/d/lodos/l1sw4: I got a bug message trying to charge an apprentice of the holy
+light.
+Bug reported by Disaster:
+/d/lodos/l1sw4: just happened again...error while trying to charge apprentice
+Bug reported by Disaster:
+/d/lodos/etower5: another bug message while charging a knight in armour in Lodos
+Bug reported by Disaster:
+/d/lodos/etower8: bug message. charge. knight in armour
+Bug reported by Disaster:
+/d/lodos/etower10: bug message. charge. knight in armour
+Bug reported by Disaster:
+/d/lodos/alchem: got a bug message trying to charge Soriy
+Bug reported by Rubicante:
+/d/lodos/ntower7: lodos paladins dont wield their weapons
+Bug reported by Yakko:
+/d/lodos/ntower1: i think i had a paladin moved after i had it paraed with my
+weapon
+Bug reported by Disaster:
+/d/lodos/wtower6: My charge got me a bug message while trying to charge a kinght
+in armour in a Lodos tower
+Bug reported by Disaster:
+/d/lodos/wtower7: error while charging paladin in Lodos tower.
+Bug reported by Disaster:
+/d/lodos/etower5: got a bug message charging a knight in armour in Lodos
+Bug reported by Disaster:
+/d/lodos/etower5: got a bug message charging a knight in armour in Lodos
+Bug reported by Disaster:
+/d/lodos/wtower6: error while charging knight in armour
+Bug reported by Disaster:
+/d/lodos/wtower6: got an error message while trying to charge a knight in armour
+in lodos.
+Bug reported by Disaster:
+/d/lodos/wtower5: error message charging a knight in armour
+Bug reported by Disaster:
+/d/lodos/wtower3: I noticed that if I want to wield a one-handed weapon with 1
+hand free, and I have a two-handed weapon in my oinventory above it, it will say
+'You need 1 hands to wield that.'
+Bug reported by Kai:
+/d/lodos/town4: I don't have the spell 'brand' but when i tried it anyway it
+said this: !ERROR! This is a bug. Please contact an admin.
+Idea reported by Dante Fri Oct 18 11:02:13 2002
+/d/lodos/tower5: who who fighter, like merentha!
+Bug reported by Rubicante:
+/d/lodos/ltower1: check boost's mp cost. seems very low
+Bug reported by Naeblis:
+/d/lodos/etower8: Throw can be spammed if you have a lot of weapons in your inv
+Typo reported by Staver:
+/d/lodos/secret1: extra space between has and been when you look at blood 
+Typo reported by Staver:
+/d/lodos/tower7: gold sandles should be sandals
+Typo reported by Staver:
+/d/lodos/tower7: claw boots, when you wear them, are you supposed to "sneak
+into the ground" or are you supposed to sink into the ground? buffer staver 
+Typo reported by Staver:
+/d/lodos/wtower3: help inferno "which turns there opponent" should be thier  
+Typo reported by Staver:
+/d/lodos/wtower3: buffer staver help firebomb 2nd line "with their mind and
+throw" should be throws 3rd line "flames engulf everybody" should be everyone
+
+Typo reported by Staver:
+/d/lodos/wtower3: help scorch 2nd line bennifactor is benefactor 
+Typo reported by Staver:
+/d/lodos/wtower3: snowball
+Typo reported by Staver:
+/d/lodos/wtower3: help snowball 4th line severe not sevear 
+Bug reported by Lothan:
+/d/lodos/town4: buffer
+Bug reported by Lothan:
+/d/lodos/town4: Buffer is not working... if it is cast on someone other then
+you, after it wears off it counts as them still being buffered
+Bug reported by Yakko:
+/d/lodos/ltower7: i only got 22k xp for a tower guard... and i'm lvl 30
+Bug reported by Naeblis:
+/d/lodos/etower1: different oils can be used round after round, no delay, like
+the vials of blood
+Bug reported by Naeblis:
+/d/lodos/etower1: like the last bug oils and those can be used to cheat, giving
+double heals
+Bug reported by Naeblis:
+/d/lodos/ntower7: the cape on the nobles is bugged(too much ac im guessing)
+Wraith will check it out
+Bug reported by Envar:
+/d/lodos/ntower7: the silver clasp gives "you must be wearing a cape..." whether
+you actually are or not
+Idea reported by Taz Wed Dec  4 03:36:34 2002
+/d/lodos/square: order of protection lvl
+Idea reported by Aethar Sat Dec  7 21:04:05 2002
+/d/lodos/stown4: Making autosac automatically put the loot into a named container of choice.
+Bug reported by Naikon:
+/d/lodos/stown3: brand
+Bug reported by Rune:
+/d/lodos/obj/armour/monksrobe#71006: Its bugged 
+Praise given by Phylus Thu Jan 16 15:52:01 2003
+/d/lodos/tower7: this mud
+Bug reported by Pyro:
+/d/lodos/ltower2: when you type "wrap 100000" as a dragon, you wrap your tail
+around your body, but all it does is bring the front right caw armor up one
+small thing. and also, you can attack while doing it, the description says
+you arnt supposed to with your tail in the way. 
+Bug reported by Thoth:
+/d/lodos/stown1: Your flames engulf Citizen and dissapate doing no damage! 
+when this occured i wasnt in combat with the mobs 
+Typo reported by Kurgan:
+/d/lodos/npath3: Um, "pigmy" is actually spely "pygmy". =P
+Typo reported by Kurgan:
+/d/lodos/npath3: Yes, I'm aware of the irony og having a typo while reporting a
+typo. =P
+Bug reported by Crem:
+/d/lodos/ltower9: 
+Idea reported by Shadimar Thu Feb 20 21:57:46 2003
+/d/lodos/ntower8: aid command. when running to the aid of someone you attack whatever that target is attacking. also for summons they can aid you whatever your fighting
+Idea reported by Shadimar Sat Feb 22 17:58:29 2003
+/d/lodos/ntower6: necros get darkshift
+Idea reported by Infinatous Fri Feb 28 10:45:49 2003
+/d/lodos/etower2: mages should get a identify spell, have it say wether a item is poor, decent, average, good, great, excellent, incredible, divine (you can just make each a certain ac range like poor could be 0-1, decent 2-3 and so on) just a idea
+Bug reported by Sleeper:
+/d/lodos/l1sw3: shield spell for clerics can be cast in negative mana and
+after any spell you have cast this round Mheal can be cast after any spell in
+a round as well giving you 2 spells a round which can be great for healing
+someone up quick but not sure if that's supposed to be that way 
+Bug reported by Sleeper:
+/d/lodos/npath3: If you are next to the archangel tower, and go south, it
+makes you go 2 south instead of just 1, just a room link error by the coder
+the exact room is where you can type enter to enter the archangel area, if
+you go south you are moved 2 south instead of just 1 
+Typo reported by Infinatous:
+/d/lodos/wtower8: in the baron room in lodos, top of the tower, if you type
+get coins from table, it says "You can only take positive ammounts of coins."
+ammounts is a typo i beleive on a side note, the describe of the table says
+"The table is covered in gold coins, all in piles." hense why i tried to take
+some hehe 
+Idea reported by Anguish Tue Mar 18 14:47:15 2003
+/d/lodos/tower6: you know how you can see mobs on the map, why not make the + or - change to green if theres a mob up or down from you?
+Bug reported by Aziraphale:
+/d/lodos/etower11: so yeah, official: follow stuffs up when you go up or down.
+Idea reported by Smite Wed Mar 26 00:58:24 2003
+/d/lodos/ltower3: if u remort. i think ur offences should go away
+Bug reported by A shadow:
+/d/lodos/square: thieves - They are assassins with less skills.
+Bug reported by Anguish:
+/d/lodos/ltower5: necros..i have dbl wisom and more then 100 MA and deathtouch
+destroies me for way too mch =P
+Bug reported by Mathiu:
+/d/lodos/ltower8: I think there is something wrong with buffer, everytime i
+use it it says that im already buffered but i never used it nor did anybody
+else use it on me. 
+Bug reported by Tyste:
+/d/lodos/obj/mon/cleric#31487: cleric doesn't respond to monster. . must be
+missing the set_id etc
+Bug reported by Lupus:
+/d/lodos/stown1: My spectre summon has a abilitie that is bugged, its
+lifetap, it doesnt work when i tell it to nor does it do it in battle 
+Typo reported by Fhandarelle:
+/d/lodos/tower5: when you trip someone and miss it says you miss "his" instead
+of "him"
+Idea reported by Blind Mon Sep 15 06:58:43 2003
+/d/lodos/square: bank give us an exchange all <currency> command, that would be nice

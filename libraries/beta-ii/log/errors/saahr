@@ -1,0 +1,89 @@
+/d/saahr/saahr_river_room.c line 33: Type of returned value doesn't match function return type ( mixed * vs mapping ) before  }
+/d/saahr/rooms/saahr_river_room.c line 25: Undefined variable 'river_exits' before  ([]);
+/d/saahr/rooms/saahr_river_room.c line 25: Illegal lvalue before  ([]);
+/d/saahr/rooms/house9_8.c line 17: Wrong number of arguments to set_long
+    Expected: 1  Got: 0 before ;
+/d/saahr/rooms/house9_8.c line 25: parse error before the end of line
+/d/saahr/rooms/river_inheritable.c line 27: parse error before );
+/d/saahr/rooms/river_inheritable.c line 43: Undefined variable 'x' before ?x:DEF_CURRENT_TIME;
+/d/saahr/rooms/river_inheritable.c line 43: Illegal LHS before ; }
+/d/saahr/rooms/river_inheritable.c line 43: parse error before ; }
+/d/saahr/rooms/river_inheritable.c line 51: Illegal LHS before the end of line
+/d/saahr/rooms/river_inheritable.c line 53: Illegal LHS before  == load_object(ROOM
+/d/saahr/rooms/river_inheritable.c line 48: Undefined variable 'current_counter' before  current_time) retur
+/d/saahr/rooms/river_inheritable.c line 48: Illegal lvalue before  current_time) retur
+/d/saahr/rooms/river_inheritable.c line 61: Undefined variable 'tp' before query_cap_name()+
+/d/saahr/rooms/river_daemon.c line 18: Undefined function remove before ;
+/d/saahr/mobs/nymph.c line 3: Cannot #include vplain.h before 
+/d/saahr/mobs/nymph.c line 26: Undefined variable 'ARM' before )->move(this_object(
+/d/saahr/mobs/nymph.c line 26: parse error before )->move(this_object(
+/d/saahr/weapons/shovel.c line 2: Cannot #include vplain.h before 
+/d/saahr/weapons/shovel.c line 58: Undefined variable 'ARM' before )->move(env);
+/d/saahr/weapons/shovel.c line 58: parse error before )->move(env);
+/d/saahr/rooms/bridge3_2.c line 9: parse error before ]));
+/d/saahr/mobs/hog.c line 45: Bad assignment ( object vs mixed * ). before the end of line
+/d/saahr/rooms/house_room.c line 29: Undefined function filename before ;
+/d/saahr/rooms/house_room.c line 29: Undefined function filename before ;
+/d/saahr/rooms/f8_8.c line 10: Undefined function query_day_long before +"\n"+
+/d/saahr/rooms/f8_8.c line 12: Undefined function query_night_long before +"\n"+
+/d/saahr/rooms/f12_6.c line 20: parse error before the end of line
+/d/saahr/rooms/f12_6.c line 36: Illegal LHS before the end of line
+/d/saahr/rooms/f12_6.c line 36: parse error before the end of line
+/d/saahr/rooms/bridge4_2.c line 9: parse error before ]));
+/d/saahr/rooms/swim_code.c line 10: Undefined function query_exits before  );
+/d/saahr/rooms/swim_code.c line 31: Undefined function query_exit before )) == load_object(RO
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river3_1h.c line 17: parse error before  "A sturdy-looking r
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river8_7h.c line 16: parse error before  "Tall green trees w
+/d/saahr/rooms/river3_1h.c line 21: parse error before VPROOMS"river3h_1h",
+/d/saahr/rooms/river2_0h.c line 22: parse error before VPROOMS"river1h_0h",
+/d/saahr/rooms/river2_0h.c line 22: parse error before VPROOMS"river1h_0h",
+/d/saahr/rooms/house_room.c line 29: Undefined function filename before ;
+/d/saahr/rooms/river15_9.c line 18: parse error before  "Tall trees that sp
+/d/saahr/rooms/river15_9.c line 18: parse error before  "Tall trees that sp
+/d/saahr/rooms/river15_9.c line 18: parse error before  "Tall trees that sp
+/d/saahr/rooms/river15_9.c line 18: parse error before  "Tall trees that sp
+/d/saahr/rooms/town9_8.c line 43: Undefined function set_post_exit_function before ;
+/d/saahr/mobs/lenna.c line 77: parse error before the end of line
+/d/saahr/rooms/house10_9.c line 88: Bad argument 2 to efun remove_action() before ;
+/d/saahr/rooms/house10_7.c line 37: Undefined variable 'check_sound' before ) );
+/d/saahr/rooms/house10_7.c line 37: parse error before ) );
+/d/saahr/rooms/house10_7.c line 48: Illegal LHS before the end of line
+/d/saahr/rooms/house10_7.c line 48: parse error before the end of line
+/d/saahr/rooms/house10_7.c line 37: Undefined variable 'check_sound' before ) );
+/d/saahr/rooms/house10_7.c line 37: parse error before ) );
+/d/saahr/rooms/house10_7.c line 48: Illegal LHS before the end of line
+/d/saahr/rooms/house10_7.c line 48: parse error before the end of line
+/d/saahr/rooms/house10_7.c line 37: Undefined variable 'check_sound' before ) );
+/d/saahr/rooms/house10_7.c line 37: parse error before ) );
+/d/saahr/rooms/house10_7.c line 48: Illegal LHS before the end of line
+/d/saahr/rooms/house10_7.c line 48: parse error before the end of line
+/d/saahr/rooms/house10_9.c line 88: Bad argument 2 to efun remove_action() before ;
+/d/saahr/mobs/nymph-rich.c line 61: Undefined variable 'name' before  >= 1 ||
+/d/saahr/mobs/nymph-rich.c line 61: Illegal lvalue before  >= 1 ||
+/d/saahr/mobs/nymph-rich.c line 73: Undefined variable 'env' before  && userp(tp) &&
+/d/saahr/mobs/nymph-rich.c line 82: parse error before  if (sscanf(str, "%s
+/d/saahr/mobs/nymph-rich.c line 83: Illegal LHS before the end of line
+/d/saahr/mobs/nymph-rich.c line 89: parse error before the end of line
+/d/saahr/rooms/lake16h_8h.c line 9: No such inherited function lake_room::create before ;
+/d/saahr/rooms/lake16h_8h.c line 33: parse error before  (object ob in ai) {
+/d/saahr/rooms/vplainserv.c line 110: parse error before coord[0]+"_"+coord[1
+/d/saahr/rooms/vplainserv.c line 111: Illegal LHS before the end of line
+/d/saahr/rooms/vplainserv.c line 111: parse error before the end of line
+/d/saahr/rooms/vplainserv.c line 123: Undefined variable 'night' before  previous_object());
+/d/saahr/rooms/vplainserv.c line 123: Illegal LHS before the end of line
+/d/saahr/rooms/vplainserv.c line 123: parse error before the end of line
+/d/saahr/rooms/vplainserv.c line 110: parse error before coord[0]+"_"+coord[1
+/d/saahr/rooms/vplainserv.c line 111: Illegal LHS before the end of line
+/d/saahr/rooms/vplainserv.c line 111: parse error before the end of line
+/d/saahr/rooms/vplainserv.c line 123: Undefined variable 'night' before  previous_object());
+/d/saahr/rooms/vplainserv.c line 123: Illegal LHS before the end of line
+/d/saahr/rooms/vplainserv.c line 123: parse error before the end of line

@@ -1,0 +1,422 @@
+/wizards/vian/workroom.c line 3: parse error before ;
+/wizards/vian/arlon/rooms/square.c line 2: Cannot #include arlon2.h before inherit ROOM;
+/wizards/vian/arlon/rooms/square.c line 13: Undefined variable 'ROOMS' before ,
+/wizards/vian/arlon/rooms/square.c line 13: parse error before ,
+/wizards/vian/arlon/rooms/square.c line 21: Illegal LHS before the end of line
+/wizards/vian/arlon/rooms/square.c line 21: parse error before the end of line
+/wizards/vian/workroom.c line 66: Undefined variable 'WORKROOM' before ;
+/wizards/vian/workroom.c line 66: Undefined variable 'SQUARE_LOC' before ;
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/vian/bin/_co
+/wizards/vian/arlon/rooms/97.c line 4: Illegal to inherit after defining global variables. before the end of line
+/wizards/vian/arlon/rooms/97.c line 2: Cannot #include DAEMONS.h before #include <arlon2.h>
+/wizards/vian/arlon/mobs/geda.c line 12: parse error before  armour" to learn mo
+/wizards/vian/piehlroom.c line 17: parse error before " : "It shouldn't be
+/wizards/vian/piehlroom.c line 17: Illegal character constant before  be a surprise, but 
+/wizards/vian/piehlroom.c line 29: End of file in string at the end of the file
+/wizards/vian/crystal.c line 53: parse error before the end of line
+/wizards/vian/crystal.c line 17: parse error before (string str) {
+/wizards/vian/crystal.c line 17: parse error before (string str) {
+/wizards/vian/crystal.c line 17: parse error before (string str) {
+/wizards/vian/bin/_getdrunk.c line 1: parse error before include <std.h>
+/wizards/vian/bin/_getdrunk.c line 1: parse error before include <std.h>
+/wizards/vian/bin/_getdrunk.c line 10: Undefined function creatorp before ) continue;
+/wizards/vian/tester.c line 15: parse error before ("100")
+/wizards/vian/tester.c line 15: parse error before ("100")
+/wizards/vian/tester.c line 15: Undefined function set_hp_ before ;
+/wizards/vian/tester.c line 15: Undefined function set_hp_ before ;
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: parse error before ", "stuff" }) ) writ
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/vian/bin/_giveale.c line 6: Undefined variable 'echoall' before  hand appears and sl
+/wizards/vian/bin/_giveale.c line 6: parse error before  hand appears and sl
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'in_edit' before  }
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'vian' before ; }
+/wizards/vian/bin/_showalts.c line 3: Undefined class 'Connection' before  *conns;
+/wizards/vian/bin/_showalts.c line 8: Reserved type name unexpected. before  = sizeof(ip_list);
+/wizards/vian/bin/_showalts.c line 8: parse error before  = sizeof(ip_list);
+/wizards/vian/bin/_showalts.c line 8: Undefined variable 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 8: Illegal LHS before the end of line
+/wizards/vian/bin/_showalts.c line 9: Undefined variable 'i' before ) {
+/wizards/vian/bin/_showalts.c line 6: Illegal to redeclare local name 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 9: Reserved type name unexpected. before  = sizeof(ip_list);
+/wizards/vian/bin/_showalts.c line 9: parse error before  = sizeof(ip_list);
+/wizards/vian/bin/_showalts.c line 9: Undefined variable 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 9: Illegal LHS before the end of line
+/wizards/vian/bin/_showalts.c line 10: Undefined variable 'i' before ) {
+/wizards/vian/bin/_showalts.c line 7: Illegal to redeclare local name 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 6: Illegal to redeclare local name 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 12: Invalid argument types to '+' ( string vs class Connection ) before ;
+/wizards/vian/bin/_showalts.c line 6: Illegal to redeclare local name 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 12: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 13: Undefined variable 'temp_alts' before  IP_D->sameip(ip_lis
+/wizards/vian/bin/_showalts.c line 13: Illegal lvalue before  IP_D->sameip(ip_lis
+/wizards/vian/bin/_showalts.c line 13: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 7: Illegal to redeclare local name 'ip_list' before ;
+/wizards/vian/bin/_showalts.c line 27: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 28: Undefined variable 'temp_alts' before  IP_D->sameip(filter
+/wizards/vian/bin/_showalts.c line 28: Illegal lvalue before  IP_D->sameip(filter
+/wizards/vian/bin/_showalts.c line 28: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 27: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 28: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 27: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 28: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 27: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 28: Left argument of -> is not a class before ;
+/wizards/vian/bin/_showalts.c line 36: Undefined variable 'y' before  == temp_alts[x]){
+/wizards/vian/bin/_showalts.c line 48: parse error before the end of file
+/wizards/vian/bin/_showalts.c line 2: Undefined class 'Connection' before  *ip_list;
+/wizards/vian/bin/_showalts.c line 10: Undefined variable 'IP_D' before query_all_connection
+/wizards/vian/bin/_showalts.c line 16: No class in scope has no member 'ip' before {
+/wizards/vian/bin/_showalts.c line 21: No class in scope has no member 'ip' before );
+/wizards/vian/bin/_test.c line 5: Undefined class 'Connection' before  *ip_object;
+/wizards/vian/bin/_test.c line 9: Undefined variable 'i' before  sizeof(ip_object);
+/wizards/vian/bin/_test.c line 9: Illegal lvalue before  sizeof(ip_object);
+/wizards/vian/bin/_test.c line 11: No class in scope has no member 'ip' before  = 1;
+/wizards/vian/bin/_test.c line 9: Undefined variable 'i' before  sizeof(ip_object);
+/wizards/vian/bin/_test.c line 9: Illegal lvalue before  sizeof(ip_object);
+/wizards/vian/bin/_test.c line 7: Undefined function gather_ips before ; //returns list of 
+/wizards/vian/bin/_test.c line 12: Undefined function gather_alts before ;
+/wizards/vian/bin/_test.c line 47: Undefined variable 'str' before ;
+/wizards/vian/bin/_test.c line 11: Undefined variable 'str' before ;
+/wizards/vian/arlon/rooms/roads/0.c line 1: parse error before  : ROOMS + "roads/0.
+/wizards/vian/arlon/rooms/roads/29.c line 31: Redeclaration of function create. before the end of line
+/wizards/vian/arlon/rooms/roads/29.c line 31: Redeclaration of function create. before the end of line
+/wizards/vian/arlon/rooms/roads/63.c line 12: parse error before  ROOMS + "beach/64.c
+/wizards/vian/arlon/rooms/roads/63.c line 12: parse error before  ROOMS + "beach/64.c
+/wizards/vian/arlon/rooms/houses/116.c line 2: Cannot #include arlonhouses before inherit VIRTUALROOM;
+/wizards/vian/arlon/rooms/houses/116.c line 5: Undefined variable 'SERVER' before ;
+/wizards/vian/arlon/rooms/houses/116.c line 8: Undefined variable 'ROOMS' before  "roads/38.c",
+/wizards/vian/arlon/rooms/houses/116.c line 9: parse error before the end of line
+/wizards/vian/arlon/rooms/houses/116.c line 2: Cannot #include arlonhouses before inherit VIRTUALROOM;
+/wizards/vian/arlon/rooms/houses/116.c line 5: Undefined variable 'SERVER' before ;
+/wizards/vian/arlon/rooms/houses/116.c line 8: Undefined variable 'ROOMS' before  "roads/38.c",
+/wizards/vian/arlon/rooms/houses/116.c line 9: parse error before the end of line
+/wizards/vian/arlon/rooms/houses/116.c line 9: parse error before the end of line
+/wizards/vian/arlon/mobs/horse.c line 25: parse error before the end of line
+/wizards/vian/arlon/mobs/horse.c line 25: parse error before the end of line
+/wizards/vian/arlon/rooms/19.c line 18: parse error before the end of line
+/wizards/vian/arlon/items/armour/saddle.c line 16: Undefined variable 'change_limbs' before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: Undefined variable 'change_limbs' before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: Reserved type name unexpected. before () {
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before () {
+/wizards/vian/arlon/items/armour/saddle.c line 16: Reserved type name unexpected. before () {
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before () {
+/wizards/vian/arlon/items/armour/saddle.c line 23: "#pragma strict_types" requires type of function before (: change_limbs :) )
+/wizards/vian/arlon/items/armour/saddle.c line 23: parse error before :) );
+/wizards/vian/arlon/items/armour/saddle.c line 18: "#pragma strict_types" requires type of function before (: change_limbs :) )
+/wizards/vian/arlon/items/armour/saddle.c line 18: Missing type for argument before  :) );
+/wizards/vian/arlon/items/armour/saddle.c line 18: parse error before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: Undefined variable 'change_limbs' before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: Undefined variable 'change_limbs' before ) );
+/wizards/vian/arlon/items/armour/saddle.c line 16: parse error before ) );
+/wizards/vian/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/vian/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/vian/arlon/rooms/docks/server.c line 7: parse error before the end of line
+/wizards/vian/arlon/rooms/roads/62.c line 7: Wrong number of arguments to query_long
+    Expected: 1  Got: 0 before  + " A large warehou
+/wizards/vian/arlon/rooms/roads/62.c line 12: parse error before  ROOMS + "roads/61.c
+/wizards/vian/arlon/rooms/roads/62.c line 7: Wrong number of arguments to query_long
+    Expected: 1  Got: 0 before  + " A large warehou
+/wizards/vian/arlon/items/obj/map.c line 32: parse error before BOLD%^%^CYAN%^|%^RES
+/wizards/vian/arlon/items/obj/map.c line 33: parse error before BOLD%^%^CYAN%^|%^RES
+/wizards/vian/arlon/items/obj/map.c line 32: parse error before BOLD%^%^CYAN%^|%^RES
+/wizards/vian/arlon/items/obj/map2.c line 32: parse error before BOLD%^%^CYAN%^|%^RES
+/wizards/vian/arlon/items/obj/map.c line 33: parse error before BOLD%^%^CYAN%^|%^RES
+/wizards/vian/arlon/items/obj/map.c line 12: Undefined variable 'wrap' before the end of line
+/wizards/vian/arlon/items/obj/map.c line 12: parse error before the end of line
+/wizards/vian/arlon/items/obj/map.c line 41: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/wizards/vian/arlon/items/obj/map.c line 41: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/wizards/vian/arlon/items/obj/map.c line 41: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/wizards/vian/testgloves.c line 38: Undefined variable 'DAMAGE_PHYSICAL' before  DAMAGE_UNARMED | DA
+/wizards/vian/testgloves.c line 38: Undefined variable 'DAMAGE_UNARMED' before  DAMAGE_IMPACT, DAMA
+/wizards/vian/testgloves.c line 38: Undefined variable 'DAMAGE_IMPACT' before  DAMAGE_NO_SEVER | D
+/wizards/vian/testgloves.c line 38: Undefined variable 'DAMAGE_NO_SEVER' before  DAMAGE_BYPASS_ARMOU
+/wizards/vian/testgloves.c line 38: Undefined variable 'DAMAGE_BYPASS_ARMOUR' before  tp);
+/wizards/vian/test.c line 57: parse error before x
+/wizards/vian/arlon/items/obj/mapstand.c line 25: Undefined variable 'ITEMS' before )->move(this_player(
+/wizards/vian/arlon/items/obj/mapstand.c line 25: parse error before )->move(this_player(
+/wizards/vian/arlon/items/obj/mapstand.c line 26: Illegal LHS before the end of line
+/wizards/vian/arlon/items/obj/mapstand.c line 26: parse error before the end of line
+/wizards/vian/arlon/items/obj/mapstand.c line 27: break statement outside loop before the end of line
+/wizards/vian/arlon/items/obj/mapstand.c line 29: parse error before  1;
+/wizards/vian/arlon/items/obj/mapstand.c line 28: parse error before  1;
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 8: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: parse error before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: String too long before ge bed fills one cor
+/wizards/vian/arlon/rooms/phouses/kilir/mathiu.c line 7: parse error before ge bed fills one cor
+/wizards/vian/pastarlon/rooms/houses/105.c line 5: Undefined variable 'SERVER' before ;
+/wizards/vian/pastarlon/rooms/docks/84.c line 5: Undefined variable 'SERVER' before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 4: No such inherited function ::create before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 5: Undefined function set_name before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 6: Undefined function set_short before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 7: Undefined function set_long before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 8: Undefined function set_id before ;
+/wizards/vian/pastarlon/items/armour/silkshirt.c line 9: Undefined function set_weight before ;
+/wizards/vian/tree.c line 13: Undefined variable 'long_desc' before ) );
+/wizards/vian/tree.c line 13: parse error before ) );
+/wizards/vian/tree.c line 26: Illegal LHS before the end of line
+/wizards/vian/tree.c line 35: Illegal LHS before the end of line
+/wizards/vian/tree.c line 35: parse error before the end of line
+/wizards/vian/tree.c line 39: Illegal LHS before the end of line
+/wizards/vian/tree.c line 54: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/vian/tree.c line 58: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/vian/tree.c line 64: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/vian/tree.c line 82: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: parse error before );
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: parse error before );
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 4: No such inherited function ::create before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 5: Undefined function set_name before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 6: Undefined function set_short before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 7: Undefined function set_long before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 8: Undefined function set_id before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 9: Undefined function set_weight before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 4: No such inherited function ::create before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 5: Undefined function set_name before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 6: Undefined function set_short before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 7: Undefined function set_long before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 8: Undefined function set_id before ;
+/wizards/vian/pastarlon/items/armour/dragonhidegloves.c line 9: Undefined function set_weight before ;
+/wizards/vian/pastarlon/rooms/roads/17.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/17.c line 5: parse error before );
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 4: No such inherited function ::create before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 5: Undefined function set_name before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 6: Undefined function set_short before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 7: Undefined function set_long before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 8: Undefined function set_id before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 9: Undefined function set_weight before ;
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: parse error before );
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: parse error before );
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: "#pragma strict_types" requires type of function before ROADSERVER);
+/wizards/vian/pastarlon/rooms/roads/15.c line 5: parse error before );
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 4: No such inherited function ::create before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 5: Undefined function set_name before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 6: Undefined function set_short before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 7: Undefined function set_long before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 8: Undefined function set_id before ;
+/wizards/vian/pastarlon/items/armour/leatherboots.c line 9: Undefined function set_weight before ;
+/wizards/vian/pastarlon/rooms/square.c line 36: parse error before the end of line
+/wizards/vian/pastarlon/rooms/square.c line 36: parse error before the end of line
+/wizards/vian/pastarlon/rooms/square.c line 36: parse error before the end of line
+/wizards/vian/riucheat.c line 74: parse error before  {
+/wizards/vian/event/magicalcage.c line 14: parse error before the end of line
+/wizards/vian/event/masterinvader.c line 20: Undefined function _move before ;
+/wizards/vian/event/masterinvader.c line 20: Bad argument number 1 to '-': "object " before the end of line
+/wizards/vian/testring.c line 17: parse error before (!this_object()->que
+/wizards/vian/testring.c line 14: parse error before ->add_stat_bonus(dex
+/wizards/vian/testring.c line 13: parse error before the end of line
+/wizards/vian/testring.c line 17: parse error before (!this_object()->que
+/wizards/vian/testring.c line 17: parse error before (this_object()->quer
+/wizards/vian/testring.c line 17: parse error before (this_object()->quer
+/wizards/vian/testring.c line 17: parse error before (this_object()->quer
+/wizards/vian/testring2.c line 19: parse error before ->add_stat_bonus(dex
+/wizards/vian/testring.c line 19: parse error before ->add_stat_bonus(dex
+/wizards/vian/testring.c line 19: parse error before ()->add_stat_bonus(d
+/wizards/vian/testring.c line 19: parse error before ()->add_stat_bonus(d
+/wizards/vian/testring.c line 18: parse error before the end of line
+/wizards/vian/testring.c line 22: parse error before the end of line
+/wizards/vian/testring.c line 23: parse error before ()->add_stat_bonus(d
+/wizards/vian/testring.c line 23: parse error before ()->add_stat_bonus("
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'read_file' before )); }
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: parse error before )); }
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_privs before ; }
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined function set_privs before ; }
+/wizards/vian/fix.c line 22: parse error before the end of line
+/wizards/vian/fix.c line 22: parse error before the end of line
+/wizards/vian/fixd.c line 24: Left argument of -> is not a class before the end of line
+/wizards/vian/fixd.c line 23: Left argument of -> is not a class before the end of line
+/wizards/vian/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/vian/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/vian/bin/_triv.c line 76: Newline in string before "+capitalize(imm->qu
+/wizards/vian/bin/_triv.c line 76: Undefined variable 'BAIL' before "+capitalize(imm->qu
+/wizards/vian/bin/_triv.c line 76: parse error before "+capitalize(imm->qu
+/wizards/vian/bin/_triv.c line 257: Bad assignment ( string vs int ). before )
+/wizards/vian/manaring.c line 22: Reserved type name unexpected. before ;
+/wizards/vian/manaring.c line 22: parse error before ;
+/wizards/vian/manaring.c line 24: Illegal LHS before the end of line
+/wizards/vian/manaring.c line 25: Undefined variable 'ob' before  find_living(str);
+/wizards/vian/manaring.c line 25: Illegal lvalue before  find_living(str);
+/wizards/vian/manaring.c line 25: Undefined variable 'str' before ;
+/wizards/vian/manaring.c line 40: Redeclaration of function create. before the end of line
+/wizards/vian/manaring.c line 43: Redeclaration of function query_auto_load. before the end of line
+/wizards/vian/manaring.c line 46: Reserved type name unexpected. before ;
+/wizards/vian/manaring.c line 46: parse error before ;
+/wizards/vian/manaring.c line 48: Illegal LHS before the end of line
+/wizards/vian/manaring.c line 49: Undefined variable 'ob' before  find_living(str);
+/wizards/vian/bin/_pwho.c line 123: Left argument of -> is not a class before in_edit();
+/wizards/vian/bin/_pwho.c line 123: Left argument of -> is not a class before in_edit();
+/wizards/vian/achronilsplash.c line 2: Cannot #include achronil.h before the end of line
+/wizards/vian/xi.c line 23: Left argument of -> is not a class before the end of line
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 28: parse error before the end of line
+/wizards/vian/hugefirework.c line 29: parse error before (i){
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 30: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 30: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 31: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 31: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 32: Wrong number of arguments to message
+    Expected: 1  Got: 3 before ; break;
+/wizards/vian/hugefirework.c line 32: Bad type for argument 1 of message ( int vs string ) before ; break;
+/wizards/vian/hugefirework.c line 24: Reserved type name unexpected. before (string str) {
+/wizards/vian/hugefirework.c line 24: parse error before (string str) {
+/wizards/vian/hugefirework.c line 24: "#pragma strict_types" requires type of function before "messages", 2, 0);
+/wizards/vian/hugefirework.c line 24: parse error before , 2, 0);
+/wizards/vian/hugefirework.c line 24: "#pragma strict_types" requires type of function before "messages", 2, 0, 0)
+/wizards/vian/hugefirework.c line 24: parse error before , 2, 0, 0);
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "messages", 2, 0, 0)
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, 0);
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "send_messages", 2, 
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, 0);
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "messages", 2, 0, 0)
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, 0);
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "messages", 2, 0, th
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, this_player(
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "messages", 2, 0, th
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, this_player(
+/wizards/vian/hugefirework.c line 25: "#pragma strict_types" requires type of function before "display_messages", 
+/wizards/vian/hugefirework.c line 25: parse error before , 2, 0, this_player(
+/wizards/vian/fwork.c line 23: parse error before  1;
+/wizards/vian/test.c line 23: Left argument of -> is not a class before the end of line
+/wizards/vian/amulet.c line 23: Left argument of -> is not a class before the end of line
+/wizards/vian/newb.c line 23: Left argument of -> is not a class before the end of line
+/wizards/vian/pi.c line 2: parse error before the end of line
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'nulvect' before ->force_me(expbonus 
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'expbonus' before ); }
+/wizards/vian/CMD_EVAL_TMP_FILE.c line 5: parse error before ); }
+/wizards/vian/test.c line 31: Undefined variable 'obs' before  filter(all_inventor
+/wizards/vian/test.c line 31: Illegal lvalue before  filter(all_inventor
+/wizards/vian/test.c line 31: Undefined variable 'DISGUISE_ID' before  :) ) ))
+/wizards/vian/test.c line 25: Undefined variable 'ids' before  tp->query_id() + ({
+/wizards/vian/test.c line 25: Illegal lvalue before  tp->query_id() + ({
+/wizards/vian/test.c line 25: Left argument of -> is not a class before  tp->query_name(), t
+/wizards/vian/test.c line 25: parse error before  tp->query_name(), t
+/wizards/vian/test.c line 25: Left argument of -> is not a class before  tp->query_name(), "
+/wizards/vian/test.c line 25: parse error before  tp->query_name(), "
+/wizards/vian/test.c line 25: Left argument of -> is not a class before "tp->query_name()", 
+/wizards/vian/test.c line 25: parse error before "tp->query_name()", 
+/wizards/vian/i.c line 41: parse error before wizards/vian/x.c);
+/wizards/vian/i.c line 41: parse error before wizards/vian/x.c)->m
+/wizards/vian/i.c line 41: parse error before (/wizards/vian/x.c)-
+/wizards/vian/i.c line 41: parse error before ("/wizards/vian/x.c"
+/wizards/vian/i.c line 44: parse error before the end of file
+/wizards/vian/example/1.c line 11: Undefined variable 'ROOMS' before ,
+/wizards/vian/example/1.c line 11: parse error before ,
+/wizards/vian/diran/rooms/tundra/1.c line 2: Cannot #include diran.h before the end of line
+/wizards/vian/diran/rooms/tundra/1.c line 4: parse error before "tundra/zone";
+/wizards/vian/diran/rooms/tundra/1.c line 2: Cannot #include diran.h before the end of line
+/wizards/vian/diran/rooms/tundra/1.c line 4: parse error before "tundra/zone";
+/wizards/vian/diran/rooms/dock.c line 14: Undefined variable 'WORLD_D' before find_docked_ships(OC
+/wizards/vian/diran/rooms/dock.c line 27: Undefined variable 'WORLD_D' before find_docked_ships(OC
+/wizards/vian/diran/rooms/dock.c line 81: Undefined variable 'WORLD_D' before add_ship(ship, OCEAN
+/wizards/vian/diran/rooms/dock.c line 103: Undefined variable 'WORLD_D' before add_ship(ship, OCEAN
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;
+/wizards/vian/diran/mobs/mob_inherit.c line 6: parse error before , opposite_faction;

@@ -1,0 +1,8 @@
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "resolve_hooks" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 29: Redeclaration of function create. before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 17: Illegal to redefine 'nomask' function "resolve_hooks" before the end of line
+/wizards/hepualahaole/marsh/mob/wasp.c line 29: Redeclaration of function create. before the end of line

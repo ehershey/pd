@@ -1,0 +1,256 @@
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  = a[0..5000]; retur
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  return a;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs mixed * ) when initializing a before  int b = ' '; return
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ;; }
+/wizards/pyro/personal/microphone.c line 14: parse error before , mixed message) {
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/pyro/personal/microphone.c line 26: parse error before ()+"%^BOLD%^%^CYAN%^
+/wizards/pyro/workroom.c line 76: Reserved type name unexpected. before ;
+/wizards/pyro/workroom.c line 76: parse error before ;
+/wizards/pyro/workroom.c line 78: Illegal LHS before the end of line
+/wizards/pyro/workroom.c line 79: Undefined variable 'ob' before  {
+/wizards/pyro/workroom.c line 84: parse error before the end of line
+/wizards/pyro/bin/_mic.c line 12: parse error before (!to) return notify_
+/wizards/pyro/personal/microphone.c line 47: Undefined variable 'this_object' before ));
+/wizards/pyro/bin/_mic.c line 9: parse error before mic?"":"not ")"have 
+/wizards/pyro/bin/_mic.c line 20: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 20: parse error before the end of line
+/wizards/pyro/bin/_mic.c line 21: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 21: parse error before the end of line
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  "no hello" : 1 ]));
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  "no hello" : 1 ]));
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ob' before  find_player("sik");
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  find_player("sik");
+/wizards/pyro/bin/_mic.c line 25: Undefined function copy_object before ;
+/wizards/pyro/bin/_mic.c line 24: Undefined function become_object before ) return;  //Become 
+/wizards/pyro/bin/_mic.c line 31: Undefined function do_command before ;
+/wizards/pyro/bin/_find.c line 10: Undefined function do_find before ;
+/wizards/pyro/bin/_find.c line 26: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/pyro/bin/_find.c line 36: Undefined variable 'str' before );
+/wizards/pyro/bin/_find.c line 70: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/pyro/bin/_find.c line 28: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/pyro/bin/_find.c line 38: Undefined variable 'str' before );
+/wizards/pyro/bin/_find.c line 72: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/pyro/bin/_find.c line 37: Undefined variable 'str' before );
+/wizards/pyro/bin/_mic.c line 33: parse error before  != 2) {
+/wizards/pyro/bin/_mic.c line 34: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 34: parse error before the end of line
+/wizards/pyro/bin/_mic.c line 35: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 58: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 58: parse error before the end of line
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function strip_colors before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function strip_colours before ; }
+/wizards/pyro/workroom.c line 19: Undefined variable 'ob' before set_invincible(1);
+/wizards/pyro/workroom.c line 19: Undefined variable 'ob' before set_invincible(1);
+/wizards/pyro/personal/microphone.c line 61: == always false because of incompatible types ( int vs object ). before the end of line
+/wizards/pyro/bin/_mic.c line 93: parse error before ") {
+/wizards/pyro/bin/_mic.c line 118: End of file in string at the end of the file
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  "+killer->is_player
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/pyro/personal/firemass.c line 189: Missing type for argument before  str) {
+/wizards/pyro/personal/firemass.c line 189: parse error before ) {
+/wizards/pyro/sandbox/long_map.c line 56: Undefined variable 'trackedRooms' before  ([]);
+/wizards/pyro/sandbox/long_map.c line 56: Illegal lvalue before  ([]);
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_exits before );; }
+/wizards/pyro/personal/micbody.include line 25: No such inherited function ::is_invincible before ; return ret?ret:i; 
+/wizards/pyro/personal/micbody.include line 25: Undefined variable 'i' before  }
+/wizards/pyro/personal/micbody.include line 27: No such inherited function ::is_invincible before ;
+/wizards/pyro/personal/micbody.include line 26: Bad argument 2 to efun function_exists() before )
+/wizards/pyro/personal/micbody.include line 27: No such inherited function ::is_invincible before ;
+/wizards/pyro/personal/micbody.include line 28: No such inherited function ::is_invincible before ;
+/wizards/pyro/personal/micbody.include line 28: No such inherited function ::is_invincible before ;
+/wizards/pyro/personal/micbody.include line 28: No such inherited function ::is_invincible before ;
+/wizards/pyro/bin/_mic.c line 89: Undefined variable 'ret' before  find_object( filena
+/wizards/pyro/bin/_mic.c line 89: Illegal lvalue before  find_object( filena
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 3: Cannot #include /wizards/pyro/personal/micbase.include before void create() { ::cr
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 4: Undefined variable 'noInvis' before  0; micName = "*" }
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  0; micName = "*" }
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 4: Undefined variable 'micName' before  "*" }
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  "*" }
+/wizards/pyro/binMIC_EXPLODE_TEMP.c line 4: parse error before the end of line
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 3: Cannot #include /wizards/pyro/personal/micbase.include before void create() { ::cr
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'noInvis' before  0; micName = "*" }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  0; micName = "*" }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'micName' before  "*" }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  "*" }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: parse error before the end of line
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 3: Cannot #include /wizards/pyro/personal/micbase.include before void create() { ::cr
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'noInvis' before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'micName' before  "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 3: Cannot #include /wizards/pyro/personal/micbase.include before void create() { ::cr
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'noInvis' before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'micName' before  "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  "*"; }
+/wizards/pyro/bin/_mic.c line 88: parse error before  = path_file(file_na
+/wizards/pyro/bin/_mic.c line 88: Illegal LHS before the end of line
+/wizards/pyro/bin/_mic.c line 165: Undefined variable 'to' before ;
+/wizards/pyro/personal/mic.c line 6: No such inherited function ::init before ;
+/wizards/pyro/personal/mic.c line 7: Undefined function query_invis before  && !noInvis)
+/wizards/pyro/personal/mic.c line 8: Undefined function set_invis before ;
+/wizards/pyro/personal/mic.c line 16: Undefined function receive_message before ;
+/wizards/pyro/personal/mic.c line 39: No such inherited function ::heart_beat before ;
+/wizards/pyro/personal/mic.c line 65: No such inherited function ::receive_message before ;
+/wizards/pyro/personal/microphone.c line 4: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/wizards/pyro/personal/microphone.c line 4: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/wizards/pyro/personal/mic.c line 6: No such inherited function ::init before ;
+/wizards/pyro/personal/mic.c line 7: Undefined function query_invis before  && !noInvis)
+/wizards/pyro/personal/mic.c line 8: Undefined function set_invis before ;
+/wizards/pyro/personal/mic.c line 16: Undefined function receive_message before ;
+/wizards/pyro/personal/mic.c line 39: No such inherited function ::heart_beat before ;
+/wizards/pyro/personal/mic.c line 65: No such inherited function ::receive_message before ;
+/wizards/pyro/personal/microphone.c line 8: No such inherited function mic::create before ;
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 3: Unrecognised # directive before void create() { ::cr
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'noInvis' before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  0; micName = "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Undefined variable 'micName' before  "*"; }
+/wizards/pyro/bin/MIC_EXPLODE_TEMP.c line 4: Illegal lvalue before  "*"; }
+/wizards/pyro/personal/mic.h line 83: Illegal to redefine 'nomask' function "die" before the end of line
+/wizards/pyro/sandbox/micmaster.c line 24: parse error before n"
+/wizards/pyro/sandbox/micmaster.c line 114: Illegal LHS before the end of line
+/wizards/pyro/sandbox/micmaster.c line 114: parse error before the end of line
+/wizards/pyro/sandbox/micmaster.c line 116: Undefined variable 'filename' before  ) destruct( ret );
+/wizards/pyro/sandbox/micmaster.c line 116: Illegal LHS before  destruct( ret );
+/wizards/pyro/sandbox/micmaster.c line 116: parse error before ( ret );
+/wizards/pyro/personal/mic.h line 7: Undefined function query_invis before  && !noInvis)
+/wizards/pyro/personal/mic.h line 8: Undefined function set_invis before ;
+/wizards/pyro/personal/mic.h line 16: Undefined function receive_message before ;
+/wizards/pyro/personal/mic.h line 39: No such inherited function ::heart_beat before ;
+/wizards/pyro/personal/mic.h line 65: No such inherited function ::receive_message before ;
+/wizards/pyro/personal/mic.h line 82: No such inherited function ::die before ;
+/wizards/pyro/sandbox/micmaster.c line 142: parse error before  {
+/wizards/pyro/sandbox/micmaster.c line 152: Reserved type name unexpected. before  = get_object(str);
+/wizards/pyro/sandbox/micmaster.c line 152: parse error before  = get_object(str);
+/wizards/pyro/sandbox/micmaster.c line 152: Undefined variable 'str' before ;
+/wizards/pyro/sandbox/micmaster.c line 152: Illegal LHS before the end of line
+/wizards/pyro/sandbox/micmaster.c line 157: Undefined variable 'toFollow' before the end of line
+/wizards/pyro/sandbox/micmaster.c line 152: Reserved type name unexpected. before  = get_object(str);
+/wizards/pyro/sandbox/micmaster.c line 152: parse error before  = get_object(str);
+/wizards/pyro/sandbox/micmaster.c line 152: Undefined variable 'str' before ;
+/wizards/pyro/sandbox/micmaster.c line 152: Illegal LHS before the end of line
+/wizards/pyro/sandbox/micmaster.c line 157: Undefined variable 'toFollow' before the end of line
+/wizards/pyro/sandbox/micmaster.c line 164: Undefined variable 'command' before "> does not exist.\n
+/wizards/pyro/sandbox/micmaster.c line 171: parse error before ->set_owner(this_pla
+/wizards/pyro/sandbox/micmaster.c line 62: Undefined function get_inherit_list before [0]);
+/wizards/pyro/sandbox/micmaster.c line 68: Undefined function query_override_invincible before ?"not ":"")+"attacka
+/wizards/pyro/sandbox/micmaster.c line 224: Undefined function query_override_invincible before ?"not ":"")+"attacka
+/wizards/pyro/personal/mic.h line 18: Undefined function receive_message before ;
+/wizards/pyro/personal/mic.h line 69: No such inherited function ::receive_message before ;
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'SIT' before  }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'const' before  i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'constant' before  i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function set_level before ; set_id(({"priest",
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  ob->move(get_object
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  ob->move(get_object
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  ob->move(get_object
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before (member_array('#', f
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before (member_array('#', f
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before (member_array('#', f
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before (member_array('#', f
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/pyro/personal/micmaster.c line 55: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function player before ; }
+/wizards/pyro/kitten.c line 7: Wrong number of arguments to set_property
+    Expected: 2  Got: 1 before ;
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function strip_colors before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_colors before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_color before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( object vs string ) when initializing ob before  return ob;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'me' before  return objectp(ob);
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun all_inventory() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'DRAG_MOBS' before "gemogre")); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_color before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function to_lower before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before )); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'BOARD_D' before  }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function hours before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function parse_time before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'move' before  to /std/user#1774; 
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  to /std/user#1774; 
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 774; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined function messagie before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ADvance' before d; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'd' before  }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  return nullp(a);; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'that' before 't even work... hrm.
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before 't even work... hrm.
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before  even work... hrm...
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before ; return nullp(a);  
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'that' before 't even work... hrm.
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before 't even work... hrm.
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before  even work... hrm...
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'null' before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'NULL' before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'undefined' before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  class Effect *Effec
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'Effect' before  *Effects = ({});; }
+/wizards/pyro/test.c line 14: parse error before (class Effect eff) {
+/wizards/pyro/test.c line 14: parse error before (class Effect eff) {
+/wizards/pyro/test.c line 16: Undefined function query_effects before ;
+/wizards/pyro/test.c line 30: Bad type for argument 1 of name ( string vs class Effect ) before ;
+/wizards/pyro/test.c line 35: Bad assignment ( class Effect * vs class Effect ). before  }
+/wizards/pyro/test.c line 45: Undefined variable 'do_bleeding' before );
+/wizards/pyro/test.c line 45: parse error before );
+/wizards/pyro/test.c line 46: Illegal LHS before the end of line
+/wizards/pyro/test.c line 49: Undefined variable 'x' before the end of line
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'Effect' before  eff = "/wizards/pyr
+/wizards/pyro/test.c line 25: Type of returned value doesn't match function return type ( int vs class Effect ) before the end of line
+/wizards/pyro/test.c line 32: Type of returned value doesn't match function return type ( int vs class Effect ) before the end of line
+/wizards/pyro/test.c line 32: Type of returned value doesn't match function return type ( int vs class Effect ) before the end of line
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'long' before  = 99999999999999; i
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before  = 99999999999999; i
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  i++; return i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before ; return i;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before ; return i;; }
+/wizards/pyro/sandbox/queue_d.c line 138: Invalid types to '-' ( string vs int ) before ")", find_player("py
+/wizards/pyro/sandbox/queue_d.c line 154: Illegal to redeclare local name 'queueItor' before =0; i < sizeof(queue
+/wizards/pyro/sandbox/queue_d.c line 154: Undefined variable 'i' before  sizeof(queue) && qu
+/wizards/pyro/sandbox/queue_d.c line 154: Illegal to redeclare local name 'queueItor' before =0; i < sizeof(queue
+/wizards/pyro/sandbox/queue_d.c line 154: Undefined variable 'i' before  sizeof(queue) && qu
+/wizards/pyro/sandbox/queue_d.c line 154: Undefined variable 'i' before  sizeof(queue) && qu
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before 1];; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to sort_array before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'exs' before  (: member_array($1,
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal to use local variable in functional. before  );; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Illegal to use local variable in functional. before  );; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'kingeventob' before c); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before c); }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ;; }
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before d/events/dragonaug20
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 2886);; }
+/wizards/pyro/input_to.c line 1: parse error before () {
+/wizards/pyro/input_to.c line 1: parse error before () {
+/wizards/pyro/input_to.c line 1: parse error before () {
+/wizards/pyro/CMD_EVAL_TMP_FILE.c line 5: parse error before ();; }
+/wizards/pyro/input_to.c line 1: parse error before () {
+/wizards/pyro/input_to.c line 3: parse error before () {
+/wizards/pyro/input_to.c line 3: parse error before () {

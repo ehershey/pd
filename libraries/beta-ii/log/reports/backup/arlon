@@ -1,0 +1,125 @@
+Bug reported by Stormbringer:
+/d/arlon/room/plains18: things can fight back while asleep
+Bug reported by Pimp:
+/d/arlon/room/loadb: boat guy
+Bug reported by Pimp:
+/d/arlon/room/loadb: boat guy took all my money
+Typo reported by Sulphur Thu Jul 27 02:11:44 2000
+/d/arlon/room/plains17: cheeta is cheetah
+Typo reported by Staver Thu Jul 27 03:40:33 2000
+/d/arlon/room/stoneshop: long desc behind instead of behing
+Bug reported by Staver:
+/d/arlon/room/esquare2: feed command
+Bug reported by Staver:
+/d/arlon/room/esquare2: feed command isn't working
+Typo reported by Sulphur:
+/d/arlon/room/stoneshop: behing + behind
+Bug reported by Psychosmurf:
+/d/arlon/room/fighter_hall: help bug
+Bug reported by Psychosmurf:
+/d/arlon/room/fighter_hall: <up> *Failed to locate file d/arlon/room/fghrhall
+Typo reported by Mortdred:
+/d/arlon/room/plains4: A "spotted cheeta" is female, but the desc uses "he" and
+"it". The name is also a mispelling of cheetah.
+Bug reported by Myxlplyx:
+/d/arlon/room/oasis: A furry lion has no heartbeat
+Bug reported by Koreo:
+/d/arlon/room/loadb: help recall
+Bug reported by Wildflower:
+/d/arlon/room/oasis: here
+Bug reported by Wildflower:
+/d/arlon/room/oasis: geez been awhile since I've done one of these...the bug
+here is that it says Error when entering the room
+Bug reported by Antipaladin:
+/d/arlon/room/plains4: misspeling on cheeta, its spelled cheetah
+Bug reported by Antipaladin:
+/d/arlon/room/plains3: cant "get all" gives same admins broke something message
+Bug reported by Antipaladin:
+/d/arlon/room/plains3: i dont think thinks should still be aggressive towrards
+you after they kill you
+Bug reported by Antipaladin:
+/d/arlon/room/fighter_hall: cant go into the antipaladin room in arlon,
+"*call_other() couldn't find object"
+Bug reported by Antipaladin:
+/d/arlon/room/stoneshop: Zelgadiss' desc says John from the pier of arlon and
+John is on the docks of Tirun
+Bug reported by Antipaladin:
+/d/arlon/obj/mon/mufasa#1091: mufasa is the most respected person among the
+animals, even tho he is a lion, might want to change it.  not that big of a deal
+tho
+Bug reported by Impreza:
+/d/arlon/room/s_gates: skills
+Typo reported by Arden:
+/d/arlon/room/plains20: jab Altimamisses a jab.
+Bug reported by Arden:
+/d/arlon/room/plains13: help who The help who has a lot of arguments, of which
+non are explained.
+Bug reported by Kartoffel:
+/d/arlon/room/oasis: cheetah is still misspelled
+Bug reported by Powerman:
+/d/arlon/room/plains20: can butcher while in combat
+Bug reported by Leviathas:
+/d/arlon/room/square: Warning! You are already marked as posting!    Printable
+strings limited to length of 8192.   program: /std/user.c, object:
+/std/user#10661, file: /std/user.c:1174
+Bug reported by Deathshroud:
+/d/arlon/room/plains13: when it says You are too busy to eat anthing! it still
+makes you stuffed
+Bug reported by Faust:
+/d/arlon/room/house1inside1:  
+Bug reported by Faust:
+/d/arlon/room/house1inside1: report
+Bug reported by Droc:
+/d/arlon/room/stoneshop: Zelgadiss, the magician is selling defective stones
+Typo reported by Afterlife:
+/d/arlon/room/s_gates:   
+Bug reported by Calirynth:
+/d/arlon/room/plains17: don't know if this is a bug or not, but I can summon
+things while in battle
+Bug reported by Calirynth:
+/d/arlon/obj/mon/lynx#52326: lynx has hands
+Bug reported by Calirynth:
+/d/arlon/obj/mon/zebra#52327: zebra has hands/arms also
+Typo reported by Calirynth:
+/d/arlon/room/plains20: hellfire spell when I cast it, says "Great tongues of
+hells flame engulf you!"
+Bug reported by Azire:
+/d/arlon/room/plains13: i can still stack swoops somehow.
+Bug reported by Calirynth:
+/d/arlon/room/esquare1: demonfire spell, killed something and: Expected: string
+or array or object Got: 0.  program: /cmds/skills/_demonfire.c, object:
+/cmds/skills/_demonfire, file: /cmds/skills/_demonfire.c:66
+Typo reported by Mochaprincess:
+/d/arlon/room/oasis: The cheetah north of Arlon is supposed to be a female
+(or so it says in her description) but it says he looks around for something
+to eat 
+Bug reported by Azire:
+/d/arlon/obj/mon/cheeta#12306: Cheetah sends you a bone crushing blow in the
+back right claw with her left
+Bug reported by Azire:
+/d/arlon/room/plains13: eep.. sorry.. the cheetah hit me with her 'rear hoof'.
+since when do cheetahs have hooves??
+Typo reported by Wolfspirit:
+/d/arlon/room/stoneshop: help rules - Rule 7, last three words: "Sapmming is
+harassment."
+Bug reported by Hermes:
+/d/arlon/room/oasis: Throw has a bug in it.  Sugar, a level 10 gypsy, threw her
+dagger at a me.  It was accidental and didn't hit, but if it had, my idles would
+have probably killed her before we could have reacted
+Bug reported by Azire:
+/d/arlon/room/plains13: i can still stack swoops.
+Typo reported by Odysseus:
+/d/arlon/room/plains3: help slash it's got that (than) im not perfect either
+just wanna help out =) 
+Typo reported by Yelnats:
+/d/arlon/room/stoneshop: It is bright. The room is brightly lit with a eerie
+green light. There is a |          counter on the west side of the room with
+a wooden box        |         hanging from the wall behing it, emitting a
+green light.      |     [X]-[ ]                                              
+|                                                                       |    
+There is only one obvious exit: east.  it says behing .. shouldnt it be
+behind? 
+Typo reported by Kurgan:
+/d/arlon/room/plains18: Um, just a little mob typo, or possibly a backstab typo.
+But, when I BS, I don't really see stabbing an antelope in the arm as a possible
+outcome. I'd consider all four appendages legs. Just my opinion.

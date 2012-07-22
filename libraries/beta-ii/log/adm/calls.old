@@ -1,0 +1,4070 @@
+hepualahaole under euid hepualahaole Mon Mar 13 21:21:49 2006
+ironman; single
+hepualahaole under euid hepualahaole Mon Mar 13 21:22:33 2006
+ironman;set_married;"single"
+hepualahaole under euid hepualahaole Mon Mar 13 21:23:55 2006
+ironman;set_married;"single"
+hepualahaole under euid hepualahaole Mon Mar 13 21:24:41 2006
+ironman;set_married;"divorce"
+hepualahaole under euid hepualahaole Mon Mar 13 21:26:25 2006
+ironman;set_married;"single"
+hepualahaole under euid hepualahaole Mon Mar 13 21:28:19 2006
+ironman;set_married;"unwed"
+hepualahaole under euid hepualahaole Mon Mar 13 21:29:39 2006
+ironman;divorce
+hepualahaole under euid hepualahaole Mon Mar 13 21:36:15 2006
+ironman;divorce_me
+hepualahaole under euid hepualahaole Mon Mar 13 21:36:43 2006
+ironman;divorce_me
+daboura under euid daboura Wed Mar 15 17:39:58 2006
+dabtest;set_level;100
+nesoo under euid nesoo Wed Mar 15 21:01:47 2006
+ironman;move_player;"/d/nopk/tirun/square";"to the Tirun square."
+nesoo under euid nesoo Wed Mar 15 21:04:59 2006
+arma;move_player;"/d/nopk/tirun/square";"to the Tirun square."
+daboura under euid daboura Sun Mar 19 19:34:15 2006
+dabdruid;set_level;50
+daboura under euid daboura Sun Mar 19 19:34:37 2006
+dabdruid;set_stats;"wisdom";80
+daboura under euid daboura Sun Mar 19 19:34:43 2006
+dabdruid;set_stats;"intelligence";80
+daboura under euid daboura Sun Mar 19 19:34:59 2006
+dabdruid;set_stats;"constitution";50
+daboura under euid daboura Sun Mar 19 19:35:07 2006
+dabdruid;set_stats;"strength";50
+daboura under euid daboura Sun Mar 19 19:35:11 2006
+dabdruid;set_stats;"dexterity";50
+daboura under euid daboura Sun Mar 19 19:35:21 2006
+dabdruid;fix_vital_bonus
+daboura under euid daboura Sun Mar 19 19:50:47 2006
+dabdruid;set_level;65
+whit under euid whit Mon Mar 20 06:27:04 2006
+users;force_me;save
+daboura under euid daboura Mon Mar 20 16:04:06 2006
+vyce;set_level;100
+daboura under euid daboura Mon Mar 20 20:45:47 2006
+gob;query_skill;"perception
+daboura under euid daboura Mon Mar 20 20:45:49 2006
+gob;query_skill;"perception"
+nesoo under euid nesoo Tue Mar 21 16:46:39 2006
+arma
+daboura under euid daboura Tue Mar 21 16:47:07 2006
+arma
+daboura under euid daboura Tue Mar 21 16:47:17 2006
+vyce
+nesoo under euid nesoo Tue Mar 21 19:18:52 2006
+arma;query_kills
+nesoo under euid nesoo Tue Mar 21 19:19:02 2006
+arma
+daboura under euid daboura Tue Mar 21 21:31:58 2006
+gob;query_skill;"perception"
+daboura under euid daboura Wed Mar 22 19:23:05 2006
+po
+daboura under euid daboura Fri Mar 24 13:34:48 2006
+valas;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 14:49:57 2006
+valas
+daboura under euid daboura Fri Mar 24 14:50:27 2006
+valas
+daboura under euid daboura Fri Mar 24 16:14:31 2006
+piehl;query_perception
+daboura under euid daboura Fri Mar 24 16:14:39 2006
+piehl;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 16:21:23 2006
+piehl;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 16:21:45 2006
+piehl;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 16:56:06 2006
+arma;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 16:57:50 2006
+vyce;query_skill;"perception"
+daboura under euid daboura Fri Mar 24 21:00:09 2006
+yang;force_me;"abilities"
+daboura under euid daboura Fri Mar 24 21:32:19 2006
+swizz
+nesoo under euid nesoo Sat Mar 25 14:34:51 2006
+fizz
+nesoo under euid nesoo Sat Mar 25 15:03:52 2006
+agnidev
+nesoo under euid nesoo Sat Mar 25 16:12:19 2006
+metestchar;query_password
+nesoo under euid nesoo Sun Mar 26 17:26:06 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 17:26:30 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 17:26:38 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 17:26:48 2006
+ahriman;add_money;"gold"-89
+nesoo under euid nesoo Sun Mar 26 17:26:50 2006
+ahriman;add_money;"gold";-89
+nesoo under euid nesoo Sun Mar 26 17:27:00 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 17:27:28 2006
+ahriman;query_money
+nesoo under euid nesoo Sun Mar 26 17:27:34 2006
+ahriman;query_money;"electrum"
+nesoo under euid nesoo Sun Mar 26 17:27:38 2006
+ahriman;query_money;"silver"
+nesoo under euid nesoo Sun Mar 26 17:27:42 2006
+ahriman;query_money;"platinum"
+nesoo under euid nesoo Sun Mar 26 17:27:46 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 17:28:44 2006
+ahriman;query_money;"copper"
+nesoo under euid nesoo Sun Mar 26 17:38:11 2006
+ahriman;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 18:07:31 2006
+helgrym;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 18:07:49 2006
+helgrym;query_money;"silver"
+nesoo under euid nesoo Sun Mar 26 18:07:53 2006
+helgrym;query_money;"copper"
+nesoo under euid nesoo Sun Mar 26 18:07:57 2006
+helgrym;query_money;"electrum"
+nesoo under euid nesoo Sun Mar 26 18:08:03 2006
+helgrym;query_money;"platinum"
+nesoo under euid nesoo Sun Mar 26 18:08:07 2006
+helgrym;query_money;"gold"
+nesoo under euid nesoo Sun Mar 26 18:36:11 2006
+ticklemeelmo;die
+nesoo under euid nesoo Mon Mar 27 17:06:48 2006
+shinata
+daboura under euid daboura Mon Mar 27 21:43:10 2006
+count;query_skill;"ferocity"
+daboura under euid daboura Mon Mar 27 23:36:21 2006
+luke
+daboura under euid daboura Mon Mar 27 23:38:19 2006
+luke
+daboura under euid daboura Mon Mar 27 23:38:51 2006
+nekor
+daboura under euid daboura Mon Mar 27 23:39:05 2006
+nekor;set_recent_outlaw;0
+daboura under euid daboura Mon Mar 27 23:39:05 2006
+nekor;set_recent_outlaw;0
+daboura under euid daboura Mon Mar 27 23:39:09 2006
+nekor
+daboura under euid daboura Mon Mar 27 23:41:43 2006
+nekor;set_recent_outlaw;1
+daboura under euid daboura Mon Mar 27 23:41:47 2006
+nekor
+daboura under euid daboura Tue Mar 28 10:57:19 2006
+scamp;query_skill:"perception"
+daboura under euid daboura Tue Mar 28 10:57:33 2006
+scamp;query_skills:"perception"
+daboura under euid daboura Tue Mar 28 10:57:35 2006
+scamp;query_skills"perception"
+daboura under euid daboura Tue Mar 28 10:57:41 2006
+scamp;query_skills;"perception"
+daboura under euid daboura Tue Mar 28 10:57:50 2006
+scamp;query_skills"perception"
+daboura under euid daboura Tue Mar 28 10:57:53 2006
+scamp;query_skill;"perception"
+daboura under euid daboura Tue Mar 28 10:58:33 2006
+carina;query_skills
+daboura under euid daboura Tue Mar 28 12:54:51 2006
+vyce;query_skill;"ferocity"
+daboura under euid daboura Tue Mar 28 13:06:09 2006
+vyce;query_skill;"ferocity"
+daboura under euid daboura Tue Mar 28 13:34:01 2006
+vyce;query_skill;"perception"
+daboura under euid daboura Tue Mar 28 13:34:07 2006
+vyce;query_skill;"ferocity"
+daboura under euid daboura Tue Mar 28 14:34:07 2006
+vyce;query_skill;"axe"
+daboura under euid daboura Tue Mar 28 15:30:09 2006
+alchemon
+daboura under euid daboura Tue Mar 28 15:53:37 2006
+piehl;force_me;"abilities"
+nesoo under euid nesoo Tue Mar 28 17:10:16 2006
+carina;query_subjective
+nesoo under euid nesoo Tue Mar 28 17:10:24 2006
+carina;query_objective
+nesoo under euid nesoo Tue Mar 28 17:10:38 2006
+carina;query_possessive
+nesoo under euid nesoo Tue Mar 28 17:14:38 2006
+carina;query_title_gender
+nesoo under euid nesoo Tue Mar 28 17:14:48 2006
+carina;query_gender
+nesoo under euid nesoo Tue Mar 28 17:20:14 2006
+carina;query_title_gender
+nesoo under euid nesoo Tue Mar 28 21:12:06 2006
+nemo
+nesoo under euid nesoo Tue Mar 28 21:15:42 2006
+nekor
+nesoo under euid nesoo Tue Mar 28 21:16:12 2006
+wrath
+daos under euid daos Sat Apr  1 23:27:47 2006
+agnidev;query_gate
+daos under euid daos Sat Apr  1 23:31:23 2006
+agnidev;query_gate;
+nesoo under euid nesoo Sun Apr  2 16:41:51 2006
+myst;query_offense;"pk"
+nesoo under euid nesoo Sun Apr  2 16:46:55 2006
+myst;query_outlaw;"pk"
+nesoo under euid nesoo Sun Apr  2 16:47:01 2006
+myst;query_recent_outlaw
+daboura under euid daboura Thu Apr  6 18:01:39 2006
+myst
+nesoo under euid nesoo Sat Apr  8 12:26:35 2006
+ironman;query_original_guild
+nesoo under euid nesoo Sat Apr  8 12:32:13 2006
+gaara
+nesoo under euid nesoo Sat Apr  8 12:34:51 2006
+ironman;query_name
+nesoo under euid nesoo Sat Apr  8 12:40:03 2006
+gaara
+nesoo under euid nesoo Sat Apr  8 12:46:59 2006
+agnidev;query_original_guild
+nesoo under euid nesoo Sat Apr  8 12:47:07 2006
+gaara;query_original_guild
+nesoo under euid nesoo Sat Apr  8 12:47:13 2006
+gaara;query_guild
+nesoo under euid nesoo Sat Apr  8 12:47:23 2006
+ironman;query_guild
+nesoo under euid nesoo Sat Apr  8 13:21:41 2006
+gaara
+nesoo under euid nesoo Sat Apr  8 21:11:31 2006
+wigglers
+nesoo under euid nesoo Sun Apr  9 12:02:55 2006
+venom
+nesoo under euid nesoo Mon Apr 10 17:02:16 2006
+warrick
+nesoo under euid nesoo Wed Apr 12 16:51:40 2006
+makaji
+nesoo under euid nesoo Wed Apr 12 17:22:42 2006
+darius
+nesoo under euid nesoo Wed Apr 12 17:39:22 2006
+luke
+whit under euid whit Wed Apr 12 23:01:18 2006
+naeblis;set_hp;2
+whit under euid whit Wed Apr 12 23:01:26 2006
+naeblis;set_sp;2
+whit under euid whit Wed Apr 12 23:01:28 2006
+naeblis;set_mp;2
+daboura under euid daboura Fri Apr 14 17:58:28 2006
+rhuan
+nesoo under euid nesoo Fri Apr 14 18:02:42 2006
+rhuan;query_recent_outlaw
+nesoo under euid nesoo Fri Apr 14 18:03:06 2006
+vyce;query_recent_outlaw
+nesoo under euid nesoo Fri Apr 14 18:06:26 2006
+garret;set_level;25
+nesoo under euid nesoo Fri Apr 14 18:09:20 2006
+garret;set_skill;"knife";125
+nesoo under euid nesoo Fri Apr 14 18:10:38 2006
+garret;fix_vital_bonus
+nesoo under euid nesoo Fri Apr 14 18:11:12 2006
+garret;set_stats;"strength";40
+nesoo under euid nesoo Fri Apr 14 18:11:18 2006
+garret;set_stats;"constitution";40
+nesoo under euid nesoo Fri Apr 14 18:11:22 2006
+garret;set_stats;"dexterity";40
+nesoo under euid nesoo Fri Apr 14 18:11:30 2006
+garret;set_stats;"charisma";50
+nesoo under euid nesoo Fri Apr 14 18:11:40 2006
+garret;fix_vital_bonus
+nesoo under euid nesoo Fri Apr 14 18:47:55 2006
+garret;set_sub_class;"warrior"
+nesoo under euid nesoo Fri Apr 14 18:47:59 2006
+garret;set_subclass;"warrior"
+nesoo under euid nesoo Fri Apr 14 18:48:07 2006
+garret;fix_vital_bonus
+nesoo under euid nesoo Fri Apr 14 19:17:57 2006
+azmect
+nesoo under euid nesoo Fri Apr 14 19:31:32 2006
+malenung;query_money;"gold"
+nesoo under euid nesoo Fri Apr 14 19:32:42 2006
+malenung;query_money;"gold"
+nesoo under euid nesoo Fri Apr 14 19:33:04 2006
+malenung;add_money;"gold";-5981
+nesoo under euid nesoo Fri Apr 14 19:33:06 2006
+malenung;query_money;"gold"
+nesoo under euid nesoo Fri Apr 14 19:43:05 2006
+vyce;query_ip
+nesoo under euid nesoo Fri Apr 14 19:44:23 2006
+malenung
+nesoo under euid nesoo Sat Apr 15 14:23:16 2006
+sanyo
+nesoo under euid nesoo Sat Apr 15 14:30:32 2006
+isris
+nesoo under euid nesoo Sat Apr 15 14:54:51 2006
+isris
+daboura under euid daboura Sat Apr 15 22:26:13 2006
+hextor
+nesoo under euid nesoo Sun Apr 16 17:33:36 2006
+xerxes;query_ip
+nesoo under euid nesoo Sun Apr 16 17:35:57 2006
+cb;query_ip
+nesoo under euid nesoo Sun Apr 16 17:48:57 2006
+reizah
+daboura under euid daboura Sun Apr 16 18:07:03 2006
+reizah
+nesoo under euid nesoo Sun Apr 16 18:21:09 2006
+shrug
+daboura under euid daboura Sun Apr 16 19:22:06 2006
+azmect
+nesoo under euid nesoo Mon Apr 17 16:36:39 2006
+null
+nesoo under euid nesoo Mon Apr 17 16:37:27 2006
+null
+nesoo under euid nesoo Mon Apr 17 16:40:49 2006
+null;query_ip
+nesoo under euid nesoo Mon Apr 17 16:42:55 2006
+null;query_money;"gold"
+nesoo under euid nesoo Mon Apr 17 17:17:35 2006
+reizah
+daboura under euid daboura Tue Apr 18 18:13:35 2006
+xerxes
+daos under euid daos Thu Apr 20 02:44:47 2006
+carina;query;"projectile";
+daos under euid daos Thu Apr 20 02:45:09 2006
+carina;query;skill_level;"projectile";
+daos under euid daos Thu Apr 20 02:45:27 2006
+carina;query;skill level;"projectile";
+nesoo under euid nesoo Sat Apr 22 19:06:00 2006
+arcanis;query_quests
+nesoo under euid nesoo Sat Apr 22 19:08:32 2006
+arma;add_money;"gold";-20
+nesoo under euid nesoo Sat Apr 22 19:08:38 2006
+arcanis;add_money;"gold";20
+nesoo under euid nesoo Sat Apr 22 19:09:56 2006
+arma;query_money;"gold"
+nesoo under euid nesoo Sat Apr 22 19:51:02 2006
+arcanis;query_exp
+nesoo under euid nesoo Sat Apr 22 20:27:32 2006
+aximili;query_limbs
+nesoo under euid nesoo Sat Apr 22 20:32:38 2006
+aximili;new_body
+nesoo under euid nesoo Sat Apr 22 20:32:44 2006
+aximili;fix_vital_bonus
+nesoo under euid nesoo Mon Apr 24 18:37:00 2006
+gabe
+nesoo under euid nesoo Tue Apr 25 16:49:48 2006
+zubaida;divorce_me
+nesoo under euid nesoo Tue Apr 25 17:53:03 2006
+endbringer;add_money;"nesoo";-500
+nesoo under euid nesoo Tue Apr 25 17:53:13 2006
+endbringer;query_money
+nesoo under euid nesoo Tue Apr 25 17:53:17 2006
+endbringer;query_money;"gold
+nesoo under euid nesoo Tue Apr 25 17:53:19 2006
+endbringer;query_money;"gold"
+nesoo under euid nesoo Tue Apr 25 17:53:23 2006
+endbringer;query_money;"nesoo"
+nesoo under euid nesoo Tue Apr 25 18:16:22 2006
+quaz
+nesoo under euid nesoo Wed Apr 26 15:59:58 2006
+endbringer;query_money;"gold"
+nesoo under euid nesoo Wed Apr 26 16:39:18 2006
+skunk;query_attacker
+nesoo under euid nesoo Wed Apr 26 16:39:22 2006
+skunk;query_attackers
+nesoo under euid nesoo Wed Apr 26 16:41:00 2006
+valas;query_party
+nesoo under euid nesoo Wed Apr 26 16:41:10 2006
+aldhissla;query_party
+nesoo under euid nesoo Thu Apr 27 20:45:09 2006
+gabe
+whit under euid whit Fri Apr 28 05:09:16 2006
+agnidev;query_primary_start
+whit under euid whit Fri Apr 28 05:12:46 2006
+agnidev;query_original_guild
+nesoo under euid nesoo Fri Apr 28 18:51:06 2006
+arcanis
+nesoo under euid nesoo Fri Apr 28 18:56:24 2006
+arcanis
+daboura under euid daboura Sun Apr 30 18:17:03 2006
+zabuza
+nesoo under euid nesoo Tue May  2 07:05:31 2006
+agnidev;query_exp
+nesoo under euid nesoo Tue May  2 07:09:31 2006
+agnidev;query_exp
+daboura under euid daboura Tue May  2 17:03:21 2006
+carina
+daboura under euid daboura Tue May  2 17:04:45 2006
+carina;query_Deaths
+daboura under euid daboura Tue May  2 17:04:49 2006
+carina;query_seaths
+daboura under euid daboura Tue May  2 17:04:51 2006
+carina;query_deaths
+daboura under euid daboura Tue May  2 22:33:59 2006
+dab;set_level;50
+daboura under euid daboura Tue May  2 22:37:01 2006
+dab;set_stats;"charisma";200
+daboura under euid daboura Tue May  2 22:39:01 2006
+dab;set_class;"mage"
+daos under euid daos Fri May  5 04:06:59 2006
+car;query_guild_position;
+daos under euid daos Fri May  5 04:31:12 2006
+car;update_channels
+daos under euid daos Fri May  5 04:31:24 2006
+car;query_channels
+daboura under euid daboura Fri May  5 10:42:01 2006
+agnidev
+daboura under euid daboura Fri May  5 10:42:05 2006
+agnidev;query_quest
+daboura under euid daboura Fri May  5 10:42:07 2006
+agnidev;query_quests
+daboura under euid daboura Fri May  5 10:42:07 2006
+agnidev;query_quests
+daboura under euid daboura Fri May  5 10:59:47 2006
+agnidev;set_stats;"strength";7
+daboura under euid daboura Fri May  5 10:59:59 2006
+agnidev;set_stats;"dexterity";9
+daboura under euid daboura Fri May  5 11:00:33 2006
+agnidev;set_stats;"charisma";9
+daboura under euid daboura Fri May  5 11:00:45 2006
+agnidev;set_stats;"constitution";55
+daboura under euid daboura Fri May  5 11:00:57 2006
+agnidev;set_stats;"intelligence";46
+daboura under euid daboura Fri May  5 11:01:03 2006
+agnidev;set_stats;"wisdom";55
+daboura under euid daboura Sat May  6 16:44:36 2006
+carina
+daboura under euid daboura Sat May  6 16:44:46 2006
+carina;query_guild
+daboura under euid daboura Sat May  6 16:44:56 2006
+endbringer;query_guild
+daboura under euid daboura Sat May  6 16:46:34 2006
+carina;query_original_guild
+daboura under euid daboura Sat May  6 16:46:54 2006
+endbringer;query_original_guild
+daboura under euid daboura Sun May  7 12:39:18 2006
+albel
+daboura under euid daboura Sun May  7 15:58:30 2006
+dab;set_level;50
+daboura under euid daboura Sun May  7 19:46:23 2006
+warrick
+daboura under euid daboura Sun May  7 22:23:03 2006
+warrick
+daboura under euid daboura Sun May  7 22:23:09 2006
+endbringer
+daos under euid daos Mon May  8 00:04:47 2006
+resolution;query_guild_position;
+daboura under euid daboura Mon May  8 14:00:06 2006
+sol
+daos under euid daos Tue May  9 03:29:59 2006
+zubaida;query_guild_position
+whit under euid whit Tue May  9 05:14:43 2006
+endbringer;set_remorted;1
+daboura under euid daboura Tue May  9 20:23:24 2006
+luke
+nesoo under euid nesoo Wed May 10 20:27:23 2006
+tal;query_kills
+stormbringer under euid stormbringer Thu May 11 01:30:45 2006
+arma;force_me;down
+daboura under euid daboura Thu May 11 16:05:55 2006
+revel
+whit under euid whit Sun May 14 02:08:42 2006
+rohl;query_age
+daboura under euid daboura Sun May 14 22:54:01 2006
+pilsipher
+daboura under euid daboura Mon May 15 15:44:38 2006
+ying
+daboura under euid daboura Mon May 15 19:23:07 2006
+solas
+nesoo under euid nesoo Mon May 15 20:19:52 2006
+dakine
+nesoo under euid nesoo Mon May 15 20:21:24 2006
+dakine
+nesoo under euid nesoo Tue May 16 13:16:53 2006
+metestchar;set_level;50
+nesoo under euid nesoo Tue May 16 13:32:13 2006
+zubaida;query_money;"gold"
+nesoo under euid nesoo Tue May 16 13:37:05 2006
+metestchar
+daboura under euid daboura Tue May 16 19:28:31 2006
+donatello
+nesoo under euid nesoo Tue May 16 21:00:16 2006
+graverobber
+nesoo under euid nesoo Tue May 16 21:12:39 2006
+rohl
+nesoo under euid nesoo Sun May 21 18:47:46 2006
+nemo
+daboura under euid daboura Tue May 23 22:57:55 2006
+kayley;divorce_me
+daboura under euid daboura Tue May 23 22:58:17 2006
+kayley;force_me;"Save"
+daboura under euid daboura Tue May 23 22:58:19 2006
+kayley;force_me;"save"
+daboura under euid daboura Tue May 23 23:02:12 2006
+kayley
+daboura under euid daboura Tue May 23 23:02:16 2006
+kayley;remove_living
+daboura under euid daboura Thu May 25 23:11:53 2006
+oscar
+daboura under euid daboura Mon May 29 23:02:32 2006
+carina
+daboura under euid daboura Mon May 29 23:54:45 2006
+alyssa
+daos under euid daos Tue May 30 00:02:54 2006
+carina;set_recent_outlaw;0
+daboura under euid daboura Tue May 30 22:06:58 2006
+pegasus
+nesoo under euid nesoo Wed May 31 20:58:18 2006
+spade
+daos under euid daos Fri Jun  2 16:30:41 2006
+arma;query_disable;
+nesoo under euid nesoo Tue Jun  6 20:02:25 2006
+zoria
+whit under euid whit Thu Jun  8 02:00:47 2006
+eios;set_level;1
+whit under euid whit Thu Jun  8 02:02:19 2006
+eios;set_level;100
+daos under euid daos Thu Jun  8 04:11:45 2006
+eios;query_title
+daos under euid daos Thu Jun  8 04:14:17 2006
+orcha;set_env;"TITLE";$N
+daos under euid daos Thu Jun  8 04:15:57 2006
+eios;query_level
+daos under euid daos Thu Jun  8 04:16:31 2006
+eios;query_search_path
+daos under euid daos Thu Jun  8 04:16:45 2006
+eios;add_search_path;"/cmds/hm"
+daos under euid daos Thu Jun  8 04:16:51 2006
+eios;query_search_path
+daos under euid daos Thu Jun  8 04:18:07 2006
+eios;query_search_path
+daos under euid daos Fri Jun  9 13:00:02 2006
+aldhissla;query_quest
+daos under euid daos Fri Jun  9 13:00:04 2006
+aldhissla;query_quests
+daos under euid daos Fri Jun  9 13:00:16 2006
+aldhissla;query_race
+daos under euid daos Tue Jun 13 03:25:28 2006
+arma;update_channels
+daos under euid daos Tue Jun 13 03:25:40 2006
+arma;force_me;"save"
+daos under euid daos Tue Jun 13 03:25:44 2006
+arma;force_me;"quit"
+daos under euid daos Sun Jun 18 02:00:25 2006
+laen;query_skills
+daos under euid daos Fri Jun 23 05:33:34 2006
+vayne;query_skills
+daos under euid daos Fri Jun 23 05:34:06 2006
+vayne;set_skill;"conjuring";153
+daos under euid daos Fri Jun 23 05:34:14 2006
+vayne;set_level;34
+stormbringer under euid stormbringer Tue Jul  4 20:50:54 2006
+luocean;set_subclass;0
+stormbringer under euid stormbringer Tue Jul  4 20:51:06 2006
+kiara;set_subclass;0
+stormbringer under euid stormbringer Wed Jul  5 15:34:21 2006
+carina
+nulvect under euid nulvect Wed Jul  5 23:49:23 2006
+nultest;set_skill;perception;100
+nulvect under euid nulvect Wed Jul  5 23:55:37 2006
+nultest;set_level;20
+nulvect under euid nulvect Wed Jul  5 23:55:59 2006
+nultest;set_stats;dexterity;80
+stormbringer under euid stormbringer Thu Jul  6 22:15:50 2006
+aximili;new_body
+stormbringer under euid stormbringer Thu Jul  6 22:17:40 2006
+aximili;restore
+nulvect under euid nulvect Thu Jul  6 23:22:48 2006
+jaida;divorce_me
+luna under euid luna Fri Jul  7 17:50:35 2006
+luocean;force;square
+luna under euid luna Fri Jul  7 17:51:21 2006
+luocean;force_me;square
+stormbringer under euid stormbringer Sat Jul  8 01:13:34 2006
+users
+stormbringer under euid stormbringer Sat Jul  8 01:32:24 2006
+yakko;force_me;who
+stormbringer under euid stormbringer Mon Jul 10 23:26:51 2006
+kibeth
+stormbringer under euid stormbringer Mon Jul 10 23:29:31 2006
+seras;add_exp;800000
+stormbringer under euid stormbringer Mon Jul 10 23:29:59 2006
+seras;add_exp;800000
+nulvect under euid nulvect Tue Jul 11 13:56:28 2006
+arma;query_stats;dexterity
+nulvect under euid nulvect Tue Jul 11 18:42:59 2006
+carina;query_original_guild
+nulvect under euid nulvect Tue Jul 11 19:24:17 2006
+gongra;query_original_guild
+nulvect under euid nulvect Tue Jul 11 19:25:03 2006
+carina;query_guild
+nulvect under euid nulvect Tue Jul 11 19:25:11 2006
+gongra;query_guild
+stormbringer under euid stormbringer Tue Jul 11 20:01:12 2006
+luocean;force_me;quit
+nulvect under euid nulvect Tue Jul 11 22:02:25 2006
+arma;query_stats;intelligence
+nulvect under euid nulvect Tue Jul 11 22:03:25 2006
+arma;query_stats;wisdom
+stormbringer under euid stormbringer Wed Jul 12 01:59:55 2006
+arma
+nulvect under euid nulvect Wed Jul 12 14:25:15 2006
+kaal;query_money;"gold"
+nulvect under euid nulvect Wed Jul 12 14:26:31 2006
+kaal;add_money;gold;-700
+nulvect under euid nulvect Wed Jul 12 14:26:33 2006
+kaal;query_money;"gold"
+nulvect under euid nulvect Thu Jul 13 00:41:06 2006
+arma;query_party
+nulvect under euid nulvect Thu Jul 13 13:50:03 2006
+arma;query_stats;"dexterity"
+nulvect under euid nulvect Thu Jul 13 13:50:07 2006
+arma;query_stats;"charisma"
+nulvect under euid nulvect Sat Jul 15 17:50:27 2006
+arma;query_exp
+nulvect under euid nulvect Sat Jul 15 18:13:51 2006
+arma;add_exp;412781932
+nulvect under euid nulvect Sat Jul 15 18:13:59 2006
+arma;add_exp;8000000
+nulvect under euid nulvect Wed Jul 19 22:20:28 2006
+smokey;query_skill;"tail"
+nulvect under euid nulvect Wed Jul 19 22:20:30 2006
+smokey;query_skill;"claw"
+nulvect under euid nulvect Sat Jul 22 03:51:36 2006
+smite;query_body_mapping
+nulvect under euid nulvect Sat Jul 22 03:51:42 2006
+carina;query_body_mapping
+nulvect under euid nulvect Sun Jul 23 19:40:25 2006
+sopsdogogo;set_paralyzed;10000
+nulvect under euid nulvect Tue Jul 25 05:55:38 2006
+agnidev;query_wielding_limbs
+nulvect under euid nulvect Tue Jul 25 20:03:47 2006
+jagermister;query_birthday
+stormbringer under euid stormbringer Tue Jul 25 20:09:49 2006
+users
+stormbringer under euid stormbringer Thu Jul 27 14:07:03 2006
+tai
+stormbringer under euid stormbringer Thu Jul 27 14:07:43 2006
+tai;add_exp;8000000
+nulvect under euid nulvect Fri Jul 28 16:37:06 2006
+ironman;query_skill;"pyromancy"
+daos under euid daos Sun Jul 30 05:34:41 2006
+ghan;query_skills
+nulvect under euid nulvect Mon Jul 31 16:04:29 2006
+nultest;set_class;"fighter"
+nulvect under euid nulvect Mon Jul 31 16:04:35 2006
+nultest;set_subclass;"berserker"
+nulvect under euid nulvect Mon Jul 31 16:05:21 2006
+nultest;set_stats;"dexterity";20
+nulvect under euid nulvect Mon Jul 31 16:06:09 2006
+nultest;add_search_path;"/wizards/nulvect/bin/"
+nulvect under euid nulvect Mon Jul 31 16:18:02 2006
+nultest;set_race;"raknid"
+nulvect under euid nulvect Mon Jul 31 16:18:05 2006
+nultest;new_body
+nulvect under euid nulvect Mon Jul 31 16:18:09 2006
+nultest;fix_vital_bonus
+nulvect under euid nulvect Mon Jul 31 16:33:34 2006
+nultest;set_level;50
+nulvect under euid nulvect Mon Jul 31 16:34:00 2006
+nultest;set_stats;"strength";100
+nulvect under euid nulvect Mon Jul 31 16:34:04 2006
+nultest;set_stats;"dexterity";100
+nulvect under euid nulvect Mon Jul 31 16:34:12 2006
+nultest;fix_vital_bonus
+nulvect under euid nulvect Mon Jul 31 16:40:06 2006
+nultest;set_primary_start;"/wizards/nulvect/workroom"
+nulvect under euid nulvect Mon Jul 31 16:40:50 2006
+nultest;set_stats;"dexterity";150
+nulvect under euid nulvect Mon Jul 31 16:47:24 2006
+nultest;add_search_path;"/wizards/nulvect/bin/"
+nulvect under euid nulvect Mon Jul 31 16:59:12 2006
+nultest;set_level;52
+nulvect under euid nulvect Mon Jul 31 17:21:05 2006
+nultest;set_race;"dragon"
+nulvect under euid nulvect Mon Jul 31 17:21:11 2006
+nultest;set_class;"dragon"
+nulvect under euid nulvect Mon Jul 31 17:21:15 2006
+nultest;set_subclass;"red"
+nulvect under euid nulvect Mon Jul 31 17:21:19 2006
+nultest;new_body
+nulvect under euid nulvect Mon Jul 31 17:21:23 2006
+nultest;fix_vital_bonus
+nulvect under euid nulvect Mon Jul 31 17:26:49 2006
+nultest;set_level;35
+nulvect under euid nulvect Mon Jul 31 17:42:36 2006
+nultest;set_class;"rogue"
+nulvect under euid nulvect Mon Jul 31 17:42:42 2006
+nultest;set_subclass;"assassin"
+nulvect under euid nulvect Mon Jul 31 17:42:48 2006
+nultest;set_race;"human"
+nulvect under euid nulvect Mon Jul 31 17:42:50 2006
+nultest;new_body
+nulvect under euid nulvect Mon Jul 31 17:43:00 2006
+nultest;set_stats;"dexterity";20
+nulvect under euid nulvect Mon Jul 31 17:43:04 2006
+nultest;set_stats;"strength";20
+nulvect under euid nulvect Mon Jul 31 17:43:08 2006
+nultest;fix_vital_bonus
+stormbringer under euid stormbringer Fri Aug  4 19:50:43 2006
+tal;query_hunters
+stormbringer under euid stormbringer Fri Aug  4 19:50:47 2006
+tal;query_hunter
+stormbringer under euid stormbringer Fri Aug  4 19:50:53 2006
+tal
+luna under euid luna Sat Aug  5 01:48:57 2006
+Tal;set_level;50
+luna under euid luna Sat Aug  5 01:49:27 2006
+Tal;set_stats;strength;75
+luna under euid luna Sat Aug  5 01:49:45 2006
+Tal;set_stats;charisma;30
+luna under euid luna Sat Aug  5 01:50:03 2006
+Tal;set_stats;charisma;35
+luna under euid luna Sat Aug  5 01:50:11 2006
+Tal;set_stats;charisma;30
+luna under euid luna Sat Aug  5 01:50:21 2006
+Tal;set_stats;intelligence;35
+luna under euid luna Sat Aug  5 01:50:41 2006
+Tal;set_stats;constitution;45
+luna under euid luna Sat Aug  5 01:51:19 2006
+Tal;set_skill;attack;250
+luna under euid luna Sat Aug  5 01:51:47 2006
+Tal;set_skill;defense;200
+luna under euid luna Sat Aug  5 01:52:03 2006
+Tal;set_skill;melee;300
+luna under euid luna Sat Aug  5 01:52:15 2006
+Tal;set_skill;murder;250
+luna under euid luna Sat Aug  5 01:52:33 2006
+Tal;set_skill;agility;150
+luna under euid luna Sat Aug  5 01:52:57 2006
+Tal;set_skill;bargaining;300
+luna under euid luna Sat Aug  5 01:53:15 2006
+Tal;set_skill;stealth;200
+luna under euid luna Sat Aug  5 01:53:29 2006
+Tal;set_skill;perception;200
+luna under euid luna Sat Aug  5 01:53:41 2006
+Tal;set_skill;knife;250
+luna under euid luna Sat Aug  5 01:54:11 2006
+Tal;set_skill;knife;250
+luna under euid luna Sat Aug  5 01:54:27 2006
+Tal;set_skill;knife;250
+luna under euid luna Sat Aug  5 01:58:11 2006
+Tal;set_skill;knife.250
+luna under euid luna Sat Aug  5 01:58:31 2006
+Tal;set_skill;knife.250
+luna under euid luna Sat Aug  5 01:58:51 2006
+Tal;set_skill;knife;250
+luna under euid luna Sat Aug  5 02:11:01 2006
+tal;set_skill;"double wielding";200
+nulvect under euid nulvect Sat Aug  5 15:26:23 2006
+lightsoul;query_birthday
+nulvect under euid nulvect Fri Aug 11 22:16:17 2006
+sugarcandy;divorce_me
+nulvect under euid nulvect Sat Aug 12 14:21:19 2006
+munky;query_money
+nulvect under euid nulvect Sat Aug 12 14:21:23 2006
+munky;query_money;"gold"
+nulvect under euid nulvect Sat Aug 12 14:21:29 2006
+munky;query_all_money
+nulvect under euid nulvect Sun Aug 13 02:59:03 2006
+bunker;query_skill;"nature"
+nulvect under euid nulvect Sun Aug 13 22:01:54 2006
+endbringer;divorce_me
+daos under euid daos Mon Aug 14 01:36:22 2006
+drespen;query_actual_position;
+daos under euid daos Mon Aug 14 01:36:44 2006
+drespen;query_guild
+daos under euid daos Mon Aug 14 02:29:31 2006
+mog;query_alignment
+daos under euid daos Wed Aug 16 03:13:19 2006
+orcha;set_married;"artemis"
+daos under euid daos Wed Aug 16 03:13:23 2006
+orcha;force_me;"save"
+daos under euid daos Wed Aug 16 03:13:51 2006
+orcha;query_married
+daos under euid daos Wed Aug 16 03:14:45 2006
+orcha;set_married;"artemis"
+daos under euid daos Wed Aug 16 03:16:55 2006
+orcha;set_married;"artemis"
+nulvect under euid nulvect Thu Aug 17 21:58:31 2006
+zondal;divorce_me
+nulvect under euid nulvect Sun Aug 20 12:06:29 2006
+henrietta;query_skill;"entertainment"
+daos under euid daos Mon Aug 21 02:45:14 2006
+spade;divorce_me
+daos under euid daos Mon Aug 21 02:48:58 2006
+spade;save_player
+daos under euid daos Mon Aug 21 02:49:00 2006
+spade;remove_living
+nulvect under euid nulvect Tue Aug 22 18:52:53 2006
+scamp;query_idle
+nulvect under euid nulvect Tue Aug 22 18:52:57 2006
+scamp
+nulvect under euid nulvect Tue Aug 22 18:54:38 2006
+scamp;query_noidle
+nulvect under euid nulvect Wed Aug 23 00:20:51 2006
+draven;query_skill;"healing"
+daos under euid daos Sat Aug 26 02:34:45 2006
+ghan;add_money;"gold";375000;
+daos under euid daos Sun Aug 27 03:40:16 2006
+warrick;remove_limb;"right testicle"
+daos under euid daos Sun Aug 27 03:40:22 2006
+warrick;remove_limb;"left testicle"
+daos under euid daos Sun Aug 27 03:40:34 2006
+warrick;query_limbs
+daos under euid daos Sun Aug 27 03:40:52 2006
+warrick;add_limb;"right testicle"
+daos under euid daos Sun Aug 27 03:41:00 2006
+warrick;add_limb;"left testicle"
+daos under euid daos Sun Aug 27 03:41:12 2006
+warrick;remove_limb;"right testicle"
+daos under euid daos Sun Aug 27 03:41:22 2006
+warrick;add_limb;"left testicle"
+daos under euid daos Sun Aug 27 03:45:22 2006
+warrick;new_body
+nulvect under euid nulvect Mon Aug 28 14:08:53 2006
+aldhissla;query_skill;"axe"
+daos under euid daos Thu Aug 31 03:15:46 2006
+spade;query_stats
+nulvect under euid nulvect Thu Aug 31 12:03:43 2006
+cross;query_birthday
+nulvect under euid nulvect Sat Sep  2 15:42:37 2006
+nultest;set_stats;"dexterity";100
+nulvect under euid nulvect Sat Sep  2 15:50:32 2006
+nultest;set_skill;"knife";50
+nulvect under euid nulvect Sat Sep  2 15:55:03 2006
+nultest;query_remort_data
+nulvect under euid nulvect Sat Sep  2 16:21:12 2006
+nultest;set_skill;"knife";200
+nulvect under euid nulvect Sat Sep  2 16:22:14 2006
+nultest;remort;"fighter";"paladin"
+nulvect under euid nulvect Sat Sep  2 16:22:46 2006
+nultest;remort;"rogue";"assassin"
+nulvect under euid nulvect Mon Sep  4 12:48:39 2006
+cross;query_skills
+nulvect under euid nulvect Mon Sep  4 18:40:18 2006
+sparticus;query_remort
+nulvect under euid nulvect Mon Sep  4 18:40:20 2006
+sparticus;query_remort_data
+daos under euid daos Wed Sep  6 03:01:53 2006
+mustang;query_level
+nulvect under euid nulvect Wed Sep  6 22:57:02 2006
+henrietta;query_skill;"entertainment"
+daos under euid daos Sat Sep  9 03:31:34 2006
+dubbya;update_channels
+daos under euid daos Sat Sep  9 03:31:40 2006
+dubbya;query_channels
+nulvect under euid nulvect Fri Sep 15 11:37:09 2006
+endbringer;getenv;MOUT
+nulvect under euid nulvect Fri Sep 15 15:30:11 2006
+henrietta;query_skill;"entertainment"
+nulvect under euid nulvect Tue Sep 19 04:17:02 2006
+spade;set_class;""
+nulvect under euid nulvect Tue Sep 19 04:17:12 2006
+spade;force_me;"save"
+nulvect under euid nulvect Tue Sep 19 04:25:13 2006
+spade;set_race;"archangel"
+nulvect under euid nulvect Tue Sep 19 04:25:23 2006
+spade;force_me;"save"
+nulvect under euid nulvect Tue Sep 19 04:25:37 2006
+spade;new_body
+nulvect under euid nulvect Tue Sep 19 04:25:41 2006
+spade;fix_vital_bonus
+nulvect under euid nulvect Tue Sep 19 04:26:27 2006
+spade;query_stats;"strength"
+nulvect under euid nulvect Tue Sep 19 04:26:29 2006
+spade;query_stats;"dexterity"
+nulvect under euid nulvect Tue Sep 19 04:26:35 2006
+spade;query_stats;"charisma"
+nulvect under euid nulvect Tue Sep 19 04:26:39 2006
+spade;query_stats;"constitution"
+nulvect under euid nulvect Tue Sep 19 04:26:53 2006
+spade;query_stats;"intelligence"
+nulvect under euid nulvect Tue Sep 19 04:26:59 2006
+spade;query_stats;"wisdom"
+nulvect under euid nulvect Tue Sep 19 04:28:35 2006
+spade;set_class;"child"
+nulvect under euid nulvect Tue Sep 19 04:28:39 2006
+spade;force_me;"save"
+nulvect under euid nulvect Tue Sep 19 04:38:53 2006
+spade;set_alignment;200
+nulvect under euid nulvect Tue Sep 19 04:39:25 2006
+spade;set_alignment;800
+nulvect under euid nulvect Tue Sep 19 13:47:24 2006
+escobar;query_skill;"agility"
+whit under euid whit Tue Sep 19 23:49:08 2006
+tia;query_age
+nulvect under euid nulvect Thu Sep 21 02:12:06 2006
+smite;query_history
+nulvect under euid nulvect Thu Sep 21 02:20:50 2006
+smite;force_me;"last tell"
+nulvect under euid nulvect Thu Sep 21 02:30:43 2006
+smite;force_me;"last tell"
+whit under euid whit Fri Sep 22 01:09:55 2006
+orcha
+daos under euid daos Fri Sep 22 02:33:05 2006
+spade;query_limbs
+daos under euid daos Fri Sep 22 02:33:23 2006
+spade;new_body
+nulvect under euid nulvect Fri Sep 22 12:49:01 2006
+smite;query;"iceblast_spell_wait"
+nulvect under euid nulvect Fri Sep 22 12:50:09 2006
+smite;query;"iceblast_spell_wait"
+whit under euid whit Mon Sep 25 18:45:52 2006
+users;force_me;save
+whit under euid whit Mon Sep 25 18:46:46 2006
+users;force_me;save
+nulvect under euid nulvect Thu Sep 28 20:02:52 2006
+kholdan;query_wielded
+daos under euid daos Fri Sep 29 06:30:22 2006
+endbringer;query_env_vars
+daos under euid daos Fri Sep 29 06:32:30 2006
+endbringer;set_env;"start";"/d/freepk/purgatory/purgatorysquare"
+nulvect under euid nulvect Sat Sep 30 19:54:43 2006
+mal;set_paralyzed;1000;"You have broken the law."
+nulvect under euid nulvect Sat Sep 30 19:55:21 2006
+mal;set_paralyzed;1000000;"You have broken the law."
+nulvect under euid nulvect Sat Sep 30 20:00:03 2006
+mal;set_paralyzed;1000000
+nulvect under euid nulvect Sat Sep 30 20:10:36 2006
+mal;set_paralyzed;1000000
+nulvect under euid nulvect Sat Sep 30 20:12:32 2006
+mal;set_paralyzed;100000
+nulvect under euid nulvect Sat Sep 30 21:38:23 2006
+mal;query_age
+nulvect under euid nulvect Sat Sep 30 21:38:31 2006
+mal;set_paralyzed;0
+nulvect under euid nulvect Sat Sep 30 22:46:09 2006
+mal;force_me;"start here"
+nulvect under euid nulvect Mon Oct  2 00:20:09 2006
+nultest;set_stats;"strength";100
+nulvect under euid nulvect Mon Oct  2 00:20:13 2006
+nultest;set_stats;"dexterity";100
+nulvect under euid nulvect Mon Oct  2 00:20:19 2006
+nultest;set_stats;"constitution";100
+nulvect under euid nulvect Mon Oct  2 00:20:25 2006
+nultest;set_stats;"charisma";100
+nulvect under euid nulvect Mon Oct  2 00:20:39 2006
+nultest;set_stats;"intelligence";100
+nulvect under euid nulvect Mon Oct  2 00:20:45 2006
+nultest;set_stats;"wisdom";100
+nulvect under euid nulvect Mon Oct  2 00:31:49 2006
+nultest;set_stats;"wisdom";100
+nulvect under euid nulvect Mon Oct  2 00:31:59 2006
+nultest;set_level;60
+nulvect under euid nulvect Mon Oct  2 00:32:59 2006
+nultest;set_level;80
+nulvect under euid nulvect Mon Oct  2 00:33:11 2006
+nultest;set_exp;20000000
+nulvect under euid nulvect Mon Oct  2 00:33:15 2006
+nultest;add_exp;20000000
+nulvect under euid nulvect Mon Oct  2 01:14:44 2006
+nultest;add_exp;3651793
+nulvect under euid nulvect Mon Oct  2 01:15:18 2006
+nultest;set_rest_type;3
+nulvect under euid nulvect Mon Oct  2 15:19:06 2006
+nultest;set_level;15
+nulvect under euid nulvect Mon Oct  2 15:20:56 2006
+nultest;query_magic_protection;"head"
+nulvect under euid nulvect Mon Oct  2 15:22:46 2006
+nultest;query_magic_protection;"head"
+nulvect under euid nulvect Mon Oct  2 15:23:58 2006
+nultest;query_magic_protection;"head"
+nulvect under euid nulvect Mon Oct  2 15:24:01 2006
+nultest;query_magic_protection;"head"
+nulvect under euid nulvect Tue Oct  3 23:33:56 2006
+briar;set_stats;"intelligence";1
+nulvect under euid nulvect Thu Oct  5 12:48:37 2006
+nultest;set_level;50
+nulvect under euid nulvect Thu Oct  5 12:48:43 2006
+nultest;fix_vital_bonus
+nulvect under euid nulvect Thu Oct  5 12:48:51 2006
+nultest;set_hp;10
+nulvect under euid nulvect Thu Oct  5 12:52:47 2006
+nultest;set_hp;5
+nulvect under euid nulvect Thu Oct  5 12:54:13 2006
+nultest;set_hp;10
+nulvect under euid nulvect Fri Oct  6 00:42:52 2006
+fear;set_stats;"charisma";1
+nulvect under euid nulvect Mon Oct  9 15:27:06 2006
+nultest;set_level;60
+nulvect under euid nulvect Mon Oct  9 15:33:35 2006
+nultest;set_hp;5
+nulvect under euid nulvect Mon Oct  9 15:34:39 2006
+nultest;set_hp;5
+nulvect under euid nulvect Mon Oct  9 15:37:01 2006
+nultest;set_hp;5
+nulvect under euid nulvect Thu Oct 12 03:32:32 2006
+skunk;query_remorted
+nulvect under euid nulvect Thu Oct 12 12:06:59 2006
+rohl;remort;"rogue";"thief"
+nulvect under euid nulvect Thu Oct 12 12:07:23 2006
+rohl;clear_remort_sub_data;"theif"
+nulvect under euid nulvect Thu Oct 12 12:07:51 2006
+rohl;query_remort_data
+nulvect under euid nulvect Thu Oct 12 13:52:49 2006
+rohl;query_stat_bonus;"strength"
+nulvect under euid nulvect Fri Oct 13 15:24:46 2006
+sparticus;query_remort_data
+nulvect under euid nulvect Fri Oct 13 15:26:32 2006
+sparticus;query_remorted
+nulvect under euid nulvect Fri Oct 13 15:29:22 2006
+sparticus;remort;"fighter";"warrior"
+whit under euid whit Sat Oct 14 02:45:09 2006
+users;force_me;save
+daos under euid daos Mon Oct 16 22:03:21 2006
+vayne;query_levle
+daos under euid daos Mon Oct 16 22:03:27 2006
+vayne;query_level
+daos under euid daos Mon Oct 16 22:03:43 2006
+vayne;query_skills
+daos under euid daos Mon Oct 16 22:04:06 2006
+vayne;fix_skills
+daos under euid daos Mon Oct 16 22:04:10 2006
+vayne;query_skills
+daos under euid daos Mon Oct 16 22:07:20 2006
+vayne;query_remort_Data
+daos under euid daos Mon Oct 16 22:07:22 2006
+vayne;query_remort_data
+nulvect under euid nulvect Tue Oct 17 01:28:13 2006
+vayne;query_remort_data
+nulvect under euid nulvect Tue Oct 17 23:51:22 2006
+vayne;query_remort_data
+nulvect under euid nulvect Fri Oct 20 00:13:43 2006
+kazuma;divorce_me
+nulvect under euid nulvect Sat Oct 21 12:33:27 2006
+spade;query_skill;"flying"
+nulvect under euid nulvect Sat Oct 21 12:33:31 2006
+spade;query_skill;"breath"
+nulvect under euid nulvect Sat Oct 21 15:49:34 2006
+spade;query_primary_language
+nulvect under euid nulvect Sat Oct 21 15:50:08 2006
+spade;query_primary_lang
+nulvect under euid nulvect Sat Oct 21 15:50:20 2006
+spade;query_all_languages
+nulvect under euid nulvect Sat Oct 21 15:50:44 2006
+spade;query_lang_prof;"dragonian"
+nulvect under euid nulvect Sat Oct 21 15:50:48 2006
+spade;query_lang_prof;"annarian"
+nulvect under euid nulvect Sat Oct 21 15:50:58 2006
+spade;query_lang_prof;"lino"
+nulvect under euid nulvect Sat Oct 21 15:51:02 2006
+spade;query_lang_prof;"fehler"
+nulvect under euid nulvect Sat Oct 21 15:52:02 2006
+spade;set_primary_lang;"dragonian"
+nulvect under euid nulvect Sat Oct 21 15:52:06 2006
+spade;query_primary_lang
+nulvect under euid nulvect Sun Oct 22 23:55:12 2006
+boldar;query_limbs
+stormbringer under euid stormbringer Mon Oct 23 01:29:38 2006
+joker
+stormbringer under euid stormbringer Mon Oct 23 01:31:28 2006
+joker
+nulvect under euid nulvect Mon Oct 23 01:32:48 2006
+joker;query_last_pk
+nulvect under euid nulvect Mon Oct 23 01:33:00 2006
+joker;query_last_pk_time
+stormbringer under euid stormbringer Mon Oct 23 01:36:36 2006
+joker;add_money;gold;100000
+stormbringer under euid stormbringer Mon Oct 23 01:36:48 2006
+joker
+stormbringer under euid stormbringer Mon Oct 23 20:40:54 2006
+spade;force_me;remove belt
+stormy under euid stormy Wed Oct 25 14:41:39 2006
+stormbringer;force_me;quit
+nulvect under euid nulvect Sat Oct 28 22:20:42 2006
+kilrog;query_hunters
+nulvect under euid nulvect Sat Oct 28 22:20:46 2006
+kilrog;query_hunted
+nulvect under euid nulvect Sat Oct 28 22:20:50 2006
+kilrog;query_attackers
+nulvect under euid nulvect Tue Nov 21 02:06:03 2006
+sesshoumaru;query_skill;"flail"
+nulvect under euid nulvect Sat Nov 25 03:34:09 2006
+skrymer;query_skill_bonus;"attack"
+nulvect under euid nulvect Sun Nov 26 12:36:20 2006
+skrymer;set_class;"child"
+nulvect under euid nulvect Sun Nov 26 12:36:28 2006
+skrymer;set_subclass;""
+nulvect under euid nulvect Sun Nov 26 12:37:39 2006
+skrymer;set_stats;"strength";25
+nulvect under euid nulvect Sun Nov 26 12:37:55 2006
+skrymer;set_stats;"constitution";20
+nulvect under euid nulvect Sun Nov 26 12:38:07 2006
+skrymer;set_stats;"dexterity";17
+nulvect under euid nulvect Sun Nov 26 12:38:19 2006
+skrymer;set_stats;"charisma";13
+nulvect under euid nulvect Sun Nov 26 12:38:41 2006
+skrymer;set_stats;"intelligence";5
+nulvect under euid nulvect Sun Nov 26 12:38:47 2006
+skrymer;set_stats;"wisdom";6
+nulvect under euid nulvect Mon Nov 27 00:09:16 2006
+skrymer;query_remort_data
+nulvect under euid nulvect Mon Nov 27 14:28:30 2006
+furiae;divorce_me
+nulvect under euid nulvect Tue Nov 28 11:44:42 2006
+skrymer;query_remort_data
+nulvect under euid nulvect Tue Nov 28 13:43:52 2006
+nultest;die
+nulvect under euid nulvect Fri Dec  1 12:11:38 2006
+vaekren;query_subclass
+nulvect under euid nulvect Fri Dec  1 20:43:39 2006
+spade;divorce_me
+nulvect under euid nulvect Fri Dec  1 21:02:56 2006
+boomer;query_skill;"flying"
+nulvect under euid nulvect Fri Dec  1 21:05:28 2006
+boomer;query_skill;"tail"
+nulvect under euid nulvect Fri Dec  1 21:05:30 2006
+boomer;query_skill;"claw"
+nulvect under euid nulvect Sat Dec  2 00:14:08 2006
+tal;move_player;"/d/nopk/tirun/square"
+nulvect under euid nulvect Sat Dec  2 15:02:32 2006
+tal;query_env
+nulvect under euid nulvect Sat Dec  2 15:02:36 2006
+tal;getenv
+nulvect under euid nulvect Sat Dec  2 15:02:42 2006
+tal;getenv;"MOUT"
+nulvect under euid nulvect Mon Dec  4 16:37:12 2006
+woeson;query_money;"gold"
+nulvect under euid nulvect Mon Dec  4 16:37:42 2006
+woeson;add_money;"gold";-15000
+nulvect under euid nulvect Mon Dec  4 16:37:46 2006
+woeson;query_money;"gold"
+nulvect under euid nulvect Mon Dec  4 16:38:58 2006
+woeson;query_money;"gold"
+nulvect under euid nulvect Mon Dec  4 16:39:04 2006
+woeson;add_money;"gold";-6079
+nulvect under euid nulvect Tue Dec  5 04:25:12 2006
+orcha;query_married
+nulvect under euid nulvect Tue Dec  5 04:25:16 2006
+orcha;query_divorce
+nulvect under euid nulvect Tue Dec  5 04:25:18 2006
+orcha;query_divorces
+nulvect under euid nulvect Tue Dec  5 04:25:20 2006
+orcha;query_divorced
+nulvect under euid nulvect Tue Dec  5 04:29:04 2006
+orcha;query_current_marriage
+nulvect under euid nulvect Tue Dec  5 04:29:08 2006
+orcha;query_married
+nulvect under euid nulvect Tue Dec  5 04:29:10 2006
+orcha;query_marriage
+nulvect under euid nulvect Tue Dec  5 04:29:12 2006
+orcha;query_marriages
+nulvect under euid nulvect Tue Dec  5 04:37:32 2006
+furiae;divorce_me
+nulvect under euid nulvect Tue Dec  5 13:12:45 2006
+rohl;divorce_me
+nulvect under euid nulvect Thu Dec  7 02:27:45 2006
+orcha;query_married
+nulvect under euid nulvect Thu Dec  7 02:27:47 2006
+orcha;query_marriage
+nulvect under euid nulvect Thu Dec  7 02:27:49 2006
+orcha;query_marriages
+nulvect under euid nulvect Thu Dec  7 02:27:57 2006
+orcha;query_current_marriage
+nulvect under euid nulvect Thu Dec  7 02:28:03 2006
+orcha;query_divorces
+nulvect under euid nulvect Thu Dec  7 02:28:05 2006
+orcha;query_divorce
+nulvect under euid nulvect Thu Dec  7 02:28:05 2006
+orcha;query_divorced
+nulvect under euid nulvect Sat Dec  9 13:07:07 2006
+phael;query_money;"gold"
+nulvect under euid nulvect Sat Dec  9 15:08:20 2006
+geddoe;query_skill;"belief"
+nulvect under euid nulvect Sun Dec 10 00:54:14 2006
+geddoe;query_skill;"belief"
+nulvect under euid nulvect Tue Dec 12 06:26:04 2006
+nemo;query;"deathtouch_spell_charge"
+nulvect under euid nulvect Wed Dec 13 14:01:50 2006
+dwayne;die
+nulvect under euid nulvect Wed Dec 13 14:02:12 2006
+dethrow;die
+nulvect under euid nulvect Mon Dec 18 14:18:27 2006
+pauley;query_remort_data
+nulvect under euid nulvect Fri Dec 22 12:59:16 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:18 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:20 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:20 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:24 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:26 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:28 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:30 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:32 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:34 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:36 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:38 2006
+aldhissla;query_sp
+nulvect under euid nulvect Fri Dec 22 12:59:40 2006
+aldhissla;query_sp
+nulvect under euid nulvect Tue Dec 26 12:49:08 2006
+arcanis;query_remort_data
+nulvect under euid nulvect Wed Dec 27 02:00:12 2006
+arcanis;query_remort_data
+nulvect under euid nulvect Thu Dec 28 02:11:51 2006
+aeval;query_max_internal_encumbrance
+nulvect under euid nulvect Thu Dec 28 02:13:35 2006
+aeval;query_internal_encumbrance
+nulvect under euid nulvect Thu Dec 28 02:35:31 2006
+aeval;query_internal_encumbrance
+nulvect under euid nulvect Thu Dec 28 02:35:35 2006
+aeval;query_max_internal_encumbrance
+nulvect under euid nulvect Thu Dec 28 03:01:51 2006
+aeval;query_internal_encumbrance
+nulvect under euid nulvect Thu Dec 28 23:10:56 2006
+sugarcandy;query_skill;"euphony"
+nulvect under euid nulvect Thu Dec 28 23:12:00 2006
+sugarcandy;query_skill;"clairvoyance"
+nulvect under euid nulvect Sat Dec 30 15:50:56 2006
+jaida;divorce_me
+nulvect under euid nulvect Tue Jan  2 02:25:12 2007
+artanis;query_money;"gold"
+nulvect under euid nulvect Tue Jan  2 02:25:20 2007
+artanis;query_money;"silver"
+nulvect under euid nulvect Tue Jan  2 02:25:24 2007
+artanis;query_money;"platinum"
+nulvect under euid nulvect Tue Jan  2 02:25:26 2007
+artanis;query_money;"electrum"
+nulvect under euid nulvect Tue Jan  2 02:25:30 2007
+artanis;query_money;"copper"
+nulvect under euid nulvect Thu Jan  4 13:40:19 2007
+yang;query_skill;"necromancy"
+nulvect under euid nulvect Thu Jan  4 13:40:25 2007
+yang;query_skill;"magic attack"
+stormbringer under euid stormbringer Sat Jan  6 00:50:31 2007
+orcha;force_me;down
+stormbringer under euid stormbringer Sat Jan  6 14:15:58 2007
+arma;add_money;gold;25000
+nulvect under euid nulvect Sat Jan 27 03:42:20 2007
+nultest;set_class;"fighter"
+nulvect under euid nulvect Sat Jan 27 03:42:48 2007
+nultest;set_subclass;"warrior"
+nulvect under euid nulvect Sat Jan 27 03:43:04 2007
+nultest;set_level;30
+nulvect under euid nulvect Sat Jan 27 03:45:30 2007
+nultest;query_mounted
+nulvect under euid nulvect Sat Jan 27 04:08:36 2007
+nultest;query_wielded
+nulvect under euid nulvect Sat Jan 27 04:21:22 2007
+nultest;set_stats;"strength";60
+nulvect under euid nulvect Sat Jan 27 04:21:26 2007
+nultest;set_stats;"dexterity";60
+nulvect under euid nulvect Sat Jan 27 04:21:38 2007
+nultest;fix_vital_bonus
+nulvect under euid nulvect Thu Feb  1 09:33:13 2007
+orcha;query_skill;"wizardry
+nulvect under euid nulvect Thu Feb  1 09:33:17 2007
+orcha;query_skill;"wizardry"
+nulvect under euid nulvect Fri Feb  2 01:10:15 2007
+baaramyou;force_me;help name policy
+nulvect under euid nulvect Fri Feb  2 11:48:56 2007
+furiae;query_skill;"flail"
+nulvect under euid nulvect Fri Feb  2 13:15:08 2007
+yinn;query_skill;"rage"
+nulvect under euid nulvect Fri Feb  2 13:28:02 2007
+kazuma;query_skill;"axe"
+whit under euid whit Sun Feb 11 04:39:44 2007
+choji;add_money;"gold";200000
+whit under euid whit Wed Feb 14 10:20:23 2007
+/std/user#21368;
+whit under euid whit Wed Feb 14 10:20:43 2007
+/std/user#21368;query_name
+nulvect under euid nulvect Fri Feb 16 17:58:48 2007
+warrick;query_skills;"healing"
+nulvect under euid nulvect Fri Feb 16 17:58:52 2007
+warrick;query_skill;"healing"
+nulvect under euid nulvect Fri Feb 16 18:32:22 2007
+warrick;query_skill;"magic defense"
+nulvect under euid nulvect Fri Feb 16 20:59:17 2007
+nultest;set_class;"rogue"
+nulvect under euid nulvect Fri Feb 16 20:59:23 2007
+nultest;set_subclass;"thief"
+nulvect under euid nulvect Fri Feb 16 21:00:11 2007
+nultest;query_property;"stealth"
+nulvect under euid nulvect Fri Feb 16 21:02:49 2007
+nultest;query_property;"stealth"
+nulvect under euid nulvect Wed Feb 21 02:40:27 2007
+carina;divorce_me
+nulvect under euid nulvect Thu Feb 22 10:55:08 2007
+rohl;query_stat_bonus;"strength"
+nulvect under euid nulvect Fri Feb 23 16:45:42 2007
+zondal;getenv;"SCREEN"
+nulvect under euid nulvect Fri Mar  9 18:48:06 2007
+lucy;query_body_mapping
+nulvect under euid nulvect Fri Mar 16 13:34:41 2007
+rohl;query_skill;"agility"
+nulvect under euid nulvect Fri Mar 23 16:44:40 2007
+ryder;query_race
+nulvect under euid nulvect Mon Apr  2 03:36:39 2007
+destiny;divorce_me
+nulvect under euid nulvect Wed Apr  4 01:03:07 2007
+beaner;query_birthday
+nulvect under euid nulvect Thu Apr  5 03:19:09 2007
+sesshoumaru;query_ip_number
+nulvect under euid nulvect Sun Apr  8 17:39:11 2007
+nultwo;query_hp
+nulvect under euid nulvect Sun Apr  8 17:39:25 2007
+nultwo;query_max_hp
+nulvect under euid nulvect Sun Apr  8 17:39:33 2007
+nultwo;query_channels
+nulvect under euid nulvect Sun Apr  8 17:39:43 2007
+nultwo;register_channels
+nulvect under euid nulvect Sun Apr  8 17:39:45 2007
+nultwo;query_channels
+nulvect under euid nulvect Sun Apr  8 17:39:51 2007
+nultwo;update_channels
+nulvect under euid nulvect Sun Apr  8 17:39:53 2007
+nultwo;query_channels
+nulvect under euid nulvect Sun Apr  8 18:07:03 2007
+nultwo;query_name
+nulvect under euid nulvect Sun Apr  8 18:07:07 2007
+nultwo;query_id
+nulvect under euid nulvect Sun Apr  8 18:07:09 2007
+nultwo;query_cap_name
+nulvect under euid nulvect Sun Apr  8 18:36:26 2007
+nultest;query_ignoring
+nulvect under euid nulvect Sun Apr  8 18:36:36 2007
+nultest;query_ignoring;"nulvect"
+nulvect under euid nulvect Sun Apr  8 18:36:42 2007
+nultest;query_full_ignore
+nulvect under euid nulvect Sun Apr  8 18:38:08 2007
+nultest;query_blocked;"newbie"
+nulvect under euid nulvect Sun Apr  8 18:38:12 2007
+nultest;query_blocked;"gossip"
+nulvect under euid nulvect Sun Apr  8 18:38:38 2007
+nultest;query_channels
+nulvect under euid nulvect Sun Apr  8 18:43:18 2007
+nultest;query_blocked;"OOC"
+nulvect under euid nulvect Sun Apr  8 19:09:56 2007
+nultest;receive_message;"say";"fucking shit"
+nulvect under euid nulvect Sun Apr  8 19:23:34 2007
+nultest;query_prompt
+nulvect under euid nulvect Sun Apr  8 19:29:13 2007
+nultest;query_all_buddies
+nulvect under euid nulvect Sun Apr  8 19:29:25 2007
+nultest;query_full_buddy
+nulvect under euid nulvect Sun Apr  8 20:14:38 2007
+nultest;query_line_color;"say"
+nulvect under euid nulvect Sun Apr  8 20:14:43 2007
+nultest;query_line_color;"buddylist"
+nulvect under euid nulvect Mon Apr  9 02:05:20 2007
+shiftless;query_base_stats
+nulvect under euid nulvect Fri Apr 13 20:02:27 2007
+raiku;query_skill;"necromancy"
+nulvect under euid nulvect Fri Apr 27 21:01:28 2007
+carina;query_property;"gave_item"
+nulvect under euid nulvect Fri Apr 27 21:01:34 2007
+carina;query_property;"reportper"
+nulvect under euid nulvect Fri Apr 27 21:01:44 2007
+carina;query_property;"killersmark"
+nulvect under euid nulvect Fri Apr 27 21:01:56 2007
+carina;query_property;"watching_fmv"
+nulvect under euid nulvect Fri Apr 27 21:17:36 2007
+smite;regexp_query_property;".*"
+nulvect under euid nulvect Sat May  5 13:35:12 2007
+rohl;query_last_pk
+nulvect under euid nulvect Sat May  5 13:35:16 2007
+rohl;query_last_pk_time
+nulvect under euid nulvect Sat May  5 20:21:00 2007
+nultest;query_disable
+nulvect under euid nulvect Sat May  5 20:21:06 2007
+nultest;query_disable
+nulvect under euid nulvect Sat May  5 20:21:24 2007
+nultest;query_disable
+nulvect under euid nulvect Tue May  8 03:21:51 2007
+nultest;query_rideable
+nulvect under euid nulvect Tue May  8 03:21:55 2007
+nultest;query_rideallow
+nulvect under euid nulvect Tue May  8 03:24:25 2007
+nultest;set_race;"centaur"
+nulvect under euid nulvect Tue May  8 03:24:27 2007
+nultest;new_body
+nulvect under euid nulvect Tue May  8 03:24:33 2007
+nultest;fix_vital_bonus
+nulvect under euid nulvect Tue May  8 03:24:59 2007
+nultest;query_rideable
+nulvect under euid nulvect Tue May  8 03:30:01 2007
+nultest;query_riding
+nulvect under euid nulvect Tue May  8 03:30:03 2007
+nultest;query_riders
+nulvect under euid nulvect Tue May  8 03:30:21 2007
+nultest;query_max_riders
+nulvect under euid nulvect Tue May  8 03:38:51 2007
+nultest;set_race;"imp"
+nulvect under euid nulvect Tue May  8 03:38:59 2007
+nultest;new_body
+nulvect under euid nulvect Tue May  8 03:39:05 2007
+nultest;fix_vital_bonus
+nulvect under euid nulvect Tue May  8 04:12:13 2007
+orcha;query_max_riders
+nulvect under euid nulvect Tue May  8 04:19:31 2007
+nultest;query_max_riders
+nulvect under euid nulvect Tue May  8 04:19:55 2007
+carina;query_max_riders
+nulvect under euid nulvect Wed May  9 00:46:32 2007
+afieron;query_aliases
+nulvect under euid nulvect Wed May  9 01:05:17 2007
+afieron;query_blocked
+nulvect under euid nulvect Wed May  9 01:06:57 2007
+afieron;query_rest_type
+nulvect under euid nulvect Wed May  9 01:07:47 2007
+afieron;query_term
+nulvect under euid nulvect Wed May  9 01:07:49 2007
+afieron;query_term_info
+nulvect under euid nulvect Wed May  9 01:07:53 2007
+afieron;query_terminal
+nulvect under euid nulvect Wed May  9 01:07:59 2007
+afieron;query_env;"term"
+nulvect under euid nulvect Wed May  9 01:08:01 2007
+afieron;query_env;"terminal"
+nulvect under euid nulvect Wed May  9 01:08:47 2007
+afieron;query_full_ignore
+nulvect under euid nulvect Wed May  9 01:09:25 2007
+afieron;getenv;"TERM"
+nulvect under euid nulvect Wed May  9 01:09:49 2007
+afieron;query_channels
+nulvect under euid nulvect Wed May  9 01:11:05 2007
+thoth;query_alignment
+nulvect under euid nulvect Wed May  9 01:14:33 2007
+afieron;query_pueblo_version
+nulvect under euid nulvect Wed May  9 01:14:55 2007
+afieron;query_blocked;"info"
+nulvect under euid nulvect Wed May  9 01:22:47 2007
+afieron;more;"/tmp/testfile"
+nulvect under euid nulvect Wed May  9 01:23:27 2007
+afieron;more;"/d/nopk/tirun/testfile"
+nulvect under euid nulvect Wed May  9 01:26:35 2007
+afieron;do_more;"q"
+nulvect under euid nulvect Sat May 12 02:19:10 2007
+scoff;query_riding
+nulvect under euid nulvect Sat May 12 02:22:52 2007
+nultest;set_property;"passive";1
+nulvect under euid nulvect Wed May 23 00:24:13 2007
+nultest;query_search_path
+nulvect under euid nulvect Wed May 23 00:47:05 2007
+nultest;init_living
+nulvect under euid nulvect Wed May 23 00:47:13 2007
+nultest;init_hook
+nulvect under euid nultest Wed May 23 00:47:21 2007
+nultest;query_search_path
+nulvect under euid nulvect Wed May 23 01:32:50 2007
+tai;query_search_path
+nulvect under euid nulvect Wed May 23 01:34:36 2007
+nultest;set_race;"vampire"
+nulvect under euid nulvect Wed May 23 01:34:40 2007
+nultest;new_body
+nulvect under euid nulvect Wed May 23 01:35:12 2007
+nultest;query_search_path
+nulvect under euid nulvect Wed May 23 01:35:50 2007
+nultest;set_race;"imp"
+nulvect under euid nulvect Wed May 23 01:35:54 2007
+nultest;new_body
+nulvect under euid nulvect Wed May 23 02:14:56 2007
+nultest;query_search_path
+nulvect under euid nulvect Thu May 24 02:20:01 2007
+yang;query_search_path
+nulvect under euid nulvect Thu May 24 02:45:32 2007
+nultest;set_blind;1
+nulvect under euid nulvect Thu May 24 22:17:17 2007
+yang;set_blind;1
+nulvect under euid nulvect Thu May 24 22:17:49 2007
+yang;set_blind;0
+nulvect under euid nulvect Sun Jun 10 21:40:47 2007
+clyment;query_party
+nulvect under euid nulvect Thu Jun 14 20:49:07 2007
+piehl;divorce_me
+nulvect under euid nulvect Thu Jun 14 20:49:35 2007
+piehl;force_me;"save"
+nulvect under euid nulvect Sat Jun 23 03:21:37 2007
+eios;query_skil;"stealth"
+nulvect under euid nulvect Sat Jun 23 03:21:39 2007
+eios;query_skill;"stealth"
+nulvect under euid nulvect Sat Jun 23 03:21:45 2007
+eios;query_skill;"nature"
+nulvect under euid nulvect Sat Jun 23 04:49:39 2007
+eios;force_me;"square"
+nulvect under euid nulvect Sat Jun 23 23:02:33 2007
+kurosaki;query_deaths
+nulvect under euid nulvect Mon Jun 25 01:57:44 2007
+tia;query_last_pk
+nulvect under euid nulvect Mon Jun 25 01:57:50 2007
+tia;query_deaths
+daboura under euid daboura Mon Jun 25 23:13:35 2007
+aximili;query;Px
+daboura under euid daboura Mon Jun 25 23:13:39 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:14:51 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:14:53 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:14:55 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:14:55 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:24:27 2007
+aximili
+daboura under euid daboura Mon Jun 25 23:24:37 2007
+aximili;query;Px
+daboura under euid daboura Mon Jun 25 23:33:59 2007
+aximili
+daboura under euid daboura Mon Jun 25 23:34:05 2007
+aximili;query;Pc
+daboura under euid daboura Mon Jun 25 23:34:05 2007
+aximili;query;Px
+daboura under euid daboura Mon Jun 25 23:34:07 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:34:21 2007
+alexander
+daboura under euid daboura Mon Jun 25 23:34:27 2007
+alexander;query;Px
+daboura under euid daboura Mon Jun 25 23:34:31 2007
+alexander;query;Py
+daboura under euid daboura Mon Jun 25 23:34:35 2007
+alexander;query;Py
+daboura under euid daboura Mon Jun 25 23:34:37 2007
+alexander;query;Py
+daboura under euid daboura Mon Jun 25 23:34:37 2007
+alexander;query;Py
+daboura under euid daboura Mon Jun 25 23:34:37 2007
+alexander;query;Py
+daboura under euid daboura Mon Jun 25 23:52:59 2007
+aximili;query;Px
+daboura under euid daboura Mon Jun 25 23:53:01 2007
+aximili;query;Py
+daboura under euid daboura Mon Jun 25 23:54:29 2007
+ayane
+daboura under euid daboura Mon Jun 25 23:54:35 2007
+ayane;query;Px
+daboura under euid daboura Mon Jun 25 23:54:37 2007
+ayane;query;Py
+nulvect under euid nulvect Tue Jun 26 20:33:31 2007
+smite;query_last_pk
+nulvect under euid nulvect Tue Jun 26 20:33:35 2007
+smite;query_deaths
+daboura under euid daboura Wed Jun 27 00:10:36 2007
+alexander;query;Py
+daboura under euid daboura Wed Jun 27 00:10:38 2007
+alexander;query;Px
+daboura under euid daboura Wed Jun 27 00:11:00 2007
+tal;query;Px
+daboura under euid daboura Wed Jun 27 00:11:02 2007
+tal;query;Px
+daboura under euid daboura Wed Jun 27 00:11:02 2007
+tal;query;Px
+daboura under euid daboura Wed Jun 27 00:11:06 2007
+tal;query;Py
+daboura under euid daboura Wed Jun 27 00:11:08 2007
+tal;query;Py
+daboura under euid daboura Wed Jun 27 00:11:14 2007
+tal;query;Px
+daboura under euid daboura Wed Jun 27 00:12:44 2007
+alexander;query;Px
+daboura under euid daboura Wed Jun 27 00:12:46 2007
+alexander;query;Py
+daboura under euid daboura Wed Jun 27 00:12:54 2007
+alexander;set;Px;0
+daboura under euid daboura Wed Jun 27 00:12:56 2007
+alexander;set;Py;0
+daboura under euid daboura Wed Jun 27 00:15:06 2007
+tal;query;Px
+daboura under euid daboura Wed Jun 27 00:15:08 2007
+tal;query;Py
+daboura under euid daboura Wed Jun 27 00:15:18 2007
+alexander;query;Px
+daboura under euid daboura Wed Jun 27 00:15:20 2007
+alexander;query;Py
+daboura under euid daboura Wed Jun 27 00:16:08 2007
+tal;query;Py
+daboura under euid daboura Wed Jun 27 00:16:10 2007
+tal;query;Py
+daboura under euid daboura Wed Jun 27 00:16:24 2007
+tia;query;Px
+daboura under euid daboura Wed Jun 27 00:16:26 2007
+tia;query;Py
+nulvect under euid nulvect Wed Jun 27 04:43:47 2007
+agnidev;query_skill;"perception"
+daboura under euid daboura Wed Jun 27 19:14:45 2007
+boco;query;Px
+daboura under euid daboura Wed Jun 27 19:14:47 2007
+boco;query;Py
+daboura under euid daboura Wed Jun 27 19:14:55 2007
+alexander;query;Py
+daboura under euid daboura Wed Jun 27 19:17:17 2007
+boco;query;Px
+daboura under euid daboura Wed Jun 27 19:17:35 2007
+boco;query;Px
+daboura under euid daboura Wed Jun 27 19:27:57 2007
+boco;query;Px
+daboura under euid daboura Wed Jun 27 19:27:59 2007
+boco;query;Py
+daboura under euid daboura Wed Jun 27 19:35:09 2007
+alexander
+daboura under euid daboura Wed Jun 27 19:35:15 2007
+alexander;query;Px
+daboura under euid daboura Wed Jun 27 19:35:17 2007
+alexander;query;Py
+daboura under euid daboura Wed Jun 27 19:40:09 2007
+piehl;query;_stat;"dexterity"
+daboura under euid daboura Wed Jun 27 19:40:11 2007
+piehl;query;_stats;"dexterity"
+daboura under euid daboura Wed Jun 27 19:40:17 2007
+piehl;query_stats;"dexterity"
+daboura under euid daboura Wed Jun 27 20:49:09 2007
+ayane;query;"Px"
+daboura under euid daboura Wed Jun 27 20:49:15 2007
+ayane;set;"Px";3
+daboura under euid daboura Wed Jun 27 20:49:19 2007
+ayane;query;"Px"
+daboura under euid daboura Wed Jun 27 20:50:17 2007
+ayane;query;"Px"
+daboura under euid daboura Wed Jun 27 20:50:31 2007
+ayane;set;"Px";4
+daboura under euid daboura Wed Jun 27 20:50:35 2007
+ayane;query;"Px"
+daboura under euid daboura Wed Jun 27 20:51:21 2007
+ayane;query;"Py"
+daboura under euid daboura Wed Jun 27 20:55:49 2007
+piehl;query;"Px"
+daboura under euid daboura Wed Jun 27 20:55:59 2007
+ayane;query;"Px"
+daboura under euid daboura Wed Jun 27 20:56:09 2007
+piehl;set;"Px";4
+daboura under euid daboura Wed Jun 27 20:56:11 2007
+piehl;query;"Px"
+daboura under euid daboura Wed Jun 27 20:58:55 2007
+piehl;set;"Px";7
+daboura under euid daboura Wed Jun 27 20:59:01 2007
+ayane;set;"Px";7
+daboura under euid daboura Wed Jun 27 21:10:26 2007
+yang;query;"Px"
+daboura under euid daboura Wed Jun 27 21:10:28 2007
+yang;query;"Py"
+daboura under euid daboura Wed Jun 27 22:14:54 2007
+piehl;query;"Py"
+daboura under euid daboura Wed Jun 27 22:14:56 2007
+piehl;query;"Px"
+daboura under euid daboura Wed Jun 27 22:15:18 2007
+piehl;set;"Py";10
+daboura under euid daboura Wed Jun 27 22:38:07 2007
+carina;query;"Py"
+daboura under euid daboura Wed Jun 27 22:38:13 2007
+carina;query;"Px"
+daboura under euid daboura Wed Jun 27 22:38:27 2007
+piehl;query;"Px"
+daboura under euid daboura Wed Jun 27 22:38:31 2007
+piehl;query;"Py"
+daboura under euid daboura Thu Jun 28 22:42:35 2007
+testdab;set_skills;"defense";999
+daboura under euid daboura Thu Jun 28 22:42:45 2007
+testdab;set_skill;"defense";999
+daboura under euid daboura Thu Jun 28 22:43:05 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jun 28 22:43:07 2007
+testdab;query;"Py"
+daboura under euid daboura Sat Jun 30 12:23:55 2007
+testdab;set_level;100
+daboura under euid daboura Sat Jun 30 12:24:13 2007
+testdab;set_skill;"defense";500
+daboura under euid daboura Sat Jun 30 12:24:47 2007
+testdab;set_stats;"constitution";100
+daboura under euid daboura Sat Jun 30 12:25:27 2007
+testdab;query;"Py"
+daboura under euid daboura Sat Jun 30 12:25:31 2007
+testdab;query;"Px"
+daboura under euid daboura Sat Jun 30 12:38:26 2007
+testdab;set_race;"demon"
+daboura under euid daboura Sat Jun 30 12:38:33 2007
+testdab;new_body
+daboura under euid daboura Sat Jun 30 12:38:57 2007
+testdab;set_skill;"flying";300
+daboura under euid daboura Sat Jun 30 13:48:12 2007
+piehl;query;"Px"
+daboura under euid daboura Sat Jun 30 13:51:28 2007
+piehl;query;"Py"
+daboura under euid daboura Sat Jun 30 13:51:42 2007
+testdab;query;"Py"
+daboura under euid daboura Sat Jun 30 13:51:48 2007
+testdab;query;"Px"
+daboura under euid daboura Sun Jul  1 15:19:47 2007
+testdab;"Px"
+daboura under euid daboura Sun Jul  1 15:20:09 2007
+testdab;query;"Px"
+daboura under euid daboura Sun Jul  1 15:20:11 2007
+testdab;query;"Py"
+daboura under euid daboura Sun Jul  1 15:24:37 2007
+testdab;"Py";1
+daboura under euid daboura Sun Jul  1 15:24:43 2007
+testdab;set;"Py";1
+daboura under euid daboura Sun Jul  1 16:38:31 2007
+testdab;query;"Px"
+daboura under euid daboura Sun Jul  1 16:38:37 2007
+testdab;query;"PY"
+daboura under euid daboura Sun Jul  1 16:38:43 2007
+testdab;query;"Py"
+daboura under euid daboura Sun Jul  1 16:44:57 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 19:50:30 2007
+providence;query;"Px"
+daboura under euid daboura Mon Jul  2 19:50:34 2007
+providence;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:20 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:20 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:22 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:22 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:22 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:24 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:24 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:26 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:26 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:26 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:28 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:32 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:32 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:32 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:34 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:34 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:44 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:44 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:46 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:48 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:19:50 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:19:52 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:22:42 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 21:22:54 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:00 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:02 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:02 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:04 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:22 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 21:23:24 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:12:59 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:12:59 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:13:09 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:13:11 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:16:41 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:16:43 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:16:45 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:16:47 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:21:49 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:21:51 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:21:53 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:21:59 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  2 23:42:29 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:31 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:33 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:41 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:45 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:47 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:47 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:49 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:55 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:55 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:42:55 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:43:01 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:43:04 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:46:53 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:46:55 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:46:59 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:47:01 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:47:03 2007
+testdab;query;"Px"
+daboura under euid daboura Mon Jul  2 23:47:17 2007
+testdab;query;"Px"
+daboura under euid daboura Tue Jul  3 19:03:23 2007
+providence
+daboura under euid daboura Tue Jul  3 19:03:27 2007
+providence;query;"
+daboura under euid daboura Tue Jul  3 19:03:29 2007
+providence;query;"Px"
+nulvect under euid nulvect Tue Jul  3 20:16:31 2007
+skunk;query_search_path
+daboura under euid daboura Thu Jul  5 20:22:41 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:22:43 2007
+testdab;query;"Py"
+daboura under euid daboura Thu Jul  5 20:22:49 2007
+testdab;query;"Py"
+daboura under euid daboura Thu Jul  5 20:22:49 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:22:51 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:22:51 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:22:53 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:23:01 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:23:05 2007
+testdab;query;"Py"
+daboura under euid daboura Thu Jul  5 20:27:47 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:27:53 2007
+testdab;query;"Px"
+daboura under euid daboura Thu Jul  5 20:27:55 2007
+testdab;query;"Py"
+daboura under euid daboura Mon Jul  9 22:26:15 2007
+demetri
+nulvect under euid nulvect Tue Jul 24 00:31:22 2007
+krykern;query_blind
+nulvect under euid nulvect Thu Jul 26 11:45:55 2007
+yetron;set_property;gagged;1
+nulvect under euid nulvect Fri Jul 27 00:22:05 2007
+yetron;remove_property;"gagged"
+nulvect under euid nulvect Sat Jul 28 15:37:09 2007
+chia;query_skill;"healing"
+nulvect under euid nulvect Sat Jul 28 16:08:41 2007
+chia;query_last_pk
+nulvect under euid nulvect Sat Jul 28 16:08:45 2007
+chia;query_last_pk_time
+nulvect under euid nulvect Tue Aug 14 03:26:51 2007
+nox;query_party
+nulvect under euid nulvect Wed Aug 15 00:30:27 2007
+nox;query_skill;"charging"
+stormbringer under euid stormbringer Wed Aug 22 02:24:35 2007
+smite
+stormbringer under euid stormbringer Wed Aug 22 02:24:53 2007
+smite;set_recent_outlaw;0
+stormbringer under euid stormbringer Wed Aug 22 02:24:57 2007
+smite
+nulvect under euid nulvect Fri Aug 24 04:17:06 2007
+nultest;query_name
+nulvect under euid nulvect Fri Aug 24 04:33:33 2007
+nultest;query_bad_load
+nulvect under euid nulvect Fri Aug 24 04:34:19 2007
+nultest;del_bad_load
+nulvect under euid nulvect Fri Aug 24 04:43:20 2007
+adila;query_bad_load
+nulvect under euid nulvect Mon Aug 27 22:22:03 2007
+zub;query_bad_load
+nulvect under euid nulvect Tue Aug 28 21:59:47 2007
+noxus;query_age
+nulvect under euid nulvect Tue Aug 28 22:00:39 2007
+noxus;query_birthday
+nulvect under euid nulvect Wed Aug 29 23:48:14 2007
+carina;query_bad_load
+nulvect under euid nulvect Mon Sep  3 16:45:29 2007
+noxus;query_age
+nulvect under euid nulvect Mon Sep  3 21:11:37 2007
+endbringer;query_skill;"agility"
+nulvect under euid nulvect Tue Sep  4 01:25:26 2007
+noxus;set_property;"gagged";1
+nulvect under euid nulvect Tue Sep  4 01:25:54 2007
+noxus;query_age
+daos under euid daos Tue Sep  4 22:18:48 2007
+noxus;set_property;"gagged";0
+daos under euid daos Tue Sep  4 22:19:10 2007
+noxus;query_property;"gagged"
+daos under euid daos Tue Sep  4 22:19:18 2007
+noxus;remove_property;"gagged"
+nulvect under euid nulvect Wed Sep  5 02:43:18 2007
+delphi;divorce_me
+nulvect under euid nulvect Wed Sep  5 02:45:28 2007
+smite;divorce_me
+nulvect under euid nulvect Sat Sep  8 19:12:05 2007
+warrick;query_last_pk
+nulvect under euid nulvect Sat Sep  8 19:12:09 2007
+warrick;query_last_pk_time
+nulvect under euid nulvect Mon Sep 10 02:37:46 2007
+noxus;query_age
+nulvect under euid nulvect Mon Sep 10 02:57:39 2007
+noxus;query_party
+nulvect under euid nulvect Mon Sep 10 03:36:07 2007
+noxus;query_base_stats
+nulvect under euid nulvect Thu Sep 13 04:27:52 2007
+vormulac;query_skill;"euphony"
+nulvect under euid nulvect Thu Sep 13 04:36:15 2007
+vormulac;query_skill;"euphony"
+nulvect under euid nulvect Thu Sep 13 04:39:03 2007
+vormulac;query_skill;"euphony"
+nulvect under euid nulvect Thu Sep 13 04:40:47 2007
+vormulac;query_skill;"euphony"
+nulvect under euid nulvect Thu Sep 13 04:47:15 2007
+vormulac;query_skill;"euphony"
+nulvect under euid nulvect Fri Sep 14 21:02:05 2007
+kaotic;set_property;"gagged";1
+nulvect under euid nulvect Fri Sep 14 21:02:59 2007
+kaotic;query_age
+nulvect under euid nulvect Sun Sep 16 22:13:32 2007
+wakko;query_env;"MOUT"
+nulvect under euid nulvect Sun Sep 16 22:13:40 2007
+wakko;getenv;"MOUT"
+nulvect under euid nulvect Sun Sep 16 22:14:14 2007
+wakko;query_mout
+nulvect under euid nulvect Sun Sep 16 22:14:32 2007
+wakko;query_min
+nulvect under euid nulvect Sun Sep 16 22:15:12 2007
+kagu;query_mout
+nulvect under euid nulvect Sun Sep 16 22:15:24 2007
+kagu;query_min
+nulvect under euid nulvect Sun Sep 16 23:05:05 2007
+wakko;query_mout
+whit under euid whit Tue Sep 18 23:32:22 2007
+users;save
+whit under euid whit Tue Sep 18 23:32:28 2007
+users;force_me;save
+nulvect under euid nulvect Tue Sep 18 23:42:21 2007
+ghan;query_guild
+nulvect under euid nulvect Tue Sep 18 23:42:25 2007
+ghan;query_original_guild
+amun under euid amun Wed Sep 19 01:31:50 2007
+piehl;set_married;amun
+nulvect under euid nulvect Wed Sep 19 01:34:30 2007
+piehl;force_me;"save"
+nulvect under euid nulvect Wed Sep 19 01:56:42 2007
+kuja;query_riding
+nulvect under euid nulvect Wed Sep 19 02:10:54 2007
+nultest;use_stealth;"move"
+nulvect under euid nulvect Wed Sep 19 02:28:54 2007
+piehl;query_guild
+nulvect under euid nulvect Wed Sep 19 02:59:26 2007
+piehl;query_married
+nulvect under euid nulvect Wed Sep 19 02:59:50 2007
+piehl;set_married;"amun"
+nulvect under euid nulvect Wed Sep 19 02:59:56 2007
+piehl;force_me;"save"
+nulvect under euid nulvect Wed Sep 19 03:00:04 2007
+piehl;query_married
+nulvect under euid nulvect Wed Sep 19 03:00:58 2007
+piehl;query_divorced
+nulvect under euid nulvect Wed Sep 19 03:04:22 2007
+piehl;force_me;"save"
+nulvect under euid nulvect Fri Sep 21 03:01:39 2007
+skunk;query_skill;"healing"
+nulvect under euid nulvect Fri Sep 21 03:26:49 2007
+yakko;query_ac;"torso"
+nulvect under euid nulvect Fri Sep 21 03:29:25 2007
+altair;query_ac;"torso"
+nulvect under euid nulvect Fri Sep 21 20:33:35 2007
+kaotic;remove_property;"gagged"
+nulvect under euid nulvect Sat Sep 22 04:54:11 2007
+yakko;query_skill;"agility"
+nulvect under euid nulvect Sat Sep 22 04:54:43 2007
+noxus;query_skill;"agility"
+whit under euid whit Tue Sep 25 23:35:36 2007
+users;force_me;save
+whit under euid whit Wed Sep 26 23:31:26 2007
+users;force_me;save
+nulvect under euid nulvect Mon Oct  1 22:48:35 2007
+altair;set_property;"gagged";1
+nulvect under euid nulvect Mon Oct  1 22:48:45 2007
+altair;query_age
+nulvect under euid nulvect Tue Oct  2 21:01:55 2007
+altair;query_age
+nulvect under euid nulvect Wed Oct  3 02:57:46 2007
+altair;query_age
+nulvect under euid nulvect Wed Oct  3 04:04:19 2007
+nultest;set_hp;-10
+nulvect under euid nulvect Wed Oct  3 04:05:51 2007
+nultest;describe_current_room
+nulvect under euid nulvect Wed Oct  3 04:06:02 2007
+nultest;describe_current_room;1
+stormbringer under euid stormbringer Wed Oct  3 18:05:54 2007
+altair
+stormbringer under euid stormbringer Wed Oct  3 18:07:10 2007
+altair;query_age
+stormbringer under euid stormbringer Wed Oct  3 18:12:01 2007
+altair;set_gagged;0
+stormbringer under euid stormbringer Wed Oct  3 18:12:25 2007
+altair;set_property;"gagged";0
+stormbringer under euid stormbringer Wed Oct  3 18:12:57 2007
+altair;force_me;say ungagged
+stormbringer under euid stormbringer Wed Oct  3 18:13:15 2007
+altair;set_property;("gagged");0
+stormbringer under euid stormbringer Wed Oct  3 18:13:21 2007
+altair;force_me;say ungagged
+stormbringer under euid stormbringer Wed Oct  3 18:13:33 2007
+altair
+stormbringer under euid stormbringer Wed Oct  3 18:13:57 2007
+altair;query_property;gagged
+stormbringer under euid stormbringer Wed Oct  3 18:14:13 2007
+altair;set_property;gagged;0
+stormbringer under euid stormbringer Wed Oct  3 18:14:37 2007
+altair;force_me;say ungagged
+stormbringer under euid stormbringer Wed Oct  3 18:20:43 2007
+altair;set_property("gagged", 0)
+stormbringer under euid stormbringer Wed Oct  3 18:20:49 2007
+altair;set_property;("gagged", 0)
+stormbringer under euid stormbringer Wed Oct  3 18:21:07 2007
+altair;set_property;gagged;0
+stormbringer under euid stormbringer Wed Oct  3 18:21:49 2007
+altair;remove;gagged
+stormbringer under euid stormbringer Wed Oct  3 18:43:34 2007
+altair;remove_property;"gagged"
+nulvect under euid nulvect Wed Oct  3 20:29:19 2007
+altair;query_age
+nulvect under euid nulvect Wed Oct  3 20:29:27 2007
+altair;remove_property;"gagged"
+nulvect under euid nulvect Thu Oct  4 01:10:07 2007
+altair;query_property;"gagged"
+nulvect under euid nulvect Sat Oct  6 21:58:36 2007
+nultest;getenv;"start"
+nulvect under euid nulvect Sat Oct  6 21:58:50 2007
+nultest;setenv;"/wizards/nulvect/workroom.c"
+nulvect under euid nulvect Sat Oct  6 22:14:29 2007
+nultest;getenv;"start"
+nulvect under euid nulvect Sun Oct 14 04:38:34 2007
+sik;query_remort_data
+nulvect under euid nulvect Sun Oct 14 04:49:32 2007
+sik;query_skill;"belief"
+daos under euid daos Sun Oct 14 08:53:49 2007
+darwyn;query_email
+nulvect under euid nulvect Tue Oct 16 23:14:42 2007
+nultest;set_primary_start;"/wizards/nulvect/workroom"
+nulvect under euid nulvect Tue Oct 16 23:15:00 2007
+nultest;query_disguised_short
+nulvect under euid nulvect Tue Oct 16 23:15:02 2007
+nultest;query_disguised_id
+nulvect under euid nulvect Tue Oct 16 23:15:04 2007
+nultest;query_disguised_name
+nulvect under euid nulvect Tue Oct 16 23:15:46 2007
+nultest;query_disguised_long
+nulvect under euid nulvect Tue Oct 16 23:15:48 2007
+nultest;query_disguised_name
+nulvect under euid nulvect Tue Oct 16 23:34:13 2007
+nultest;query_short
+nulvect under euid nulvect Tue Oct 16 23:34:51 2007
+nultest;set_disguised_short;"Some random guy"
+nulvect under euid nulvect Tue Oct 16 23:53:09 2007
+nultest;query_name
+nulvect under euid nulvect Tue Oct 16 23:53:15 2007
+nultest;id;"nultest"
+nulvect under euid nulvect Tue Oct 16 23:53:35 2007
+nultest;query_id
+nulvect under euid nulvect Tue Oct 16 23:55:04 2007
+nultest;set_disguised_id;({"your mom"})
+nulvect under euid nulvect Tue Oct 16 23:56:24 2007
+nultest;set_disguised_long;"%^CYAN%^You look over the %^BOLD%^%^MAGENTA%^female%^RESET%^%^CYAN%^ gorilla.\nShe is in top shape."
+nulvect under euid nulvect Tue Oct 16 23:56:48 2007
+nultest;remove_disguised_id
+nulvect under euid nulvect Tue Oct 16 23:56:50 2007
+nultest;remove_disguised_long
+nulvect under euid nulvect Tue Oct 16 23:57:04 2007
+nultest;set_disguised_name;"Your mom"
+nulvect under euid nulvect Tue Oct 16 23:57:16 2007
+nultest;remove_disguised_name
+nulvect under euid nulvect Tue Oct 16 23:58:46 2007
+nultest;set_disguised_short;"A monkey"
+nulvect under euid nulvect Wed Oct 17 00:06:33 2007
+nultest;set_disguised_name;"A monkey"
+nulvect under euid nulvect Wed Oct 17 00:08:53 2007
+nultest;set_disguised_long;"A monkey is purple."
+nulvect under euid nulvect Wed Oct 17 00:11:05 2007
+nultest;query_true_name
+nulvect under euid nulvect Wed Oct 17 00:42:09 2007
+nultest;set_disguised_name;"A monkey"
+stormbringer under euid stormbringer Wed Oct 17 02:22:59 2007
+noxus;query_bad_load
+nulvect under euid nulvect Wed Oct 17 03:41:54 2007
+noxus;query_bad_load
+nulvect under euid nulvect Thu Oct 18 01:38:06 2007
+nultest;set_disguised_name;"Nul"
+nulvect under euid nulvect Thu Oct 18 01:38:16 2007
+nultest;set_disguised_id;({"Nul"})
+nulvect under euid nulvect Thu Oct 18 01:38:30 2007
+nultest;set_disguised_id;({"nul"})
+stormbringer under euid stormbringer Tue Oct 23 01:22:28 2007
+rommel
+stormbringer under euid stormbringer Tue Oct 23 04:03:05 2007
+yakko;force_me;inventory
+nulvect under euid nulvect Fri Oct 26 13:26:34 2007
+isth;set_property;"gagged";1
+nulvect under euid nulvect Fri Oct 26 13:28:00 2007
+isth;query_age
+nulvect under euid nulvect Fri Oct 26 23:23:25 2007
+nultest;set_disguised_name;"Gobbles"
+nulvect under euid nulvect Fri Oct 26 23:33:27 2007
+nultest;set_disguised_name;"Gobbles"
+nulvect under euid nulvect Fri Oct 26 23:33:57 2007
+nultest;set_disguised_id;({"gobbles"})
+nulvect under euid nulvect Sat Oct 27 01:30:33 2007
+isth;query_age
+stormbringer under euid stormbringer Sat Oct 27 17:46:17 2007
+axenos;force_me;bio
+stormbringer under euid stormbringer Sat Oct 27 17:46:41 2007
+axenos;force_me;biography
+stormbringer under euid stormbringer Sat Oct 27 17:46:47 2007
+axenos;force_me;
+stormbringer under euid stormbringer Sat Oct 27 17:46:55 2007
+axenos;force_me;.
+stormbringer under euid stormbringer Sat Oct 27 17:47:59 2007
+users
+nulvect under euid nulvect Mon Oct 29 01:20:45 2007
+isth;query_age
+nulvect under euid nulvect Mon Oct 29 01:49:31 2007
+noxus;query_disguised_short
+nulvect under euid nulvect Mon Oct 29 01:49:33 2007
+noxus;query_disguised_id
+stormbringer under euid stormbringer Mon Oct 29 18:36:39 2007
+benihime;add_exp;7000000
+nulvect under euid nulvect Sat Nov  3 15:04:51 2007
+pulse;query_skill;"perception"
+nulvect under euid nulvect Sat Nov 10 02:40:54 2007
+benihime;query_base_skill;"ranged"
+nulvect under euid nulvect Fri Nov 16 03:43:33 2007
+yang;query_stats
+nulvect under euid nulvect Fri Nov 16 03:43:37 2007
+yang;query_all_stats
+amun under euid amun Mon Nov 26 00:20:41 2007
+baradun;set_divorce
+amun under euid amun Mon Nov 26 00:24:24 2007
+baradun;divorce_me
+amun under euid amun Mon Nov 26 00:24:32 2007
+baradun;force_me;save
+daos under euid daos Tue Dec  4 22:05:00 2007
+yang;query_guild_position
+nulvect under euid nulvect Fri Dec 21 18:53:02 2007
+jagermister;query_wielded
+daos under euid daos Tue Dec 25 20:09:56 2007
+nulvect
+daos under euid daos Tue Dec 25 20:10:00 2007
+nulvect
+daos under euid daos Tue Dec 25 20:10:52 2007
+nulvect;init_stats;
+daos under euid daos Tue Dec 25 20:10:54 2007
+nulvect;init_stats
+daos under euid daos Tue Dec 25 20:11:02 2007
+nulvect;query_stats
+daos under euid daos Tue Dec 25 20:11:08 2007
+nulvect;reset_stats
+daos under euid daos Tue Dec 25 20:11:14 2007
+nulvect;set_stats;"strength";5
+daos under euid daos Tue Dec 25 20:11:26 2007
+nulvect;init_stat
+daos under euid daos Tue Dec 25 20:12:04 2007
+nulvect;set_base_stats;"strength":20;
+daos under euid daos Tue Dec 25 20:12:12 2007
+nulvect;query_stats
+daos under euid daos Tue Dec 25 20:12:22 2007
+nulvect;query_stats
+daos under euid daos Tue Dec 25 20:12:30 2007
+nulvect;fix_stats
+daos under euid daos Tue Dec 25 20:13:46 2007
+nulvect;save_player
+daos under euid daos Tue Dec 25 20:13:56 2007
+nulvect;fix_vital_bonus
+daos under euid daos Tue Dec 25 20:14:04 2007
+nulvect;fix_self
+daos under euid daos Tue Dec 25 20:14:06 2007
+nulvect;fixme
+daos under euid daos Tue Dec 25 20:15:06 2007
+nulvect;set_base_stats;(["strength":20, "constitution": 20, "dexterity": 20, "intelligence": 20, "wisdom": 20, "charisma":20]) );
+daos under euid daos Tue Dec 25 20:15:56 2007
+nulvect;save_player
+daos under euid daos Tue Dec 25 20:16:04 2007
+nulvect;remove_player
+daos under euid daos Tue Dec 25 20:16:30 2007
+nulvect;remove_living
+nulvect under euid nulvect Mon Dec 31 11:09:09 2007
+axenos;query_remort_data
+stormbringer under euid stormbringer Mon Dec 31 13:41:48 2007
+ironman;set_primary_start;/d/nopk/tirun/gcroom.c
+stormbringer under euid stormbringer Mon Dec 31 13:41:58 2007
+ironman;set_primary_start;"/d/nopk/tirun/gcroom.c"
+nulvect under euid nulvect Tue Jan  1 00:56:54 2008
+gob;divorce_me
+nulvect under euid nulvect Fri Jan 11 17:38:07 2008
+resolution;query_deaths
+nulvect under euid nulvect Sun Jan 13 03:15:47 2008
+endbringer;query_divorced
+nulvect under euid nulvect Tue Jan 15 23:06:23 2008
+landara;getenv;"SCREEN"
+nulvect under euid nulvect Tue Jan 15 23:06:33 2008
+landara;getenv;"TERM"
+nulvect under euid nulvect Wed Jan 23 01:36:32 2008
+nultest;set_primary_start;"/wizards/nulvect/workroom.c"
+nulvect under euid nulvect Sat Jan 26 02:48:11 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat Jan 26 02:48:47 2008
+nultest;query_spiritual
+nulvect under euid nulvect Sat Jan 26 02:49:39 2008
+nultest;query_hp
+nulvect under euid nulvect Sat Jan 26 02:52:58 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat Jan 26 02:53:02 2008
+nultest;query_spiritual
+nulvect under euid nulvect Sat Jan 26 02:53:06 2008
+nultest;query_physical
+nulvect under euid nulvect Sat Jan 26 03:04:07 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat Jan 26 03:04:09 2008
+nultest;query_heal_rate_bonus
+nulvect under euid nulvect Sat Jan 26 03:04:13 2008
+nultest;query_heal_rate_bonus;"hp"
+nulvect under euid nulvect Sat Jan 26 03:04:33 2008
+nultest;query_physical
+nulvect under euid nulvect Sat Jan 26 03:07:09 2008
+nultest;query_vital_bonus;"hp"
+nulvect under euid nulvect Sat Jan 26 03:07:31 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat Jan 26 03:29:46 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat Jan 26 03:29:50 2008
+nultest;query_spiritual
+nulvect under euid nulvect Fri Feb  8 16:08:33 2008
+penance;query_birthday
+nulvect under euid nulvect Sun Feb 10 22:42:25 2008
+benihime;query_aliases
+nulvect under euid nulvect Sun Feb 10 23:00:37 2008
+noxus;query_crippled
+nulvect under euid nulvect Sun Feb 10 23:00:41 2008
+noxus;query_crippled
+nulvect under euid nulvect Wed Feb 20 00:53:28 2008
+aeval;query_limbs
+nulvect under euid nulvect Wed Feb 20 00:54:34 2008
+aeval;query_severed
+nulvect under euid nulvect Wed Feb 20 00:54:40 2008
+aeval;query_severed_limbs
+nulvect under euid nulvect Wed Feb 20 22:52:28 2008
+amun;new_body
+nulvect under euid nulvect Wed Feb 20 22:52:34 2008
+amun;force_me;"save"
+nulvect under euid nulvect Wed Feb 20 22:52:38 2008
+amun;force_me;"quit"
+nulvect under euid nulvect Wed Feb 20 22:52:48 2008
+amun;query_race
+nulvect under euid nulvect Wed Feb 20 22:52:50 2008
+amun;query_body
+nulvect under euid nulvect Wed Feb 20 22:52:54 2008
+amun;query_limbs
+nulvect under euid nulvect Wed Feb 20 22:53:50 2008
+amun;save_player;"amun"
+nulvect under euid nulvect Thu Feb 21 23:40:53 2008
+smite;query_ip
+whit under euid whit Tue Feb 26 22:55:41 2008
+masamune;set_race;"bastet"
+whit under euid whit Tue Feb 26 22:56:01 2008
+masamune;force_me;save
+whit under euid whit Tue Feb 26 22:57:31 2008
+masamune;new_body
+whit under euid whit Tue Feb 26 22:57:35 2008
+masamune;setup
+whit under euid whit Tue Feb 26 22:57:53 2008
+masamune;force_me;save
+whit under euid whit Tue Feb 26 22:58:21 2008
+masamune;force_me;quit
+whit under euid whit Tue Feb 26 22:58:27 2008
+masamune;remove_living
+nulvect under euid nulvect Sat Mar  1 17:53:23 2008
+zack;setenv;"TITLE";"$N"
+nulvect under euid nulvect Fri Mar  7 19:48:11 2008
+smellynul;set_smell;"default";"Wow, he needs to shower."
+nulvect under euid nulvect Fri Mar  7 19:49:21 2008
+smellynul;set_smell;"default";"Wow, he needs to shower."
+nulvect under euid nulvect Fri Mar  7 19:49:37 2008
+smellynul;query_senses_map
+nulvect under euid nulvect Fri Mar  7 19:50:59 2008
+smellynul;set_smell;"default";"He needs a shower."
+nulvect under euid nulvect Mon Mar 24 22:16:30 2008
+eios;query_dam;"torso"
+nulvect under euid nulvect Mon Mar 24 22:16:46 2008
+eios;heal_limb;"torso";8824691
+nulvect under euid nulvect Mon Mar 24 22:16:48 2008
+eios;query_dam;"torso"
+nulvect under euid nulvect Sat Mar 29 15:21:50 2008
+yang;query_aliases
+nulvect under euid nulvect Mon Mar 31 21:29:03 2008
+kikiyo;divorce_me
+nulvect under euid nulvect Fri Apr 11 17:55:15 2008
+cenn;query_bad_load
+nulvect under euid nulvect Fri Apr 25 15:51:32 2008
+cenn;query_body_mapping
+nulvect under euid nulvect Tue Apr 29 00:51:34 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:51:38 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:51:38 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:51:42 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:51:44 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:12 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:14 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:16 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:18 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:20 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:22 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:26 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 00:52:30 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:12:19 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:12:23 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:12:25 2008
+nulvecttest;query_property;"gagged
+nulvect under euid nulvect Tue Apr 29 11:12:29 2008
+nulvecttest;query_property;gagged
+nulvect under euid nulvect Tue Apr 29 11:12:33 2008
+nulvecttest;query_property;gagtime
+nulvect under euid nulvect Tue Apr 29 11:12:43 2008
+nulvecttest;query_property;gagtime
+nulvect under euid nulvect Tue Apr 29 11:12:43 2008
+nulvecttest;query_property;gagged
+nulvect under euid nulvect Tue Apr 29 11:14:35 2008
+nulvecttest;set_primary_start;"/wizards/nulvect/workroom"
+nulvect under euid nulvect Tue Apr 29 11:15:09 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:11 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:11 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:13 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:15 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:17 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:17 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:19 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Tue Apr 29 11:15:21 2008
+nulvecttest;query_property;"gagged
+nulvect under euid nulvect Tue Apr 29 11:15:25 2008
+nulvecttest;query_property;"gagged"
+nulvect under euid nulvect Tue Apr 29 11:15:27 2008
+nulvecttest;query_property;gagged
+nulvect under euid nulvect Tue Apr 29 11:15:31 2008
+nulvecttest;query_property;"gagtime"
+nulvect under euid nulvect Thu May  1 11:59:50 2008
+cenn;query_property;"gagged"
+nulvect under euid nulvect Thu May  1 13:46:12 2008
+algren;query_limbs
+nulvect under euid nulvect Thu May  1 13:46:18 2008
+algren;query_severed_limbs
+nulvect under euid nulvect Fri May  2 13:40:09 2008
+nultest;query_kills
+nulvect under euid nulvect Fri May  2 13:41:49 2008
+nultest;show_status_line
+nulvect under euid nulvect Fri May  2 13:42:09 2008
+nultest;add_sp;-500
+nulvect under euid nulvect Fri May  2 13:42:13 2008
+nultest;add_sp;-500
+nulvect under euid nulvect Fri May  2 13:42:41 2008
+nultest;add_hp;-50
+nulvect under euid nulvect Fri May  2 13:42:43 2008
+nultest;add_hm;-50
+nulvect under euid nulvect Fri May  2 13:42:49 2008
+nultest;add_mp;-50
+nulvect under euid nulvect Fri May  2 13:45:01 2008
+nultest;query_alignment
+nulvect under euid nulvect Fri May  2 13:45:07 2008
+nultest;add_alignment;500
+nulvect under euid nulvect Fri May  2 13:45:07 2008
+nultest;query_alignment
+nulvect under euid nulvect Fri May  2 13:45:15 2008
+nultest;query_exp
+nulvect under euid nulvect Fri May  2 13:45:25 2008
+nultest;add_exp;-7670
+nulvect under euid nulvect Fri May  2 13:45:27 2008
+nultest;query_exp
+nulvect under euid nulvect Fri May  2 13:51:53 2008
+nultest;add_exp;5000
+nulvect under euid nulvect Fri May  2 13:52:29 2008
+nultest;add_exp;2147483647
+nulvect under euid nulvect Fri May  2 13:52:39 2008
+nultest;query_exp
+nulvect under euid nulvect Fri May  2 13:52:55 2008
+nultest;add_exp;1
+nulvect under euid nulvect Fri May  2 14:02:56 2008
+nultest;query_deaths
+nulvect under euid nulvect Fri May  2 14:15:07 2008
+nultest;do_healing
+nulvect under euid nulvect Fri May  2 14:17:29 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:17:29 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:17:31 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:17:47 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:17:47 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:17:49 2008
+nultest;query_age
+nulvect under euid nulvect Fri May  2 14:21:10 2008
+nultest;add_exp;-5000
+nulvect under euid nulvect Fri May  2 14:21:24 2008
+nultest;add_exp;-60000000
+nulvect under euid nulvect Fri May  2 14:21:36 2008
+nultest;add_exp;247918263879123
+nulvect under euid nulvect Fri May  2 14:21:54 2008
+nultest;add_exp;2
+nulvect under euid nulvect Fri May  2 14:23:52 2008
+nultest;add_exp;-5
+nulvect under euid nulvect Fri May  2 14:23:58 2008
+nultest;add_exp;7
+nulvect under euid nulvect Fri May  2 14:26:52 2008
+nultest;add_hp;-50
+nulvect under euid nulvect Fri May  2 14:26:54 2008
+nultest;add_sp;-50
+nulvect under euid nulvect Fri May  2 14:26:56 2008
+nultest;add_mp;-50
+nulvect under euid nulvect Fri May  2 14:27:58 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 14:28:00 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 14:28:02 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 14:28:50 2008
+nultest;query_physical
+nulvect under euid nulvect Fri May  2 14:28:52 2008
+nultest;query_spiritual
+nulvect under euid nulvect Fri May  2 14:32:47 2008
+nultest;query_heal_rate_bonus;"mp"
+nulvect under euid nulvect Fri May  2 14:32:47 2008
+nultest;query_heal_rate_bonus;"all"
+nulvect under euid nulvect Fri May  2 14:32:53 2008
+nultest;query_heal_rate_bonus;"hp"
+nulvect under euid nulvect Fri May  2 14:32:55 2008
+nultest;query_heal_rate_bonus;"sp"
+nulvect under euid nulvect Fri May  2 14:33:15 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:46:21 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 14:46:21 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 14:46:23 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 14:46:33 2008
+nultest;add_stuffed;50
+nulvect under euid nulvect Fri May  2 14:46:41 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Fri May  2 14:46:49 2008
+nultest;add_stuffed;5
+nulvect under euid nulvect Fri May  2 14:47:03 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:47:07 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 14:47:11 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 14:47:15 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 14:47:17 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:47:49 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:47:53 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 14:48:03 2008
+nultest;query_max_stuffed
+nulvect under euid nulvect Fri May  2 14:48:27 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:48:41 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 14:48:43 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 14:48:45 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 14:48:51 2008
+nultest;add_quenched;500
+nulvect under euid nulvect Fri May  2 14:48:57 2008
+nultest;query_max_quenched
+nulvect under euid nulvect Fri May  2 14:49:01 2008
+nultest;add_quenched;400
+nulvect under euid nulvect Fri May  2 14:49:05 2008
+nultest;query_quenched
+nulvect under euid nulvect Fri May  2 14:49:07 2008
+nultest;query_quenched
+nulvect under euid nulvect Fri May  2 14:49:25 2008
+nultest;add_intox;500
+nulvect under euid nulvect Fri May  2 14:49:29 2008
+nultest;query_max_intox
+nulvect under euid nulvect Fri May  2 14:49:35 2008
+nultest;add_intox;250
+nulvect under euid nulvect Fri May  2 14:50:06 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 14:59:20 2008
+nultest;query_healing_formula
+nulvect under euid nulvect Fri May  2 14:59:24 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 14:59:28 2008
+nultest;query_quenched
+nulvect under euid nulvect Fri May  2 14:59:30 2008
+nultest;query_intox
+nulvect under euid nulvect Fri May  2 15:00:01 2008
+nultest;query_quenched
+nulvect under euid nulvect Fri May  2 15:00:09 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 15:00:09 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 15:00:11 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 15:04:16 2008
+nultest;add_exp;234871263
+nulvect under euid nulvect Fri May  2 15:04:22 2008
+nultest;add_exp;2348712630
+nulvect under euid nulvect Fri May  2 15:04:36 2008
+nultest;add_exp;-1
+nulvect under euid nulvect Fri May  2 15:04:42 2008
+nultest;add_exp;5
+nulvect under euid nulvect Fri May  2 15:05:20 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 15:05:28 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Fri May  2 15:05:32 2008
+nultest;query_stuffed
+nulvect under euid nulvect Fri May  2 15:05:40 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Fri May  2 15:05:44 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Fri May  2 15:05:48 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 15:05:54 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 15:05:56 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 15:05:58 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 15:41:19 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 15:41:19 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 15:41:21 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 15:41:50 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 15:41:54 2008
+nultest;query_heal_rate_bonus;"all"
+nulvect under euid nulvect Fri May  2 15:41:56 2008
+nultest;query_heal_rate_bonus;"hp"
+nulvect under euid nulvect Fri May  2 15:44:08 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Fri May  2 15:44:12 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Fri May  2 15:44:16 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Fri May  2 15:44:22 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 15:44:22 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 15:44:24 2008
+nultest;set_mp;10
+nulvect under euid nulvect Fri May  2 15:57:02 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Fri May  2 15:57:06 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Fri May  2 15:57:12 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Fri May  2 15:57:16 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Fri May  2 15:57:26 2008
+nultest;set_hp;10
+nulvect under euid nulvect Fri May  2 15:57:28 2008
+nultest;set_sp;10
+nulvect under euid nulvect Fri May  2 15:57:28 2008
+nultest;set_mp;10
+nulvect under euid nulvect Sat May  3 03:05:48 2008
+algren;query_deaths
+nulvect under euid nulvect Sat May  3 14:03:11 2008
+nultest;query_max_stuffed
+nulvect under euid nulvect Sat May  3 14:03:15 2008
+nultest;query_max_quenched
+nulvect under euid nulvect Sat May  3 14:03:19 2008
+nultest;query_max_intox
+nulvect under euid nulvect Sat May  3 14:04:03 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Sat May  3 14:04:07 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Sat May  3 14:04:11 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Sat May  3 14:04:17 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat May  3 14:04:23 2008
+nultest;set_hp;10
+nulvect under euid nulvect Sat May  3 14:04:25 2008
+nultest;set_sp;10
+nulvect under euid nulvect Sat May  3 14:04:27 2008
+nultest;set_mp;10
+nulvect under euid nulvect Sat May  3 14:06:07 2008
+nultest;query_stuffed
+nulvect under euid nulvect Sat May  3 14:26:53 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Sat May  3 14:26:57 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Sat May  3 14:27:01 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Sat May  3 14:27:07 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Sat May  3 14:27:13 2008
+nultest;set_hp;10
+nulvect under euid nulvect Sat May  3 14:27:15 2008
+nultest;set_sp;10
+nulvect under euid nulvect Sat May  3 14:27:17 2008
+nultest;set_mp;10
+nulvect under euid nulvect Sun May  4 02:06:53 2008
+cenn;query_body_mapping
+nulvect under euid nulvect Sun May  4 02:07:33 2008
+cenn;query_limbs
+nulvect under euid nulvect Sun May  4 02:10:08 2008
+cenn;query_max_dam;"torso"
+nulvect under euid nulvect Mon May  5 01:09:27 2008
+nultest;set_level;50
+nulvect under euid nulvect Mon May  5 01:09:43 2008
+nultest;set_stats;"strength";100
+nulvect under euid nulvect Mon May  5 01:09:49 2008
+nultest;set_stats;"dexterity";150
+nulvect under euid nulvect Mon May  5 01:09:57 2008
+nultest;set_stats;"charisma";150
+nulvect under euid nulvect Mon May  5 01:10:11 2008
+nultest;set_stats;"constitution";80
+nulvect under euid nulvect Mon May  5 01:10:23 2008
+nultest;set_stats;"constitution";120
+nulvect under euid nulvect Mon May  5 01:10:31 2008
+nultest;set_stats;"intelligence";70
+nulvect under euid nulvect Mon May  5 01:10:35 2008
+nultest;set_stats;"wisdom";70
+nulvect under euid nulvect Mon May  5 01:11:59 2008
+nultest;add_stuffed;5000
+nulvect under euid nulvect Mon May  5 01:12:03 2008
+nultest;add_quenched;5000
+nulvect under euid nulvect Mon May  5 01:12:07 2008
+nultest;add_intox;5000
+nulvect under euid nulvect Mon May  5 01:12:11 2008
+nultest;query_max_stuffed
+nulvect under euid nulvect Mon May  5 01:12:15 2008
+nultest;query_max_quenched
+nulvect under euid nulvect Mon May  5 01:12:17 2008
+nultest;query_max_intox
+nulvect under euid nulvect Mon May  5 01:12:23 2008
+nultest;query_heal_rate
+nulvect under euid nulvect Mon May  5 01:12:35 2008
+nultest;set_hp;10
+nulvect under euid nulvect Mon May  5 01:12:37 2008
+nultest;set_sp;10
+nulvect under euid nulvect Mon May  5 01:12:39 2008
+nultest;set_mp;10
+nulvect under euid nulvect Mon May  5 22:35:46 2008
+yun;query_stuffed
+nulvect under euid nulvect Mon May  5 22:35:50 2008
+yun;query_max_stuffed
+nulvect under euid nulvect Mon May  5 22:35:54 2008
+yun;query_quenched
+nulvect under euid nulvect Mon May  5 22:35:56 2008
+yun;query_intox
+nulvect under euid nulvect Tue May  6 23:09:28 2008
+nultest;add_stuffed;500
+nulvect under euid nulvect Tue May  6 23:09:40 2008
+nultest;query_max_stuffed
+nulvect under euid nulvect Tue May  6 23:09:46 2008
+nultest;add_stuffed;428
+nulvect under euid nulvect Tue May  6 23:09:56 2008
+nultest;add_stuffed;5
+nulvect under euid nulvect Tue May  6 23:09:56 2008
+nultest;add_stuffed;5
+nulvect under euid nulvect Tue May  6 23:10:32 2008
+nultest;add_quenched;200
+nulvect under euid nulvect Tue May  6 23:13:04 2008
+nultest;query_quest_points
+nulvect under euid nulvect Wed May  7 00:54:39 2008
+yakko;query_stuffed
+nulvect under euid nulvect Wed May  7 00:54:43 2008
+yakko;query_max_stuffed
+nulvect under euid nulvect Wed May  7 00:54:45 2008
+yakko;query_stuffed
+nulvect under euid nulvect Wed May  7 22:53:32 2008
+damien;query_max_dam;"torso"
+nulvect under euid nulvect Wed May  7 22:53:36 2008
+damien;query_dam;"torso"
+nulvect under euid nulvect Wed May  7 22:53:40 2008
+damien;query_max_dam;"head"
+nulvect under euid nulvect Wed May  7 22:55:31 2008
+damien;query_dam;"torso"
+nulvect under euid nulvect Wed May  7 22:56:00 2008
+damien;query_dam;"torso"
+nulvect under euid nulvect Thu May  8 23:37:03 2008
+blakely;query_hp
+nulvect under euid nulvect Thu May  8 23:38:45 2008
+blakely;set_hp;190
+nulvect under euid nulvect Fri May  9 00:33:44 2008
+masamune;query_heal_rate
+nulvect under euid nulvect Fri May  9 00:33:48 2008
+masamune;query_heal_rate_bonus;"hp"
+nulvect under euid nulvect Fri May  9 00:34:56 2008
+masamune;set_heal_rate_bonus;"hp";0
+nulvect under euid nulvect Fri May  9 00:35:00 2008
+cb;set_heal_rate_bonus;"hp";0
+nulvect under euid nulvect Sun May 11 20:40:52 2008
+mezmerize;query_body_map
+nulvect under euid nulvect Sun May 11 20:40:54 2008
+mezmerize;query_body_mapping
+amun under euid amun Tue May 13 23:29:32 2008
+damien;set_level;50
+amun under euid amun Tue May 13 23:30:24 2008
+damien;set_stats;dexterity;45
+amun under euid amun Tue May 13 23:30:40 2008
+damien;set_stats;intelligence;115
+amun under euid amun Tue May 13 23:32:04 2008
+damien;set_skill;conjuring;225
+amun under euid amun Tue May 13 23:32:12 2008
+damien;set_skill;magic attack;300
+amun under euid amun Tue May 13 23:32:18 2008
+damien;set_skill;necromancy;300
+amun under euid amun Tue May 13 23:32:28 2008
+damien;set_skill;magic defense;200
+amun under euid amun Tue May 13 23:32:38 2008
+damien;force_me;save
+amun under euid amun Tue May 13 23:38:40 2008
+damien;add_exp;5000000
+amun under euid amun Tue May 13 23:38:46 2008
+damien;force me;save
+amun under euid amun Tue May 13 23:40:24 2008
+damien;add_exp;2000000
+amun under euid amun Tue May 13 23:40:46 2008
+damien;add_exp;600000
+nulvect under euid nulvect Thu May 15 23:49:51 2008
+cb;query_property;"gagged"
+nulvect under euid nulvect Fri May 16 01:09:19 2008
+yakko;query_max_stuffed
+nulvect under euid nulvect Sat May 17 15:32:47 2008
+nultest;query_followers
+nulvect under euid nulvect Sat May 17 15:36:41 2008
+nultest;clear_followers
+nulvect under euid nulvect Sat May 17 15:37:21 2008
+nultest;query_followers
+nulvect under euid nulvect Sat May 17 15:38:41 2008
+nultest;query_followers
+nulvect under euid nulvect Sat May 17 15:39:45 2008
+nultest;query_followers
+nulvect under euid nulvect Sat May 17 16:00:27 2008
+oz;query_stuffed
+nulvect under euid nulvect Sat May 17 16:01:25 2008
+oz;query_max_stuffed
+nulvect under euid nulvect Sat May 17 16:01:29 2008
+oz;query_stuffed
+nulvect under euid nulvect Sat May 17 16:04:53 2008
+oz;query_max_stuffed
+nulvect under euid nulvect Sat May 17 16:04:55 2008
+oz;query_max_quenched
+nulvect under euid nulvect Sat May 17 16:04:59 2008
+oz;query_max_intox
+nulvect under euid nulvect Sat May 17 16:05:03 2008
+oz;query_stuffed
+nulvect under euid nulvect Sat May 17 16:05:07 2008
+oz;query_quenched
+nulvect under euid nulvect Sat May 17 16:05:09 2008
+oz;query_intox
+nulvect under euid nulvect Sat May 17 16:05:19 2008
+oz;set_stuffed;171
+nulvect under euid nulvect Sat May 17 16:05:23 2008
+oz;query_stuffed
+nulvect under euid nulvect Wed May 21 01:02:18 2008
+oz;query_stuffed
+nulvect under euid nulvect Wed May 21 01:02:22 2008
+oz;query_max_stuffed
+nulvect under euid nulvect Fri May 23 15:03:01 2008
+cenn;query_deaths
+nulvect under euid nulvect Fri May 23 18:23:50 2008
+algren;query_disable
+nulvect under euid nulvect Fri May 23 18:23:54 2008
+algren;query_casting
+nulvect under euid nulvect Fri May 23 19:37:38 2008
+nultest;set_class;"wanderer"
+nulvect under euid nulvect Fri May 23 19:37:42 2008
+nultest;set_subclass;"jester"
+nulvect under euid nulvect Fri May 23 19:40:06 2008
+nultest;add_search_path;"/wizards/nulvect/bin"
+nulvect under euid nulvect Fri May 23 19:50:15 2008
+nultest;remove_paralyzed
+nulvect under euid nulvect Sat May 24 23:30:30 2008
+oz;query_limbs
+nulvect under euid nulvect Wed May 28 00:44:27 2008
+cenn;query_deaths
+nulvect under euid nulvect Wed May 28 01:00:02 2008
+cenn;query_deaths
+nulvect under euid nulvect Wed May 28 02:02:36 2008
+algren;set_paralyzed;50
+nulvect under euid nulvect Tue Jun 24 00:38:38 2008
+cb;query_property;"gagged"
+nulvect under euid nulvect Tue Jun 24 00:38:42 2008
+cb;query_property;"gagtime"
+nulvect under euid nulvect Tue Jun 24 00:38:44 2008
+cb;query_property;"gagtime"
+nulvect under euid nulvect Tue Jun 24 00:38:44 2008
+cb;query_property;"gagtime"
+nulvect under euid nulvect Tue Jun 24 00:38:46 2008
+cb;query_property;"gagtime"
+nulvect under euid nulvect Tue Jun 24 00:38:48 2008
+cb;query_property;"gagtime"
+nulvect under euid nulvect Fri Jun 27 22:27:40 2008
+noxus;query_property;"gagtime"
+nulvect under euid nulvect Fri Jun 27 22:27:40 2008
+noxus;query_property;"gagtime"
+nulvect under euid nulvect Fri Jun 27 22:27:42 2008
+noxus;query_property;"gagtime"
+nulvect under euid nulvect Fri Jun 27 22:27:54 2008
+noxus;set_property;"gagtime";-3000
+nulvect under euid nulvect Fri Jun 27 22:27:56 2008
+noxus;query_property;"gagtime"
+nulvect under euid nulvect Sat Jul  5 05:37:23 2008
+kilir;query_name
+nulvect under euid nulvect Sat Jul  5 05:37:27 2008
+kilir;query_cap_name
+nulvect under euid nulvect Sun Jul  6 02:28:42 2008
+bellos;set_property;"dragon_token";"red"
+nulvect under euid nulvect Thu Jul 10 14:58:11 2008
+skunk;query_rest_type
+nulvect under euid nulvect Fri Jul 11 15:01:17 2008
+piro;query_position
+nulvect under euid nulvect Fri Jul 11 15:01:31 2008
+zed;query_position
+daos under euid daos Tue Jul 15 01:14:43 2008
+cenn;divorce_me
+daos under euid daos Tue Jul 15 01:15:03 2008
+cenn;set_married;"daos"
+pyro under euid pyro Tue Jul 15 11:43:18 2008
+cenn;query_guild
+pyro under euid pyro Tue Jul 15 11:43:22 2008
+halucoost;query_guild
+pyro under euid pyro Tue Jul 15 19:06:49 2008
+cenn
+pyro under euid pyro Tue Jul 15 19:08:31 2008
+cenn;query_hp
+pyro under euid pyro Tue Jul 15 19:08:45 2008
+cenn;query_max_hp
+pyro under euid pyro Tue Jul 15 19:08:51 2008
+cenn;query_level
+pyro under euid pyro Wed Jul 16 00:14:42 2008
+evron
+pyro under euid pyro Wed Jul 16 00:54:51 2008
+argyll;query_subclass
+pyro under euid pyro Wed Jul 16 00:56:09 2008
+argyll;query_class
+pyro under euid pyro Wed Jul 16 15:33:17 2008
+geddoe;query_level
+pyro under euid pyro Wed Jul 16 15:33:57 2008
+yang;query_level
+pyro under euid pyro Wed Jul 16 15:47:30 2008
+kilir;get_contents
+pyro under euid pyro Wed Jul 16 15:47:34 2008
+kilir;query_contents
+pyro under euid pyro Wed Jul 16 15:48:02 2008
+kilir;contains;ring
+pyro under euid pyro Wed Jul 16 15:48:16 2008
+kilir;get_inventory
+pyro under euid pyro Wed Jul 16 15:48:20 2008
+kilir;query_inventory
+daos under euid daos Thu Jul 17 01:37:16 2008
+skrymer;divorce_me;
+pyro under euid pyro Thu Jul 17 15:32:08 2008
+kilir;query_title
+pyro under euid pyro Fri Jul 18 00:30:01 2008
+cenn
+pyro under euid pyro Fri Jul 18 00:30:15 2008
+cenn;query_subclass
+pyro under euid pyro Fri Jul 18 00:56:12 2008
+cenn;query_money
+pyro under euid pyro Fri Jul 18 00:56:24 2008
+cenn;get_money
+pyro under euid pyro Fri Jul 18 20:56:20 2008
+yang
+pyro under euid pyro Fri Jul 18 22:16:01 2008
+bellos;force_me;eat fireball
+pyro under euid pyro Sat Jul 19 01:30:00 2008
+cenn
+pyro under euid pyro Sat Jul 19 03:06:25 2008
+axenos
+pyro under euid pyro Sat Jul 19 19:24:38 2008
+cenn
+pyro under euid pyro Sat Jul 19 19:24:48 2008
+piehl
+pyro under euid pyro Sat Jul 19 21:29:46 2008
+bellos;query_password
+pyro under euid pyro Sat Jul 19 21:30:34 2008
+bellos;set_property;mature channel;1
+pyro under euid pyro Sat Jul 19 22:11:23 2008
+cenn
+pyro under euid pyro Sun Jul 20 23:33:58 2008
+kilir;query_title
+pyro under euid pyro Mon Jul 21 00:30:24 2008
+cenn;query_class
+pyro under euid pyro Mon Jul 21 00:30:30 2008
+cenn;query_subclass
+pyro under euid pyro Mon Jul 21 15:39:10 2008
+pytest;set_level;20
+pyro under euid pyro Tue Jul 22 15:34:45 2008
+cenn
+pyro under euid pyro Wed Jul 23 16:08:31 2008
+rommel;query_long_health
+pyro under euid pyro Wed Jul 23 22:58:01 2008
+cenn
+pyro under euid pyro Thu Jul 24 00:49:20 2008
+piehl;query_guild
+pyro under euid pyro Thu Jul 24 00:50:12 2008
+piehl;query_guild
+pyro under euid pyro Thu Jul 24 00:58:20 2008
+piehl;query_guild
+pyro under euid pyro Thu Jul 24 01:07:24 2008
+piehl;query_guild
+amun under euid amun Thu Jul 24 01:10:14 2008
+piehl;set_guild;"lastsaints"
+amun under euid amun Thu Jul 24 01:10:22 2008
+piehl;force_me;save
+pyro under euid pyro Thu Jul 24 01:25:52 2008
+piehl;force_me;mount pyro
+whit under euid whit Thu Jul 24 02:05:21 2008
+piehl;
+whit under euid whit Thu Jul 24 02:05:29 2008
+piehl;query_original_guild
+whit under euid whit Thu Jul 24 02:08:57 2008
+piehl;query_guild
+whit under euid whit Thu Jul 24 02:09:01 2008
+piehl;query_original_guild
+pyro under euid pyro Fri Jul 25 02:00:03 2008
+lucy;query_age
+pyro under euid pyro Fri Jul 25 02:03:49 2008
+lucy
+pyro under euid pyro Fri Jul 25 02:13:37 2008
+lucy
+pyro under euid pyro Fri Jul 25 03:13:46 2008
+vormulac
+pyro under euid pyro Fri Jul 25 18:30:29 2008
+cenn;query_stat
+pyro under euid pyro Fri Jul 25 18:30:31 2008
+cenn;query_stats
+pyro under euid pyro Fri Jul 25 18:30:39 2008
+cenn;query_stats;charisma
+pyro under euid pyro Fri Jul 25 18:30:45 2008
+piehl;query_stats;charisma
+pyro under euid pyro Fri Jul 25 18:32:07 2008
+pytest;set
+pyro under euid pyro Fri Jul 25 18:32:59 2008
+pytest;query_property;passive
+pyro under euid pyro Fri Jul 25 18:33:07 2008
+pytest;set_property;passive;1
+pyro under euid pyro Fri Jul 25 18:33:09 2008
+pytest;query_property;passive
+pyro under euid pyro Fri Jul 25 18:53:28 2008
+pytest;set_primary_start;"/wizards/pyro/workroom"
+pyro under euid pyro Fri Jul 25 20:50:58 2008
+cenn;set_married;smite
+pyro under euid pyro Fri Jul 25 20:51:44 2008
+cenn;set_married;smite
+pyro under euid pyro Fri Jul 25 20:52:22 2008
+cenn;set_married;"Smite"
+pyro under euid pyro Fri Jul 25 20:52:42 2008
+cenn;set_married;UNDEFINED
+pyro under euid pyro Fri Jul 25 21:00:00 2008
+cenn;divorce_me
+pyro under euid pyro Fri Jul 25 21:06:02 2008
+cenn;set_married;smite
+pyro under euid pyro Fri Jul 25 21:06:14 2008
+cenn;set_married;"Smite"
+pyro under euid pyro Fri Jul 25 21:06:26 2008
+cenn;set_married;"smite"
+pyro under euid pyro Fri Jul 25 21:06:34 2008
+cenn;set_married;"Smite"
+pyro under euid pyro Fri Jul 25 21:06:38 2008
+cenn;set_married;Smite
+pyro under euid pyro Fri Jul 25 21:06:46 2008
+cenn;set_married;smite
+pyro under euid pyro Fri Jul 25 21:50:34 2008
+geddoe;force_me;bury corpse
+pyro under euid pyro Sat Jul 26 00:10:42 2008
+pytest;set_race;dragon
+pyro under euid pyro Sat Jul 26 00:10:42 2008
+pytest;set_class;dragon
+pyro under euid pyro Sat Jul 26 00:10:42 2008
+pytest;set_subclass;red
+pyro under euid pyro Sat Jul 26 00:10:42 2008
+pytest;new_body
+pyro under euid pyro Sat Jul 26 00:13:40 2008
+skunk;query_ignored;pyro
+pyro under euid pyro Sat Jul 26 00:13:44 2008
+skunk;query_ignor;pyro
+pyro under euid pyro Sat Jul 26 00:13:46 2008
+skunk;query_ignore;pyro
+pyro under euid pyro Sat Jul 26 00:13:53 2008
+skunk;is_ignoring;pyro
+pyro under euid pyro Sat Jul 26 00:19:00 2008
+rohl
+pyro under euid pyro Sat Jul 26 04:08:16 2008
+skunk
+pyro under euid pyro Sat Jul 26 04:08:20 2008
+yakko
+pyro under euid pyro Sat Jul 26 04:08:22 2008
+smite
+pyro under euid pyro Sat Jul 26 04:08:28 2008
+cenn
+pyro under euid pyro Sat Jul 26 04:08:30 2008
+rohl
+pyro under euid pyro Sat Jul 26 04:08:34 2008
+yang
+pyro under euid pyro Sat Jul 26 04:08:36 2008
+bellos
+pyro under euid pyro Sat Jul 26 04:08:38 2008
+smokey
+pyro under euid pyro Sat Jul 26 15:32:17 2008
+smite;query_subclass
+pyro under euid pyro Sat Jul 26 15:32:43 2008
+smite;query_dragon
+pyro under euid pyro Sat Jul 26 15:32:49 2008
+smite;query_race
+pyro under euid pyro Sat Jul 26 16:33:34 2008
+piehl;query_guild
+pyro under euid pyro Sat Jul 26 20:00:08 2008
+bellos
+pyro under euid pyro Sat Jul 26 21:06:41 2008
+cenn;query_level
+amun under euid amun Sun Jul 27 01:08:31 2008
+piehl;force_me;save
+pyro under euid pyro Sun Jul 27 15:15:30 2008
+cenn;query_initial_ip
+pyro under euid pyro Sun Jul 27 17:25:56 2008
+cenn;query_subclass
+pyro under euid pyro Sun Jul 27 17:26:18 2008
+cenn;query_level
+pyro under euid pyro Sun Jul 27 19:39:33 2008
+cenn;query_hp
+pyro under euid pyro Sun Jul 27 19:39:53 2008
+cenn;query_max_hp
+pyro under euid pyro Sun Jul 27 19:55:11 2008
+cenn
+pyro under euid pyro Sun Jul 27 19:59:30 2008
+cenn;query_level
+pyro under euid pyro Sun Jul 27 23:01:34 2008
+pytest;query_level
+pyro under euid pyro Sun Jul 27 23:01:46 2008
+pytest;set_level;1000
+pyro under euid pyro Sun Jul 27 23:12:31 2008
+pytest;die
+pyro under euid pyro Sun Jul 27 23:16:45 2008
+pytest;set_subclass;yellow
+pyro under euid pyro Sun Jul 27 23:19:29 2008
+pytest;set_subclass;uber
+pyro under euid pyro Sun Jul 27 23:20:05 2008
+pytest;set_subclass;imaginary
+pyro under euid pyro Mon Jul 28 16:10:20 2008
+kitsy;query_stat;strength
+pyro under euid pyro Mon Jul 28 16:10:24 2008
+kitsy;query_stats;strength
+pyro under euid pyro Mon Jul 28 16:10:30 2008
+kitsy;query_stats;charisma
+pyro under euid pyro Mon Jul 28 16:10:36 2008
+kitsy;query_stats;wisdom
+pyro under euid pyro Mon Jul 28 18:50:15 2008
+smokey;query_guild
+pyro under euid pyro Mon Jul 28 18:50:21 2008
+smokey;query_original_guild
+pyro under euid pyro Wed Jul 30 15:04:15 2008
+kilir;query_deaths
+pyro under euid pyro Wed Jul 30 15:04:29 2008
+kitsy;query_deaths
+pyro under euid pyro Wed Jul 30 15:04:33 2008
+hairy;query_deaths
+pyro under euid pyro Wed Jul 30 19:05:37 2008
+skrymer
+pyro under euid pyro Thu Jul 31 02:26:07 2008
+cenn
+pyro under euid pyro Thu Jul 31 02:26:09 2008
+yun
+pyro under euid pyro Thu Jul 31 02:26:13 2008
+smite
+pyro under euid pyro Thu Jul 31 02:26:19 2008
+aethion
+pyro under euid pyro Thu Jul 31 02:26:23 2008
+jynteral
+pyro under euid pyro Thu Jul 31 16:47:36 2008
+sik;query_idle
+nulvect under euid nulvect Fri Aug  1 00:17:56 2008
+sik;query_body_mapping
+pyro under euid pyro Fri Aug  1 12:59:58 2008
+pytest;set_race;human
+pyro under euid pyro Fri Aug  1 13:00:02 2008
+pytest;new_body
+pyro under euid pyro Fri Aug  1 13:01:20 2008
+pytest;set_level;1
+pyro under euid pyro Fri Aug  1 13:05:56 2008
+pytest;set_race;dragon
+pyro under euid pyro Fri Aug  1 13:06:02 2008
+pytest;set_level;200
+pyro under euid pyro Fri Aug  1 13:06:06 2008
+pytest;new_body
+pyro under euid pyro Fri Aug  1 13:10:28 2008
+pytest;die
+pyro under euid pyro Fri Aug  1 16:21:55 2008
+sanctal;query_deaths
+pyro under euid pyro Fri Aug  1 17:00:48 2008
+kitsy;query_alias
+pyro under euid pyro Fri Aug  1 17:00:50 2008
+kitsy;query_aliases
+pyro under euid pyro Fri Aug  1 17:02:24 2008
+kitsy;query_aliases
+pyro under euid pyro Fri Aug  1 17:42:36 2008
+kitsy;query_aliases
+pyro under euid pyro Sat Aug  2 00:16:59 2008
+kitsy;quit
+pyro under euid pyro Sat Aug  2 01:29:28 2008
+britney;query_exp
+pyro under euid pyro Sat Aug  2 01:29:32 2008
+britney;query_level
+pyro under euid pyro Sat Aug  2 01:43:56 2008
+geddoe
+pyro under euid pyro Sat Aug  2 16:47:00 2008
+kilir;query_guild
+pyro under euid pyro Sat Aug  2 17:09:10 2008
+cenn;restart_heart
+pyro under euid pyro Sat Aug  2 17:26:23 2008
+unsub
+pyro under euid pyro Sat Aug  2 17:33:41 2008
+unsub;quit
+pyro under euid pyro Sat Aug  2 17:51:54 2008
+pytest;set_paralyzed;10;"Insubordination!"
+pyro under euid pyro Sat Aug  2 18:16:04 2008
+cenn;query_ignoring;"kilir"
+pyro under euid pyro Sat Aug  2 23:57:52 2008
+pytesttest;set_paralyzed;999999999;booga.
+amun under euid amun Sat Aug  2 23:58:00 2008
+pytesttest;set_paralyzed;999999999;
+pyro under euid pyro Sun Aug  3 20:38:52 2008
+pytest;die
+pyro under euid pyro Tue Aug  5 23:56:58 2008
+pytest;add_sp;-899999
+pyro under euid pyro Wed Aug  6 20:35:55 2008
+bonnie;query_stat;wisdom
+pyro under euid pyro Wed Aug  6 20:35:58 2008
+bonnie;query_stats;wisdom
+pyro under euid pyro Wed Aug  6 23:16:34 2008
+bonnie;query_hp
+pyro under euid pyro Wed Aug  6 23:38:27 2008
+bonnie;set_paralyzed;10;you have been smitten
+pyro under euid pyro Thu Aug  7 21:30:07 2008
+cenn;set_married;smite
+pyro under euid pyro Thu Aug  7 21:30:11 2008
+cenn;set_married;"smite"
+pyro under euid pyro Thu Aug  7 21:30:19 2008
+cenn;save
+pyro under euid pyro Thu Aug  7 21:30:45 2008
+cenn;query_married
+pyro under euid pyro Thu Aug  7 21:30:55 2008
+cenn;force_me;save
+pyro under euid pyro Fri Aug  8 00:35:37 2008
+smite;query_ignoring;amun
+pyro under euid pyro Fri Aug  8 16:49:43 2008
+cyan;query_stats;strength
+pyro under euid pyro Fri Aug  8 16:49:47 2008
+cyan;query_stats;intelligence
+pyro under euid pyro Fri Aug  8 16:49:53 2008
+cyan;query_stats;constitution
+pyro under euid pyro Fri Aug  8 17:29:26 2008
+kilir;force_me;wear all
+pyro under euid pyro Fri Aug  8 17:38:11 2008
+kilir;force_me;out
+pyro under euid pyro Sat Aug  9 16:29:11 2008
+tauran;query_guild
+ironman under euid ironman Sat Aug  9 18:12:50 2008
+ironscrap;set_title;">> ironman's guinie pig"
+ironman under euid ironman Sat Aug  9 18:13:06 2008
+ironscrap;set_title;">> ironman's guinie pig"
+ironman under euid ironman Sat Aug  9 18:15:18 2008
+ironscrap;set_level;40
+ironman under euid ironman Sat Aug  9 18:15:36 2008
+ironscrap;set_class;"mage"
+ironman under euid ironman Sat Aug  9 18:15:48 2008
+ironscrap;set_subclass;"pyromancer"
+pyro under euid pyro Sat Aug  9 18:24:57 2008
+ironscrap;force_me;east
+pyro under euid pyro Sat Aug  9 21:31:48 2008
+yang;query_level
+pyro under euid pyro Sun Aug 10 00:20:24 2008
+aximili;query_skill;magic attack
+pyro under euid pyro Sun Aug 10 00:20:30 2008
+aximili;query_skill;magic defense
+pyro under euid pyro Sun Aug 10 13:34:22 2008
+pytest;die
+pyro under euid pyro Sun Aug 10 13:34:26 2008
+pytest;query_dead
+pyro under euid pyro Sun Aug 10 13:34:32 2008
+pytest;query_alive
+pyro under euid pyro Sun Aug 10 13:34:36 2008
+pytest;alive
+pyro under euid pyro Sun Aug 10 13:34:40 2008
+pytest;dead
+pyro under euid pyro Sun Aug 10 13:35:42 2008
+pytest;die
+pyro under euid pyro Sun Aug 10 13:41:38 2008
+pytest;is_ghost
+pyro under euid pyro Sun Aug 10 13:41:56 2008
+pytest;query_ghost
+pyro under euid pyro Sun Aug 10 13:42:02 2008
+pytest;query_ghost
+pyro under euid pyro Sun Aug 10 13:58:04 2008
+pytest;set_hp;-50
+pyro under euid pyro Sun Aug 10 13:58:38 2008
+pytest;query_death_location
+pyro under euid pyro Sun Aug 10 13:58:44 2008
+pytest;query_death_site
+pyro under euid pyro Sun Aug 10 13:58:48 2008
+pytest;query_died
+pyro under euid pyro Sun Aug 10 20:20:36 2008
+pytest;set_level;20
+pyro under euid pyro Sun Aug 10 20:20:42 2008
+pytest;remove_property;passive
+pyro under euid pyro Sun Aug 10 20:21:08 2008
+pytest;set_killable;1
+nulvect under euid nulvect Sun Aug 10 20:22:44 2008
+pytest;regexp_query_property;".*"
+nulvect under euid nulvect Sun Aug 10 20:22:54 2008
+pytest;query_property;"passive"
+nulvect under euid nulvect Sun Aug 10 20:30:10 2008
+pytest;remove_property;"passive"
+pyro under euid pyro Sun Aug 10 20:31:20 2008
+pytest;die
+pyro under euid pyro Sun Aug 10 20:36:44 2008
+pytest;resurrect
+pyro under euid pyro Sun Aug 10 20:43:23 2008
+pytest;set_property;passive;1
+pyro under euid pyro Sun Aug 10 23:58:15 2008
+cenn
+pyro under euid pyro Mon Aug 11 12:06:49 2008
+aethion;query_quests
+pyro under euid pyro Mon Aug 11 12:07:05 2008
+cyan;query_quests
+pyro under euid pyro Mon Aug 11 12:07:17 2008
+sesshoumaru;query_quests
+pyro under euid pyro Mon Aug 11 12:07:25 2008
+mezmerize;query_quests
+pyro under euid pyro Mon Aug 11 12:15:29 2008
+aethion;query_mini_quest
+pyro under euid pyro Mon Aug 11 12:15:36 2008
+aethion;query_mini_quests
+pyro under euid pyro Mon Aug 11 12:19:42 2008
+aethion;query_quests
+pyro under euid pyro Mon Aug 11 13:38:27 2008
+cenn;set_nicknames;pairo;"pyro"
+amun under euid amun Mon Aug 11 23:29:39 2008
+cenn;set_married;single
+amun under euid amun Mon Aug 11 23:29:49 2008
+cenn;force_me;save
+amun under euid amun Mon Aug 11 23:33:49 2008
+cenn;divorce_me
+amun under euid amun Mon Aug 11 23:34:49 2008
+cenn;force_me;save
+pyro under euid pyro Wed Aug 13 14:10:22 2008
+skrymer;query_exp
+pyro under euid pyro Wed Aug 13 14:10:26 2008
+yang;query_exp
+pyro under euid pyro Thu Aug 14 01:59:01 2008
+pytest;set_max_hp;90000
+pyro under euid pyro Thu Aug 14 02:07:25 2008
+pytest;set_stats;constitution;500
+pyro under euid pyro Thu Aug 14 02:10:04 2008
+pytest;set_alignment;-800
+pyro under euid pyro Thu Aug 14 02:10:22 2008
+pytest;resurrect
+pyro under euid pyro Thu Aug 14 02:10:26 2008
+pytest;ressurrect
+pyro under euid pyro Thu Aug 14 02:10:28 2008
+pytest;ressurect
+pyro under euid pyro Thu Aug 14 02:31:54 2008
+pyfix;set_property;passive;1
+pyro under euid pyro Thu Aug 14 02:32:02 2008
+pyfix;set_level;50
+pyro under euid pyro Thu Aug 14 02:32:10 2008
+pyfix;set_stats;charisma;1000
+pyro under euid pyro Thu Aug 14 02:33:40 2008
+pyfix;set_primary_start;"/wizards/pyro/workroom"
+pyro under euid pyro Thu Aug 14 02:41:10 2008
+pytest;die;me
+pyro under euid pyro Thu Aug 14 02:49:02 2008
+pytest;set_alignment;5000
+pyro under euid pyro Thu Aug 14 02:49:16 2008
+pytest;die;me
+pyro under euid pyro Thu Aug 14 02:50:28 2008
+pytest;die;me
+pyro under euid pyro Thu Aug 14 13:47:45 2008
+aethion;query_max_hp
+pyro under euid pyro Thu Aug 14 13:51:50 2008
+aethion;query_max_hp
+pyro under euid pyro Sat Aug 16 00:12:45 2008
+cyan;query_alignment
+pyro under euid pyro Sat Aug 16 00:15:53 2008
+cyan;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 00:16:17 2008
+cyan;query_limbs_wielded
+pyro under euid pyro Sat Aug 16 00:22:09 2008
+cyan;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 00:22:33 2008
+cyan;query_limbs_wielded
+pyro under euid pyro Sat Aug 16 00:24:12 2008
+cyan;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 00:40:58 2008
+cyan;new_body
+pyro under euid pyro Sat Aug 16 00:41:36 2008
+cyan;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 01:31:02 2008
+cenn;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 01:31:28 2008
+cenn;query_limbs_wielded
+pyro under euid pyro Sat Aug 16 01:31:32 2008
+cenn;query_limbs_wielded
+pyro under euid pyro Sat Aug 16 03:35:05 2008
+pytest;set_stats;charisma;9999
+pyro under euid pyro Sat Aug 16 03:35:21 2008
+pytest;fix_vitals
+pyro under euid pyro Sat Aug 16 03:35:29 2008
+pytest;fix_vital_bonus
+pyro under euid pyro Sat Aug 16 03:35:43 2008
+pytest;set_stats;constitution;9999
+pyro under euid pyro Sat Aug 16 03:36:13 2008
+pytest;set_stats;charisma;120
+nulvect under euid nulvect Sat Aug 16 15:21:33 2008
+landara;query_aliases
+pyro under euid pyro Sat Aug 16 16:13:22 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sat Aug 16 19:25:33 2008
+yakko;query_wielding_limbs
+pyro under euid pyro Sat Aug 16 22:11:22 2008
+geddoe;query_limbs_wielded
+pyro under euid pyro Sat Aug 16 22:11:26 2008
+yakko;query_limbs_wielded
+pyro under euid pyro Sun Aug 17 00:02:37 2008
+aethion;set_blocked;newbie
+pyro under euid pyro Sun Aug 17 00:02:37 2008
+aethion;set_blocked;newbie
+nulvect under euid nulvect Sun Aug 17 00:34:28 2008
+aethion;query_line_color;"newbie"
+nulvect under euid nulvect Sun Aug 17 00:51:24 2008
+nultest;set_class;"rogue"
+nulvect under euid nulvect Sun Aug 17 00:51:32 2008
+nultest;set_subclass;"assassin"
+pyro under euid pyro Sun Aug 17 01:00:58 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:12:42 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:16:47 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:30:00 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:30:56 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:35:17 2008
+pytest;remove_paralyzed
+pyro under euid pyro Sun Aug 17 01:35:28 2008
+pytest;set
+pyro under euid pyro Sun Aug 17 01:35:36 2008
+pytest;query_class
+pyro under euid pyro Sun Aug 17 01:36:44 2008
+pytest;query_hp
+pyro under euid pyro Sun Aug 17 13:10:03 2008
+aethion;query_nicknames
+pyro under euid pyro Thu Aug 21 15:13:43 2008
+/std/user;query_ids
+pyro under euid pyro Thu Aug 21 15:13:57 2008
+/std/user/;set_name;evil
+pyro under euid pyro Thu Aug 21 15:15:09 2008
+/std/user;is_player
+pyro under euid pyro Thu Aug 21 15:15:13 2008
+/std/user;link_dead
+pyro under euid pyro Thu Aug 21 15:15:17 2008
+/std/user;is_link_dead
+pyro under euid pyro Thu Aug 21 20:25:57 2008
+pytest;set_race;"human"
+pyro under euid pyro Thu Aug 21 20:26:03 2008
+pytest;set_class;"rogue"
+pyro under euid pyro Thu Aug 21 20:26:09 2008
+pytest;set_subclass;"thief"
+pyro under euid pyro Thu Aug 21 20:32:40 2008
+pytest;query_rider
+pyro under euid pyro Thu Aug 21 20:32:44 2008
+pytest;query_riders
+pyro under euid pyro Fri Aug 22 12:31:48 2008
+cenn;query_id
+pyro under euid pyro Fri Aug 22 12:32:52 2008
+cenn;query_id
+pyro under euid pyro Sat Aug 23 02:13:34 2008
+yakko;query_hp
+pyro under euid pyro Sat Aug 23 02:13:38 2008
+yakko;query_max_hp
+pyro under euid pyro Sat Aug 23 02:43:49 2008
+yakko;query_stats;dexterity
+pyro under euid pyro Sat Aug 23 02:43:55 2008
+yakko;query_stats;dexterity
+pyro under euid pyro Sat Aug 23 18:35:37 2008
+piehl;set_disguised_name;burninator
+pyro under euid pyro Sat Aug 23 18:35:47 2008
+piehl;remove_disgised_name
+pyro under euid pyro Sat Aug 23 18:36:31 2008
+piehl;remove_disguised_name
+pyro under euid pyro Sun Aug 24 03:25:38 2008
+scaphis;query_stats;dexterity
+pyro under euid pyro Sun Aug 24 03:25:42 2008
+scaphis;set_stats;dexterity;500
+pyro under euid pyro Sun Aug 24 03:26:00 2008
+scaphis;query_stats;dexterity
+pyro under euid pyro Sun Aug 24 03:26:10 2008
+scaphis;set_stats;dexterity;18
+pyro under euid pyro Sun Aug 24 03:26:14 2008
+scaphis;query_stats;dexterity
+pyro under euid pyro Sun Aug 24 03:29:14 2008
+scaphis;force_me;pray
+pyro under euid pyro Tue Aug 26 14:57:28 2008
+freddie;query_outlaw;pk
+pyro under euid pyro Wed Aug 27 00:47:31 2008
+empyrean;query_exp
+nulvect under euid nulvect Wed Aug 27 21:37:20 2008
+pyro;query_position
+pyro under euid pyro Thu Aug 28 01:18:56 2008
+cyan;query_long
+pyro under euid pyro Thu Aug 28 14:12:52 2008
+pytest;new_body
+pyro under euid pyro Thu Aug 28 14:13:40 2008
+pytest;query_max_hp
+pyro under euid pyro Thu Aug 28 14:13:48 2008
+pytest;query_race
+pyro under euid pyro Thu Aug 28 14:14:06 2008
+pytest;query_limbs
+pyro under euid pyro Thu Aug 28 14:15:40 2008
+pytest;restart_heart
+pyro under euid pyro Thu Aug 28 14:15:48 2008
+pytest;restart_heart
+pyro under euid pyro Thu Aug 28 14:20:04 2008
+pytest;set_propery;passive
+pyro under euid pyro Thu Aug 28 14:22:20 2008
+pytest;set_property;passive
+pyro under euid pyro Thu Aug 28 14:23:06 2008
+pytest;set_stats;charisma;500
+pyro under euid pyro Thu Aug 28 14:23:26 2008
+pytest;die;here
+pyro under euid pyro Thu Aug 28 14:26:38 2008
+pytest;set_stats;charisma;500
+pyro under euid pyro Thu Aug 28 14:26:52 2008
+pytest;set_stats;constitution;500
+pyro under euid pyro Thu Aug 28 14:27:14 2008
+pytest;set_stats;strength;500
+pyro under euid pyro Thu Aug 28 14:52:42 2008
+pytest;die;fake
+pyro under euid pyro Fri Aug 29 18:18:26 2008
+yang
+nulvect under euid nulvect Sat Aug 30 16:44:28 2008
+empyrean;query_nickname
+nulvect under euid nulvect Sat Aug 30 16:44:30 2008
+empyrean;query_nicknames
+pyro under euid pyro Tue Sep  2 00:29:01 2008
+furiae;query_married
+pyro under euid pyro Tue Sep  2 00:29:09 2008
+furiae;set_married;"cyan"
+pyro under euid pyro Tue Sep  2 00:29:13 2008
+furiae;query_married
+pyro under euid pyro Tue Sep  2 00:29:23 2008
+furiae;divorce_me
+pyro under euid pyro Tue Sep  2 00:29:27 2008
+furiae;set_married;"cyan"
+pyro under euid pyro Tue Sep  2 00:29:27 2008
+furiae;query_married
+pyro under euid pyro Tue Sep  2 01:40:55 2008
+rohl
+pyro under euid pyro Tue Sep  2 01:41:07 2008
+rohl;divorce_me
+pyro under euid pyro Tue Sep  2 01:41:17 2008
+rohl;query_married
+pyro under euid pyro Tue Sep  2 02:09:45 2008
+rohl
+pyro under euid pyro Tue Sep  2 02:09:51 2008
+rohl;save_player
+pyro under euid pyro Tue Sep  2 02:42:31 2008
+tauran;query_skill;pyromancy
+pyro under euid pyro Tue Sep  2 02:42:38 2008
+tauran;query_skill;conjuring
+nulvect under euid nulvect Wed Sep  3 23:31:27 2008
+sza;query_alias
+nulvect under euid nulvect Wed Sep  3 23:31:29 2008
+sza;query_aliases
+nulvect under euid nulvect Wed Sep  3 23:31:33 2008
+sza;query_alias;"wear"
+nulvect under euid nulvect Thu Sep  4 01:50:10 2008
+nultest;set_level;50
+pyro under euid pyro Thu Sep  4 04:05:10 2008
+scaphis;query_stats;constitution
+pyro under euid pyro Thu Sep  4 04:05:46 2008
+scaphis;set_stats;constitution;80
+pyro under euid pyro Thu Sep  4 04:05:52 2008
+scaphis;force_me;report
+pyro under euid pyro Thu Sep  4 04:06:06 2008
+scaphis;set_hp;860
+pyro under euid pyro Thu Sep  4 04:21:16 2008
+scaphis;query_hp
+pyro under euid pyro Thu Sep  4 04:21:26 2008
+scaphis;set_hp;99999
+pyro under euid pyro Thu Sep  4 04:21:28 2008
+scaphis;query_hp
+pyro under euid pyro Thu Sep  4 04:39:40 2008
+scaphis;set_stats;constitution;2
+pyro under euid pyro Thu Sep  4 04:39:47 2008
+scaphis;query_stats;constitution
+pyro under euid pyro Thu Sep  4 04:40:06 2008
+scaphis;force_me;pray
+pyro under euid pyro Thu Sep  4 04:41:10 2008
+scaphis;force_me;get all from corpse
+pyro under euid pyro Thu Sep  4 23:11:40 2008
+aeval;divorce_me
+pyro under euid pyro Thu Sep  4 23:11:44 2008
+aeval;save_player
+pyro under euid pyro Fri Sep  5 17:25:47 2008
+pytest;die;me
+pyro under euid pyro Sat Sep  6 05:08:45 2008
+yakko;is_linkdead
+pyro under euid pyro Sat Sep  6 05:08:59 2008
+bellos;is_linkdead
+pyro under euid pyro Sat Sep  6 18:44:18 2008
+nultest;force_me;mount pyro
+pyro under euid pyro Sat Sep  6 18:44:28 2008
+nultest;force_me;mount pyro
+nulvect under euid nulvect Sat Sep  6 20:01:40 2008
+nultest;query_followers
+nulvect under euid nulvect Sun Sep  7 05:55:26 2008
+sik;query_sight_bonus
+pyro under euid pyro Sun Sep  7 23:15:22 2008
+yang;query_property;light
+pyro under euid pyro Sun Sep  7 23:15:26 2008
+geddoe;query_property;light
+pyro under euid pyro Sun Sep  7 23:17:02 2008
+geddoe
+pyro under euid pyro Sun Sep  7 23:18:20 2008
+geddoe;query_property_light
+pyro under euid pyro Sun Sep  7 23:18:26 2008
+geddoe;query_property;light
+pyro under euid pyro Sun Sep  7 23:18:30 2008
+yang;query_property;light
+pyro under euid pyro Sun Sep  7 23:20:12 2008
+yang;set_property;light;0
+pyro under euid pyro Sun Sep  7 23:20:22 2008
+yang;query_property;light
+pyro under euid pyro Sun Sep  7 23:20:44 2008
+yang;set_property;light;2
+pyro under euid pyro Sun Sep  7 23:20:48 2008
+yang;query_property;light
+pyro under euid pyro Sun Sep  7 23:20:52 2008
+yang;set_property;light;18
+pyro under euid pyro Sun Sep  7 23:21:02 2008
+geddoe;query_property;light
+pyro under euid pyro Sun Sep  7 23:21:08 2008
+geddoe;set_property;light;-8
+pyro under euid pyro Mon Sep  8 01:08:20 2008
+geddoe;query_skill;perception
+pyro under euid pyro Mon Sep  8 01:09:36 2008
+geddoe;force_me;search rock
+pyro under euid pyro Mon Sep  8 03:29:27 2008
+yang;query_skill;perception
+pyro under euid pyro Mon Sep  8 03:31:03 2008
+geddoe;set_paralyzed;10;stop
+pyro under euid pyro Mon Sep  8 03:31:05 2008
+yang;set_paralyzed;10;stop
+nulvect under euid nulvect Mon Sep  8 22:15:09 2008
+geddoe;query_stat_bonus;"wisdom"
+nulvect under euid nulvect Mon Sep  8 22:17:09 2008
+geddoe;query_base_stats;"dexterity"
+nulvect under euid nulvect Mon Sep  8 22:17:19 2008
+geddoe;query_stat_bonus;"dexterity"
+nulvect under euid nulvect Mon Sep  8 22:18:03 2008
+geddoe;set_stats;"wisdom";71
+nulvect under euid nulvect Mon Sep  8 22:18:19 2008
+geddoe;set_stats;"dexterity";27
+nulvect under euid nulvect Tue Sep  9 02:39:48 2008
+tauran;query_stat_bonus;"dexterity"
+nulvect under euid nulvect Tue Sep  9 02:40:10 2008
+tauran;query_base_stats;"dexterity"
+nulvect under euid nulvect Tue Sep  9 02:42:57 2008
+tauran;query_stat_bonus;"wisdom"
+nulvect under euid nulvect Tue Sep  9 02:43:03 2008
+tauran;query_base_stats;"wisdom"
+nulvect under euid nulvect Tue Sep  9 02:43:19 2008
+tauran;set_stats;"wisdom";53
+nulvect under euid nulvect Tue Sep  9 02:43:31 2008
+tauran;set_stats;"dexterity";23
+nulvect under euid nulvect Tue Sep  9 18:20:16 2008
+uzamaki;query_stat_bonus;"wisdom"
+nulvect under euid nulvect Tue Sep  9 18:20:22 2008
+uzamaki;query_base_stats;"wisdom"
+nulvect under euid nulvect Tue Sep  9 18:20:46 2008
+uzamaki;set_stats;"wisdom";178
+pyro under euid pyro Wed Sep 10 00:55:27 2008
+geddoe;query_long
+nulvect under euid nulvect Thu Sep 11 00:34:12 2008
+smite;query_currencies
+nulvect under euid nulvect Thu Sep 11 00:34:16 2008
+smite;query_money;"gold"
+nulvect under euid nulvect Thu Sep 11 01:05:03 2008
+draven;update_channels
+pyro under euid pyro Thu Sep 11 02:46:32 2008
+tauran;getenv;TZONE
+pyro under euid pyro Thu Sep 11 02:46:48 2008
+tauran;getenv;TZONE
+pyro under euid pyro Thu Sep 11 02:47:38 2008
+tauran;getenv;TZONE
+pyro under euid pyro Fri Sep 12 22:59:00 2008
+aethion;query_busy
+pyro under euid pyro Fri Sep 12 22:59:04 2008
+aethion;query_busy
+pyro under euid pyro Fri Sep 12 22:59:06 2008
+aethion;query_busy
+pyro under euid pyro Mon Sep 15 17:11:29 2008
+yang;query_skill;riding
+pyro under euid pyro Mon Sep 15 17:11:37 2008
+yang;query_skill;charging
+pyro under euid pyro Mon Sep 15 17:12:46 2008
+yang;query_skill;charging
+pyro under euid pyro Mon Sep 15 17:12:50 2008
+yang;query_skill;riding
+pyro under euid pyro Tue Sep 16 13:04:34 2008
+cenn
+nulvect under euid nulvect Wed Sep 17 11:03:32 2008
+uzamaki;query_base_stats;"wisdom"
+nulvect under euid nulvect Wed Sep 17 11:03:38 2008
+uzamaki;query_stat_bonus;"wisdom"
+stormbringer under euid stormbringer Sun Sep 21 02:16:28 2008
+sugarcandy;force_me;alias
+nulvect under euid nulvect Sun Sep 21 23:35:53 2008
+rohl;query_marriage
+nulvect under euid nulvect Sun Sep 21 23:35:53 2008
+rohl;query_marriages
+nulvect under euid nulvect Sun Sep 21 23:35:55 2008
+rohl;query_married
+nulvect under euid nulvect Sun Sep 21 23:36:21 2008
+rohl;query_marriages
+nulvect under euid nulvect Sun Sep 21 23:37:11 2008
+rohl;query_current_marriage
+nulvect under euid nulvect Thu Sep 25 18:28:25 2008
+pyro;query_position
+nulvect under euid nulvect Sat Sep 27 21:02:45 2008
+peitho;query_race
+nulvect under euid nulvect Sat Sep 27 21:04:19 2008
+peitho;query_subclass
+nulvect under euid nulvect Tue Sep 30 23:15:04 2008
+sugarcandy;divorce_me
+nulvect under euid nulvect Sat Oct  4 19:12:02 2008
+freddie;query_stat_bonus;"dexterity"
+pyro under euid pyro Tue Oct  7 15:56:37 2008
+cyan;query_wielding_limbs
+nulvect under euid nulvect Tue Oct 14 21:25:58 2008
+terek;set_base_stats;(["strength":58, "constitution":55, "dexterity":34, "charisma":21, "intelligence":2, "wisdom":1])
+nulvect under euid nulvect Wed Oct 15 20:16:13 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:16:23 2008
+nultest;query_crippled
+nulvect under euid nulvect Wed Oct 15 20:16:27 2008
+nultest;query_crippled;"head"
+nulvect under euid nulvect Wed Oct 15 20:16:37 2008
+nultest;query_blind
+nulvect under euid nulvect Wed Oct 15 20:16:41 2008
+nultest;set_blind;1
+nulvect under euid nulvect Wed Oct 15 20:16:49 2008
+nultest;set_blind;0
+nulvect under euid nulvect Wed Oct 15 20:20:35 2008
+nultest;query_blind
+nulvect under euid nulvect Wed Oct 15 20:20:53 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 20:21:35 2008
+nultest;add_bleeding;100
+nulvect under euid nulvect Wed Oct 15 20:22:01 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:19 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:21 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:23 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:29 2008
+nultest;remove_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:37 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:22:45 2008
+nultest;add_bleeding;-3
+nulvect under euid nulvect Wed Oct 15 20:22:49 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:29:51 2008
+nultest;query_blind
+nulvect under euid nulvect Wed Oct 15 20:29:53 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:29:57 2008
+nultest;query_effects
+nulvect under euid nulvect Wed Oct 15 20:30:03 2008
+nultest;query_all_effects;"bleeding"
+nulvect under euid nulvect Wed Oct 15 20:30:41 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 20:30:53 2008
+nultest;query_all_effects
+nulvect under euid nulvect Wed Oct 15 20:31:01 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 20:31:01 2008
+nultest;query_all_effects
+nulvect under euid nulvect Wed Oct 15 20:31:21 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 20:31:21 2008
+nultest;query_effects
+nulvect under euid nulvect Wed Oct 15 20:32:29 2008
+nultest;set_bleeding;50
+nulvect under euid nulvect Wed Oct 15 20:32:29 2008
+nultest;query_effects
+nulvect under euid nulvect Wed Oct 15 20:32:43 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:43 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:43 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:45 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:45 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:45 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:45 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:49 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:53 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:32:57 2008
+nultest;set_bleeding;0
+nulvect under euid nulvect Wed Oct 15 20:33:03 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:33:07 2008
+nultest;remove_bleeding
+nulvect under euid nulvect Wed Oct 15 20:33:13 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:33:19 2008
+nultest;remove_effect;"bleeding"
+nulvect under euid nulvect Wed Oct 15 20:33:21 2008
+nultest;query_bleeding
+nulvect under euid nulvect Wed Oct 15 20:37:44 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 20:39:18 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Wed Oct 15 20:39:53 2008
+nultest;remove_effect;"bleeding"
+nulvect under euid nulvect Wed Oct 15 21:15:26 2008
+nultest;add_bleeding;200
+nulvect under euid nulvect Wed Oct 15 21:15:34 2008
+nultest;remove_bleeding
+nulvect under euid nulvect Wed Oct 15 21:15:38 2008
+nultest;remove_bleeding
+nulvect under euid nulvect Wed Oct 15 21:15:46 2008
+nultest;remove_all_effects;"bleeding"
+nulvect under euid nulvect Wed Oct 15 21:15:48 2008
+nultest;remove_all_effects;"bleeding"
+nulvect under euid nulvect Wed Oct 15 21:15:54 2008
+nultest;remove_effect;"bleeding"
+nulvect under euid nulvect Wed Oct 15 21:50:20 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 21:55:57 2008
+nultest;set_blind;10
+nulvect under euid nulvect Wed Oct 15 21:56:11 2008
+nultest;query_all_effects
+nulvect under euid nulvect Wed Oct 15 21:58:11 2008
+nultest;set_blind;15
+nulvect under euid nulvect Wed Oct 15 21:58:15 2008
+nultest;remove_all_effects;"blind"
+nulvect under euid nulvect Wed Oct 15 21:58:27 2008
+nultest;query_effects
+nulvect under euid nulvect Wed Oct 15 23:38:49 2008
+nultest;set_blind;30
+nulvect under euid nulvect Wed Oct 15 23:38:57 2008
+nultest;set_stupor;20
+nulvect under euid nulvect Wed Oct 15 23:38:57 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:39:05 2008
+nultest;set_bleeding;150
+nulvect under euid nulvect Wed Oct 15 23:39:07 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:39:45 2008
+nultest;remove_effects;"bleeding"
+nulvect under euid nulvect Wed Oct 15 23:39:45 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:39:49 2008
+nultest;remove_effect;"bleeding"
+nulvect under euid nulvect Wed Oct 15 23:39:51 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:43:27 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:46:55 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Wed Oct 15 23:47:01 2008
+nultest;query_all_effects
+nulvect under euid nulvect Wed Oct 15 23:47:19 2008
+nultest;query_all_effect_descs
+nulvect under euid nulvect Wed Oct 15 23:47:59 2008
+nultest;query_effect;"blind"
+nulvect under euid nulvect Wed Oct 15 23:48:03 2008
+nultest;query_effect;"stupor"
+nulvect under euid nulvect Wed Oct 15 23:56:13 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 16:01:34 2008
+nultest;set_blind;5
+nulvect under euid nulvect Thu Oct 16 16:09:22 2008
+nultest;set_blind;5
+nulvect under euid nulvect Thu Oct 16 16:14:03 2008
+nultest;set_blind;5
+nulvect under euid nulvect Thu Oct 16 16:14:23 2008
+nultest;set_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:25:45 2008
+nultest;set_bleeding;100
+nulvect under euid nulvect Thu Oct 16 16:27:31 2008
+nultest;set_poisoned;20
+nulvect under euid nulvect Thu Oct 16 16:28:13 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 16:28:15 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 16:28:17 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 16:32:13 2008
+nultest;set_bleeding;300
+nulvect under euid nulvect Thu Oct 16 16:37:55 2008
+nultest;add_bleeding;100
+nulvect under euid nulvect Thu Oct 16 16:44:57 2008
+nultest;add_bleeding;20
+nulvect under euid nulvect Thu Oct 16 16:44:57 2008
+nultest;add_bleeding;20
+nulvect under euid nulvect Thu Oct 16 16:44:57 2008
+nultest;add_bleeding;20
+nulvect under euid nulvect Thu Oct 16 16:44:57 2008
+nultest;add_bleeding;20
+nulvect under euid nulvect Thu Oct 16 16:46:01 2008
+nultest;add_bleeding;20
+nulvect under euid nulvect Thu Oct 16 16:55:11 2008
+nultest;set_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:55:29 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:55:31 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:55:31 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:56:47 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:57:31 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:57:31 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:57:31 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 16:57:33 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:02:59 2008
+nultest;add_poisoned;15
+nulvect under euid nulvect Thu Oct 16 17:02:59 2008
+nultest;add_poisoned;15
+nulvect under euid nulvect Thu Oct 16 17:02:59 2008
+nultest;add_poisoned;15
+nulvect under euid nulvect Thu Oct 16 17:03:01 2008
+nultest;add_poisoned;15
+nulvect under euid nulvect Thu Oct 16 17:03:23 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:25 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:27 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:29 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:29 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:29 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:03:31 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:04:03 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:04:33 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:05:01 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:05:03 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:05:07 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:05:19 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:05:25 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:07:29 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:07:39 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:27:21 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:27:29 2008
+nultest;query_poison
+nulvect under euid nulvect Thu Oct 16 17:27:29 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:27:35 2008
+nultest;add_poison;-5
+nulvect under euid nulvect Thu Oct 16 17:27:37 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:27:39 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:27:41 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:27:43 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:27:45 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:27:47 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:27:47 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:27:49 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:27:51 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:27:53 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:27:59 2008
+nultest;add_poisoned;-5
+nulvect under euid nulvect Thu Oct 16 17:28:03 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:28:07 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:30:29 2008
+nultest;query_all_effects
+nulvect under euid nulvect Thu Oct 16 17:30:40 2008
+nultest;add_poisoned;5
+nulvect under euid nulvect Thu Oct 16 17:30:40 2008
+nultest;add_poisoned;5
+nulvect under euid nulvect Thu Oct 16 17:30:40 2008
+nultest;add_poisoned;5
+nulvect under euid nulvect Thu Oct 16 17:30:44 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:33:40 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:33:41 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 17:35:33 2008
+nultest;add_bleeding;40
+nulvect under euid nulvect Thu Oct 16 17:35:33 2008
+nultest;add_bleeding;40
+nulvect under euid nulvect Thu Oct 16 17:35:35 2008
+nultest;add_bleeding;40
+nulvect under euid nulvect Thu Oct 16 17:38:13 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:38:26 2008
+nultest;remove_all_effects;"poison"
+nulvect under euid nulvect Thu Oct 16 17:38:29 2008
+nultest;remove_effects;"poison"
+nulvect under euid nulvect Thu Oct 16 17:41:27 2008
+nultest;set_blind;15
+nulvect under euid nulvect Thu Oct 16 17:41:29 2008
+nultest;set_stupor;20
+nulvect under euid nulvect Thu Oct 16 17:41:35 2008
+nultest;set_crippled;"left arm";10
+nulvect under euid nulvect Thu Oct 16 17:41:38 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:39 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:41 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:46 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:48 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:49 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:49 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:51 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 17:41:54 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 18:02:31 2008
+nultest;query_all_effect_names
+nulvect under euid nulvect Thu Oct 16 18:02:41 2008
+nultest;query_bleeding
+nulvect under euid nulvect Thu Oct 16 18:02:43 2008
+nultest;query_poisoned
+nulvect under euid nulvect Thu Oct 16 18:02:51 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 18:03:09 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 18:18:19 2008
+nultest;add_poisoned;100
+nulvect under euid nulvect Thu Oct 16 18:18:49 2008
+nultest;remove_poisoned
+nulvect under euid nulvect Thu Oct 16 18:44:05 2008
+nultest;add_poisoned;35
+nulvect under euid nulvect Thu Oct 16 18:44:07 2008
+nultest;add_bleeding;50
+nulvect under euid nulvect Thu Oct 16 18:46:01 2008
+nultest;remove_poisoned
+nulvect under euid nulvect Thu Oct 16 18:46:53 2008
+nultest;add_poisoned;50
+nulvect under euid nulvect Thu Oct 16 18:53:29 2008
+nultest;add_poisoned;10
+nulvect under euid nulvect Thu Oct 16 19:01:54 2008
+nultest;add_poisoned;15

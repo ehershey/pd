@@ -1,0 +1,30 @@
+Bug reported by Ripskin:
+/d/keys/sand/beach: the ocean daemon... I was at 4,-4 and went a few north...
+then i was at 34,26.
+Bug reported by Nightshade:
+/d/keys/sorn/pool3: you can flameclaw non-livings
+Bug reported by Wraith:
+/d/keys/dou/beachs: crabs on the merk keys arent set_ids as crab or monster
+Typo reported by Wraith:
+/d/keys/sorn/beach: at the location -16,-10   The small pond on this island is
+fresh water, and can be drinken. You can't   drinken isnt a word
+Bug reported by Wraith:
+/d/keys/sorn/pool1: the new mobs on the islands need to have "monster" in their
+set_ids
+Bug reported by Pyro:
+/d/keys/sand/sand7: ok, lets see...  a queen crab (dying)  > 2 You summon
+claws of flame to smite your opponent The fire of your claws burns Crab
+badly. > You strike Crab in the torso with your front left claw. Crab dodges
+your inept attack. You feel more experienced for the kill. (32,000) Crab
+drops dead before you. Crab removes her crown. 2 Syntax: <flameclaw [living]>
+> bc You eat the remains of your prey.  You get a red crown from the corpse. 
+and then i got the error message, i have no idea what its about 
+Bug reported by Pyro:
+/d/keys/sand/sand7: %$^$^ another bug!   > l crown The red crown of the
+crabs, once belonging to the Queen of the crabs. The crown has pearls and
+sparkling rubys around it.  > wear all You wear a sapphire ring. You wear a
+sapphire ring. You wear a sapphire ring. You wear a sapphire ring. You wear a
+sapphire ring. You wear a sapphire ring. The pack is to small for you!  and
+then i got another error message 
+Bug reported by Nightshade:
+/d/keys/til/beach#147070: need a help file for euphony

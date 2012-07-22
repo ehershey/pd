@@ -1,0 +1,258 @@
+/wizards/drackmire/ralgoth/square.c line 12: Reserved type name unexpected. before ;
+/wizards/drackmire/ralgoth/square.c line 12: parse error before ;
+/wizards/drackmire/ralgoth/square.c line 36: Illegal LHS before the end of line
+/wizards/drackmire/ralgoth/square.c line 37: Undefined variable 'ob' before set_name("board");
+/wizards/drackmire/ralgoth/square.c line 46: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 6: Cannot #include ralgoth.h before inherit ROOM;
+/wizards/drackmire/ralgoth/square.c line 14: Reserved type name unexpected. before ;
+/wizards/drackmire/ralgoth/square.c line 14: parse error before ;
+/wizards/drackmire/ralgoth/square.c line 38: Illegal LHS before the end of line
+/wizards/drackmire/ralgoth/square.c line 39: Undefined variable 'ob' before set_name("board");
+/wizards/drackmire/ralgoth/square.c line 44: Undefined variable 'ROOMS' before );
+/wizards/drackmire/ralgoth/square.c line 6: Cannot #include ralgoth.h before inherit ROOM;
+/wizards/drackmire/ralgoth/square.c line 14: Reserved type name unexpected. before ;
+/wizards/drackmire/ralgoth/square.c line 14: parse error before ;
+/wizards/drackmire/ralgoth/square.c line 38: Illegal LHS before the end of line
+/wizards/drackmire/ralgoth/square.c line 39: Undefined variable 'ob' before set_name("board");
+/wizards/drackmire/ralgoth/square.c line 44: Undefined variable 'ROOMS' before );
+/wizards/drackmire/ralgoth/square.c line 6: Cannot #include ralgoth.h before the end of line
+/wizards/drackmire/ralgoth/square.c line 36: Undefined variable 'RALROOMS' before ,
+/wizards/drackmire/ralgoth/square.c line 36: parse error before ,
+/wizards/drackmire/ralgoth/square.c line 40: Illegal LHS before the end of line
+/wizards/drackmire/ralgoth/square.c line 40: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 46: Undefined variable 'ROOMS' before );
+/wizards/drackmire/ralgoth/square.c line 46: parse error before );
+/wizards/drackmire/ralgoth/square.c line 50: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 76: Undefined variable 'SQUARE_LOC' before ;
+/wizards/drackmire/ralgoth/square.c line 50: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 51: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 58: Macro expansion buffer overflow before  "obj/misc/" "obj/mi
+/wizards/drackmire/ralgoth/square.c line 58: parse error before (RALMISC "fountain")
+/wizards/drackmire/ralgoth/square.c line 58: Macro expansion buffer overflow before  "obj/misc/" "obj/mi
+/wizards/drackmire/ralgoth/square.c line 51: parse error before the end of line
+/wizards/drackmire/ralgoth/square.c line 58: Macro expansion buffer overflow before  "obj/misc/" "obj/mi
+/wizards/drackmire/ralgoth/square.c line 58: Macro expansion buffer overflow before  "obj/misc/" "obj/mi
+/wizards/drackmire/ralgoth/square.c line 58: parse error before  "obj/misc/" "obj/mi
+/wizards/drackmire/ralgoth/eralg_1.c line 2: Cannot #include ralgoth.h before inherit ROOM;
+/wizards/drackmire/ralgoth/eralg_1.c line 18: Undefined variable 'RALROOMS' before ,
+/wizards/drackmire/ralgoth/eralg_1.c line 18: parse error before ,
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 11: parse error before (10);
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 2: Cannot #include ralgoth.h before inherit MONSTER;
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 18: parse error before ");
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 26: End of file in string at the end of the file
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 18: parse error before ");
+/wizards/drackmire/ralgoth/obj/mon/cleaner.c line 26: End of file in string at the end of the file
+/wizards/drackmire/ralgoth/obj/weapon/broom.c line 11: parse error before (10);
+/wizards/drackmire/ralgoth/obj/weapon/broom.c line 15: Undefined function set_moving before ; 
+/wizards/drackmire/ralgoth/obj/weapon/broom.c line 16: Undefined function set_speed before ;
+/wizards/drackmire/ralgoth/eralg_2.c line 43: Undefined variable 'BALMON' before );
+/wizards/drackmire/ralgoth/eralg_2.c line 43: parse error before );
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 30: Reserved type name unexpected. before ,ob;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 30: parse error before ,ob;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: Undefined variable 'ob' before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 35: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 30: Reserved type name unexpected. before ,obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 30: parse error before ,obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: Undefined variable 'obbo' before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 35: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 25: Undefined function transform before  :));
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 25: parse error before ));
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 33: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 29: No such inherited function living::heart_beat before ;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 34: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 37: Undefined variable 'meob' before  this_object();
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 37: Illegal lvalue before  this_object();
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 38: Undefined variable 'obbo' before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 38: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 37: No such inherited function ::do_combat before ;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 39: Reserved type name unexpected. before , obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 39: parse error before , obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 42: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 43: Undefined variable 'obbo' before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 43: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: Reserved type name unexpected. before , obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 32: parse error before , obbo;
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 35: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 60: parse error before the end of line
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function tostr before )->move(find_player(
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function to_str before )->move(find_player(
+/wizards/drackmire/unalom/beach.c line 6: parse error before  create() {
+/wizards/drackmire/unalom/beach.c line 6: parse error before  create() {
+/wizards/drackmire/unalom/path2.c line 19: parse error before " ]) );
+/wizards/drackmire/unalom/path2.c line 26: End of file in string at the end of the file
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function gobble before ; }
+/wizards/drackmire/unalom/path3.c line 20: parse error before  UNAROOM"path2"]) );
+/wizards/drackmire/unalom/cliffledge.c line 16: Undefined variable 'ROOMS' before ,
+/wizards/drackmire/unalom/cliffledge.c line 16: parse error before ,
+/wizards/drackmire/unalom/cliffledge.c line 28: parse error before  "The bushes just no
+/wizards/drackmire/unalom/cliffledge.c line 28: parse error before  "The bushes just no
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function do_damage before ; }
+/wizards/drackmire/unalom/obj/mob/miner1.c line 2: Cannot #include unalom.h before inherit MONSTER;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 8: Reserved type name unexpected. before ;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 8: parse error before ;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 27: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/miner1.c line 28: Undefined variable 'key' before set_name("key");
+/wizards/drackmire/unalom/obj/mob/miner1.c line 36: Undefined variable 'UNAWEP' before )->move(this_object(
+/wizards/drackmire/unalom/obj/mob/miner1.c line 8: Reserved type name unexpected. before ;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 8: parse error before ;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 27: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/miner1.c line 28: Undefined variable 'key' before set_name("key");
+/wizards/drackmire/unalom/obj/mob/miner1.c line 36: Undefined variable 'UNAWEP' before )->move(this_object(
+/wizards/drackmire/unalom/obj/mob/miner1.c line 36: parse error before )->move(this_object(
+/wizards/drackmire/unalom/obj/mob/miner1.c line 16: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/miner1.c line 28: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/miner1.c line 28: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/miner1.c line 25: Wrong number of arguments to set_says
+    Expected: 3  Got: 2 before ;
+/wizards/drackmire/unalom/obj/mob/miner1.c line 25: Wrong number of arguments to set_says
+    Expected: 3  Got: 2 before ;
+/wizards/drackmire/unalom/obj/mob/lessershadow2.c line 31: Undefined variable 'this_player' before  0;
+/wizards/drackmire/unalom/obj/mob/lessershadow2.c line 31: parse error before  0;
+/wizards/drackmire/unalom/obj/mob/lessershadow2.c line 40: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow2.c line 40: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow2.c line 29: No such inherited function ::is_invincible before ;
+/wizards/drackmire/unalom/obj/mob/minorshadow.c line 28: No such inherited function ::is_invincible before ;
+/wizards/drackmire/unalom/obj/weapon/dwbaxe.c line 13: parse error before ", 100);
+/wizards/drackmire/unalom/obj/weapon/dwbaxe.c line 20: End of file in string at the end of the file
+/wizards/drackmire/unalom/obj/weapon/shstaff.c line 31: parse error before !%^RESET%^", atk);
+/wizards/drackmire/unalom/obj/weapon/shstaff.c line 41: End of file in string at the end of the file
+/wizards/drackmire/unalom/obj/weapon/shstaff.c line 39: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 39: Undefined variable 'this_objec' before ()->query_attackers(
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 39: parse error before ()->query_attackers(
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 50: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/mob/lessershadow.c line 50: parse error before the end of line
+/wizards/drackmire/unalom/obj/mob/fsquirrel2.c line 33: parse error before the end of line
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/drackmire/du
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 3762); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/drackmire/du
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_object before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/drackmire/du
+/wizards/drackmire/unalom/obj/armor/amubal.c line 27: Undefined variable 'set_wear' before :);
+/wizards/drackmire/unalom/obj/armor/amubal.c line 27: parse error before :);
+/wizards/drackmire/unalom/obj/armor/amubal.c line 39: parse error before the end of line
+/wizards/drackmire/unalom/obj/armor/amubal.c line 47: No such inherited function ::heart_beat before ;
+/wizards/drackmire/unalom/obj/armor/amubal.c line 48: Reserved type name unexpected. before , them;
+/wizards/drackmire/unalom/obj/armor/amubal.c line 48: parse error before , them;
+/wizards/drackmire/unalom/obj/armor/amubal.c line 49: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/armor/amubal.c line 50: Undefined variable 'them' before  this_object()->quer
+/wizards/drackmire/unalom/obj/armor/amubal.c line 50: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/armor/amubal.c line 48: Reserved type name unexpected. before , them;
+/wizards/drackmire/unalom/obj/armor/amubal.c line 48: parse error before , them;
+/wizards/drackmire/unalom/obj/armor/amubal.c line 49: Illegal LHS before the end of line
+/wizards/drackmire/unalom/obj/armor/amubal.c line 51: Undefined variable 'them' before  this_object()->quer
+/wizards/drackmire/unalom/obj/armor/amubal.c line 51: Illegal lvalue before  this_object()->quer
+/wizards/drackmire/unalom/obj/armor/amubal.c line 52: Undefined variable 'me' before add_mp(me->query_lev
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before ob; ob = users(); fo
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ob; ob = users(); fo
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  for (int i=0; i<siz
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ob' before ; i++) { message("to
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ("to daos", ob[i]->q
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (!find_player("drack
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  return 0;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  return 0; }
+/wizards/drackmire/unalom/path7.c line 16: parse error before ", "All that can be 
+/wizards/drackmire/unalom/path7.c line 32: End of file in string at the end of the file
+/wizards/drackmire/unalom/path7.c line 20: parse error before  "eforest1",
+/wizards/drackmire/cmds/_commands.c line 28: Undefined variable 'tmp' before  dir+file;
+/wizards/drackmire/cmds/_commands.c line 28: Illegal lvalue before  dir+file;
+/wizards/drackmire/cmds/_commands.c line 30: Bad assignment ( string * vs string ). before the end of line
+/wizards/drackmire/cmds/_donothing.c line 2: Cannot #include daemon.h before inherit DAEMON;
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/daos/newbie/
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 7697); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/daos/newbie/
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_object before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_object before ;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'OBJ' before ); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function OBJ before ); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before  ="/wizards/daos/new
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  ="/wizards/daos/new
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( object vs string ) when initializing ob before (ob); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (ob); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to call_other before  destruct(ob); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (ob); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/daos/newbie/
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 7697) destruct(ob); 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/daos/newbie/
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 7697) destruct(ob); 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before wizards/daos/newbie/
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 7697) destruct(ob); 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( object vs string ) when initializing ob before  destruct(ob); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ; return array[0];; 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemons.h> 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemon.h> L
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemons.h> 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before #include <daemons.h>
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemons.h> 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemons.h> 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  ((int)tp->query_pro
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  (tp->query_property
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  (tp->query_property
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (tp->query_property(
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (find_player("geddoe
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (find_player("geddoe
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before time())/3600; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before time()))/3600; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function remove_mapping before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined function ok_to_kill before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include <daemons.h> 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include "/include/da
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include "/include/da
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include "/include/da
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before include "/include/da
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'include' before ; LAN_D->add_ip(128.
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ; LAN_D->add_ip(128.
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before 9.8);; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before 9.8);; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'false' before  false || true; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'true' before  }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Bad argument 2 to efun member_array() before ; }
+/wizards/drackmire/unalom/obj/armor/ringoffree.c line 61: parse error before the end of line
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'char' before  = str[1]; return ch
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  = str[1]; return ch
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  return cha;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'cha' before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'char' before  = 'f'; return cat;;
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  = 'f'; return cat;;
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  return cat;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'cat' before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to message before ;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: == always false because of incompatible types ( int vs string ). before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before int foo = 'goo';  re
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before oo';  return foo[2];
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ';  return foo[2];; 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before   return foo[2];; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before oo';  return foo[1];
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ';  return foo[1];; 
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before   return foo[1];; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( int * vs string ) when initializing foo before   return foo[1];; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ] = ({ 1,2,3 });; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before 3] = ({ 1,2,3 });; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before  i++; } return i;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before foo = ({ ({1, 2, 3})
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ("woo"); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before ("woo");; }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (0); }
+/wizards/drackmire/CMD_EVAL_TMP_FILE.c line 5: parse error before (1==0); }

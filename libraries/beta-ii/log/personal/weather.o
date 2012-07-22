@@ -1,0 +1,7 @@
+#/wizards/whit/weather.c
+props (["no scry":1,"no teleport":1,"night light":2,"light":2,])
+true_name "Storm Room"
+creator "/cmds/system/_update"
+destinations (["out":"/wizards/whit/workroom",])
+rooms ({"/wizards/whit/workroom",})
+messages ({"%^CYAN%^Rain poors down over the land.","%^CYAN%^Blood curdles at the sound of the distant rumbling.","%^YELLOW%^A sudden BOOM of lightning streches across the scy",})

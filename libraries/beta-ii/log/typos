@@ -1,0 +1,664 @@
+Typo reported by Fabio Thu Sep  2 16:53:27 2004:
+/d/nopk/tirun/wanderer_hall: in wanderer hall, "once and a while" -> "once in a
+while"
+Typo reported by Yakko Mon Sep  6 14:45:29 2004:
+/d/freepk/rhondale/rooms/zforest/sunstone: < .nuS eth sa ti ekame ot ratla
+eht no ti ecalP - .eno lacirehps tcefrep eht rof senots eht hcraeS >  Search
+the stones for the perfect one. -  place it on the altar to emake it as hte
+sun. 
+Typo reported by Nulvect Fri Sep 10 17:51:12 2004:
+/d/durst/room/muabark021: the giant lizard here, long desc "...scales covering
+it's body" should be its body
+Typo reported by Kaster Mon Sep 13 00:00:03 2004:
+/d/nopk/tirun/square: on the weapon the hammer of bogarden, in the drscrip steal
+is supposed to be steel
+Typo reported by Mortis Sun Sep 26 16:13:05 2004:
+/d/roston/rooms/roston51: -are are-
+Typo reported by Necrite Wed Sep 29 09:40:05 2004:
+/d/lodos/etower11: the room 4 north,e,u,n,e,s,w,u,n,e,s,w of lodos [] has a
+typo. " stairway ends here, comming to a stop" 
+Typo reported by Necrite Wed Sep 29 09:59:05 2004:
+/d/nopk/tirun/egate: Gate of dawn, all east of tirun [], A set of gates
+"hung" on the wall can be closed to protect the city. 
+Typo reported by Mortis Sat Oct 16 02:02:34 2004:
+/d/freepk/rhondale/rooms/zforest/sunstone: writing at base - ekame ->  ekam
+Typo reported by Mortis Sun Oct 17 13:03:07 2004:
+/d/freepk/merkkerri/jungle/gcity/gcity22: no sign at room desc
+Typo reported by Dovorn Thu Oct 28 02:12:15 2004:
+/d/nopk/tirun/square: gate spell says "closes his eyes" for females as well as
+males
+Typo reported by Mortis Thu Oct 28 02:55:56 2004:
+/d/freepk/rhondale/rooms/zforest/x14y7: skull ring cyrstal=crystal
+Typo reported by Nulvect Sun Oct 31 01:28:31 2004:
+/d/nopk/tirun/square: tamed animals say "it's owner" in their long desc, should
+be "its owner"
+Typo reported by Xille Thu Nov 11 02:48:50 2004:
+/d/nopk/tirun/wand/bard/bard_hall: bard hall long desc says instuments instead
+of instruments
+Typo reported by Nulvect Sun Nov 14 03:27:50 2004:
+/d/freepk/rhondale/mobs/zforest/snake#134193: snake the snake here "flicks it's
+tongue", should be "flicks its tongue"
+Typo reported by Kilir Sat Nov 20 18:14:27 2004:
+/d/shadow/rooms/palace18: in the holy helm eq from the holy priest in roston,
+it says made by a greatgod. 
+Typo reported by Cortoth Tue Nov 23 19:51:15 2004:
+/d/citrin/rooms/46: accross should be across
+Typo reported by Tensheapz Wed Nov 24 18:57:30 2004:
+/d/sewers/rooms/2lv17: second level of sewers, entrance room stifiling should
+be spelt stifling 
+Typo reported by Nyx Fri Dec  3 18:34:28 2004:
+/d/nopk/tirun/square: FAQ#11 "raise" in the answer for #11 should be "raised".
+Typo reported by Nyx Fri Dec  3 19:16:55 2004:
+/d/nopk/tirun/rogue/thug/thug_join: thug_preview thugs are the losest of the
+low." Thugs, lowest.
+Typo reported by Nyx Fri Dec  3 20:27:06 2004:
+/d/nopk/tirun/hhouse/1: endtables "Small toppled entables lay askew..."
+Typo reported by Nyx Fri Dec  3 22:18:47 2004:
+/d/nopk/tirun/restaraunt: waitress_code  "Waitress says: [insert something about
+what she sells]." No return after that default message.
+Typo reported by Guile Sat Dec  4 11:55:54 2004:
+/d/nopk/tirun/weapon: scorpion tail short desc says "This talk is what the
+scorpion uses..."
+Typo reported by Nulvect Wed Dec  8 21:46:29 2004:
+/d/nopk/tirun/square: golden bauble from tenebrae needs a color reset at the end
+of its short desc, the yellow bleeds off
+Typo reported by Axenos Wed Dec 15 21:41:20 2004:
+/d/nopk/tirun/armour: golden robes read slik instead of silk.
+Typo reported by Cortoth Wed Dec 15 22:03:12 2004:
+/d/nopk/tirun/armour: should the Shruken Heads be Shru_n_ken Heads?
+Typo reported by Boco Mon Dec 20 01:05:06 2004:
+/d/tirunmts/rooms/tirunmts_145: vear instead of veer
+Typo reported by Boco Mon Dec 20 01:06:46 2004:
+/d/tirunmts/rooms/tirunmts_128: should be plateau instead of plateu
+Typo reported by Boco Mon Dec 20 01:08:32 2004:
+/d/tirunmts/rooms/tirunmts_109: also plateau instead of plateu
+Typo reported by Boco Mon Dec 20 01:13:56 2004:
+/d/tirunmts/rooms/tirunmts_198: plateau instead of plateu
+Typo reported by Boco Mon Dec 20 01:16:44 2004:
+/d/tirunmts/rooms/tirunmts_198: I believe it is occurred, not occured.
+Typo reported by Boco Mon Dec 20 01:17:38 2004:
+/d/tirunmts/rooms/tirunmts_174: should be sparse instead of sparce
+Typo reported by Boco Mon Dec 20 01:18:48 2004:
+/d/tirunmts/rooms/tirunmts_174: substantially instead of substancially and
+occurred instead of occured
+Typo reported by Nesoo Sun Dec 26 09:43:03 2004:
+/d/sewers/rooms/2lv5: The It's in the long for the ancient wyrm should be Its
+Typo reported by Skunk Tue Jan 11 21:48:40 2005:
+/d/roston/rooms/supply: golden robes are made of slik not silk
+Typo reported by Caliphys Wed Jan 12 22:52:44 2005:
+/d/citrin/rooms/den/16: carcus The one here is spelled "corcus", not "carcus"
+Typo reported by Caliphys Wed Jan 12 23:20:38 2005:
+/d/citrin/rooms/58: in the long desc, "left" should be west.
+Typo reported by Caliphys Wed Jan 12 23:39:02 2005:
+/d/nopk/arlon/room/house1: No period after "wood" in door_desc.
+Typo reported by Caliphys Wed Jan 12 23:39:22 2005:
+/d/nopk/arlon/room/house1: Two spaces after one sentance in long room desc. 
+They should all be the same.
+Typo reported by Guile Wed Jan 12 23:46:42 2005:
+/d/citrin/rooms/29: Inscription reads may find there way, should be may find
+their way.
+Typo reported by Guile Wed Jan 12 23:47:30 2005:
+/d/citrin/rooms/29: And glimpse is misspelled when you <face moon>
+Typo reported by Nesoo Thu Jan 13 18:57:24 2005:
+/d/nopk/tirun/sandcastle/room/sandcastle8: "kinda" to "kind of"
+Typo reported by Nesoo Thu Jan 13 19:02:32 2005:
+/d/nopk/tirun/sandcastle/room/sandcastle2: "look pile" The first sentence needs
+to be fixed.
+Typo reported by Nesoo Thu Jan 13 19:07:52 2005:
+/d/nopk/tirun/sandcastle/room/sandcastle4: "look walls" "what sort of create
+would do this", I assume "create" s/b "creature"
+Typo reported by Nesoo Thu Jan 13 19:09:08 2005:
+/d/nopk/tirun/sandcastle/room/sandcastle3: "its just really old", "its" s/b
+"it's"
+Typo reported by Nesoo Thu Jan 13 19:12:02 2005:
+/d/nopk/tirun/sandcastle/room/sandcastle10: "why its in broken pieces though..."
+again, "its" s/b "it's"
+Typo reported by Guile Sat Jan 15 22:39:23 2005:
+/d/shadow/rooms/tene14: There should be a space between are and open.
+Typo reported by Guile Sat Jan 15 22:40:49 2005:
+/d/shadow/rooms/tene17: There should be a space between are and open.
+Typo reported by Guile Mon Jan 17 10:56:33 2005:
+/d/nopk/standard/obj/magic/skyquick#7012: Should read "much too far..."
+Typo reported by Guile Wed Jan 19 22:47:35 2005:
+/d/arena/bet: Why can't you go north from here?  You can come south from the
+Adventure Board, why not make it so we can go back north?
+Typo reported by Guile Wed Jan 19 22:48:57 2005:
+/d/arena/bet: <help marry> says "iteresting".  I think this should say
+"interesting".  Just a guess here.
+Typo reported by Guile Thu Jan 20 19:48:20 2005:
+/d/roston/rooms/supply: In the long desc, supplys should be supplies.  Also, the
+name of the shopkeep is spelled differently in the long desc.
+Typo reported by Cortoth Sat Jan 22 13:10:47 2005:
+/d/roston/drow/room/room72: There seems to be a glow comeing (should be
+coming) from the black tent. The drows seem to be very relaxed and clam
+(should be calm). 
+Typo reported by Cenn Sat Jan 29 02:19:43 2005:
+/d/nopk/tirun/bank: Bank, "Your acount is empty!"
+Typo reported by Dubbya Sat Jan 29 13:57:00 2005:
+/d/nopk/tirun/square: 
+Typo reported by Dubbya Mon Jan 31 06:47:38 2005:
+/d/roston/rooms/roston: A pendant made of solid crystal, it reflect any light
+that shines on it. *should be reflects*
+Typo reported by Nesoo Tue Feb  8 20:51:04 2005:
+/wizards/detach/azeria/obj/7#636: hammer Not really a typo, just a test, sorry
+Typo reported by Endbringer Sun Feb 13 14:29:24 2005:
+/wizards/detach/forbiden/rooms/room119: typo in wolf claw's description inchs
+Typo reported by Set Sun Feb 13 16:16:40 2005:
+/d/freepk/rhondale/rooms/zforest/x17y13: shrunken heads Legend is spelled
+Ledgend
+Typo reported by Rueznor Sat Feb 19 23:23:56 2005:
+/d/nopk/tirun/square: Two Bedroom Keies
+Typo reported by Rueznor Mon Feb 21 20:49:23 2005:
+/d/nopk/tirun/wand/gypsy/gypsy_join: When you type 'preview' at the gypsy hall,
+it says "Player seeks to learn about bards."
+Typo reported by Smokey Thu Feb 24 08:50:19 2005:
+/d/shadow/rooms/palace20: When I sprinkle ashes (darksoul mana regen), you get
+the message "You sprinkle ashes on yourself and feel a rush of mana shot into
+your body." when it should be "a rush of mana 'shoot' into your body." Thank
+you.
+Typo reported by Nulvect Wed Mar  2 18:38:52 2005:
+/d/freepk/rhondale/rooms/zforest/x13y6: the lizards in rhondale say "rolls it's
+eye up to look at you", it should be "rolls its eye"
+Typo reported by Dubbya Sun Mar  6 21:18:16 2005:
+/d/nopk/tirun/square1: 
+Typo reported by Cortoth Mon Mar 14 10:34:01 2005:
+/d/roston/drow/room/room49: 'pills of weapons' should be 'piles of weapons'
+Typo reported by Cortoth Mon Mar 14 12:14:59 2005:
+/d/citrin/rooms/20: help alignment thieir should be their alignent should be
+alignment follws should be follows 
+Typo reported by Dubbya Fri Mar 18 04:33:44 2005:
+/d/nopk/tirun/square: There's a typo in the slimy gloves desc and in the lazy
+guard room in purgatory the word <wooden> is spelled woodem in either the
+room desc or an item desd 
+Typo reported by Masada Fri Mar 18 16:12:04 2005:
+/d/nopk/tirun/square: plaque in tirun [] (where newbies arrive): "The gods who
+sit on high give thanks to ye who have helped in the creation of this, our
+world." Several names are engraved below an additional inscription. It reads:
+Great thanks go out to all, but especially to: (names)
+Typo reported by Masada Fri Mar 18 16:17:04 2005:
+/d/nopk/tirun/square: tirun park/[] The typo of 'Gods' in the second sentence of
+the room's general description conflicts with the spelling of 'gods' in the
+inscription on the plaque. <see previous typo report> Pick one way (lower case
+is proper) and stick with it. Same for the occurence of "Gods" in the fourth
+sentence. Also, you should put a comma in the second sentence: "It is a place of
+peace and rest, dedicated to the gods of the realm." You could additionally drop
+out 'upon this place' ... since it's implied that it IS this place by the
+context. Also, drop 'Not' from the start of the next sentence since it confuses
+the meaning; instead, use 'Even time does not invade ...'
+Typo reported by Masada Fri Mar 18 16:20:14 2005:
+/d/nopk/tirun/square: firepit in Tirun [] "This large pit is used by players to
+discard unwanted items. The less-fortunate scavencge them from time to time, and
+put them to new and sometimes better uses."
+Typo reported by Masada Fri Mar 18 16:23:54 2005:
+/d/nopk/tirun/square: Lighting a fire in Tirun []: currently, takes the player's
+object file name and appends and 's' (eg, 'Carinas fire comes to life.') The
+closer-to-proper method would be to use an apostrophe-s, which announces
+ownership. This will still be wrong in the case of a name ending in 's' or 'x,'
+but it'll be much closer to right.
+Typo reported by Masada Fri Mar 18 16:30:10 2005:
+/d/nopk/tirun/square: Tirun [] fountain. "The workmanship of the fountain is
+(spectacular, magnificent, outstanding).  In fact, it may be the finest you've
+ever seen in your entire life. Its centerpiece is a statue of a mighty dragon,
+symbol of Tirun's strength and steadfastness in battle. Water pours from the
+dragon's mount into a pool at its feet. A gold plaque has been mounted here."
+Typo reported by Dirac Sat Mar 19 11:17:44 2005:
+/d/nopk/tirun/rogue_hall: In the help deception the word "flexible" is
+misspelled in the help for agility
+Typo reported by Fiona Mon Mar 21 07:48:41 2005:
+/d/nopk/forest/path/room/enter1: burried should be buried
+Typo reported by Dubbya Mon Mar 21 16:30:21 2005:
+/d/nopk/tirun/bank: help thief Thieves are known for thier greed and
+cowardace. should be cowardice 
+Typo reported by Sidnee Tue Mar 22 14:57:57 2005:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: The Sorceror Board of Psionics
+>>Sorcerer
+Typo reported by Sidnee Tue Mar 22 14:59:13 2005:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: Welcome to the Sorceror Hall
+>>Sorcerer
+Typo reported by Sidnee Tue Mar 22 15:00:03 2005:
+/d/nopk/tirun/mage/sorceror/sorceror_join: ..will tell you about becoming a
+sorceror.  >>>sorcerer.
+Typo reported by Loathe Thu Mar 24 06:05:12 2005:
+/d/guilds/forsaken/itemshop: Spider sack - Forsaken hall - This sack has been
+sewn from the webbing of an acient Dire Spider - should be Ancient
+Typo reported by Keanne Thu Mar 24 22:48:34 2005:
+/d/nopk/tirun/mage/wizard/wizard_hall: "Spells have been updated to be in better
+balance. If you think a spell is to weak or to powerful please post it on your
+class or subclass board. With your help we can get spells in shape and make this
+a better place to play for mages."  It should be TOO
+Typo reported by Cortoth Sat Mar 26 13:32:06 2005:
+/d/citrin/rooms/72: both on look roof and look wall roofthat needs a space to
+-> roof that 
+Typo reported by Piehl Wed Mar 30 17:34:21 2005:
+/d/freepk/rhondale/rooms/zforest/x21y13: q 
+Typo reported by Piehl Wed Mar 30 17:34:55 2005:
+/d/freepk/rhondale/rooms/zforest/x21y13: When I type Bio, in quests I get :
+You have completed your quest in becomming a demon. shouldn't it be becoming?
+
+Typo reported by Cortoth Wed Mar 30 23:44:27 2005:
+/d/roston/drow/room/room61: Members of the cavalry travel threw (should be
+through) 
+Typo reported by Cortoth Wed Mar 30 23:45:09 2005:
+/d/roston/drow/room/room53: This part of the camp seems to be quiet bear. 
+(should be bare) 
+Typo reported by Cortoth Wed Mar 30 23:47:32 2005:
+/d/roston/drow/room/room49: There are pills of (should be piles of) 
+Typo reported by Cortoth Wed Mar 30 23:48:44 2005:
+/d/roston/drow/room/room35: look like there about to pass out  (should be
+they're), also needs a period at the end of the sentance. 
+Typo reported by Harp Fri Apr  1 16:33:58 2005:
+/d/nopk/tirun/square: there's a typo in the pimp command ~ Carina reaches
+back like a pimp and slap Ymei. should be slaps 
+Typo reported by Cortoth Sat Apr  2 17:26:31 2005:
+/d/roston/drow/room/room32: excpet should be except.... There is members should
+be There are members
+Typo reported by Cortoth Sat Apr  2 21:36:53 2005:
+/d/guilds/dw/vote: list The following people whould like to join:  There is
+currently no one wanting to join.  * indicates that you have already voted
+for that player.   'whould' should be 'would' 
+Typo reported by Cortoth Sat Apr  9 22:19:37 2005:
+/d/roston/drow/room/room33: arnt should be aren't
+Typo reported by Cortoth Fri May 13 22:11:18 2005:
+/d/freepk/rhondale/rooms/zvillage/stones: The sign reads:
+-----------------------------------------  [ A magical stone ]      A magical
+stone used to replenish mana. ( 30 gold pieces )      You can <buy '#' oil>
+to buy a specific number of oils. -----------------------------------------
+shouldn't it read <buy '#' stone>??? 
+Typo reported by Cortoth Sat May 14 14:56:43 2005:
+/d/tirunmts/rooms/tirunmts_293: cliff going traight up. - should be straight :p
+Typo reported by Cortoth Wed Jun  1 00:18:19 2005:
+/d/freepk/purgatory/room/purgatorysquare: A strange sent wafts in from the
+north. - should be A strange _scent_
+Typo reported by Cortoth Mon Jun  6 20:23:25 2005:
+/d/freepk/merkkerri/jungle/gcity/gcity77: Very few people, if anyone, has ever
+seen -> should be very few people ... _have_ seen this chamber
+Typo reported by Cortoth Sat Jul  2 10:46:10 2005:
+/d/guilds/dw/vote: The following people whould like to join: <'whould' should be
+'would'>
+Typo reported by Cortoth Sat Jul  2 20:32:25 2005:
+/d/nopk/standard/outlands/cover1: help credits 'alot' should be 'a lot' (typoed
+2x)
+Typo reported by Cortoth Wed Jul 27 18:46:29 2005:
+/d/freepk/rhondale/rooms/zvillage/weapon: l It is bright. This is the Weapon
+shop of Rhondale. All kinds of show weapons hang around the walls, prizes of
+the owner no doubt. A counter seperates you from the goods, and a man is
+standing behind it.   There is only one obvious exit: east.  Cromnir,
+Weaponsmith of Zartha  l cromnir You look over the male human. Cromnir is the
+weaponsmith of Rhondale, he buys and sells all kinds weapons to keep his shop
+running. He is in top shape.      umm, where's Zartha?  and will Cromnir
+return home when it gets added to the game? :D 
+Typo reported by Cortoth Sun Aug 28 07:52:33 2005:
+/d/roston/rooms/r_crack3: semes should be seems
+Typo reported by Cortoth Sun Aug 28 12:55:39 2005:
+/d/shadow/rooms/tene20: togeather should be together
+Typo reported by Cortoth Wed Sep 21 20:14:51 2005:
+/d/citrin/rooms/72: l roof There are many holes in the roof and the walls are
+about to collapse.  There is a small pipe running off the roofthat empties
+out onto the ground.   roofthat should be roof that 
+Typo reported by Cortoth Sun Sep 25 11:38:49 2005:
+/wizards/hermes/distopia/room/castle/innsecflc2: Espically should be
+Especially 
+Typo reported by Cortoth Sun Sep 25 11:41:45 2005:
+/wizards/hermes/distopia/room/castle/innsecflroome2: cresendo should be
+crescendo
+Typo reported by Cortoth Sun Sep 25 11:44:53 2005:
+/wizards/hermes/distopia/room/castle/innsecflroomw2: concievable peice should be
+concievable piece
+Typo reported by Cortoth Sun Sep 25 11:50:23 2005:
+/wizards/hermes/distopia/room/castle/innthrflc2: concievable should be
+conceivable
+Typo reported by Cortoth Sun Sep 25 11:52:19 2005:
+/wizards/hermes/distopia/room/castle/innthrflroomw: posivly should be positively
+Typo reported by Cortoth Sun Sep 25 11:54:35 2005:
+/wizards/hermes/distopia/room/castle/innforflroome2: romanisc should be
+Romanesque?
+Typo reported by Cortoth Sun Sep 25 11:56:15 2005:
+/wizards/hermes/distopia/room/castle/innforflc2: should played be plated?
+Typo reported by Cortoth Sun Sep 25 12:04:17 2005:
+/wizards/hermes/distopia/room/castle/npath3: visable should be visible
+Typo reported by Endbringer Fri Nov  4 14:00:35 2005:
+/d/roston/darkmouth/room/67: In shadow caverns of roston: This is a dirty black
+troll that seems to have lived his hole life in these
+Typo reported by Endbringer Sat Nov 19 16:37:38 2005:
+/d/roston/rooms/roston20: the palace in roston, when you look at it. "A hudge
+white palace"
+Typo reported by Eios Wed Dec 21 23:01:19 2005:
+/d/nopk/tirun/square: on the burp emote the fullstop at the end is spaced out
+wrong eg: Eios burps .
+Typo reported by Cortoth Thu Dec 29 21:38:13 2005:
+/wizards/hermes/distopia/room/castle/npath2: Suddenly, three bandits appear
+out of the woods, their intention clear as they unsheath their daggers and
+move to their helpless pray.  pray should be prey. 
+Typo reported by Ceril Thu Dec 29 22:01:43 2005:
+/d/nopk/standard/forest4: tame ability - when you tame something and it follows
+you around, the enter message says "it's owner", but it should say "its owner"
+Typo reported by Aidan Tue Jan 24 10:04:45 2006:
+/d/nopk/arlon/room/stoneshop: It's pieces, not peices.
+Typo reported by Cortoth Fri Jan 27 08:13:13 2006:
+/d/shadow/rooms/tene16: Adventurer says: Only the king has access to to the
+ancient scroll.  But even HE needs an object to open the seal.  
+Typo reported by Aidan Sat Jan 28 02:33:42 2006:
+/d/nopk/arlon/room/plains19: For openpalm, when I have too little SP, it says
+"You are to tired." Should be "too tired".
+Typo reported by Atornthalios Tue Feb  7 18:13:43 2006:
+/d/nopk/tirun/eganthus3: In the help files, under the Topic: Antipaladin 
+opossit - opposite 
+Typo reported by Cortoth Fri Mar  3 19:32:00 2006:
+/d/inferi_island/hamenstomb/rooms/marsh_end: steal should be steel
+Typo reported by Cortoth Sat Mar  4 16:22:57 2006:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_20: sphinxws should be sphinxes
+Typo reported by Cortoth Sat Mar  4 17:53:14 2006:
+/d/inferi_island/eyeofhell/rooms/middle_43: arovide should be provide
+Typo reported by Cortoth Sat Mar  4 17:58:19 2006:
+/d/inferi_island/eyeofhell/rooms/middle_44: thurst should be thirst (on drac's
+description)
+Typo reported by Cortoth Sat Mar  4 18:01:27 2006:
+/d/inferi_island/eyeofhell/rooms/middle_35: Rips you apart with his claws! -
+probably should have Werewolf rips you apart with his claws.
+Typo reported by Cortoth Sun Mar  5 22:02:37 2006:
+/d/freepk/purgatory/room/landing: It has the shell typs body of a crab, but
+it look more like a cross bewteen a scorpion   no idea what 'typs' is,
+bewteen should be between 
+Typo reported by Cortoth Sat Mar 11 14:44:08 2006:
+/d/citrin/rooms/shacks/shack1: The corpse is rotting where is stands. should
+'be where "it" stands' 
+Typo reported by Ironman Sun Mar 12 22:04:39 2006:
+/d/freepk/merkkerri/jungle/gcity/gcity51: ______being trapped within the rip
+cage of some giant creature  rip should be rib  ironman 
+Typo reported by Cortoth Thu Mar 16 20:19:59 2006:
+/d/freepk/purgatory/room/guest23: build should be built
+Typo reported by Skunk Sun Mar 19 02:10:09 2006:
+/d/inferi_island/hamenstomb/mobs/anu#74131: anu has a type of the word quick, it
+is spelled auick
+Typo reported by Skunk Sun Mar 19 03:37:44 2006:
+/d/inferi_island/hamenstomb/rooms/lupper_5: when the vulture circles around it
+just says, "circles around you waiting for death." it doesn't say who circles
+Typo reported by Cortoth Sat Apr  1 13:47:51 2006:
+/d/freepk/purgatory/room/castle30: Then King gives the Queen an appraising
+look.  should that be 'The King gives the Queen an appraising look.'? 
+Typo reported by Cortoth Sat Apr  1 17:15:00 2006:
+/d/shadow/rooms/palace40: clostraphobically should be claustrophobically
+Typo reported by Resolution Wed Apr 12 15:29:04 2006:
+/d/arena/bet: furystrike   Resolution strikes his with an open palm!   when i
+hit someone
+Typo reported by Tal Sun Jul  9 22:27:47 2006:
+/d/inferi_island/marshes/rooms/BM_19: in the undead corpses description it
+says thursty instead of thirsty 
+Typo reported by Arma Thu Jul 13 20:02:33 2006:
+/d/shadow/rooms/tene10: when you try to add someone thats higher level than
+you it says "That player is too experianced for your party." pretty sure
+experianced is spelled wrong. 
+Typo reported by Ardhanarishvara Sun Jul 16 02:16:05 2006:
+/d/coach/rooms/tirun_coach: the item description for Spiders Websack is missing
+an "n" on ancient
+Typo reported by Escobar Sun Jul 16 20:07:20 2006:
+/d/tirunmts/rooms/tirunmts_345: should be nearby, not neardy.
+Typo reported by Escobar Sun Jul 16 20:07:58 2006:
+/d/tirunmts/rooms/tirunmts_308: should be nearby, not neardy
+Typo reported by Escobar Mon Jul 17 00:52:04 2006:
+/d/inferi_island/marshes/rooms/marsh_25: says lightening instead of lightning
+Typo reported by Zondal Tue Jul 18 21:09:21 2006:
+/d/nopk/tirun/square: I think there may be a small problem with the backpack. 
+When it tells you how much is in the backpack "This backpack is 0%" / "full" 
+The full is wraped around onto a new line, it may be my computer, but just
+checking in case.
+Typo reported by Pythagoras Wed Jul 19 00:41:55 2006:
+/d/nopk/tirun/square: Well, the typo isn't in this room perse, but the rules
+have a typo in them.  Rule number 17, the one about finger info etc, says
+referances to illegal activities.  It should read "references" of course, unless
+there's some sort of British spelling or something I'm not aware of, in which
+case disregard this message.
+Typo reported by Escobar Wed Jul 19 03:33:36 2006:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_7: should be structure, not
+stucture
+Typo reported by Escobar Wed Jul 19 03:35:42 2006:
+/d/inferi_island/hamenstomb/rooms/mid_3: Wearied One shoots a rock at your head
+with hits (should be its) slingshot!
+Typo reported by Escobar Wed Jul 19 03:54:55 2006:
+/d/inferi_island/hamenstomb/rooms/rden_11: Criosphinx won't take 'soul' for an
+answer but will take 'a soul'. Also, he won't take 'the match' for an answer,
+but will take 'match'
+Typo reported by Vayne Fri Jul 21 22:33:54 2006:
+/d/nopk/tirun/square: moan, comes out "moans eroticly" Supposed to be
+erotically. Vayne 
+Typo reported by Bile Wed Jul 26 00:05:52 2006:
+/d/nopk/tirun/clergy/cleric/cleric_old: Alter is spelled Altar.
+Typo reported by Zadora Sat Aug  5 12:35:03 2006:
+/d/nopk/tirun/square: Help Cleric has a typo in the first description line...
+s/b their not thier
+Typo reported by Hanibal Mon Aug  7 17:56:33 2006:
+/d/nopk/tirun/square: help lionfang "sides of their target in he vital areas"
+Typo reported by Escobar Mon Aug 14 06:23:25 2006:
+/d/freepk/merkkerri/jungle/gcity/gcity51: should be dais, not dias
+Typo reported by Escobar Mon Aug 14 06:23:51 2006:
+/d/freepk/merkkerri/jungle/gcity/gcity51: should be rib not rip
+Typo reported by Escobar Mon Aug 21 23:27:39 2006:
+/wizards/detach/forbiden/rooms/room48: too many m's along the left column
+causing typos
+Typo reported by Escobar Mon Aug 21 23:28:03 2006:
+/wizards/detach/forbiden/rooms/room50: mundergrowth...should be undergrowth
+Typo reported by Escobar Mon Aug 21 23:28:25 2006:
+/wizards/detach/forbiden/rooms/room50: orafices should be orifices
+Typo reported by Escobar Mon Aug 21 23:29:33 2006:
+/wizards/detach/forbiden/rooms/room50: mouth like should be mouth-like or
+mouthlike
+Typo reported by Escobar Mon Aug 21 23:40:49 2006:
+/wizards/detach/forbiden/rooms/room9: excessive m's on left column
+Typo reported by Escobar Mon Aug 21 23:42:35 2006:
+/wizards/detach/forbiden/rooms/room28: room secrip is broken up oddly
+Typo reported by Trooper Sat Aug 26 23:38:37 2006:
+/wizards/detach/azeria/obj/6#24741: cutlass has the same desc as a bow lol
+Typo reported by Escobar Tue Aug 29 02:24:51 2006:
+/d/helgrath/rooms/temple03: should be podiums, not podeums
+Typo reported by Crazylegs Fri Sep  1 12:03:34 2006:
+/d/freepk/merkkerri/swamp/swamp60: the description of this room and the ones nw
+and sw line wrap wrong with maps on
+Typo reported by Sparticus Sun Sep  3 21:31:54 2006:
+/d/nopk/tirun/square: forbidden cutlass says this cutlass is formed from the
+anicent wolf pack anicent supposed to be ancient i tink Sparticus 
+Typo reported by Millenia Mon Sep  4 19:15:02 2006:
+/d/nopk/tirun/edovin5: : description when one looks at house, impossible needs
+another s
+Typo reported by Uzamaki Wed Sep 13 19:01:06 2006:
+/d/nopk/tirun/square: when u wield bola, it says dispair instead of despair.
+Typo reported by Leeroy Fri Sep 15 04:42:31 2006:
+/d/tombar/rooms/island/3: should be indentation, not indention.
+Typo reported by Escobar Sat Sep 16 10:08:54 2006:
+/d/freepk/merkkerri/swamp/swamp57: should be occasionally, not occassionally.
+Typo reported by Zondal Sat Sep 16 13:21:21 2006:
+/d/nopk/tirun/wand/bard/bard_join: in ballad of blood, the last bit says "You
+strike fear into the hearts of your enemies and inspire your alies."  alies
+should be allies.
+Typo reported by Ardhanarishvara Wed Sep 27 05:08:18 2006:
+/d/helgrath/rooms/temple02: in the middle room of wilndur temple (1 north of
+entrance) when i type <look shelves> the descript says cieling instead of
+ceiling  kind regards ardhanarishvara 
+Typo reported by Arthryn Wed Sep 27 21:22:48 2006:
+/d/nopk/tirun/fighter/paladin/paladin_hall: There is a typo in the help file
+for mages (help mage).  Under the Necromancer listing, it is listed as to
+summo instead of to summon. 
+Typo reported by Ardhanarishvara Sat Oct  7 07:10:36 2006:
+/d/nopk/standard/rain_forest/corinthor/rooms/summer3: in the second sentence
+of room descript it says "ofrest" instead of "forest" 
+Typo reported by Sabbathiel Mon Oct  9 01:03:37 2006:
+/d/freepk/merkkerri/mob/merkkirri/bola#100561: Bola - Bane of the Righteous
+leather chord should be cord, truely should be truly and moral should be mortal
+Typo reported by Sabbathiel Mon Oct  9 01:38:16 2006:
+/d/nopk/standard/rain_forest/corinthor/rooms/moons4: elvenmage corinthor is not
+captalized when you look at her
+Typo reported by Sabbathiel Mon Oct  9 01:41:04 2006:
+/d/nopk/standard/rain_forest/corinthor/rooms/palacem1: place has been made of
+trees THAT have been
+Typo reported by Sabbathiel Mon Oct  9 19:32:23 2006:
+/d/nopk/arlon/room/stoneshop: read sign show 30 gold peices, should be pieces
+Typo reported by Sabbathiel Mon Oct  9 20:19:43 2006:
+/wizards/levi/events/room/seekpal8: divin fire this potent
+Typo reported by Sabbathiel Mon Oct  9 23:01:27 2006:
+/d/nopk/tirun/square: moan moans erotically
+Typo reported by Sabbathiel Tue Oct 10 22:33:49 2006:
+/d/tirunmts/rooms/tirunmts_68: vear should be veer
+Typo reported by Sabbathiel Tue Oct 10 22:39:07 2006:
+/d/durst/room/muabark001: breath should be breathe
+Typo reported by Sabbathiel Wed Oct 11 22:01:33 2006:
+/d/nopk/tirun/mage/pyromancer/pyromancer_hall: the heat "does not seem the hurt"
+should be "to hurt"
+Typo reported by Sabbathiel Sun Oct 15 23:06:08 2006:
+/d/nopk/tirun/hhouse/balcony: railing look railing safety
+Typo reported by Ardhanarishvara Sat Oct 21 22:38:29 2006:
+/d/nopk/tirun/square: drink from fountain drink from fountain Inferi Bow
+description drink from fountain "this bow is EXTREAMLY accurate"  kind
+regards ardhanarishvara 
+Typo reported by Sabbathiel Sat Oct 21 23:31:12 2006:
+/d/nopk/tirun/square: Inferi Bow extremely
+Typo reported by Sabbathiel Mon Oct 23 23:52:35 2006:
+/d/coach/rooms/lodos_coach: sapphire ring emanating
+Typo reported by Sabbathiel Tue Oct 24 00:03:47 2006:
+/d/coach/rooms/tirun_coach: knight's shield shield has the shap(e) AND rearing
+up on their HIND legs
+Typo reported by Sabbathiel Tue Oct 24 00:14:31 2006:
+/d/freepk/merkkerri/mob/merkkirri/bola#3463: Bola - Bane of the Righteous which
+was sent by the Demon Lord Asmodeus to protect
+Typo reported by Afi Thu Oct 26 23:30:25 2006:
+/d/sewers/rooms/16: Ooze mob description in sewer area.... sentiant should be
+spelled sentient
+Typo reported by Sparticus Wed Nov  1 20:55:26 2006:
+/d/nopk/tirun/square: Royal Cloak  it is Royal    Cloak 
+Typo reported by Kilik Sat Nov 11 22:18:06 2006:
+/d/nopk/tirun/sparroom2: the dummy by the fighter hall says "You bite the
+dummy's arm! Owch!" think its supposed to be ouch 
+Typo reported by Kilik Wed Nov 22 03:57:46 2006:
+/d/nopk/tirun/square: Syntax: <keep [what] for [player] when you type keep
+sword it gives you the fail message type "Keep what from player" this is very
+missleading. 
+Typo reported by Sparticus Wed Nov 22 14:45:18 2006:
+/d/nopk/tirun/square: Belt of Candles when u wear it doesnt say worn when u
+press i Sparticus 
+Typo reported by Sabado Wed Dec  6 16:13:02 2006:
+/d/freepk/merkkerri/jungle/gcity/gcity76: should be Shallzaea's skin shreds, not
+shreads, when she goes from gnoll form to demon form
+Typo reported by Kilik Sun Dec 24 08:06:28 2006:
+/d/freepk/merkkerri/swamp/swamp36: the bog wraith has a special that says Bog
+wraithinvades your mind sapping your mental strength! whoops im in the middle
+of merk lol should watch where i report these things :P 
+Typo reported by Sabado Tue Jan  2 10:50:13 2007:
+/wizards/detach/forbiden/rooms/room184: place not lace.
+Typo reported by Ideysus Mon Jan 22 19:02:42 2007:
+/d/nopk/arlon/room/den1: The lion in this room has "dominate hunter", I think
+it should be "dominant hunter". 
+Typo reported by Dragosani Wed Apr 18 15:39:46 2007:
+/d/nopk/tirun/mage/mage_join: After becoming a mage, Elrih says: Find the hall
+of the Necromacer, not necromancer
+Typo reported by Boco Sat May 26 14:33:01 2007:
+/d/roston/rooms/Church: should be priest in description, not pirest
+Typo reported by Ralok Sat Aug 18 04:52:37 2007:
+/d/nopk/standard/rain_forest/corinthor/rooms/objectshop: Liaqui's description is
+for a female. Says I look over the male elf when I look monster.
+Typo reported by Cortoth Sun Oct  7 11:28:01 2007:
+/d/distopia/room/hhall: 'The floors creek' should be The floors creak
+Typo reported by Noxus Sun Oct 14 04:15:09 2007:
+/d/inferi_island/marshes/rooms/marsh_square: inferi uses the word lightening
+a lot i think it's supposed to be lightning. this is one of the times it's
+used. A large lightening bolt hits the side of the mountain causing rocks to
+fall to the south. 
+Typo reported by Cortoth Fri Oct 19 19:24:37 2007:
+/d/freepk/purgatory/room/gatehouseup: A large wheel is set on a hige woodem
+block - should be huge
+Typo reported by Cortoth Fri Oct 19 19:30:21 2007:
+/d/freepk/purgatory/room/gatehouseup: actually, looks like should be hinge, not
+huge, and woodem should be wooden
+Typo reported by Cortoth Sat Nov 10 10:24:02 2007:
+/d/helgrath/rooms/marketrd_egate: their armor can barely be head. (on listen)
+should be heard
+Typo reported by Landara Mon Dec  3 05:56:22 2007:
+/d/nopk/tirun/clergy/cleric/cleric_old: spelled altar in room discription but
+you type look alter to read its description
+Typo reported by Dage Wed Jan  2 21:00:24 2008:
+/d/nopk/standard/rain_forest/corinthor/rooms/npath1: the room description says
+"leading to hte palace."
+Typo reported by Dage Sat Jan 26 00:00:29 2008:
+/d/lodos/ntown7: the exit to the west in this room is 'door' the door to the
+east is 'door 2'. Wouldn't it make more sense to have it be 'door east' and
+'door west'? Or at least adds those names to the list of things to target them.
+Typo reported by Reis Tue Mar  4 16:41:00 2008:
+/d/nopk/tirun/locker: Deadly Gauntets from purg, the fail to wear message to
+enviroment is misspellec
+Typo reported by Kelsey Sun May  4 11:35:48 2008:
+/d/nopk/tirun/armour: sign in Drendun shop  Property s/b Property
+Typo reported by Kelsey Tue May  6 21:35:36 2008:
+/d/nopk/tirun/clergy/cleric/cleric_old: akter s/b altar in the inscription in
+room above the church
+Typo reported by Zack Thu May  8 23:16:31 2008:
+/d/shadow/rooms/palace18: light helmet "pyromancer" is spelled "pyromacer"
+Typo reported by Zack Sat May 10 19:42:58 2008:
+/d/sewers/rooms/21: forsaken spiderweb sack - ancient is misspelled in the long
+desc
+Typo reported by Smokey Mon Jul 28 20:36:13 2008:
+/d/nopk/tirun/pubstart: In 'help ogre' it says "Mose ogres have long....."
+should be most
+Typo reported by Jynteral Thu Jul 31 22:35:13 2008:
+/d/lodos/farm/room/paddockw3: look at dam. Message is screwy.
+Typo reported by Sik Sat Aug  2 04:50:36 2008:
+/d/freepk/rhondale/rooms/zforest/x10y17: lava dagger desctiption says "multing
+Typo reported by Jynteral Wed Aug 27 22:09:20 2008:
+/d/nopk/tirun/bank_vault: Should the room desc say the door on the north....
+Typo reported by Jynteral Tue Sep 16 21:51:40 2008:
+/d/freepk/merkkerri/jungle/gcity/gcity23: "read sign" the word "together"
+Typo reported by Kilir Thu Sep 25 21:01:49 2008:
+/d/helgrath/rooms/marketrd_egate: Helgrath, im guessing both the south and
+east gates by the guardians. The listen message. 
+Typo reported by Kilir Thu Sep 25 21:07:21 2008:
+/d/citrin/rooms/den/12: citrin, inside the cave, the smell message 
+Typo reported by Cortoth Sat Nov  1 08:23:15 2008:
+/d/freepk/purgatory/room/room1: The old mans back creaks as he stands up. (mans
+should be man's)
+Typo reported by Cortoth Mon Nov  3 11:57:04 2008:
+/d/freepk/merkkerri/jungle/merkkirri/mjungle1: thier should be their
+Typo reported by Crazylegs Mon Nov 10 19:35:46 2008:
+/d/inferi_island/hamenstomb/rooms/lupper_2: "Circles around you waiting for
+death." does not have "Vulture "
+Typo reported by Crazylegs Fri Nov 14 23:03:03 2008:
+/d/roston/drow/room/tent2: "destory" in Evil Pyromancer describe
+Typo reported by Cenn Sun Nov 16 18:36:27 2008:
+/d/nopk/tirun/square: whip, long whip from Helgrath mages, has no RESET after
+the color
+Typo reported by Ozzymandias Wed Dec  3 16:10:10 2008:
+/d/freepk/rhondale/rooms/zforest/x25y9: when a pyro casts shroud it says he
+creates it around you, even if you are not the one he is attacking. For instance
+if a pyro and I teamed up to exp his casts on a monster would still read that he
+is creating a shroud around me.
+Typo reported by Jynteral Wed Dec 10 22:01:22 2008:
+/d/roston/rooms/roston22: hole = whole   the  =  The   no where  = nowhere
+Typo reported by Jynteral Wed Dec 10 22:01:50 2008:
+/d/roston/rooms/roston21: the church is is
+Typo reported by Jynteral Wed Dec 10 22:04:20 2008:
+/d/roston/rooms/roston14: footprints   aren't
+Typo reported by Jynteral Mon Jan 26 11:54:00 2009:
+/d/freepk/merkkerri/swamp/swamp59: search throne
+Typo reported by Jynteral Tue Jan 27 09:34:41 2009:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_40: obviously
+Typo reported by Jynteral Mon Feb  2 13:54:41 2009:
+/d/freepk/keys/great_sand/wreck: abord ---> aboard
+Typo reported by Jynteral Sat Feb  7 23:51:47 2009:
+/wizards/levi/events/room/seekpal14: Need a space between may have in second
+sentence and a comma after kind. Need a space between hall continues.
+Typo reported by Pix Mon Feb 16 19:20:47 2009:
+/d/nopk/tirun/bank: When the guard says Th-->ei<--ves disgust me.
+Typo reported by Uzamaki Tue Sep  1 00:35:54 2009:
+/d/nopk/tirun/whonin3: It should be "restaurant" , not "restaraunt".
+Typo reported by Knuckle Wed Sep  9 15:29:31 2009:
+/d/nopk/tirun/square: The aura around Knuckledevours itself!  aurasink
+wearoff typo. 
+Typo reported by Cortoth Mon Sep 21 14:19:01 2009:
+/d/nopk/arlon/room/stoneshop: dunno if its a typo or not, but entrance prolly
+should be shack and exit should be out?
+Typo reported by Axenos Sun Oct  4 09:50:27 2009:
+/d/nopk/tirun/wand/wanderer_join: I'm at the entrance to the wanderer's
+sanctuary and Errand boy was trying to get in. It read: Errand boy attaempts to
+enter the wanderer's sanctuary. Should be attempts.
+Typo reported by Bill Thu Oct 22 21:18:27 2009:
+/d/nopk/standard/setter: Theres a word imporant, here, believe it's supposed
+to be important. 
+Typo reported by Meklod Fri May 21 12:30:47 2010:
+/d/nopk/tirun/square: q 
+Typo reported by Moraleo Thu May 27 03:09:23 2010:
+/d/arena/looser: Mathiuunleashes a psionic storm! 

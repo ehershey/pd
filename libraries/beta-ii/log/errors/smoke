@@ -1,0 +1,8 @@
+/wizards/smoke/workroom.c line 2: Cannot #include cp.h before inherit WORKROOM;
+/wizards/smoke/workroom.c line 3: parse error before ;
+/wizards/smoke/workroom.c line 3: parse error before ;
+/wizards/smoke/sky/rooms/s_gem1.c line 3: parse error before ;
+/wizards/smoke/sky/rooms/s_gem1.c line 3: parse error before ;
+/wizards/smoke/sky/monsters/barkeep.c line 53: parse error before the end of line
+/wizards/smoke/sky/rooms/s_gem1.c line 3: parse error before ;
+/wizards/smoke/sky/rooms/s_gem2.c line 3: parse error before ;

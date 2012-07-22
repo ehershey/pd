@@ -1,0 +1,24 @@
+Update reported by Nulvect Tue Oct  5 17:25:49 2010
+* Our race system was redesigned to allow for easier updates to races. Damage types were added, they are slowly being implemented into combat. Resistances and weaknesses are also being implemented. See <help damagetypes> for some basic info. Paralyze was turned into a standard effect similar to how blindness, poison, etc function. Rebalancing of races will begin soon, this will include changing stat costs, initial stat rolls, and adding resistances and weaknesses.
+
+Update reported by Nulvect Sat Apr 16 01:46:11 2011
+* Added the identity manager. Keeps track of all your alts for you in one place and will also track LANs and other things in the future.
+
+Update reported by Nulvect Tue May  3 18:07:30 2011
+* PK has been turned off temporarily while we work out a better way to implement it. Towards this end, player corpses now take three times longer to decay. The war tracking system is finished and being implemented into the new PK system.
+
+Update reported by Nulvect Wed Sep  7 00:56:13 2011
+* A new area has been added! There may be some kinks to work out still, so please report any problems.
+
+Update reported by Nulvect Thu Sep 22 20:41:37 2011
+* Remort was updated. It now saves your race with each subclass, and you can have a different race for each one. Archangels and demons: the FIRST remort you do will determine if you use your quest race for your current subclass, or the one you are remorting into. You cannot use quest race for all subclasses anymore. The remort command itself has also been cleaned up to look and work more nicely, and now sets your alignment appropriately the first time you remort into a new subclass.
+
+Update reported by Nulvect Sun Feb 12 01:39:13 2012
+* Some mage spells have been updated recently: gate, enchant, light, and dark. Also finished sorceror-specific spell updates by adding a long-awaited spell for them.
+
+Update reported by Nulvect Sun May 13 02:57:35 2012
+* Updates to death code have been implemented. Penalties are calculated differently now. For example, you can now avoid losing levels if you have enough exp at the time that you die. Deaths also check the war system, which may modify how much you lose. PK deaths will normally only lose 60% of a normal death, but deaths during a war do not count as PK. Angels and demons are permanently at war and incentive will be included in the near future for one side to stay ahead of the other.  Lastly, full details of your last three deaths are now stored, including exactly what you lost.
+
+Update reported by Nulvect Wed Jun 13 03:00:47 2012
+* A new, snazzier inventory command has been put in. It has more options than the old one, better display, some sorting options, some more color, and it even runs a little faster.
+

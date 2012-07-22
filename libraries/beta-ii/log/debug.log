@@ -1,0 +1,831 @@
+----------------------------------------------------------------------------
+Primal Darkness-II (FluffOS v2.22) starting up on Linux - Sat Jul 21 10:34:49 2012
+
+
+Connected to address server on localhost port 9000
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5000.
+Accepting connections on port 4001.
+*Error caught
+
+Error: *Error in loading object '/wizards/vian/diran/rooms/tundra/1'
+   Time: Sat Jul 21 16:32:04 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *Inherited file '/realms/rodo/diran/rooms/tundra/zone' does not exist!
+   Time: Sat Jul 21 16:39:44 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto /wizards/vian/diran/rooms/tundra/1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *Inherited file '/realms/rodo/diran/rooms/tundra/zone' does not exist!
+   Time: Sat Jul 21 16:39:50 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *Inherited file '/realms/rodo/diran/rooms/tundra/zone' does not exist!
+   Time: Sat Jul 21 16:39:54 2012
+   Current object: /cmds/system/_update  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "update", "/cmds/system/_update", "update 1.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1.c" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *Inherited file '/realms/rodo/diran/rooms/tundra/zone' does not exist!
+   Time: Sat Jul 21 16:40:21 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1.c", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1.c" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1.c" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Sat Jul 21 16:41:17 2012
+   Current object: /cmds/system/_update  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran.h" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "update", "/cmds/system/_update", "update diran.h", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "diran.h" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Sat Jul 21 16:41:18 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/1", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1" })
+    object: OBJ(vian /std/user#1232)
+
+*Error caught
+
+Error: *Error in loading object '/wizards/vian/diran/rooms/tundra/1'
+   Time: Sat Jul 21 16:41:24 2012
+   Current object: /adm/obj/simul_efun  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1", OBJ(vian /std/user#1232) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1" })
+    object: OBJ(vian /std/user#1232)
+
+
+Error: *Error in loading object '/wizards/vian/diran/rooms/dock'
+   Time: Sat Jul 21 16:43:03 2012
+   Current object: /daemon/mapper  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /daemon/mapper.c
+   File: "/daemon/mapper.c" Line: 207
+---------- TRACE - TRACE - TRACE ----------
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 207
+    function: "make_map"
+    locals: ({ 3, ({ "southwest", "south", "southeast" }), 2, 0, 2, 54, 11, "south", UNDEFINED, 0, 2, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ OBJ(/wizards/vian/diran/rooms/tundra/1), ({ "circle of stones is here, slowly pushing smoke into the sky. The%^RESET%^  %^RESET%^%^GREEN%^|%^RESET%^     ", "air is composed of a fresh mixture of %^BOLD%^cold%^RESET%^ and clean.             %^RESET%^%^GREEN%^|%^RESET%^     " }), ({ "south" }), "bottom", 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "ansi" })
+    object: OBJ(/daemon/mapper)
+
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 137
+    function: "mapper"
+    locals: ({ OBJ(/wizards/vian/diran/rooms/tundra/1), ({ "south", "east", "here" }), ({ "The icy tundra is completely covered in a bright %^BOLD%^white%^RESET%^ sheet of%^RESET%^   %^RESET%^%^GREEN%^|%^RESET%^            ", "ice. There are footprints visible moving in every direction,%^RESET%^      %^RESET%^%^GREEN%^|%^RESET%^            ", "animal and humanoid alike. A %^BOLD%^%^BLACK%^charred%^RESET%^ firepit surrounded by a%^RESET%^      %^RESET%^%^GREEN%^|%^RESET%^     [%^RESET%^%^RED%^X%^RESET%^]-[ ]" }), ({ "The icy tundra is completely covered in a bright %^BOLD%^white%^RESET%^ sheet of%^RESET%^", "ice. There are footprints visible moving in every direction,%^RESET%^", "animal and humanoid alike. A %^BOLD%^%^BLACK%^charred%^RESET%^ firepit surrounded by a%^RESET%^", "circle of stones is here, slowly pushing smoke into the sky. The%^RESET%^", "air is composed of a fresh mixture of %^BOLD%^cold%^RESET%^ and clean. ", "" }), ({ "", "", "", "", "", "" }), "ansi", 79, 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "bottom", 0, 5, "bottom" })
+    arguments: ({ OBJ(vian /std/user#1232) })
+    object: OBJ(/daemon/mapper)
+
+    program: "/std/user.c"
+    file: "/std/user.c"
+    line: 805
+    function: "describe_current_room"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/1), "", "", "", "", "", "", "", "", "", "", UNDEFINED, UNDEFINED, 0 })
+    arguments: ({ 1 })
+    object: OBJ(vian /std/user#1232)
+
+    program: "/std/user.c"
+    file: "/std/user.c"
+    line: 993
+    function: "move_player"
+    locals: ({ OBJ(/wizards/vian/workroom), 0, ({ OBJ(vian /std/user#1232) }), "/wizards/vian/workroom", UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, "", "", "", "Vian enters.", 1, 1, 0, 0, 0, UNDEFINED })
+    arguments: ({ OBJ(/wizards/vian/diran/rooms/tundra/1), "" })
+    object: OBJ(vian /std/user#1232)
+
+    program: "/cmds/creator/_goto.c"
+    file: "/cmds/creator/_goto.c"
+    line: 32
+    function: "cmd_goto"
+    locals: ({ 0 })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/1" })
+    object: OBJ(/cmds/creator/_goto)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/workroom), "goto", "/cmds/creator/_goto", "goto 1", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "1" })
+    object: OBJ(vian /std/user#1232)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 16:43:26 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+    program: "/std/room.c"
+    file: "/std/room.c"
+    line: 62
+    function: "create"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 7
+    function: "create"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+    program: "/wizards/vian/diran/rooms/tundra/27.c"
+    file: "/wizards/vian/diran/rooms/tundra/27.c"
+    line: 7
+    function: "create"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 207
+    function: "make_map"
+    locals: ({ 0, ({ "northwest", "north", "northeast" }), 2, 0, 2, 60, 5, "north", UNDEFINED, 0, 2, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ OBJ(/wizards/vian/diran/rooms/tundra/4), ({ "The icy tundra seems to go on forever, as there is such limited%^RESET%^   %^RESET%^%^GREEN%^|%^RESET%^     ", "visibility. There are many rocks on the tundra, suggesting a%^RESET%^      %^RESET%^%^GREEN%^|%^RESET%^     " }), ({ "north" }), "top", 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "ansi" })
+    object: OBJ(/daemon/mapper)
+
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 137
+    function: "mapper"
+    locals: ({ OBJ(/wizards/vian/diran/rooms/tundra/4), ({ "south", "north", "east", "here" }), ({ }), ({ "The icy tundra seems to go on forever, as there is such limited%^RESET%^", "visibility. There are many rocks on the tundra, suggesting a%^RESET%^", "mountain nearby. A small, mostly dried pool of %^BOLD%^%^RED%^blood %^RESET%^can be seen%^RESET%^", "on the ground. There are footprints visible moving in every%^RESET%^", "direction, animal and humanoid alike. ", "" }), ({ "", "", "", "", "", "" }), "ansi", 79, 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "bottom", 0, 5, "top" })
+    arguments: ({ OBJ(vian /std/user#1232) })
+    object: OBJ(/daemon/mapper)
+
+    program: "/std/user.c"
+    file: "/std/user.c"
+    line: 805
+    function: "describe_current_room"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/4), "", "", "", "", "", "", "", "", "", "", UNDEFINED, UNDEFINED, 0 })
+    arguments: ({ 1 })
+    object: OBJ(vian /std/user#1232)
+
+    program: "/std/user.c"
+    file: "/std/user.c"
+    line: 993
+    function: "move_player"
+    locals: ({ OBJ(/wizards/vian/diran/rooms/tundra/3), 0, ({ OBJ(vian /std/user#1232) }), "/wizards/vian/diran/rooms/tundra/3", UNDEFINED, "wizards/vian/diran/rooms/tundra/4.c", UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, "", "", "north", "Vian enters.", 1, 1, 0, UNDEFINED, 0, UNDEFINED })
+    arguments: ({ "/wizards/vian/diran/rooms/tundra/4.c", "north" })
+    object: OBJ(vian /std/user#1232)
+
+    program: "/std/room/exits.c"
+    file: "/std/room/exits.c"
+    line: 731
+    function: "use_exit"
+    locals: ({ UNKNOWN })
+    arguments: ({ OBJ(vian /std/user#1232), "north" })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/3)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 62
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/3), "north", UNDEFINED, "north", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ UNDEFINED })
+    object: OBJ(vian /std/user#1232)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:04:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/4  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/4)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:14:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:19:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:29:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:39:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/4  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/4)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 17:46:53 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  (uid: vian euid: vian)
+   Caller object: /std/user#1232 (vian)
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+    program: "/std/room.c"
+    file: "/std/room.c"
+    line: 62
+    function: "create"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 7
+    function: "create"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 207
+    function: "make_map"
+    locals: ({ 3, ({ "southwest", "south", "southeast" }), 2, 0, 2, 38, 27, "south", UNDEFINED, 0, 2, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ OBJ(/wizards/vian/diran/rooms/tundra/4), ({ "on the ground. There are footprints visible moving in every%^RESET%^       %^RESET%^%^GREEN%^|%^RESET%^     ", "direction, animal and humanoid alike.                             %^RESET%^%^GREEN%^|%^RESET%^     " }), ({ "south" }), "bottom", 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "ansi" })
+    object: OBJ(/daemon/mapper)
+
+    program: "/daemon/mapper.c"
+    file: "/daemon/mapper.c"
+    line: 137
+    function: "mapper"
+    locals: ({ OBJ(/wizards/vian/diran/rooms/tundra/4), ({ "south", "north", "east", "here" }), ({ "The icy tundra seems to go on forever, as there is such limited%^RESET%^   %^RESET%^%^GREEN%^|%^RESET%^     [%^RESET%^%^GREEN%^*%^RESET%^]    ", "visibility. There are many rocks on the tundra, suggesting a%^RESET%^      %^RESET%^%^GREEN%^|%^RESET%^      |     ", "mountain nearby. A small, mostly dried pool of %^BOLD%^%^RED%^blood %^RESET%^can be seen%^RESET%^  %^RESET%^%^GREEN%^|%^RESET%^     [%^RESET%^%^RED%^X%^RESET%^]-[%^RESET%^%^GREEN%^*%^RESET%^]" }), ({ "The icy tundra seems to go on forever, as there is such limited%^RESET%^", "visibility. There are many rocks on the tundra, suggesting a%^RESET%^", "mountain nearby. A small, mostly dried pool of %^BOLD%^%^RED%^blood %^RESET%^can be seen%^RESET%^", "on the ground. There are footprints visible moving in every%^RESET%^", "direction, animal and humanoid alike. ", "" }), ({ "", "", "", "", "", "" }), "ansi", 79, 65, ([ "top" : 2, "total" : 5, "middle" : 1, "bottom" : 2 ]), "bottom", 0, 5, "bottom" })
+    arguments: ({ OBJ(vian /std/user#1232) })
+    object: OBJ(/daemon/mapper)
+
+    program: "/std/user.c"
+    file: "/std/user.c"
+    line: 805
+    function: "describe_current_room"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/4), "", "", "", "", "", "", "", "", "", "", UNDEFINED, UNDEFINED, 0 })
+    arguments: ({ 1 })
+    object: OBJ(vian /std/user#1232)
+
+    program: "/cmds/mortal/_look.c"
+    file: "/cmds/mortal/_look.c"
+    line: 65
+    function: "cmd_look"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/4), UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, 1 })
+    arguments: ({ UNDEFINED })
+    object: OBJ(/cmds/mortal/_look)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(vian /std/user#1232), OBJ(/wizards/vian/diran/rooms/tundra/4), "look", "/cmds/mortal/_look", "look", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ UNDEFINED })
+    object: OBJ(vian /std/user#1232)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 18:49:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 18:49:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 19:09:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 19:14:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 19:24:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 19:29:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 20:14:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 20:34:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 20:39:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 21:14:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 21:49:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 22:19:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/zone  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/zone)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 22:29:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 22:44:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 106
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 106
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 22:49:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/5  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/5)
+
+
+Error: *Error in loading object '/wizards/vian/diran/mobs/mob_inherit'
+   Time: Sat Jul 21 23:04:50 2012
+   Current object: /wizards/vian/diran/rooms/tundra/27  ()
+   Caller object: "No Caller Object" 
+   Current program: /wizards/vian/diran/rooms/tundra/zone.c
+   File: "/wizards/vian/diran/rooms/tundra/zone.c" Line: 102
+---------- TRACE - TRACE - TRACE ----------
+    program: "/wizards/vian/diran/rooms/tundra/zone.c"
+    file: "/wizards/vian/diran/rooms/tundra/zone.c"
+    line: 102
+    function: "reset"
+    arguments: ({ })
+    object: OBJ(/wizards/vian/diran/rooms/tundra/27)
+

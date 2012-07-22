@@ -1,0 +1,73 @@
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  x == ({1});; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'o' before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'hello' before ); return x; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ); return x; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun deep_inherit_list() before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Too many arguments to deep_inherit_list before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun deep_inherit_list() before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ;; }
+/wizards/ironman/cmds/_lines.c line 27: Invalid argument types to '+' ( string vs object ) before query_name()+" are s
+/wizards/ironman/cmds/_lines.c line 27: Undefined function query_name before +" are set to the fo
+/wizards/ironman/cmds/_lines.c line 9: Undefined variable 'help' before  return 1;}
+/wizards/ironman/cmds/_lines.c line 9: Undefined function help before ; return 1;}
+/wizards/ironman/cmds/_lines.c line 36: Undefined function query_blocked before ) TP-set_blocked( ch
+/wizards/ironman/cmds/_lines.c line 36: Bad argument number 1 to '-': "object " before  TP-set_blocked( cha
+/wizards/ironman/cmds/_lines.c line 36: Undefined function set_blocked before ; }
+/wizards/ironman/cmds/_lines.c line 36: Bad argument number 1 to '-': "object " before  }
+/wizards/ironman/cmds/_lines.c line 42: Bad argument number 1 to '-': "object " before  }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'x' before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'x' before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'closure' before  }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'closure' before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'closure' before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'x' before  { int a; string b; 
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  int a; string b; };
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/ironman/test.c line 6: Undefined variable 'x' before  a = my_num;
+/wizards/ironman/test.c line 6: Undefined variable 'a' before  my_num;
+/wizards/ironman/test.c line 6: Illegal lvalue before  my_num;
+/wizards/ironman/test.c line 7: Undefined variable 'b' before  my_name; }
+/wizards/ironman/test.c line 7: Illegal lvalue before  my_name; }
+/wizards/ironman/test.c line 7: Bad right argument to '>>' : "string " before  }
+/wizards/ironman/test.c line 3: Undefined class 'x' before  {
+/wizards/ironman/test.c line 3: parse error before the end of line
+/wizards/ironman/test.c line 7: parse error before  a = my_num;
+/wizards/ironman/test.c line 6: parse error before  a = my_num;
+/wizards/ironman/test.c line 6: parse error before  a = my_num;
+/wizards/ironman/test.c line 7: Undefined variable 'x' before  a = my_num;
+/wizards/ironman/test.c line 7: Undefined variable 'my_num' before the end of line
+/wizards/ironman/test.c line 8: Undefined variable 'my_name' before  
+/wizards/ironman/test.c line 8: Undefined variable 'my_num' before the end of line
+/wizards/ironman/test.c line 9: Undefined variable 'my_name' before  
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  x; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  y; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'typedef' before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'extern' before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'external' before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'register' before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  interger; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'set_smell' before "flower";"The flower
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Wrong number of arguments to set_smell
+    Expected: 2  Got: 0 before ;"flower";"The flowe
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined function size_of before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before 1];; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before >1];; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun deep_inherit_list() before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined function rnd before ]);; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined function is_user before ;; }
+/wizards/ironman/CMD_EVAL_TMP_FILE.c line 5: Undefined function user before ;; }

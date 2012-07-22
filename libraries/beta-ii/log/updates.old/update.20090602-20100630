@@ -1,0 +1,36 @@
+
+Update reported by Nulvect Tue Jun  2 11:30:42 2009
+* Work on monks is finished, including combo system and a better way to calculate sp and mp costs which has been applied to every monk spell and ability. Next up is antipaladin. While figuring out their new spell list, I hope to finish debugging the instance system and get that into play.
+
+Update reported by Nulvect Tue Jun 16 20:14:26 2009
+* Skill system update was put in. Some skill maxes and costs changed, a few subclasses gained or lost skills. Monsters should now load a little faster and if they have a class set, their skills will be set appropriately.
+
+Update reported by Stormbringer Fri Aug 28 13:47:13 2009
+* Exits were reworked to include entrances on a new line and exits can now use more than one word. Credits were updated.
+
+Update reported by Stormbringer Mon Aug 31 12:17:47 2009
+* Website was updated with a new look and we added the Fmud client to the website.
+
+Update reported by Stormbringer Thu Sep 10 17:26:26 2009
+* New area opened adding 160+ rooms and 20+ mob types to the mud.
+
+Update reported by Stormbringer Sat Sep 12 21:49:53 2009
+* Purgatory was changed to level 80+ to accomodate the few legend or near legend players we have. This allows them someplace to xp. All mobs there are now either legend lever or close to it. If you are not legend or you are not prepaired to die you should stay out of Purgatory and the area immediately surrounding it.
+
+Update reported by Stormbringer Sun Nov 22 01:54:26 2009
+* Zolenia was opened, the Drow now have a kingdom.
+
+Update reported by Nulvect Mon Dec 21 02:21:13 2009
+* Big changes to monsters and exp. The stats of a monster will now be tweaked based on its race and class, and its vitals will depend partially on its stats. So faeries will have lower con and hp, but higher dex, int, wis, sp, and mp, for example. Extra experience point bonuses were put into play for large monsters in general, and also for killing things that are bigger than you. You get the best of the two automatically. Lower level monsters will give better exp now as well.
+
+Update reported by Stormbringer Tue Apr 20 20:34:37 2010
+* New command put in called commandlist which lists all commands that are available to you.
+
+Update reported by Stormbringer Tue Apr 20 20:34:53 2010
+* Commandlist was put in by drackmire.
+
+Update reported by Nulvect Mon Apr 26 02:46:06 2010
+* Some progress on the instance system. Subclass-specific stat bonuses were put in, in place of class-specific ones. Work on Antipaladins has been going smoothly. They've gained 6 unique spells and abilities so far, with two more in the works plus one last open slot in their spell list which is yet to be filled. One of the spells in the works requires changes to weapon special code which will take a while. One spell they've gained already needs to be updated. So that's one minor spell update, one major mudwide update, one spell to finish up, and one slot left to fill in. Then it will be on to sorcerors.
+
+Update reported by Nulvect Wed Jun 30 18:10:40 2010
+* Antipaladins were finished, now working on Sorcerors. About half of their old spells have been replaced, for a total of 9 removed and 8 new ones put in at this moment. Still have 6-7 spells to add. All mage basic conjuring spells may get tweaked as well.

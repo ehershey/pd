@@ -1,0 +1,30 @@
+Praise given by Kumi Thu Jan  1 05:24:56 2004
+/wizards/powerman/arm/malshiel#1054: hey this is a nice shield, keep up the good work. it shields me from stuff probably.
+Idea reported by Smite Tue Sep 21 02:41:30 2004
+/wizards/powerman/room/foresteastb7: any race should be able to ride dragons
+Bug reported by Smite:
+/wizards/powerman/room/forestmidb1: dispell all is bugge
+Bug reported by Smite:
+/wizards/powerman/room/forestwesta6: a lot of people set wimpy to 99% to fight
+buff mobs to get rare equipments. wimpy on should have a maximum % of 50% max or
+something of the sort to prevent this.
+Bug reported by Cortoth:
+/wizards/powerman/room/forestwestb2: hp: 2572|sp: 1712|mp: 2907 >  You
+sacrifice the corpse to the gods. You get A Branch from the corpse. For some
+reason it does not fit... You get A Branch from the corpse. ERROR: An error
+has occured.  Please mail an immortal with information on what you were doing
+at the time of this error and the following information: Error: *Too long
+evaluation. Execution aborted. File: "/std/object.c" Line: 243 You sacrifice
+the corpse to the gods. You get Shield of Malcolm's Army from the corpse. 
+Bug reported by Cortoth:
+/wizards/powerman/room/forestwestb3: ERROR: An error has occured.  Please
+mail an immortal with information on what you were doing at the time of this
+error and the following information: Error: *Too long evaluation. Execution
+aborted. File: "/adm/simul_efun/parse_objects.c" Line: 17 It has already been
+enchanted.   enchanting a ring that was already enchanted... 
+Bug reported by Cortoth:
+/wizards/powerman/room/forestwestb3: You get A Branch from the corpse. For
+some reason it does not fit... You get A Branch from the corpse. ERROR: An
+error has occured.  Please mail an immortal with information on what you were
+doing at the time of this error and the following information: Error: *Too
+long evaluation. Execution aborted. File: "/std/object.c" Line: 243 

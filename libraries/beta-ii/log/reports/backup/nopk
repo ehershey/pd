@@ -1,0 +1,256 @@
+Bug reported by Rubicante:
+/d/nopk/tirun/square: I cant fly.
+Bug reported by Crem:
+/d/nopk/tirun/square: The exit in the sewers will not let me out. The exit
+path is not set correctly. 
+Idea reported by Oosen Thu Mar 20 21:17:33 2003
+/d/nopk/tirun/armour: alter the list command to accpet a body part as an argument, so I could type list torso and get all items that could be equipped on the torso instead of having to do list armor, list armour, list platemail, list chainmail, etc.
+Bug reported by Rezaiga:
+/d/nopk/tirun/square7: i bought a flail from rejik the peddler and it didn't
+appear in my inventory.
+Typo reported by Nesoo:
+/d/nopk/standard/rain_forest/palace3: "The carpet have been embroided with
+animals." "have been" s/b "has been" or "is"
+Typo reported by Nesoo:
+/d/nopk/standard/rain_forest/palace3: "It is plain white with nice carpet."
+"with nice carpet" s/b "with a nice carpet"
+Typo reported by Nesoo:
+/d/nopk/standard/rain_forest/palace3: "been embroided with" "embroided" s/b
+"embroidered." I can't believe I missed that on the first typo :)
+Typo reported by Kenjiru:
+/d/nopk/standard/rain_forest/shop3: You bash Mauder on the back of the head!
+Mauder falls to the gruond!  RIGHT TO THE GRUOND! 
+Bug reported by A shadow:
+/d/nopk/tirun/armour: pk is in what about steal?
+Bug reported by Shinkoro:
+/d/nopk/standard/cemetary/building: Newbie cant become
+Antipaladin......please check it out. 
+Bug reported by Yakko:
+/d/nopk/tirun/obj/mon/jalix#85759: Jalix is bugged  *call_other() couldn't
+find object 
+Bug reported by Tyste:
+/d/nopk/standard/rain_forest/puddle: the 'climb vines' exit no longer works
+properly
+Bug reported by Titanis:
+/d/nopk/tirun/mage_hall: the command list in mage hall is bug... it doesn't work
+Bug reported by Oosen:
+/d/nopk/standard/rain_forest/palace10: the command Convert doesn't have a help
+file. "That command exists, but has no help.  Please use the bug command to
+report it."
+Bug reported by A shadow:
+/d/nopk/standard/outlands/jungle1: The exits in
+/d/nopk/standard/outlands/jungle1.c are still in /d/tirun.........needs to be
+changed. 
+Bug reported by Rubicante:
+/d/nopk/standard/cemetary/coffin9: cant get into kataan hall
+Bug reported by Rubicante:
+/d/nopk/tirun/clergy/kataan/kataan_hall: exit from kataan room is bugged
+Bug reported by Aziraphale:
+/d/nopk/arlon/room/oasis: tellblock stops you from receiving the 'You cure your
+wounds through prayer" message.
+Bug reported by Kenjiru:
+/d/nopk/tirun/rogue_hall: <list> in the class halls bugs
+Bug reported by Ithilgore:
+/d/nopk/tirun/pub: My gate is bugged. I can't gate anywhere that i have
+marked and when i type gate list it says. !ERROR! This is a bug. Please
+contact an admin. 
+Bug reported by Ithilgore:
+/d/nopk/tirun/square: Last reboot i lost a good portion of my eq. And that eq
+isn't easy too get at all. I am alittle useless with a good amount of my eq
+gone and not being able to use my gate abilites becuase its bugged too. 
+Typo reported by Nocturne:
+/d/nopk/tirun/square: Dungeon key + Dungeon key = Dungeon keies? Don't think so.
+Bug reported by Vorath:
+/d/nopk/tirun/delivery/headmaster#95193: headmaster of the warehouse
+Bug reported by Pyro:
+/d/nopk/arlon/room/square: when i entered arlon i got a message
+"*call_other() couldn't find object" 
+Bug reported by A shadow:
+/d/nopk/tirun/armour: steal It doesnt work
+yet!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Bug reported by Gracelda:
+/d/nopk/tirun/wand/gypsy/gypsy_join: The out exit for gypsy hall does not
+work 
+Bug reported by Yakko:
+/d/nopk/tirun/post: mail
+Bug reported by Yakko:
+/d/nopk/tirun/obj/misc/seal_blank#87509: *call_other() couldn't find object  
+Mystical energies engulf you!  
+Typo reported by Nightshade:
+/d/nopk/tirun/square: blood rings..  females raise "his" head to the sky as
+bloodlust fills "his" veins.  (need a gender check)
+Typo reported by Wisp:
+/d/nopk/tirun/square5: buisness, probably should be business
+Idea reported by Sting Sat Mar 29 23:01:00 2003
+/d/nopk/tirun/square: give thieves track
+Idea reported by Daos Sun Mar 30 17:55:31 2003
+/d/nopk/tirun/wand/gypsy/gypsy_join: moved over from the bug log (nisel), assassins need more skills
+Idea reported by Daos Sun Mar 30 17:56:51 2003
+/d/nopk/tirun/wand/gypsy/gypsy_join: (nisel) moved over from the bug log, assassins need more skills
+Typo reported by Lafinne:
+/d/nopk/tirun/sveros5: q look ^h 
+Typo reported by Lafinne:
+/d/nopk/tirun/sveros5: Weaponsmaster is spelled incorrectly in the help
+Fighter file. 
+Bug reported by Seth:
+/d/nopk/tirun/square: the command convert has no help file
+Praise given by Cars Sat Apr  5 20:26:50 2003
+/d/nopk/tirun/square: imp well
+Praise given by Cars Sat Apr  5 20:26:58 2003
+/d/nopk/tirun/obj/mon/townguard#17: well
+Praise given by Cars Sat Apr  5 20:29:14 2003
+/d/nopk/tirun/sganthus1: guard well
+Praise given by Cars Sat Apr  5 20:29:36 2003
+/d/nopk/tirun/obj/mon/garon#17278: well
+Praise given by Cars Sat Apr  5 20:39:12 2003
+/d/nopk/tirun/obj/mon/patrick#16248: well
+Praise given by Cars Sat Apr  5 20:56:05 2003
+/d/nopk/tirun/square5: begar well
+Praise given by Cars Sat Apr  5 21:02:37 2003
+/d/nopk/tirun/obj/mon/sage#971: greatly
+Bug reported by Cars:
+/d/nopk/tirun/obj/mon/oldman#18965: > 
+Bug reported by Smite:
+/d/nopk/tirun/square: guild items that heal you should take as a round action.
+and also shouldnt be able to used when paralyzed
+Bug reported by Pyro:
+/d/nopk/tirun/square: I logged on at ermm... monday april 2003... not sure
+what date... and I got *call_other() couldn't find object. 
+Bug reported by Yakko:
+/d/nopk/tirun/magehouse: Bronze Bow makes me lose my Heart beat
+Bug reported by Vendetta:
+/d/nopk/standard/rain_forest/square: got    *call_other() couldn't find object
+Praise given by Gorlag Thu Apr 10 11:30:39 2003
+/d/nopk/tirun/monastery: the horse
+Idea reported by Anguish Mon Apr 14 06:18:35 2003
+/d/nopk/tirun/square: make it possible for you to train/improve in guild halls..maybe just not advance.
+Typo reported by Byblos:
+/d/nopk/tirun/square8: message that people see when non darksoul members try to
+wield the darkness..it says angrist burns them instead of darkness.
+Bug reported by Noa:
+/d/nopk/tirun/monastery: break merk
+Bug reported by Risca:
+/d/nopk/standard/rain_forest/village3: when you peer s from this room..(1
+north of statue of elf) it gives you "*call_other() couldn't find object 
+Bug reported by Bayushi:
+/d/nopk/standard/rain_forest/palace10: annihilate uses up sp, not mp, not
+sure if thats correct, if it is, then annihilate should be under abilities,
+not spells right :) 
+Idea reported by Glance Fri May  2 23:31:50 2003
+/d/nopk/tirun/tannery: Every skin sold is worth 2 silver.  A fox, bear, bear, or predatory cat's skin should be worth more than a skunk or chipmunks skin.
+Bug reported by Bettina:
+/d/nopk/standard/cult/ent: um.. something about my backstab is a bug im not
+really sure what it is, but it told me to report it. for some reason i killed
+the monster and its still there n  n l 
+Bug reported by Lumeka:
+/d/nopk/standard/outlands/dust3: jagged-dagger when i search for it i get:
+!ERROR! This is a bug. Please contact an admin.
+Bug reported by Noa:
+/d/nopk/tirun/square: death
+Bug reported by Necrite:
+/d/nopk/tirun/mage/necromancer/necromancer_hall: when i type gate list, it
+says this is an error please contact an admin. 
+Bug reported by Cortoth:
+/d/nopk/tirun/deliv_warehouse: The headmaster says: Ahh, so you wish to take
+a job for me.  Well.. I have a package that needs delivering right now. You
+must realize, it is no easy task.  These customers are ruthless, and demand
+quick service.  Be fast. The headmaster rushes you along.  Hurry! hp: 360|sp:
+116|mp: 365 >   hp: 360|sp: 120|mp: 365 >  inventory money +=+=( Inventory
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+               
+Name                               Autoload   Weight
++-----------------------------------------------+-----------+--------+ | A
+butler's cane                               |    No     |   6    | | A long,
+deadly scimitar                       |    Yes    |   20   | | Steel
+Platemail                               |    Yes    |   50   | | A steel
+helmet                                |    Yes    |   10   | | The gate key  
+|    No     |   1    | | A small silver key                            |   
+No     |   1    | | Two Elven Chainmails                          |    All   
+|   70   | | Two elven longswords                          |    All    |   14
+| |-------------------------------------+---------+-----------+--------' | 
+Total Weight: 66% (172/259)        |  '-------------------------------------'
+hp: 360|sp: 120|mp: 365 >  +=+=( Money
+)=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+ 794 gold,
+17 electrum, and 23 platinum.
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+hp: 360|sp: 120|mp: 365 >  aj You have not turned in your last receipt, so I
+cannot give you another package!    inventory money wasn't given a package or
+a shopkeeper to deliver to...  and yet the Harbormaster wants a receipt???
+was one of the shopkeepers removed from the game???  doh, forgot that my
+alias for inventory money is the 9th letter of the alphabet and a commonly
+used pronoun :p 
+Bug reported by Lac:
+/d/nopk/tirun/square: rest
+Idea reported by Muramasa Mon Aug 25 07:30:03 2003
+/d/nopk/tirun/fighter_hall: Dragons..too many..make less..1 of each maybe, etc. Delete inactive ones, etc. blah blah <The four hatchlings of the age have been chosen!><quest closes><5-10 mud years later><quest opens><The four blah blah etc etc.
+Idea reported by Anguish Mon Aug 25 11:34:51 2003
+/d/nopk/tirun/pub: Lars...buy number drinkname
+Bug reported by Fhandarelle:
+/d/nopk/tirun/weaponsmith_shop: when you <fix weapon> in the weaponsmith's shop
+it gives "call_other() couldn't find object"
+Bug reported by Lac:
+/d/nopk/tirun/square: buddylist
+Bug reported by Muramasa:
+/d/nopk/tirun/supply: darksoul and AoD guild items -> you can wield them with
+zero skill
+Idea reported by Tahngarth Thu Aug 28 22:30:57 2003
+/d/nopk/standard/daroq/cave3: berserkers should get 6 points of axe since viking berserkers are reknowned for their axe wielding abilities
+Typo reported by Fhandarelle:
+/d/nopk/tirun/bank: description for horses says "main" but it's spelled "mane"
+Bug reported by Tarfand:
+/d/nopk/tirun/rogue/thief/thief_hall: the peek command does not work at all
+Typo reported by Cookie:
+/d/nopk/tirun/sage_room: in help shout it says "Misuse of this popwer..." and it
+should be "power". So, yea.
+Idea reported by Cookie Mon Sep 15 12:29:32 2003
+/d/nopk/tirun/sage_room: Offenses should have a time limit. After like a year in game time... 1 major offense should be removed... or like, 3 minor offenses. Maybe remove 1 minor offense every 4 months or so. Major offenses have the priority, so minor offenses won't disapear until the major offenses are gone. Kinda like you have to pay off your biggest crime first in real life. Anyways... just my thought. thanks.
+Bug reported by Fhandarelle:
+/d/nopk/tirun/square7: when I sing song of darkness to something, after a little
+bit it says "!ERROR! This is a bug. Please contact an admin.", and once it
+wouldn't let me sing anymore songs after that
+Bug reported by Ketsum:
+/d/nopk/forest/forest83: the wanderer guild hall doesn't have any of the
+advancement commands in it's desc nor does the swashbuckler one.... like roll
+stats train cost etc. 
+Typo reported by Rethlan:
+/d/nopk/tirun/mage/mage_join: on the bandit's blackjack, non thieves get a typo
+trying to wield: experiance should be experience
+Bug reported by Tsuke:
+/d/nopk/tirun/bank: the bank dosn't count copper and silver correctly in the
+total section.  
+Bug reported by Balmung:
+/d/nopk/standard/cult/echamber: i was resting and mounted a brown horse. when i
+tried to leave the room i stopped resting but an error message showed up.
+Bug reported by Rethlan:
+/d/nopk/tirun/sage_room: several times when i have gone to study languages, it
+says i am studying but won't raise any language skills or decrease experience...
+Bug reported by Kaladen:
+/d/nopk/tirun/sage_room: problem with studying, if there is more than one person
+there the peoples study efforts combine, i was studying nysaali whilst also
+learning dragonian, ravage was learning daklar, dragonian and nysaali
+Bug reported by Rashka:
+/d/nopk/forest/forest78: tame only makes mobs follow you, it doesn't bend it to
+their will... the mobs should attack the enemy of their masters
+Bug reported by Rashka:
+/d/nopk/tirun/square7: build shelter is bugged
+Bug reported by Rashka:
+/d/nopk/tirun/square: build fire is bugged too
+Idea reported by Rashka Thu Oct  2 12:35:03 2003
+/d/nopk/tirun/fighter/ranger/ranger_hall: Ranger balance please read on Rangers Subclass Board
+Bug reported by Draiman:
+/d/nopk/tirun/hhouse/3: I think the armour in the scary house doesn't wanna
+die ok thanks 
+Bug reported by Tsuke:
+/d/nopk/forest/path/room/forest8: bugged room in forest north of tirun. not sure
+exactly which one it is..
+Bug reported by Pyro:
+/d/nopk/tirun/square: l Q i q 
+Bug reported by Kaladen:
+/d/nopk/tirun/pubstart: i lost all of my eq, its my first login after the server
+move. all eq items auto'd these included 7 guild rings, 2 diamond bladed
+longswords 1 starscream and lots of items of armour
+Typo reported by Yogo:
+/d/nopk/tirun/mage/sorceror/sorceror_join: Sorcerors are minipulators of the
+mind. Quite intelligent and potentially adept as mages, the sorceror can
+inflict heavy damage to a person's mind rather than their body.  Should be  
+Quite intelligent and potentially adept as mage. The sorceror can inflict
+heavy damage to a person's mind rather than their body.  Thank You 

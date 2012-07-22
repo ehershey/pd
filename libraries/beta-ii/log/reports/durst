@@ -1,0 +1,49 @@
+Typo reported by Nulvect:
+/d/durst/room/muabark021: the giant lizard here, long desc "...scales covering
+it's body" should be its body
+Bug reported by Endbringer:
+/d/durst/room/muabark053: the items of the desert seem to duplicate
+Bug reported by Leviathas:
+/d/durst/room/muabark040: Sometimes when I'm fighting a wandering monster,
+it'll leave the room but my slash for that round still hits it, after it's
+gone.  Leviathas 
+Bug reported by Leviathas:
+/d/durst/room/muabark053: You see scorpion north. You see snake north. You
+see Human north. You see nothing west You see lizard northwest. You see
+scorpion northwest. You see nothing southeast /d/durst/room/nes_oasis.c line
+13: Wrong number of arguments to set_property     Expected: 2  Got: 1 before 
+>  peer s /d/durst/room/nes_oasis.c line 13: Wrong number of arguments to
+set_property     Expected: 2  Got: 1 before  ERROR: An error has occured. 
+Please mail an immortal with information on what you were doing at the time
+of this error and the following information: Error: *Error in loading object
+'/d/durst/room/nes_oasis' File: "/cmds/mortal/_peer.c" Line: 45 
+Bug reported by Leviathas:
+/d/durst/room/md-skeleton: search skeleton You find a small canteen in the
+skeleton's hand. /d/durst/item/nes_canteen.c line 66: Type of returned value
+doesn't match function return type ( int vs string ) before the end of line
+ERROR: An error has occured.  Please mail an immortal with information on
+what you were doing at the time of this error and the following information:
+Error: *Error in loading object '/d/durst/item/nes_canteen' File:
+"/d/durst/room/md-skeleton.c" Line: 60  
+Idea reported by Endbringer Wed Apr  6 10:12:27 2005
+/d/durst/room/muabark015: Dunsinane equipment value raised about 2-20 gold
+Bug reported by Endbringer:
+/d/durst/room/muabark005: You go outlaw when steal fails in a no-law zone.
+Praise given by Sabado Sun Apr  2 17:48:42 2006
+/d/durst/room/muabark020: I really enjoy the elite ointment. Seems to be just a bit above but not superpowered. I am very glad it was coded and hope to see it in-game soon on a permanent basis. :)
+Bug reported by Endbringer:
+/d/durst/room/muabark063: possible bug: i've heard reports of vigor causing
+magical abilites to cost less mana
+Praise given by Uzamaki Thu Aug 31 03:54:02 2006
+/d/durst/room/muabark036: Some imm up there rocks!!!
+Typo reported by Sabbathiel:
+/d/durst/room/muabark001: breath should be breathe
+Bug reported by Axenos:
+/d/durst/room/muabark003: I thought juggling with lit torches might give the
+opponent some fire damage, but doesnt seem so. Is this right? Just asking. :)
+Bug reported by Iksrtfo:
+/d/durst/room/muabark060: Trap doesnt seem to work on nomads in desert. I dont
+see any message that it is even factored in for them. Could you look into it,
+please? Thanks. :)
+Idea reported by Drongo Fri Apr 24 10:00:45 2009
+/d/durst/room/muabark014: it'd be awesome if there was some message for when your kazoo's inspiration wears off

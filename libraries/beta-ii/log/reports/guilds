@@ -1,0 +1,218 @@
+Idea reported by Shadimar Sun Dec 28 20:04:26 2003
+/d/guilds/vorticon/hall: undeads should leave a murder charge in a law zone (on the player/pker)
+Idea reported by Lac Mon Dec 29 21:01:27 2003
+/d/guilds/leadermeet: cant remember if i ideaded it before or not..: guildline for all guildmembers in PD: eg; <Guild> Lac <Forsaken> ... | so we can have guils arguements and stuff without spamming newbie :)
+Praise given by Kumi Thu Jan  1 05:23:14 2004
+/d/guilds/ethereal/objects/wingmail#1074: thank you kumi for writing such a great set of armour for my lovely wings, if it was not for you my wings would be soooo damaged. :( thanks kumi *kiss*
+Idea reported by Galdur Sun Feb  1 20:23:44 2004
+/d/guilds/forsaken/hall: Wiz me?
+Bug reported by Youjutsu:
+/d/guilds/ethereal/hall: hall Illuminati's hall (east from level 2) leads to the
+Ethereal Guild treasury.
+Bug reported by Muramasa:
+/d/guilds/illuminati/rooms/armshop: member's band for illuminati ...<You have no
+right hand!>
+Bug reported by Aravi:
+/d/guilds/illuminati/new/board: unable to quit
+Bug reported by Cookie:
+/d/guilds/ethereal/locker: I went to my guild hall, Ethereal's, and I couldn't
+reclaim an item I stored in our storage room. I got a message saying "It seems
+that your object cannot be found. Please bug this error." So, yea, I'm doing
+that.
+Bug reported by A shadow:
+/d/guilds/ethereal/prayer: cloak. every time im cloaked and im just sitting here
+doing nothing not even poisoned. i loose hp/sp/and mp. and this was proven by me
+and Bellos
+Bug reported by Ruin:
+/d/guilds/vorticon/hall: my alt daboura is bugged 
+Bug reported by Sasayaki:
+/d/guilds/illuminati/prayer: here The name of this room is 0.
+Bug reported by Sasayaki:
+/d/guilds/illuminati/itemshop: here This room has no exits and no description. I
+got to it by going se from the Illuminati Hall, where the Illuminati Board is.
+Bug reported by Sasayaki:
+/d/guilds/illuminati/stoneshop: here This room has no exits and no description.
+I got to it by going sw from the Illuminati Hall, where the Illuminati Board is.
+There's another just like it to the se.
+Praise given by Kumi Tue Mar 23 19:16:01 2004
+/d/guilds/ethereal/hall: primal-council thank you whit for this :)
+Bug reported by A shadow:
+/d/guilds/forsaken/hall: cant put stuff in my pack
+Bug reported by Nesoo:
+/d/guilds/dw/entrance: /d/guilds/dw/hall.c line 84: syntax error before the end
+of line
+Bug reported by Enigma:
+/d/guilds/ethereal/hall: in the sand castle there is a bug, when you enter
+the sand castle you cannot exit, and there is no message that tells you that
+the doorway has somehow dissapeared. Also, the description says that it is 4
+feet tall, yet it is two stories, there is no way my character could fit in 2
+ft of a room. Also, when you try to go up to the third story you appear
+outside without any type of message telling you that ymagic was involved.
+This is very comfusing for us players with no imagination. thank you for your
+time. 
+Bug reported by Daboura:
+/d/guilds/dw/hall: egg
+Bug reported by Daboura:
+/d/guilds/dw/hall: egg
+Bug reported by Daboura:
+/d/guilds/dw/hall: I just killed matt in tenebrie, and I didn't go outlaw
+Bug reported by Gongra:
+/d/guilds/AoD/special/helmet#59114: kabuto It has no ac :P
+Bug reported by Dojima:
+/d/guilds/dw/oilshop: egg
+Bug reported by Djerr:
+/d/guilds/newethereal/ethereal/room/4-4: When wielding the bow of light, it
+checks to see if i have enough talent AFTER it allocates the hand.  Please
+either change the code order or something. Not sure if it's all weapons, or
+just the bow of light. 
+Bug reported by Tauran:
+/d/guilds/newethereal/ethereal/room/1-1: 
+Bug reported by Tauran:
+/d/guilds/newethereal/ethereal/room/1-1: in roston, ive been exping there a
+few times, and nearly always accidently kill the town guard, and its starting
+to get annoying cuz i become outlaw, is there anyway we can make this a peace
+zone or something? 
+Bug reported by Aziraphale:
+/d/guilds/illuminati/rooms/armshop: In the Illuminati armour shop, when I use
+sell all the mud instantly crashes and resets.  I sold each individual item
+in my inventory that could be sold here, except for some boots that I buried,
+and it was fine. I am thinking it could be something to do with how the mud
+handles objects that are being worn/wielded, or something. 
+Bug reported by Eios:
+/d/guilds/forsaken/hall: buddylist crashes the mud
+Bug reported by Lac:
+/d/guilds/forsaken/hall: buddylist = crashed mud
+Bug reported by Scourge:
+/d/guilds/illuminati/new/weapshop: Many of Illuminati's old guild items are
+available in the old hall (down, up, e and west from the guild meeting
+board). Could we just get it fixed that leaving the guild meeting board takes
+us to our new hall and just delete the old one completely? 
+Idea reported by Smite Sat Jul 31 20:26:53 2004
+/d/guilds/forsaken/hall: rogues can fake idle times..like "set idle 5 30" would set idle 5 hours 30 minutes..and it would then continue to count up from there..:p
+Bug reported by Yakko:
+/d/guilds/darksoul/merk/hall: i was able to unwield claws while in the
+backstab delay 
+Bug reported by Scourge:
+/d/guilds/illuminati/rooms/scry: When a character cides, if they
+automatically remake under the same name, they are still in the guild they
+were in before. This makes it so that another player could remake another
+person's charcter and end up in a guild without ever being properly
+"inducted" into the guild.  
+Bug reported by Smite:
+/d/guilds/forsaken/mistroom: umm  ppl can rub ointments/guild items/oils etc
+while being frozen.. he said something about it not checking that your para'd
+for the add_action umm later:P
+Idea reported by Yunalesca Fri Aug 27 01:52:43 2004
+/d/guilds/dw/hall: help mounts - A help file documenting the commands for mounts, as well as what mounts are so that newbies are aware of their existance.
+Idea reported by Tahngarth Wed Sep 15 22:08:17 2004
+/d/guilds/darksoul/view_room: trainable pets that can be commanded and gain abilities as they lvl
+Idea reported by Tahngarth Wed Sep 15 22:08:45 2004
+/d/guilds/darksoul/view_room: arena record, wins/losses average level of player fought
+Bug reported by Tahngarth:
+/d/guilds/darksoul/view_room: blue dragon's breathe is too overpowered as a pk
+spell, it paralyzes 100% of the time, drains sp and mp to -200, this stops
+anyone from running away, so a blue dragon can actually pk someone like
+aziraphale provided they have shrunken heads or some other mana regen
+Bug reported by Beleqwaya:
+/d/guilds/newethereal/ethereal/room/2-4: room The room keeps reverting back to
+"No obvious exits"
+Bug reported by Guile:
+/d/guilds/unholy/hall: emote For some weird reason, there is a coding error
+which shows the % and ^ on the screen when you try to emote in color.  I used
+both Gmud and Zmud with the same results.  I have seen this on other muds, yet
+can't recall the part of the code that contains the error.
+Bug reported by Leviathas:
+/d/guilds/unholy/hall: I don't know if this is a bug or not, but I buy
+something like 50 breath of Asmodeus max, I think, and this is the second
+time I've ended up with  Thirteen breaths of Asmodeus (fifteen uses lef|     
+Am I mistaken or is that 195 uses?    I'd appreciate a reply on this if
+possible.  I never use this many...  so I'm not gaining from it if it's a
+bug.  They just end up dropped in my hall.  Thanks  Leviathas 
+Bug reported by Leviathas:
+/d/guilds/unholy/hall: K... This is in regards to the treaty  I hold you and
+wildflower in the highest respect. You guys rock. But Freet is going to die.
+I will leave the treaty over this but i hate that little snot. he says he's
+gonna try and kill me and i plan to let him have the chance. he will die. he
+has pissed off a large part of my guild now and i know wraith doesnt like him
+either. He's a disgrace to your guild man.   BTW i except to see you on more
+so you can get up and party with me again lol :)  -- Ashram    % %
+<Malefactor> Fallen <unholy> i could donate your corpse to aod for them to
+make more sacks with Vian <newbie> http://www.wlhs.wlwv.k12.or.us q 
+Bug reported by Piehl:
+/d/guilds/unholy/hall: For some reason all of my equipment is gone. I just now
+noticed that nothing is on me and I know what I had.
+Bug reported by Faust:
+/d/guilds/darksoul/treasury: /daemon/treasury.c line 111: Type of returned
+value doesn't match function return type ( string vs int ) before the end of
+line /daemon/treasury.c line 119: Type of returned value doesn't match
+function return type ( string vs int ) before the end of line ERROR: An error
+has occured.  Please mail an immortal with information on what you were doing
+at the time of this error and the following information: Error: *Error in
+loading object '/daemon/treasury' File: "/std/guild/treasury.c" Line: 167 
+Bug reported by Paranoia:
+/d/guilds/illuminati/rooms/floor2: entering our guild when error occured,
+Error: *Error in loading object '/d/guilds/illuminati/weapon/kratak'         
+File: "/d/guilds/illuminati/rooms/weaponstorage.c" Line: 13 
+Bug reported by Paranoia:
+/d/guilds/illuminati/rooms/floor2: also one of our shop keepers is missing
+from our guild hall, and if you go into the room where he was the only way to
+get out is to quit out. 
+Idea reported by Rueznor Wed Feb 16 12:51:31 2005
+/d/guilds/illuminati/rooms/tenehall: Command in bars, buy 75 quickening, instead of having to buy quickening 75 times.
+Idea reported by Rueznor Thu Feb 17 00:19:14 2005
+/d/guilds/illuminati/rooms/board: Have the CHFN general data be like a post, so it's easier to format it.. IE:  You can hit enter, and stay in it, to make spacing easier
+Typo reported by Loathe:
+/d/guilds/forsaken/itemshop: Spider sack - Forsaken hall - This sack has been
+sewn from the webbing of an acient Dire Spider - should be Ancient
+Bug reported by Dubbya:
+/d/guilds/forsaken/itemshop: I found a bug with auction, endy might report it
+as well I think you can deposit money into your bank as it's bidded on your
+auction then when the auction is over you receive it agian 
+Typo reported by Cortoth:
+/d/guilds/dw/vote: list The following people whould like to join:  There is
+currently no one wanting to join.  * indicates that you have already voted
+for that player.   'whould' should be 'would' 
+Idea reported by Vorinn Sat Apr  9 18:20:22 2005
+/d/guilds/AoD/store: Mounted messages, like the level 20 in/out messages.  mmessage in charges in, with $P2 on his back!  mmessage out charges with $P2 on his back to the ,  for example
+Typo reported by Cortoth:
+/d/guilds/dw/vote: The following people whould like to join: <'whould' should be
+'would'>
+Idea reported by Cenn Wed Jul  6 16:58:41 2005
+/d/guilds/unholy/hall: give us guild updates
+Idea reported by Endbringer Sat Oct  1 20:18:09 2005
+/d/guilds/forsaken/purghall: drop every <item> drops every item of type specified, and only shows it in one line instead of spamming. "Endbringer drops all his swords"
+Bug reported by Myst:
+/d/guilds/darksoul/view_room: when you PK a player you get 2 murder offences
+instead of just 1.
+Bug reported by Vyce:
+/d/guilds/darksoul/view_room: gore starts combat in "peace" rooms. No attacks
+are traded but you are counted as in combat
+Bug reported by Rhuan:
+/d/guilds/darksoul/treasury: one PK = 2 murder offences
+Bug reported by Tal:
+/d/guilds/darksoul/hall: if you get a druid to use their buffs on you before
+you remort, it acts as your actual stats, so if your str is 100 and you get a
+druid buff to raise strength to 110 and remort, instead of being 50 it will
+be 55 and it wont change back 
+Bug reported by Tal:
+/d/guilds/darksoul/hall: when you are gagged, you can still speak on the
+colosseum line 
+Bug reported by Bahamut:
+/d/guilds/forsaken/obj/healfire#21982: The fire makes things buggy. I went to
+-94 hp but the fire saved my life since it was invoked after I went to -hp
+and was saved from it. Not sure if it is meant to be like this. 
+Idea reported by Skunk Mon Oct 15 17:28:30 2007
+/d/guilds/unholy/hall: add times to the 'last' command
+Idea reported by Escobar Thu Jun 12 21:45:59 2008
+/d/guilds/darksoul/hall: there needs to be a mob called Work, so you can kick its ass every once in a while.
+Idea reported by Amaki Mon Jul 14 01:47:46 2008
+/d/guilds/forsaken/hall: Would it be okay if we had a 'last honey' line to be able to review it like a normal line? Thanks for reading/considering this.
+Bug reported by Pyro:
+/d/guilds/dw/hall: there are two boards in /d/guilds/dw/hall right now. I'm
+not sure why to be honest, I looked over the code, and the board should only
+be created when the room is created. 
+Bug reported by Ozzymandias:
+/d/guilds/vorticon/shop: i can peer north from the vorticon guild shop into the
+storage area. can just peer not enter, but the desc says to bug it so i am
+Bug reported by Ozzymandias:
+/d/guilds/darksoul/hall: Cenn still shows as being in the guild Vorticon

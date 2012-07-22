@@ -1,0 +1,68 @@
+Praise given by Kumi Thu Jan  1 05:24:40 2004
+/wizards/detach/forbiden/obj/a8#1055: this is one of the best cloaks, after wolfskin, in pd, plus it's real stylish and matches my general .. uhm like color choice yah thanks.
+Praise given by Kumi Thu Jan  1 05:25:06 2004
+/wizards/detach/forbiden/obj/a9#1053: WOWWWW these are nice boots, too bad they don't protect my feet :(
+Bug reported by Sasayaki:
+/wizards/detach/forbiden/obj/boots#73640: boots These boots have two full stops
+at the end of their description.
+Bug reported by Sasayaki:
+/wizards/detach/forbiden/rooms/room185: here The listen message for this room
+has leaves spelt incorrectly.
+Bug reported by Sasayaki:
+/wizards/detach/darkmouth/77: here There is a room missing to the north here.
+Bug reported by Sasayaki:
+/wizards/detach/darkmouth/mob/troll#62292: troll The troll's description is
+either a bad attempt at a pun or else typo'd. 'hole' should be 'whole'.
+Typo reported by Nesoo:
+/wizards/detach/azeria/obj/7#636: hammer Not really a typo, just a test, sorry
+Typo reported by Endbringer:
+/wizards/detach/forbiden/rooms/room119: typo in wolf claw's description inchs
+Bug reported by Cortoth:
+/wizards/detach/forbiden/rooms/room128: A golden arc of lightning cracks
+between your wings. Lightning shoots forth into Deer, shocking them badly!
+You feel more experienced for the kill. (49,000) Deer drops dead before you.
+ERROR: An error has occured.  Please mail an immortal with information on
+what you were doing at the time of this error and the following information:
+Error: *Bad argument 1 to call_other() Expected: string or array or object
+Got: 0. File: "/std/living/body.c" Line: 112 killing a baby black deer in the
+forbidden forest... 
+Bug reported by Cortoth:
+/wizards/detach/forbiden/rooms/room170: A golden arc of lightning cracks
+between your wings. Lightning shoots forth into Bear, shocking them badly!
+You feel more experienced for the kill. (29,615) Bear drops dead before you.
+ERROR: An error has occured.  Please mail an immortal with information on
+what you were doing at the time of this error and the following information:
+Error: *Bad argument 1 to call_other() Expected: string or array or object
+Got: 0. File: "/std/living/body.c" Line: 112 killing a brown bear in the
+forbidden forest. 
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room48: too many m's along the left column
+causing typos
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room50: mundergrowth...should be undergrowth
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room50: orafices should be orifices
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room50: mouth like should be mouth-like or
+mouthlike
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room9: excessive m's on left column
+Typo reported by Escobar:
+/wizards/detach/forbiden/rooms/room28: room secrip is broken up oddly
+Typo reported by Trooper:
+/wizards/detach/azeria/obj/6#24741: cutlass has the same desc as a bow lol
+Typo reported by Sabado:
+/wizards/detach/forbiden/rooms/room184: place not lace.
+Bug reported by Wishful:
+/wizards/detach/forbiden/rooms/room151: l /std/room.c line 73: Undefined
+function set_initial_position before  } 
+Bug reported by Ozzymandias:
+/wizards/detach/forbiden/rooms/room84: disguise
+Bug reported by Ozzymandias:
+/wizards/detach/forbiden/rooms/room84: i'm not sure its a bug but it might be
+abusable -   Disguising as a shadow caverns monster or other invisible monster
+to make oneself invisible as well. If it works that might be unintended - just
+thought i'd mention it.
+Bug reported by Morcerf:
+/wizards/detach/forbiden/rooms/room195: wolfmaster has a lot of bonus exp it
+appears. 156k for a kill

@@ -1,0 +1,155 @@
+/d/nopk/arlon/obj/mon/range.c line 44: parse error before the end of line
+/d/nopk/arlon/obj/mon/range.c line 46: Illegal LHS before  x < sizeof(per); x+
+/d/nopk/arlon/obj/mon/range.c line 51: Illegal LHS before the end of line
+/d/nopk/arlon/obj/mon/range.c line 51: parse error before the end of line
+/d/nopk/arlon/obj/mon/range.c line 54: Illegal LHS before  x < sizeof(ply); x+
+/d/nopk/tirun/obj/misc/itorch.c line 51: Undefined variable 'all_lit' before  filter(all_inventor
+/d/nopk/tirun/obj/misc/itorch.c line 51: Illegal lvalue before  filter(all_inventor
+/d/nopk/tirun/obj/misc/itorch.c line 93: Redeclaration of function query_lit. before the end of line
+/d/nopk/standard/outlands/storage.c line 53: Redeclaration of function init. before the end of line
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 51: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 52: Undefined variable 'GUILD_D' before query_locked() && !w
+/d/nopk/tirun/ehonin1.c line 1: modifier list may not be empty. before #include <std.h>
+/d/nopk/tirun/ehonin1.c line 1: parse error before include <std.h>
+/d/nopk/tirun/ehonin1.c line 52: Reserved type name unexpected. before (string str) {
+/d/nopk/tirun/ehonin1.c line 52: parse error before (string str) {
+/d/nopk/tirun/ehonin1.c line 54: Illegal LHS before the end of line
+/d/nopk/tirun/ehonin1.c line 55: Undefined variable 'str' before  disallow) == -1)
+/d/nopk/tirun/ehonin1.c line 55: Undefined variable 'disallow' before  == -1)
+/d/nopk/tirun/ehonin1.c line 64: parse error before the end of line
+/d/nopk/tirun/ehonin1.c line 65: parse error before the end of line
+/d/nopk/tirun/obj/mon/chance.c line 20: Undefined function set_say before ;
+/d/nopk/tirun/whonin1.c line 27: Undefined function set_items before ;
+/d/nopk/tirun/nveros7.c line 36: Undefined function set_items before ;
+/d/nopk/tirun/nveros1.c line 34: Undefined function set_items before ;
+/d/nopk/tirun/nveros7.c line 36: Undefined function set_items before ;
+/d/nopk/tirun/ewayward2.c line 27: Undefined function set_items before ;
+/d/nopk/tirun/mage/sorceror/sorceror_join.c line 23: Undefined function set_items before ;
+/d/nopk/tirun/whonin1.c line 27: Undefined function set_items before ;
+/d/nopk/tirun/hospital.c line 29: Undefined function set_items before ;
+/d/nopk/tirun/weapon.c line 24: Undefined function set_items before ;
+/d/nopk/tirun/weapon.c line 24: Undefined function set_items before ;
+/d/nopk/tirun/weapon.c line 24: Undefined function set_items before ;
+/d/nopk/tirun/whonin3.c line 30: Undefined function set_items before ;
+/d/nopk/tirun/sxelan2.c line 28: Undefined function set_items before ;
+/d/nopk/standard/setter.c line 31: Undefined function set_items before ;
+/d/nopk/standard/setter.c line 31: Undefined function set_items before ;
+/d/nopk/standard/cemetary/coffin1.c line 15: parse error before (
+/d/nopk/standard/cemetary/coffin1.c line 15: parse error before (
+/d/nopk/standard/cemetary/grave.c line 14: parse error before  small dark tunnel l
+/d/nopk/standard/cemetary/grave.c line 16: Illegal character constant before  look under the coff
+/d/nopk/standard/cemetary/grave.c line 16: Illegal character constant before e "
+/d/nopk/standard/cemetary/grave.c line 38: End of file in string at the end of the file
+/d/nopk/standard/cemetary/grave.c line 14: parse error before  small dark tunnel l
+/d/nopk/standard/cemetary/grave.c line 16: Illegal character constant before  look under the coff
+/d/nopk/standard/cemetary/grave.c line 16: Illegal character constant before e "
+/d/nopk/standard/cemetary/grave.c line 38: End of file in string at the end of the file
+/d/nopk/standard/cemetary/tunnel2.c line 13: parse error before (
+/d/nopk/standard/cemetary/tunnel2.c line 21: parse error before  "The grave is horri
+/d/nopk/standard/cemetary/tunnel2.c line 21: parse error before  "The grave is horri
+/d/nopk/standard/cemetary/tunnel2.c line 26: parse error before  ROOMS"cemetary/tunn
+/d/nopk/tirun/fighter/fighter_vote.c line 12: Undefined variable 'new_long' before ));
+/d/nopk/tirun/fighter/fighter_vote.c line 13: Undefined variable 'new_long' before ));
+/d/nopk/standard/obj/mon/rocko.c line 25: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/nopk/standard/obj/mon/rocko.c line 32: Undefined function set_my_mess before ;
+/d/nopk/standard/obj/mon/rocko.c line 39: Undefined function set_your_mess before ;
+/d/nopk/standard/obj/mon/rocko.c line 46: Undefined function set_menu_short before ;
+/d/nopk/standard/obj/mon/rocko.c line 53: Undefined function set_menu_long before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 39: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 45: Undefined function set_my_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 51: Undefined function set_your_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 57: Undefined function set_menu_short before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 63: Undefined function set_menu_long before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 39: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 45: Undefined function set_my_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 51: Undefined function set_your_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 57: Undefined function set_menu_short before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 63: Undefined function set_menu_long before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 39: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 45: Undefined function set_my_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 51: Undefined function set_your_mess before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 57: Undefined function set_menu_short before ;
+/d/nopk/tirun/obj/mon/carolyn.c line 63: Undefined function set_menu_long before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bank.c line 419: No such inherited function ::pick_lock before ;
+/d/nopk/tirun/bakery.c line 53: Undefined variable 'read_menu' before ) );
+/d/nopk/tirun/bakery.c line 53: Illegal to use local variable in functional. before  );
+/d/nopk/tirun/bakery.c line 53: Undefined variable 'read_menu' before ) );
+/d/nopk/tirun/obj/mon/rejiknew.c line 84: Undefined variable 'tp' before query_race()) {
+/d/nopk/tirun/obj/mon/rejiknew.c line 128: Undefined variable 'ob' before  new(file);
+/d/nopk/tirun/obj/mon/rejiknew.c line 128: Illegal lvalue before  new(file);
+/d/nopk/tirun/square2.c line 37: parse error before the end of line
+/d/nopk/tirun/ngate.c line 19: "#pragma strict_types" requires type of function before "enter gate", "gate"
+/d/nopk/tirun/ngate.c line 19: parse error before , "gate");
+/d/nopk/arlon/room/hgates3.c line 18: parse error before the end of file
+/d/nopk/arlon/room/plains6.c line 20: parse error before the end of line
+/d/nopk/tirun/swganthus.c line 14: parse error before  weapon smith" : ROO
+/d/nopk/tirun/obj/mon/guard.c line 19: Undefined variable 'mon' before set_skill("defense",
+/d/nopk/tirun/obj/mon/guard.c line 31: Undefined variable 'weapon' before  new(WEAPON);
+/d/nopk/tirun/obj/mon/guard.c line 31: Illegal lvalue before  new(WEAPON);
+/d/nopk/tirun/obj/mon/guard.c line 42: Undefined variable 'key' before  new(OBJECT);
+/d/nopk/tirun/obj/mon/guard.c line 42: Illegal lvalue before  new(OBJECT);
+/d/nopk/tirun/obj/mon/guard.c line 51: parse error before the end of file
+/d/nopk/tirun/obj/mon/guard.c line 19: Undefined variable 'mon' before set_skill("defense",
+/d/nopk/tirun/obj/mon/guard.c line 31: Undefined variable 'weapon' before  new(WEAPON);
+/d/nopk/tirun/obj/mon/guard.c line 31: Illegal lvalue before  new(WEAPON);
+/d/nopk/tirun/obj/mon/guard.c line 42: Undefined variable 'key' before  new(OBJECT);
+/d/nopk/tirun/obj/mon/guard.c line 42: Illegal lvalue before  new(OBJECT);
+/d/nopk/tirun/obj/mon/guard.c line 51: parse error before the end of file
+/d/nopk/tirun/obj/misc/chest.c line 12: Undefined function set_open_long before ;
+/d/nopk/tirun/obj/misc/chest.c line 13: Undefined function set_closed_long before ;
+/d/nopk/standard/obj/misc/chest.c line 12: Undefined function set_open_long before ;
+/d/nopk/standard/obj/misc/chest.c line 13: Undefined function set_closed_long before ;
+/d/nopk/arlon_path/0,0,0.c line 9: parse error before  : 2
+/d/nopk/tirun/beach/5,1,0.c line 14: Undefined function set_max_catch before ;
+/d/nopk/tirun/beach/5,1,0.c line 15: Undefined function set_max_fishing before ;
+/d/nopk/tirun/beach/5,1,0.c line 16: Undefined function set_chance before ;
+/d/nopk/tirun/beach/4,1,0.c line 14: Undefined function set_max_catch before ;
+/d/nopk/tirun/beach/4,1,0.c line 15: Undefined function set_max_fishing before ;
+/d/nopk/tirun/beach/4,1,0.c line 16: Undefined function set_chance before ;
+/d/nopk/arlon_path/mobs/falcon.c line 12: parse error before ("falcon");
+/d/nopk/tirun/beach/0,0,0.c line 28: Undefined variable 'ROOMS' before ,
+/d/nopk/tirun/beach/0,0,0.c line 28: parse error before ,
+/d/nopk/tirun/beach/virtual.c line 12: Undefined variable 'ARLON_PATH' before "fishingroom");
+/d/nopk/tirun/beach/5,1,0.c line 3: parse error before  create(object map, 
+/d/nopk/tirun/beach/5,1,0.c line 3: parse error before  create(object map, 
+/d/nopk/tirun/beach/5,1,0.c line 5: Undefined variable 'TIRUNBEACH' before "virtual");
+/d/nopk/arlon_path/farm3/farmyard.c line 2: Cannot #include arlon_path.h before inherit ROOM;
+/d/nopk/arlon_path/farm3/farmyard.c line 21: Undefined variable 'ARLONPATH' before ,
+/d/nopk/arlon_path/farm3/farmyard.c line 21: parse error before ,
+/d/nopk/arlon_path/farm3/room/pigpen.c line 22: parse error before  long crude rectangu
+/d/nopk/arlon_path/farm3/room/pigpen.c line 31: End of file in string at the end of the file
+/d/nopk/newarlon/rooms/docks/dock.c line 21: parse error before the end of line
+/d/nopk/newarlon/rooms/docks/dock.c line 21: parse error before the end of line
+/d/nopk/newarlon/rooms/square.c line 67: parse error before the end of file
+/d/nopk/newarlon/rooms/square.c line 67: parse error before the end of file
+/d/nopk/newarlon/rooms/roads/60.c line 18: parse error before " : "The sign reads:
+/d/nopk/newarlon/rooms/roads/60.c line 52: End of file in string at the end of the file
+/d/nopk/newarlon/rooms/roads/60.c line 18: parse error before " : "The sign reads:
+/d/nopk/newarlon/rooms/roads/60.c line 52: End of file in string at the end of the file
+/d/nopk/newarlon/rooms/phouses/kilir/test.c line 44: parse error before the end of line
+/d/nopk/tirun/square.c line 90: parse error before the end of line
+/d/nopk/tirun/square.c line 90: parse error before the end of line
+/d/nopk/tirun/square.c line 90: parse error before the end of line
+/d/nopk/tirun/square.c line 90: parse error before the end of line
+/d/nopk/arlon_zoo/rooms/zoopath2.c line 25: End of mapping not found before  );
+/d/nopk/arlon_zoo/rooms/zoopath2.c line 25: End of mapping not found before  );
+/d/nopk/arlon_zoo/rooms/zoopath2.c line 25: End of mapping not found before  );
+/d/nopk/arlon_zoo/rooms/nymphhome.c line 14: End of mapping not found before  );
+/d/nopk/arlon_zoo/rooms/nymphhome.c line 14: End of mapping not found before  );
+/d/nopk/arlon_zoo/rooms/nymphhome.c line 14: End of mapping not found before  );

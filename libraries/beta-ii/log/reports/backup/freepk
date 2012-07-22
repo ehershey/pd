@@ -1,0 +1,51 @@
+Bug reported by Yakko:
+/d/freepk/purgatory/room/gatehouse: warning sign can't go s 
+Bug reported by Yakko:
+/d/freepk/merkkerri/jungle/merkkirri/tomb8: in tomb merk warriors lost HB
+weapons diamond bladed longsword angrist 
+Bug reported by Kenjiru:
+/d/freepk/merkkerri/jungle/merkkirri/mjungle18: hermes - hes broken
+Bug reported by Yakko:
+/d/freepk/purgatory/pforest/room/57: /wizards/wraith/purgatory/room/landing.c
+line 6: Illegal to  inherit after defining global variables. before the end
+of line  /wizards/wraith/purgatory/room/landing.c line 6: Illegal to inherit
+after defining global variables. before the end of line  
+Bug reported by Faust:
+/d/freepk/merkkerri/jungle/merkkirri/tomb19: Undead Warrior in the merk crypt
+don't have the skill to wield their weapons. If you could please change their
+skill or lower the wc of the sword, they will be able to wield them then.  
+faust, your friendly neighborhood demon :) 
+Bug reported by A shadow:
+/d/freepk/merkkerri/swamp/swamp21: /d/freepk/merkkerri/swamp/swamp21 the
+south exit leads nowhere or isnt changed to the new directory.  Shin 
+Idea reported by Yakko Mon Apr  7 16:11:34 2003
+/d/freepk/merkkerri/jungle/gcity/gcity25: You don't have the Talent to use that weapon to You don't have the talent to use that <type of weapon>
+Idea reported by Anguish Mon Apr 14 04:25:37 2003
+/d/freepk/merkkerri/jungle/merkkirri/mjungle14: Make colors customize..like...combat_youhit..combat_monsterhit..combat_youmiss..combat_monstermiss..combat_other
+Idea reported by Anguish Mon Apr 14 06:47:19 2003
+/d/freepk/merkkerri/jungle/merkkirri/mjungle23: a time on party line..how long uve been in party
+Idea reported by Yakko Wed May  7 19:04:29 2003
+/d/freepk/merkkerri/jungle/merkkirri/tomb12: last honey line
+Bug reported by Yakko:
+/d/freepk/merkkerri/demonquest/dquest2: i entered demon quest after i'm already
+a demon when i prayed to the statue
+Bug reported by Yakko:
+/d/freepk/merkkerri/demonquest/dquest2: when i forsaked light in demon quest it
+gave error
+Bug reported by Rethlan:
+/d/freepk/keys/sorn/beach: getting all sorts of bugs trying to land and then
+reenter my boat at the beach on Sorn (-16, -10)
+Bug reported by Lac:
+/d/freepk/purgatory/pforest/room/57: wizards/wraith/purgatory/room/landing.c
+line 6: Illegal to inherit after defining global variables. around
+Bug reported by Tyste:
+/d/freepk/keys/great_sand/beach: se exit is a shimmer
+Bug reported by Tyste:
+/d/freepk/keys/sand/beach: blah the islands don't work
+Bug reported by Yakko:
+/d/freepk/merkkerri/jungle/gcity/gcity6: loggin... i got disconnected.... and
+keep on getting forced out
+Bug reported by Tsuke:
+/d/freepk/merkkerri/jungle/merkkirri/tomb11: the undead warchief in merk has
+lost its heart beat again :/ it seems to lose it _every_ time i attack it in
+recent history.

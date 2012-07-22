@@ -1,0 +1,994 @@
+/wizards/daos/_reward.c line 13: parse error before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'LANS_D' before get_lans(); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'LANS_D' before get_lans(); }
+/wizards/daos/workroom.c line 24: Wrong number of arguments to add_item
+    Expected: 2  Got: 3 before ; 
+/wizards/daos/workroom.c line 38: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/_attr.c line 12: Undefined variable 'id' before  present(str, this_p
+/wizards/daos/_attr.c line 12: Illegal lvalue before  present(str, this_p
+/wizards/daos/_attr.c line 15: Undefined variable 'weight' before  present(str, this_p
+/wizards/daos/_attr.c line 15: Illegal lvalue before  present(str, this_p
+/wizards/daos/_attr.c line 16: Undefined variable 'limbs' before  present(str, this_p
+/wizards/daos/_attr.c line 16: Illegal lvalue before  present(str, this_p
+/wizards/daos/_attr.c line 19: parse error before the end of line
+/wizards/daos/_attr.c line 19: Bad assignment ( string * vs object ). before the end of line
+/wizards/daos/_attr.c line 23: parse error before the end of line
+/wizards/daos/_attr.c line 19: Bad assignment ( string * vs object ). before the end of line
+/wizards/daos/_attr.c line 23: parse error before the end of line
+/wizards/daos/_attr.c line 21: parse error before the end of line
+/wizards/daos/_attr.c line 21: parse error before the end of line
+/wizards/daos/_attr.c line 21: Invalid argument types to '+' ( string vs string * ) before  10),
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'PARTY_OB' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too many arguments to random before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/test_object.c line 20: parse error before  1) return notify_fa
+/wizards/daos/test_object.c line 20: parse error before  1)) return notify_f
+/wizards/daos/test_object.c line 26: Left argument of -> is not a class before random(sizeof(names)
+/wizards/daos/test_object.c line 26: parse error before random(sizeof(names)
+/wizards/daos/test_object.c line 38: Reserved type name unexpected. before () {
+/wizards/daos/test_object.c line 38: parse error before () {
+/wizards/daos/test_object.c line 40: parse error before the end of line
+/wizards/daos/test_object.c line 1: parse error before std.h>
+/wizards/daos/test_object.c line 25: Undefined variable 'mon' before  new("/std/monster")
+/wizards/daos/test_object.c line 25: Illegal lvalue before  new("/std/monster")
+/wizards/daos/test_object.c line 37: parse error before ;
+/wizards/daos/test_object.c line 38: Illegal LHS before the end of line
+/wizards/daos/test_object.c line 38: parse error before the end of line
+/wizards/daos/test_object.c line 41: Illegal LHS before the end of line
+/wizards/daos/custom/gold_ring.c line 25: Too few arguments to message before ;
+/wizards/daos/custom/gold_ring.c line 31: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/daos/custom/gold_ring.c line 35: Reserved type name unexpected. before () {
+/wizards/daos/custom/gold_ring.c line 35: parse error before () {
+/wizards/daos/custom/gold_ring.c line 31: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/daos/custom/gold_ring.c line 35: Reserved type name unexpected. before () {
+/wizards/daos/custom/gold_ring.c line 35: parse error before () {
+/wizards/daos/custom/gold_ring.c line 34: Reserved type name unexpected. before () {
+/wizards/daos/custom/gold_ring.c line 34: parse error before () {
+/wizards/daos/custom/gold_ring.c line 32: Reserved type name unexpected. before () {
+/wizards/daos/custom/gold_ring.c line 32: parse error before () {
+/wizards/daos/kitten.c line 8: parse error before animal %^BOLD%^%^YEL
+/wizards/daos/kitten.c line 12: Illegal character constant before ^WHITE%^T"
+/wizards/daos/kitten.c line 14: Illegal character constant before %^RESET%^%^ORANGE%^w
+/wizards/daos/kitten.c line 22: End of file in string at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'random' before  }
+/wizards/daos/kitten.c line 15: parse error before the end of line
+/wizards/daos/kitten.c line 21: Illegal LHS before the end of line
+/wizards/daos/kitten.c line 22: Undefined variable 'i' before  {
+/wizards/daos/kitten.c line 28: parse error before ;
+/wizards/daos/kitten.c line 27: parse error before ;
+/wizards/daos/kitten.c line 22: parse error before ("+i+");
+/wizards/daos/kitten.c line 22: parse error before ("+i+");
+/wizards/daos/kitten.c line 22: parse error before ("num: "+i+"");
+/wizards/daos/kitten.c line 22: parse error before ("num: "+i);
+/wizards/daos/kitten.c line 22: parse error before ("num: "+i+"");
+/wizards/daos/kitten.c line 30: parse error before the end of line
+/wizards/daos/kitten.c line 20: parse error before the end of line
+/wizards/daos/kitten.c line 30: parse error before :
+/wizards/daos/kitten.c line 41: parse error before  
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 2.215); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function RETURN before ->query_banished_ip(
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 2.215); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 2.215); }
+/wizards/daos/bin/_oscan.c line 9: Undefined function is_monster before ) write("Monster che
+/wizards/daos/bin/_oscan.c line 9: Undefined variable 'this_object' before is_monster()) write(
+/wizards/daos/bin/_oscan.c line 20: parse error before the end of file
+/wizards/daos/bin/_tlog.c line 15: parse error before  str = DIR_LOGS+"/"+
+/wizards/daos/bin/_tlog.c line 15: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 22: Undefined variable 'player' before  mud == 2)  
+/wizards/daos/bin/_tell2.c line 22: Illegal lvalue before  mud == 2)  
+/wizards/daos/bin/_tell2.c line 22: parse error before  2)  
+/wizards/daos/bin/_tell2.c line 22: Undefined variable 'player' before  mud == 2)  
+/wizards/daos/bin/_tell2.c line 22: Illegal lvalue before  mud == 2)  
+/wizards/daos/bin/_tell2.c line 22: parse error before  2)  
+/wizards/daos/bin/_tell2.c line 23: parse error before  2)  
+/wizards/daos/bin/_tell2.c line 23: parse error before  2)  
+/wizards/daos/bin/_tell2.c line 24: parse error before  2)  
+/wizards/daos/bin/_tell2.c line 23: parse error before  2) )  
+/wizards/daos/bin/_tell2.c line 13: Undefined variable 'msg' before  mud, tmp;
+/wizards/daos/bin/_tell2.c line 13: Undefined variable 'mud' before  tmp;
+/wizards/daos/bin/_tell2.c line 13: Undefined variable 'tmp' before the end of line
+/wizards/daos/bin/_tell2.c line 39: Undefined function query_cap before +
+/wizards/daos/bin/_tell2.c line 40: Undefined function query_cap before +
+/wizards/daos/bin/_tell2.c line 40: Undefined function query_cap before +
+/wizards/daos/bin/_tell2.c line 40: Undefined variable 'capitalize' before the end of line
+/wizards/daos/bin/_tell2.c line 40: Undefined variable 'query_cap_name' before the end of line
+/wizards/daos/bin/_tell2.c line 40: Undefined function query_cap_name before +
+/wizards/daos/bin/_tell2.c line 46: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 25: parse error before  (!NETWORK_D->exists
+/wizards/daos/bin/_tell2.c line 40: Undefined function query_cap before ;
+/wizards/daos/bin/_tell2.c line 103: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 41: Bad argument 1 to efun capitalize() before ;
+/wizards/daos/bin/_tell2.c line 54: Undefined function query_cap before +
+/wizards/daos/bin/_tell2.c line 103: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 41: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 46: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 62: Undefined function query_cap before +
+/wizards/daos/bin/_tell2.c line 119: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 62: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 68: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 74: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 81: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 91: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 97: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 62: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 68: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 74: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 81: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 91: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 97: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 74: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 81: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 91: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 97: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 74: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 81: Bad argument 1 to efun capitalize() before ->query_name()+" is 
+/wizards/daos/bin/_tell2.c line 91: Bad argument 1 to efun capitalize() before ->query_name()+
+/wizards/daos/bin/_tell2.c line 96: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 117: End of file in string at the end of the file
+/wizards/daos/bin/_tell2.c line 96: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 100: Bad argument 1 to efun capitalize() before ->query_name()+:"+  
+/wizards/daos/bin/_tell2.c line 100: parse error before "+  msg);
+/wizards/daos/bin/_tell2.c line 100: parse error before "+  msg);
+/wizards/daos/bin/_tell2.c line 102: parse error before  "+ob->query_cap_nam
+/wizards/daos/bin/_tell2.c line 117: End of file in string at the end of the file
+/wizards/daos/bin/_tell2.c line 117: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 28: parse error before /
+/wizards/daos/bin/_tell2.c line 30: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 30: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 33: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 35: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 27: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 30: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 30: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 34: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 34: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 120: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 121: parse error before the end of file
+/wizards/daos/bin/_tell2.c line 25: Reserved type name unexpected. before who, msg) == 2)
+/wizards/daos/bin/_tell2.c line 25: parse error before who, msg) == 2)
+/wizards/daos/bin/_tell2.c line 39: Undefined variable 'who' before )
+/wizards/daos/bin/_tell2.c line 39: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 40: Illegal lvalue before the end of line
+/wizards/daos/bin/_tell2.c line 40: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 25: Reserved type name unexpected. before who, msg) == 2)
+/wizards/daos/bin/_tell2.c line 25: parse error before who, msg) == 2)
+/wizards/daos/bin/_tell2.c line 39: Undefined variable 'who' before )
+/wizards/daos/bin/_tell2.c line 39: Illegal LHS before the end of line
+/wizards/daos/bin/_tell2.c line 40: Illegal lvalue before the end of line
+/wizards/daos/bin/_tell2.c line 40: parse error before the end of line
+/wizards/daos/bin/_tell2.c line 26: Illegal lvalue before  msg) == 2)
+/wizards/daos/bin/_tell2.c line 25: Illegal lvalue before  msg) == 2)
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/bin/_causticblood.c line 5: Unrecognised # directive before #include <std.h>
+/wizards/daos/bin/_causticblood.c line 30: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 30: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 42: parse error before TP)->query_property(
+/wizards/daos/bin/_causticblood.c line 49: Illegal LHS before    
+/wizards/daos/bin/_causticblood.c line 49: parse error before    
+/wizards/daos/bin/_causticblood.c line 56: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 56: parse error before the end of line
+/wizards/daos/bin/_soulfire.c line 15: Undefined variable 'TP' before query_class() == "va
+/wizards/daos/bin/_soulfire.c line 27: parse error before ->query_property("no
+/wizards/daos/bin/_soulfire.c line 28: parse error before ->query_property("no
+/wizards/daos/bin/_soulfire.c line 52: Undefined variable 'tgt' before ) {
+/wizards/daos/bin/_soulfire.c line 69: Undefined variable 'tgt' before  present(str, env);
+/wizards/daos/bin/_soulfire.c line 69: Illegal lvalue before  present(str, env);
+/wizards/daos/bin/_soulfire.c line 77: parse error before  (tp->query_mp() < 7
+/wizards/daos/bin/_soulfire.c line 53: Undefined variable 'tgt' before query_objective()+".
+/wizards/daos/bin/_soulfire.c line 75: Undefined variable 'tgt' before the end of line
+/wizards/daos/bin/_soulfire.c line 77: parse error before  (tp->query_mp() < 7
+/wizards/daos/bin/_soulfire.c line 78: parse error before  (tp->query_mp() < 7
+/wizards/daos/bin/_soulfire.c line 75: Undefined variable 'tgt' before  2, 
+/wizards/daos/bin/_soulfire.c line 85: parse error before  ""+tgt->query_cap_n
+/wizards/daos/bin/_soulfire.c line 85: parse error before  ""+tgt->query_cap_n
+/wizards/daos/bin/_soulfire.c line 85: Undefined variable 'tgt' before query_cap_name()+"."
+/wizards/daos/bin/_soulfire.c line 85: Undefined variable 'tgt' before query_cap_name()+"."
+/wizards/daos/bin/_soulfire.c line 87: Undefined variable 'tgt' before query_cap_name()+""
+/wizards/daos/bin/_soulfire.c line 84: Undefined variable 'tgt' before query_cap_name()+"."
+/wizards/daos/bin/_soulfire.c line 84: Too few arguments to message before ;
+/wizards/daos/bin/_soulfire.c line 87: Too few arguments to message before ;
+/wizards/daos/bin/_soulfire.c line 90: parse error before tp, targ}) );
+/wizards/daos/bin/_soulfire.c line 84: Too few arguments to message before ;
+/wizards/daos/bin/_soulfire.c line 87: Too few arguments to message before ;
+/wizards/daos/bin/_soulfire.c line 90: parse error before tp, targ}) );
+/wizards/daos/bin/_soulfire.c line 87: Too few arguments to message before ;
+/wizards/daos/bin/_soulfire.c line 90: parse error before tp, targ}) );
+/wizards/daos/bin/_soulfire.c line 87: parse error before tp, targ}) );
+/wizards/daos/bin/_soulfire.c line 65: Undefined variable 'spell' before  
+/wizards/daos/bin/_soulfire.c line 63: Undefined variable 'spell' before  
+/wizards/daos/bin/_causticblood.c line 39: parse error before "\n");;
+/wizards/daos/bin/_causticblood.c line 58: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 58: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 59: Illegal LHS before the end of line
+/wizards/daos/bin/_causticblood.c line 59: parse error before the end of line
+/wizards/daos/bin/_causticblood.c line 67: Undefined variable 'str' before  env);
+/wizards/daos/testmob.c line 3: parse error before ;
+/wizards/daos/testmob.c line 10: Undefined variable 'RACE_D' before query_races())));
+/wizards/daos/testmob.c line 10: Too few arguments to member_array before ));
+/wizards/daos/testmob.c line 11: Too few arguments to member_array before ));
+/wizards/daos/testmob.c line 13: Undefined variable 'RACES_D' before query_races());
+/wizards/daos/testmob.c line 13: Too few arguments to member_array before ;
+/wizards/daos/testmob.c line 14: Bad argument 1 to efun random() before );
+/wizards/daos/testmob.c line 13: Too few arguments to member_array before ;
+/wizards/daos/testmob.c line 14: Bad argument 1 to efun random() before );
+/wizards/daos/testmob.c line 13: Reserved type name unexpected. before  = random(sizeof(RAC
+/wizards/daos/testmob.c line 13: parse error before  = random(sizeof(RAC
+/wizards/daos/testmob.c line 13: Illegal LHS before the end of line
+/wizards/daos/testmob.c line 14: Undefined variable 'i' before ;
+/wizards/daos/testmob.c line 14: Bad assignment ( string * vs int ). before the end of line
+/wizards/daos/testmob.c line 15: Bad argument 1 to efun random() before ;
+/wizards/daos/testmob.c line 14: parse error before ;
+/wizards/daos/testmob.c line 15: Illegal LHS before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'write' before i]; }; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'write' before i]); }; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before i]); }; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  (int i=0; i < rando
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  i < random(sizeof(R
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before  random(sizeof(RACE_
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  { write(i); }; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before  random(sizeof(RACE_
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  random(sizeof(RACE_
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "int " before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs int ) when initializing races before  return races[i];; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs int ) when initializing races before  write(races);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs int ) when initializing races before  write(races);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs int ) when initializing races before  int i = random(race
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun random() before ; write(i);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before  = sizeof(RACE_D->qu
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  = sizeof(RACE_D->qu
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  int i = random(race
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before  = random(races); wr
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  = random(races); wr
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'races' before ; write(i);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs int ) when initializing races before  int i = random(race
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun random() before ; return i;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; int i = random(siz
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  return i;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before <sizeof(races); i++)
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before <sizeof(races); i++)
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun random() before ; write(races[i]);; 
+/wizards/daos/mon/testmon.c line 6: Undefined variable 'RACES_D' before query_races();
+/wizards/daos/mon/testmon.c line 24: Reserved type name unexpected. before (string str) {
+/wizards/daos/mon/testmon.c line 24: parse error before (string str) {
+/wizards/daos/mon/testmon.c line 25: Illegal LHS before the end of line
+/wizards/daos/mon/testmon.c line 26: Undefined variable 'env' before ) 
+/wizards/daos/mon/testmon.c line 28: Undefined variable 'str' before ".");
+/wizards/daos/mon/testmon.c line 28: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 27: Undefined variable 'env' before  environment(this_ob
+/wizards/daos/mon/testmon.c line 27: Illegal lvalue before  environment(this_ob
+/wizards/daos/mon/testmon.c line 30: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 27: Type mismatch ( string vs object ) when initializing env before the end of line
+/wizards/daos/mon/testmon.c line 30: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 30: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 28: Type mismatch ( string vs object ) when initializing tp before the end of line
+/wizards/daos/mon/testmon.c line 27: Type mismatch ( string vs object ) when initializing tp before the end of line
+/wizards/daos/mon/testmon.c line 27: Type mismatch ( string vs object ) when initializing tp before the end of line
+/wizards/daos/mon/testmon.c line 29: parse error before ;
+/wizards/daos/mon/testmon.c line 29: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 35: Too few arguments to message before ;
+/wizards/daos/mon/testmon.c line 18: Undefined function this_this_object before ->query_race();
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'returnSKY' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'SKY' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/pumpkin.c line 22: Too few arguments to message before ;
+/wizards/daos/pumpkin.c line 31: Too few arguments to message before ;
+/wizards/daos/pumpkin.c line 31: Too few arguments to message before ;
+/wizards/daos/pumpkin.c line 35: Too many arguments to notify_fail before ;
+/wizards/daos/pumpkin.c line 31: Too few arguments to message before ;
+/wizards/daos/pie.c line 53: parse error before the end of file
+/wizards/daos/pie.c line 36: Undefined variable 'slice' before ;
+/wizards/daos/pie.c line 36: Illegal lvalue before ;
+/wizards/daos/pie.c line 1: parse error before  (4:02 PM):
+/wizards/daos/pie.c line 41: Bad argument 1 to x++: "mapping " before ;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 00042; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 00042); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before 00042); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  work if that is the
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before cre> test); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'cre' before  test"); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: Undefined variable 'test' at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ROOM_VOID' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/daos/obj/black.c line 40: Reserved type name unexpected. before () { return 0; }
+/wizards/daos/obj/black.c line 40: parse error before () { return 0; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'DRAG_BASE' before  }
+/wizards/daos/testob.c line 10: parse error before (mapping x) {
+/wizards/daos/testob.c line 11: Illegal LHS before the end of line
+/wizards/daos/testob.c line 12: Reserved type name unexpected. before  = 500;
+/wizards/daos/testob.c line 12: parse error before  = 500;
+/wizards/daos/testob.c line 12: Illegal LHS before the end of line
+/wizards/daos/testob.c line 13: Undefined variable 'x' before  allocate_mapping(y)
+/wizards/daos/testob.c line 13: Reserved type name unexpected. before  = 500;
+/wizards/daos/testob.c line 13: parse error before  = 500;
+/wizards/daos/testob.c line 13: Illegal LHS before the end of line
+/wizards/daos/testob.c line 14: Undefined variable 'x' before  allocate_mapping(y)
+/wizards/daos/testob.c line 14: Illegal lvalue before  allocate_mapping(y)
+/wizards/daos/testob.c line 14: Undefined variable 'y' before ;
+/wizards/daos/testob.c line 11: parse error before  ([])) {
+/wizards/daos/testob.c line 11: parse error before  ([]) ) {
+/wizards/daos/testob.c line 10: Reserved type name unexpected. before ;
+/wizards/daos/testob.c line 10: parse error before ;
+/wizards/daos/testob.c line 11: Illegal LHS before the end of line
+/wizards/daos/testob.c line 12: Undefined variable 'x' before  allocate_mapping(y)
+/wizards/daos/testob.c line 12: Illegal lvalue before  allocate_mapping(y)
+/wizards/daos/testob.c line 12: Undefined variable 'y' before ;
+/wizards/daos/testob.c line 10: Reserved type name unexpected. before ;
+/wizards/daos/testob.c line 10: parse error before ;
+/wizards/daos/testob.c line 11: Illegal LHS before the end of line
+/wizards/daos/testob.c line 12: Undefined variable 'x' before  allocate_mapping(y)
+/wizards/daos/testob.c line 12: Illegal lvalue before  allocate_mapping(y)
+/wizards/daos/testob.c line 12: Undefined variable 'y' before ;
+/wizards/daos/testob.c line 12: Reserved type name unexpected. before  = 500;
+/wizards/daos/testob.c line 12: parse error before  = 500;
+/wizards/daos/testob.c line 12: Illegal LHS before the end of line
+/wizards/daos/testob.c line 13: Undefined variable 'y' before ;
+/wizards/daos/testob.c line 16: 'key' is not a local or a global variable. before , value :x) {
+/wizards/daos/testob.c line 16: 'value' is not a local or a global variable. before  :x) {
+/wizards/daos/testob.c line 16: parse error before x) {
+/wizards/daos/testob.c line 21: 'k' is not a local or a global variable. before  in v) {
+/wizards/daos/testob.c line 21: Undefined variable 'v' before  {
+/wizards/daos/testob.c line 27: parse error before the end of file
+/wizards/daos/testob.c line 21: 'key' is not a local or a global variable. before , value in x) {
+/wizards/daos/testob.c line 21: 'value' is not a local or a global variable. before  in x) {
+/wizards/daos/testob.c line 22: Undefined variable 'key' before  value);
+/wizards/daos/testob.c line 22: Undefined variable 'value' before ;
+/wizards/daos/testob.c line 27: parse error before the end of file
+/wizards/daos/testob.c line 27: parse error before the end of file
+/wizards/daos/testob.c line 21: Reserved type name unexpected. before , value;
+/wizards/daos/testob.c line 21: parse error before , value;
+/wizards/daos/testob.c line 22: 'value' is not a local or a global variable. before  in x) {
+/wizards/daos/testob.c line 23: Undefined variable 'value' before  = "ten";
+/wizards/daos/testob.c line 22: 'value' is not a local or a global variable. before  in x) {
+/wizards/daos/testob.c line 23: Undefined variable 'value' before ;
+/wizards/daos/testob.c line 22: parse error before  x) {
+/wizards/daos/testob.c line 22: 'key' is not a local or a global variable. before , value : x) {
+/wizards/daos/testob.c line 22: 'value' is not a local or a global variable. before  : x) {
+/wizards/daos/testob.c line 22: parse error before  x) {
+/wizards/daos/testob.c line 22: parse error before  x) {
+/wizards/daos/testob.c line 22: 'value' is not a local or a global variable. before  in x) {
+/wizards/daos/testob.c line 23: Undefined variable 'key' before  value);
+/wizards/daos/testob.c line 23: Undefined variable 'value' before ;
+/wizards/daos/testob.c line 20: Undefined variable 'x' before  allocate_mapping(y)
+/wizards/daos/testob.c line 20: Illegal lvalue before  allocate_mapping(y)
+/wizards/daos/testob.c line 24: Reserved type name unexpected. before  = ([]);
+/wizards/daos/testob.c line 24: parse error before  = ([]);
+/wizards/daos/testob.c line 24: Illegal LHS before the end of line
+/wizards/daos/testob.c line 25: Undefined variable 'm' before  allocate_mapping(50
+/wizards/daos/testob.c line 25: Illegal lvalue before  allocate_mapping(50
+/wizards/daos/testob.c line 36: parse error before ;
+/wizards/daos/examples/blob.c line 16: Undefined function set_sub_class before ;
+/wizards/daos/examples/blob.c line 25: Wrong number of arguments to set_speech
+    Expected: 4  Got: 3 before ;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'RACES_DB' before  }
+/wizards/daos/examples/lair.c line 14: Undefined function set_light before ;
+/wizards/daos/examples/lair.c line 11: Undefined function add_property before ;
+/wizards/daos/examples/lair.c line 20: Reserved type name unexpected. before  = find_object("/wiz
+/wizards/daos/examples/lair.c line 20: parse error before  = find_object("/wiz
+/wizards/daos/examples/lair.c line 20: Illegal LHS before the end of line
+/wizards/daos/examples/lair.c line 22: Undefined variable 'ob' before  {
+/wizards/daos/examples/lair.c line 29: parse error before the end of file
+/wizards/daos/examples/lair.c line 20: Reserved type name unexpected. before  = find_object("/wiz
+/wizards/daos/examples/lair.c line 20: parse error before  = find_object("/wiz
+/wizards/daos/examples/lair.c line 20: Illegal LHS before the end of line
+/wizards/daos/examples/lair.c line 22: Undefined variable 'ob' before  {
+/wizards/daos/examples/lair.c line 26: Invalid argument types to '+' ( object vs string ) before ;
+/wizards/daos/examples/dungarees.c line 7: parse error before ;
+/wizards/daos/examples/dungarees.c line 7: parse error before ;
+/wizards/daos/examples/dungarees.c line 20: Undefined variable 'Written' before  Daos.
+/wizards/daos/examples/dungarees.c line 20: parse error before  Daos.
+/wizards/daos/examples/dungarees.c line 39: Undefined variable 'Written' before  Daos.
+/wizards/daos/examples/dungarees.c line 39: parse error before  Daos.
+/wizards/daos/examples/dungarees.c line 39: Undefined variable 'Written' before  Daos.
+/wizards/daos/examples/dungarees.c line 39: parse error before  Daos.
+/wizards/daos/testob.c line 27: parse error before ++) {
+/wizards/daos/testob.c line 28: Illegal LHS before the end of line
+/wizards/daos/testob.c line 29: Undefined variable 'k' before  i);
+/wizards/daos/testob.c line 29: parse error before the end of line
+/wizards/daos/testob.c line 32: parse error before  1;
+/wizards/daos/examples/lair.c line 20: Undefined variable 'ob' before ) {
+/wizards/daos/examples/lair.c line 25: parse error before the end of line
+/wizards/daos/examples/lair.c line 25: parse error before ^BOLD%^""+ob->query_
+/wizards/daos/examples/mop.c line 12: parse error before "mop", "dirty mop"})
+/wizards/daos/bin/_tlog.c line 15: Undefined function tail before ;
+/wizards/daos/bin/_tlog.c line 16: Undefined variable 'file' before ;
+/wizards/daos/bin/_tlog.c line 15: Undefined variable 'str' before the end of line
+/wizards/daos/bin/_tlog.c line 15: Undefined variable 'str' before the end of line
+/wizards/daos/bin/_tlog.c line 20: Undefined variable 'str' before "\n");
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function stats before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/examples/msquare.c line 17: Undefined function set_light before ;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/examples/square.c line 44: parse error before the end of line
+/wizards/daos/examples/square.c line 40: parse error before the end of file
+/wizards/daos/examples/square.c line 28: Undefined variable 'do_search' before ) );
+/wizards/daos/examples/square.c line 28: parse error before ) );
+/wizards/daos/examples/square.c line 28: Undefined function do_search before  :) );
+/wizards/daos/examples/square.c line 28: parse error before ) );
+/wizards/daos/examples/square.c line 32: Undefined variable 'do_search' before ) );
+/wizards/daos/examples/square.c line 32: parse error before ) );
+/wizards/daos/examples/square.c line 32: Undefined variable 'do_search' before ) );
+/wizards/daos/examples/square.c line 32: parse error before ) );
+/wizards/daos/examples/square.c line 32: Undefined variable 'do_search' before ) );
+/wizards/daos/examples/square.c line 32: parse error before ) );
+/wizards/daos/examples/square.c line 44: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to write_file before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( string vs string * ) when initializing str before  write_file("/wizard
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  functions(find_obje
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  functions(find_obje
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  functions(find_obje
+/wizards/daos/examples/knight.c line 25: parse error before the end of file
+/wizards/daos/examples/knight.c line 18: parse error before );
+/wizards/daos/examples/knight.c line 17: parse error before );
+/wizards/daos/examples/knight.c line 13: parse error before ));
+/wizards/daos/examples/knight.c line 13: Undefined variable 'sizeof' before COLORS]);
+/wizards/daos/examples/knight.c line 13: parse error before ]);
+/wizards/daos/examples/knight.c line 13: Undefined variable 'random' before sizeof(COLORS)];
+/wizards/daos/examples/knight.c line 13: parse error before )];
+/wizards/daos/examples/knight.c line 13: parse error before ));
+/wizards/daos/examples/knight.c line 13: parse error before )));
+/wizards/daos/examples/knight.c line 13: parse error before ));
+/wizards/daos/examples/knight.c line 17: Undefined variable 'colors' before x]+" knight");
+/wizards/daos/examples/knight.c line 26: Wrong number of arguments to set_stats
+    Expected: 2  Got: 1 before ;
+/wizards/daos/examples/knight.c line 35: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to children before ->find_object("/wiza
+/wizards/daos/examples/square.c line 34: Undefined variable 'msg' before  "You search through
+/wizards/daos/examples/square.c line 34: Illegal lvalue before  "You search through
+/wizards/daos/examples/square.c line 39: parse error before the end of line
+/wizards/daos/examples/square.c line 34: Undefined variable 'msg' before  "You search through
+/wizards/daos/examples/square.c line 34: Illegal lvalue before  "You search through
+/wizards/daos/examples/square.c line 39: parse error before the end of line
+/wizards/daos/examples/square.c line 40: parse error before the end of line
+/wizards/daos/examples/knight.c line 34: parse error before  {
+/wizards/daos/examples/knight.c line 34: parse error before  {
+/wizards/daos/examples/knight.c line 34: parse error before  {
+/wizards/daos/examples/knight.c line 33: parse error before  {
+/wizards/daos/examples/knight.c line 33: parse error before  {
+/wizards/daos/examples/knight.c line 33: parse error before  {
+/wizards/daos/examples/knight.c line 16: parse error before ) );
+/wizards/daos/testob.c line 46: parse error before the end of line
+/wizards/daos/testob.c line 38: Undefined variable 'x' before  allocate(i);
+/wizards/daos/testob.c line 38: Illegal lvalue before  allocate(i);
+/wizards/daos/testob.c line 38: Bad assignment ( int vs mixed * ). before the end of line
+/wizards/daos/testob.c line 43: Undefined variable 'y' before ) {
+/wizards/daos/testob.c line 43: Illegal lvalue before ) {
+/wizards/daos/testob.c line 44: parse error before the end of line
+/wizards/daos/testob.c line 39: Undefined variable 'i' before ) {
+/wizards/daos/testob.c line 39: Illegal lvalue before ) {
+/wizards/daos/testob.c line 46: parse error before the end of file
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  20) {
+/wizards/daos/testob.c line 40: Illegal to redeclare local name 'i' before  = 1;
+/wizards/daos/testob.c line 46: parse error before the end of file
+/wizards/daos/testob.c line 45: parse error before the end of file
+/wizards/daos/testob.c line 42: Undefined variable 'i' before ));
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Illegal lvalue before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Illegal lvalue before  1; i<=x; i++)
+/wizards/daos/testob.c line 43: Undefined variable 'i' before );
+/wizards/daos/testob.c line 42: Bad assignment ( int * vs int ). before the end of line
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Illegal lvalue before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Illegal lvalue before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Undefined variable 'i' before  1; i<=x; i++)
+/wizards/daos/testob.c line 39: Illegal lvalue before  1; i<=x; i++)
+/wizards/daos/testob.c line 44: Undefined variable 'i' before ;
+/wizards/daos/testob.c line 48: parse error before the end of file
+/wizards/daos/testob.c line 49: parse error before the end of file
+/wizards/daos/testob.c line 42: Undefined variable 'i' before );
+/wizards/daos/testob.c line 42: Illegal to redeclare local name 'x' before  in arr) {
+/wizards/daos/testob.c line 51: parse error before  1;
+/wizards/daos/testob.c line 39: Type mismatch ( int vs mixed * ) when initializing x before the end of line
+/wizards/daos/testob.c line 46: parse error before the end of line
+/wizards/daos/testob.c line 38: Type mismatch ( int vs mixed * ) when initializing x before the end of line
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad assignment ( mapping * vs object * ). before  for (int i=0; i<pla
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '<' : "mapping * " before  i++) { printf("%0\n
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad assignment ( mapping vs object * ). before  for (int i=0; i<pla
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '<' : "mapping " before  i++) { printf("%0\n
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function players before ); } printf("%O\n", 
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad assignment ( mapping vs string * ). before  } printf("%O\n", pl
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad assignment ( mapping vs string * ). before  } printf("%O\n", pl
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: "#pragma strict_types" requires type of function before "%O\n", players);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before , players);; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_aliases before ); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_aliases before , find_player("kilir
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too many arguments to sizeof before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_aliases before ); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_aliases before ); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/bin/_assist.c line 19: Undefined function query_current_attacker before ;
+/wizards/daos/bin/_assist.c line 20: parse error before  i++) {
+/wizards/daos/bin/_assist.c line 20: parse error before  i++) {
+/wizards/daos/bin/_assist.c line 20: parse error before  i++) {
+/wizards/daos/bin/_assist.c line 20: Undefined variable 'sizeof' before att]; i++) {
+/wizards/daos/bin/_assist.c line 20: parse error before  i++) {
+/wizards/daos/bin/_assist.c line 20: parse error before TP->query_current_at
+/wizards/daos/bin/_assist.c line 21: Illegal LHS before  i<sizeof(att); i++)
+/wizards/daos/bin/_assist.c line 21: Undefined variable 'i' before sizeof(att); i++) {
+/wizards/daos/bin/_assist.c line 21: parse error before  {
+/wizards/daos/bin/_assist.c line 24: "#pragma strict_types" requires type of function before "You assist in comba
+/wizards/daos/bin/_assist.c line 24: parse error before , TP);
+/wizards/daos/bin/_assist.c line 23: Too few arguments to message before ;
+/wizards/daos/bin/_assist.c line 24: Too few arguments to message before ;
+/wizards/daos/bin/_assist.c line 26: parse error before  1;
+/wizards/daos/bin/_assist.c line 26: parse error before  1;
+/wizards/daos/bin/_assist.c line 31: parse error before the end of line
+/wizards/daos/bin/_assist.c line 38: Undefined variable 'tgt' before query_cap_name()+" i
+/wizards/daos/bin/_assist.c line 38: Too few arguments to message before ;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too many arguments to find_player before ); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too many arguments to all_inventory before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daos/bin/_randletter.c line 6: parse error before 26];
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 26; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  26; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/bin/_randletter.c line 6: parse error before 26];
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 26; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  26; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/bin/_randletter.c line 6: parse error before 26];
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 26; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  26; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/bin/_randletter.c line 6: parse error before 26];
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 26; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  26; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/bin/_randletter.c line 6: parse error before 26];
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 25; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  25; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/bin/_randletter.c line 6: parse error before "a","b","c","d","e",
+/wizards/daos/bin/_randletter.c line 8: Illegal LHS before  i < 25; i++) {
+/wizards/daos/bin/_randletter.c line 8: Undefined variable 'i' before  25; i++) {
+/wizards/daos/bin/_randletter.c line 8: parse error before  {
+/wizards/daos/_randletter.c line 8: parse error before "a","b","c","d","e",
+/wizards/daos/_randletter.c line 10: Illegal LHS before  i < 25; i++) {
+/wizards/daos/_randletter.c line 10: Undefined variable 'i' before  25; i++) {
+/wizards/daos/_randletter.c line 10: parse error before  {
+/wizards/daos/_randletter.c line 8: parse error before "a","b","c","d","e",
+/wizards/daos/_randletter.c line 10: Illegal LHS before  i < 25; i++) {
+/wizards/daos/_randletter.c line 10: Undefined variable 'i' before  25; i++) {
+/wizards/daos/_randletter.c line 10: parse error before  {
+/wizards/daos/bin/_randletter.c line 11: Bad argument 1 to efun random() before );
+/wizards/daos/bin/_randletter.c line 11: Bad argument 1 to efun random() before );
+/wizards/daos/bin/_randletter.c line 10: Undefined variable 'random' before sizeof(letters)];
+/wizards/daos/bin/_randletter.c line 12: Bad right argument to '<' : "string * " before  i++) {
+/wizards/daos/bin/_randletter.c line 10: Undefined variable 'sizeof' before letters]);
+/wizards/daos/bin/_randletter.c line 10: Bad assignment ( string * vs int ). before the end of line
+/wizards/daos/bin/_randletter.c line 12: Bad right argument to '<' : "string * " before  i++) {
+/wizards/daos/bin/_randletter.c line 10: Bad assignment ( string * vs int ). before the end of line
+/wizards/daos/bin/_randletter.c line 12: Bad right argument to '<' : "string * " before  i++) {
+/wizards/daos/bin/_randletter.c line 10: parse error before random(sizeof(letter
+/wizards/daos/bin/_randletter.c line 12: Illegal LHS before  i < letters; i++) {
+/wizards/daos/bin/_randletter.c line 12: Undefined variable 'i' before  letters; i++) {
+/wizards/daos/bin/_randletter.c line 12: Bad right argument to '<' : "string * " before  i++) {
+/wizards/daos/bin/_randletter.c line 12: parse error before  {
+/wizards/daos/bin/_randletter.c line 10: Bad assignment ( string * vs int ). before the end of line
+/wizards/daos/bin/_randletter.c line 12: Bad right argument to '<' : "string * " before  i++) {
+/wizards/daos/bin/_randletter.c line 10: Undefined variable 'x' before  random(sizeof(lette
+/wizards/daos/bin/_randletter.c line 10: Illegal lvalue before  random(sizeof(lette
+/wizards/daos/bin/_triv.c line 255: Bad assignment ( string vs int ). before )
+/wizards/daos/bin/_randletter.c line 13: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'eval' before  ctime();; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  ctime();; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'res' before  stat[0]; eval retur
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  stat[0]; eval retur
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'stat' before 0]; eval return ctim
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'eval' before  ctime(res); }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  ctime(res); }
+/wizards/daos/workroom.c line 13: parse error before  write("This room is
+/wizards/daos/workroom.c line 13: parse error before  { write("This room 
+/wizards/daos/workroom.c line 13: parse error before  { write("This room 
+/wizards/daos/workroom.c line 16: Reserved type name unexpected. before () {
+/wizards/daos/workroom.c line 16: parse error before () {
+/wizards/daos/workroom.c line 16: Reserved type name unexpected. before () {
+/wizards/daos/workroom.c line 16: parse error before () {
+/wizards/daos/workroom.c line 13: parse error before  return 1; 1; else w
+/wizards/daos/workroom.c line 13: parse error before  return 1; 1; else w
+/wizards/daos/workroom.c line 13: parse error before  return 1; 1; else w
+/wizards/daos/workroom.c line 13: parse error before  1;
+/wizards/daos/workroom.c line 13: parse error before  1;
+/wizards/daos/workroom.c line 13: parse error before  1;
+/wizards/daos/workroom.c line 13: parse error before  1;
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/workroom.c line 15: parse error before  && !(archp(ob)) ret
+/wizards/daos/workroom.c line 15: parse error before  (!archp(ob))) retur
+/wizards/daos/workroom.c line 15: parse error before  (!archp(ob))) retur
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/workroom.c line 15: parse error before  1; }
+/wizards/daos/newbie/setter.c line 66: Too few arguments to member_array before  != -1 && !str) {
+/wizards/daos/newbie/setter.c line 66: Too few arguments to member_array before  != -1 && !str) {
+/wizards/daos/newbie/setter.c line 66: != always true because of incompatible types ( string * vs int ). before  && !str) {
+/wizards/daos/newbie/setter.c line 66: Too few arguments to member_array before  && !str) {
+/wizards/daos/newbie/setter.c line 76: Too few arguments to message before ;
+/wizards/daos/newbie/setter.c line 79: Reserved type name unexpected. before (string str) {
+/wizards/daos/newbie/setter.c line 79: parse error before (string str) {
+/wizards/daos/newbie/setter.c line 120: "#pragma strict_types" requires type of function before )->add_hp(this_playe
+/wizards/daos/newbie/setter.c line 120: parse error before add_hp(this_player()
+/wizards/daos/newbie/setter.c line 77: parse error before ');
+/wizards/daos/newbie/setter.c line 77: Illegal character constant before ;
+/wizards/daos/newbie/setter.c line 81: Illegal character constant before ;
+/wizards/daos/newbie/setter.c line 82: Illegal character constant before ;
+/wizards/daos/newbie/setter.c line 140: Illegal LHS before  tmp=sizeof(which=ke
+/wizards/daos/newbie/setter.c line 140: Undefined variable 'tmp' before sizeof(which=keys(bo
+/wizards/daos/newbie/setter.c line 80: Reserved type name unexpected. before (string str) {
+/wizards/daos/newbie/setter.c line 80: parse error before (string str) {
+/wizards/daos/newbie/setter.c line 121: "#pragma strict_types" requires type of function before )->add_hp(this_playe
+/wizards/daos/newbie/setter.c line 121: parse error before add_hp(this_player()
+/wizards/daos/newbie/setter.c line 80: Reserved type name unexpected. before (string str) {
+/wizards/daos/newbie/setter.c line 80: parse error before (string str) {
+/wizards/daos/newbie/setter.c line 121: "#pragma strict_types" requires type of function before )->add_hp(this_playe
+/wizards/daos/newbie/setter.c line 121: parse error before add_hp(this_player()
+/wizards/daos/newbie/rooms/house.c line 9: parse error before ("");    
+/wizards/daos/newbie/rooms/house.c line 17: parse error before ->set_long("");
+/wizards/daos/newbie/rooms/house.c line 17: parse error before ->set_long("");
+/wizards/daos/newbie/mob/parent.c line 10: Reserved type name unexpected. before  = random(2);
+/wizards/daos/newbie/mob/parent.c line 10: parse error before  = random(2);
+/wizards/daos/newbie/mob/parent.c line 10: Illegal LHS before the end of line
+/wizards/daos/newbie/mob/parent.c line 11: Undefined variable 'i' before  == 1 set_gender("ma
+/wizards/daos/newbie/mob/parent.c line 11: parse error before  1 set_gender("male"
+/wizards/daos/newbie/mob/parent.c line 10: Reserved type name unexpected. before  = random(2);
+/wizards/daos/newbie/mob/parent.c line 10: parse error before  = random(2);
+/wizards/daos/newbie/mob/parent.c line 10: Illegal LHS before the end of line
+/wizards/daos/newbie/mob/parent.c line 11: Undefined variable 'i' before  1) set_gender("male
+/wizards/daos/bin/_scope.c line 7: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 8: Bad argument 1 to efun environment() before ->query_long(), this
+/wizards/daos/bin/_scope.c line 22: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 23: Bad argument 1 to efun environment() before ->query_long(), this
+/wizards/daos/bin/_scope.c line 25: Redeclaration of function cmd_scope. before the end of line
+/wizards/daos/bin/_scope.c line 26: Redeclaration of function cmd_scope. before the end of line
+/wizards/daos/bin/_scope.c line 37: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 38: Bad argument 1 to efun environment() before ->query_long(), this
+/wizards/daos/bin/_scope.c line 40: Redeclaration of function cmd_scope. before the end of line
+/wizards/daos/bin/_scope.c line 23: Redeclaration of function cmd_scope. before the end of line
+/wizards/daos/bin/_scope.c line 8: Type mismatch ( string vs object ) when initializing env before the end of line
+/wizards/daos/bin/_scope.c line 12: Undefined function env before ->query_long()+"");
+/wizards/daos/bin/_scope.c line 26: Redeclaration of function cmd_scope. before the end of line
+/wizards/daos/bin/_scope.c line 7: Type mismatch ( string vs object ) when initializing env before the end of line
+/wizards/daos/bin/_scope.c line 9: Too few arguments to message before ;
+/wizards/daos/bin/_scope.c line 10: Too few arguments to message before ;
+/wizards/daos/bin/_scope.c line 10: Invalid argument types to '+' ( string vs object ) before ->query_long()+"", t
+/wizards/daos/bin/_scope.c line 10: Too few arguments to message before ->query_long()+"", t
+/wizards/daos/bin/_scope.c line 10: parse error before ;
+/wizards/daos/bin/_scope.c line 7: Type mismatch ( string vs mapping ) when initializing items before the end of line
+/wizards/daos/bin/_scope.c line 12: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 12: Bad assignment ( string * vs object * ). before the end of line
+/wizards/daos/bin/_scope.c line 13: Undefined variable 'i' before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 13: Illegal lvalue before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 12: Undefined variable 'i' before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 12: Illegal lvalue before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 10: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 10: Undefined function query_long before ));
+/wizards/daos/bin/_scope.c line 10: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 12: Undefined variable 'i' before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 12: Illegal lvalue before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 13: Bad assignment ( string vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 14: Undefined variable 'i' before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 14: Illegal lvalue before  0; i<sizeof(inv); i
+/wizards/daos/bin/_scope.c line 15: parse error before ;
+/wizards/daos/bin/_scope.c line 15: parse error before ;
+/wizards/daos/bin/_scope.c line 9: Bad assignment ( object vs object * ). before the end of line
+/wizards/daos/bin/_scope.c line 11: Bad argument 1 to efun environment() before ;
+/wizards/daos/bin/_scope.c line 11: Bad assignment ( object * vs object ). before the end of line
+/wizards/daos/bin/_scope.c line 13: Bad argument 1 to efun all_inventory() before ;
+/wizards/daos/bin/_scope.c line 14: Bad argument 1 to efun file_name() before );
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  evaluate(f);; }
+/wizards/daos/bin/_pkills.c line 26: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/bin/_pkills.c line 29: Undefined function is_player before ) x++;
+/wizards/daos/bin/_pkills.c line 36: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/bin/_pkills.c line 42: parse error before the end of file
+/wizards/daos/bin/_pkills.c line 26: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/bin/_pkills.c line 29: Undefined function is_player before ) x++;
+/wizards/daos/bin/_pkills.c line 36: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 38: parse error before the end of file
+/wizards/daos/bin/_pkills.c line 6: parse error before  ob;
+/wizards/daos/bin/_pkills.c line 10: Illegal LHS before the end of line
+/wizards/daos/bin/_pkills.c line 11: parse error before  {
+/wizards/daos/bin/_pkills.c line 14: Illegal LHS before the end of line
+/wizards/daos/bin/_pkills.c line 14: parse error before the end of line
+/wizards/daos/bin/_pkills.c line 17: Undefined variable 'ob' before query_kills();
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 39: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun lower_case() before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun lower_case() before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun lower_case() before ); }
+/wizards/daos/bin/_giveale.c line 15: parse error before the end of file
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 39: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun in_edit() before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun in_edit() before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun in_edit() before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/bin/_code.c line 9: Bad assignment ( object vs object * ). before the end of line
+/wizards/daos/bin/_code.c line 12: continue statement outside loop before the end of line
+/wizards/daos/bin/_code.c line 15: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 15: parse error before ;
+/wizards/daos/bin/_code.c line 22: parse error before the end of file
+/wizards/daos/bin/_code.c line 11: Bad argument 1 to efun wizardp() before  || archp(ob)) {
+/wizards/daos/bin/_code.c line 12: continue statement outside loop before the end of line
+/wizards/daos/bin/_code.c line 14: Bad argument 1 to efun in_edit() before ) {
+/wizards/daos/bin/_code.c line 15: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 15: Bad argument 1 to efun in_edit() before );
+/wizards/daos/bin/_code.c line 15: parse error before ;
+/wizards/daos/bin/_code.c line 11: Undefined variable 'i' before 0; i<ob; i++) {
+/wizards/daos/bin/_code.c line 11: Illegal lvalue before 0; i<ob; i++) {
+/wizards/daos/bin/_code.c line 11: Bad right argument to '<' : "object * " before  i++) {
+/wizards/daos/bin/_code.c line 15: Bad argument 1 to efun in_edit() before ) {
+/wizards/daos/bin/_code.c line 16: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 16: Bad argument 1 to efun in_edit() before );
+/wizards/daos/bin/_code.c line 11: Bad right argument to '<' : "object * " before  i++) {
+/wizards/daos/bin/_code.c line 12: Bad argument 1 to efun wizardp() before  || archp(i)) 
+/wizards/daos/bin/_code.c line 15: Bad argument 1 to efun in_edit() before ) {
+/wizards/daos/bin/_code.c line 16: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 16: Bad argument 1 to efun in_edit() before );
+/wizards/daos/bin/_code.c line 16: parse error before ;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function count before ; }
+/wizards/daos/bin/_code.c line 12: Bad argument 1 to efun wizardp() before  || archp(i)) 
+/wizards/daos/bin/_code.c line 15: Bad argument 1 to efun in_edit() before ) {
+/wizards/daos/bin/_code.c line 16: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 16: Bad argument 1 to efun in_edit() before );
+/wizards/daos/bin/_code.c line 16: parse error before ;
+/wizards/daos/bin/_code.c line 24: parse error before the end of file
+/wizards/daos/bin/_code.c line 12: Bad argument 1 to efun wizardp() before  || archp(ob)) 
+/wizards/daos/bin/_code.c line 15: Bad argument 1 to efun in_edit() before ) {
+/wizards/daos/bin/_code.c line 16: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(o
+/wizards/daos/bin/_code.c line 16: Bad argument 1 to efun in_edit() before );
+/wizards/daos/bin/_code.c line 16: parse error before ;
+/wizards/daos/bin/_code.c line 24: parse error before the end of file
+/wizards/daos/bin/_code.c line 17: Invalid argument types to '+' ( void vs string ) before  "File:" + in_edit(t
+/wizards/daos/bin/_code.c line 17: parse error before ;
+/wizards/daos/bin/_code.c line 25: parse error before the end of file
+/wizards/daos/bin/_code.c line 25: parse error before the end of file
+/wizards/daos/bin/_code.c line 23: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/bin/_code.c line 14: parse error before the end of line
+/wizards/daos/bin/_code.c line 11: Reserved type name unexpected. before ob;
+/wizards/daos/bin/_code.c line 11: parse error before ob;
+/wizards/daos/bin/_code.c line 12: Illegal LHS before the end of line
+/wizards/daos/bin/_code.c line 14: Undefined variable 'ob' before  users();
+/wizards/daos/bin/_code.c line 14: Illegal lvalue before  users();
+/wizards/daos/bin/_code.c line 18: Undefined variable 'tp' before ;
+/wizards/daos/bin/_code.c line 15: Too few arguments to message before ;
+/wizards/daos/bin/_code.c line 16: Too many arguments to in_edit before ;
+/wizards/daos/bin/_code.c line 16: parse error before the end of line
+/wizards/daos/bin/_code.c line 15: Left argument of -> is not a class before , tp);
+/wizards/daos/bin/_code.c line 15: parse error before " " + in_edit(ob[i])
+/wizards/daos/bin/_code.c line 25: parse error before the end of file
+/wizards/daos/bin/_code.c line 25: parse error before the end of file
+/wizards/daos/bin/_code.c line 20: Too few arguments to message before ;
+/wizards/daos/bin/_code.c line 22: parse error before  1;
+/wizards/daos/bin/_code.c line 22: parse error before  1;
+/wizards/daos/bin/_code.c line 20: break statement outside loop before the end of line
+/wizards/daos/bin/_code.c line 19: parse error before  {
+/wizards/daos/bin/_code.c line 24: parse error before  1;
+/wizards/daos/bin/_code.c line 22: parse error before  1;
+/wizards/daos/bin/_code.c line 21: break statement outside loop before     
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 39: parse error before the end of file
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 39: parse error before the end of file
+/wizards/daos/bin/_pkills.c line 26: Undefined function is_player before ) {
+/wizards/daos/bin/_pkills.c line 39: parse error before the end of file
+/wizards/daos/newbie/mob/parent.c line 1: Single '#' in identifier -- use '##' for token pasting before nclude <std.h>
+/wizards/daos/newbie/mob/parent.c line 11: Undefined variable 'A' before  weary peasant, worn
+/wizards/daos/newbie/mob/parent.c line 11: parse error before  weary peasant, worn
+/wizards/daos/newbie/mob/parent.c line 13: Illegal LHS before the end of line
+/wizards/daos/newbie/mob/parent.c line 13: parse error before the end of line
+/wizards/daos/newbie/mob/parent.c line 12: parse error before  features stare back
+/wizards/daos/newbie/mob/parent.c line 22: End of file in string at the end of the file
+/wizards/daos/newbie/mob/parent.c line 6: parse error before ";
+/wizards/daos/newbie/rooms/main.c line 17: Reserved type name unexpected. before ;
+/wizards/daos/newbie/rooms/main.c line 17: parse error before ;
+/wizards/daos/newbie/rooms/main.c line 18: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 18: parse error before init();
+/wizards/daos/newbie/rooms/main.c line 18: parse error before init();
+/wizards/daos/newbie/rooms/main.c line 9: parse error before ");
+/wizards/daos/newbie/rooms/main.c line 17: End of file in string at the end of the file
+/wizards/daos/newbie/rooms/main.c line 9: parse error before ");
+/wizards/daos/newbie/rooms/main.c line 17: End of file in string at the end of the file
+/wizards/daos/newbie/rooms/main.c line 13: Undefined variable 'ob' before move(this_object());
+/wizards/daos/newbie/rooms/main.c line 13: Undefined variable 'ob' before move(this_object());
+/wizards/daos/newbie/rooms/main.c line 15: parse error before the end of line
+/wizards/daos/newbie/rooms/main.c line 14: parse error before the end of line
+/wizards/daos/newbie/rooms/main.c line 17: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 19: Undefined variable 'ob' before set_gender("female")
+/wizards/daos/newbie/rooms/main.c line 19: Reserved type name unexpected. before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 19: parse error before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 19: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 21: Undefined variable 'ob' before set_gender("female")
+/wizards/daos/newbie/rooms/main.c line 19: Reserved type name unexpected. before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 19: parse error before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 19: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 21: Undefined variable 'ob' before set_gender("female")
+/wizards/daos/newbie/rooms/main.c line 26: parse error before the end of line
+/wizards/daos/newbie/rooms/main.c line 34: parse error before the end of line
+/wizards/daos/newbie/rooms/main.c line 21: parse error before , ({}), 0);
+/wizards/daos/newbie/rooms/main.c line 33: Too few arguments to message before ;
+/wizards/daos/newbie/rooms/main.c line 33: Reserved type name unexpected. before (object theroom) {
+/wizards/daos/newbie/rooms/main.c line 33: parse error before (object theroom) {
+/wizards/daos/newbie/rooms/main.c line 20: Undefined variable 'ob' before  "do_intro", ({}), 0
+/wizards/daos/newbie/rooms/main.c line 32: Too few arguments to message before ;
+/wizards/daos/newbie/rooms/main.c line 20: Reserved type name unexpected. before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 20: parse error before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 20: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 21: Undefined variable 'ob' before  "do_intro", ({}), 0
+/wizards/daos/newbie/rooms/main.c line 33: Too few arguments to message before ;
+/wizards/daos/newbie/rooms/main.c line 33: Too few arguments to message before ;
+/wizards/daos/newbie/rooms/main.c line 33: Bad argument 3 to efun message() before ;
+/wizards/daos/newbie/rooms/main.c line 18: parse error before ) = this_player()) {
+/wizards/daos/newbie/rooms/main.c line 19: parse error before ) = this_player();
+/wizards/daos/newbie/rooms/main.c line 19: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 20: Reserved type name unexpected. before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 20: parse error before  = new(MOB"parent");
+/wizards/daos/newbie/rooms/main.c line 20: Illegal LHS before the end of line
+/wizards/daos/newbie/rooms/main.c line 22: Undefined variable 'ob' before  "do_intro", TP, 0);
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'mud_name' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function mud_info before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function mud_info before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function mud_info before ; }
+/wizards/daos/obj/cat_nine.c line 33: parse error before the end of file
+/wizards/daos/obj/cat_nine.c line 17: Undefined variable 'call_other' before  this_object(), "wea
+/wizards/daos/obj/cat_nine.c line 17: parse error before ) );	
+/wizards/daos/obj/cat_nine.c line 22: Illegal LHS before the end of line
+/wizards/daos/obj/cat_nine.c line 22: parse error before the end of line
+/wizards/daos/obj/cat_nine.c line 23: Illegal LHS before the end of line
+/wizards/daos/obj/cat_nine.c line 23: parse error before the end of line
+/wizards/daos/obj/cat_nine.c line 17: Undefined variable 'set_hit' before , this_object(), "we
+/wizards/daos/obj/cat_nine.c line 17: parse error before , this_object(), "we
+/wizards/daos/mon/testmon.c line 11: Reserved type name unexpected. before  = rand(2);
+/wizards/daos/mon/testmon.c line 11: parse error before  = rand(2);
+/wizards/daos/mon/testmon.c line 11: Undefined function rand before ;
+/wizards/daos/mon/testmon.c line 11: Illegal LHS before the end of line
+/wizards/daos/mon/testmon.c line 12: Undefined variable 'i' before  1) {
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'RACES_D' before query_races(); }
+/wizards/daos/mon/testmon.c line 12: Undefined variable 'RACE_D' before query_races();
+/wizards/daos/mon/testmon.c line 15: parse error before the end of line
+/wizards/daos/mon/testmon.c line 16: Illegal LHS before the end of line
+/wizards/daos/mon/testmon.c line 16: parse error before the end of line
+/wizards/daos/mon/testmon.c line 19: Illegal LHS before the end of line
+/wizards/daos/mon/testmon.c line 19: parse error before the end of line
+/wizards/daos/mon/testmon.c line 17: Undefined variable 'b' before  this_object()->quer
+/wizards/daos/mon/testmon.c line 17: Illegal lvalue before  this_object()->quer
+/wizards/daos/mon/testmon.c line 12: Undefined variable 'r' before  random(sizeof(mon_r
+/wizards/daos/mon/testmon.c line 12: Illegal lvalue before  random(sizeof(mon_r
+/wizards/daos/mon/testmon.c line 12: Bad assignment ( string vs int ). before the end of line
+/wizards/daos/mon/testmon.c line 13: Bad type of index: "string " before );
+/wizards/daos/mon/testmon.c line 14: Bad type of index: "string " before );
+/wizards/daos/mon/testmon.c line 15: Bad type of index: "string " before );
+/wizards/daos/obj/cat_fixed.c line 20: parse error before  tp = environment(th
+/wizards/daos/obj/cat_fixed.c line 20: Illegal LHS before the end of line
+/wizards/daos/obj/cat_fixed.c line 22: Undefined variable 'tp' before ;
+/wizards/daos/obj/cat_nine.c line 25: Undefined variable 'tp' before ;
+/wizards/daos/_fbody.c line 52: Undefined function query_weapon before  && (query_armour(li
+/wizards/daos/_fbody.c line 52: Undefined function query_armour before ) > 1) {
+/wizards/daos/_fbody.c line 54: parse error before query_short()))));
+/wizards/daos/_fbody.c line 63: Undefined variable 'alpha' before , 
+/wizards/daos/_fbody.c line 64: Illegal LHS before the end of line
+/wizards/daos/_fbody.c line 64: parse error before the end of line
+/wizards/daos/_fbody.c line 52: Undefined function query_weapon before  && (query_armour(li
+/wizards/daos/_fbody.c line 52: Undefined function query_armour before ) > 1) {
+/wizards/daos/_fbody.c line 54: parse error before query_short()))));
+/wizards/daos/_fbody.c line 63: Undefined variable 'alpha' before , 
+/wizards/daos/_fbody.c line 64: Illegal LHS before the end of line
+/wizards/daos/_fbody.c line 64: parse error before the end of line
+/wizards/daos/_fbody.c line 52: Undefined function query_weapon before  && (query_armour(li
+/wizards/daos/_fbody.c line 52: Undefined function query_armour before ) > 1) {
+/wizards/daos/_fbody.c line 54: parse error before query_short()))));
+/wizards/daos/_fbody.c line 63: Undefined variable 'alpha' before , 
+/wizards/daos/_fbody.c line 64: Illegal LHS before the end of line
+/wizards/daos/_fbody.c line 64: parse error before the end of line
+/wizards/daos/_fbody.c line 52: Undefined function query_weapon before  && (query_armour(li
+/wizards/daos/_fbody.c line 52: Undefined function query_armour before ) > 1) {
+/wizards/daos/_fbody.c line 54: parse error before query_short()))));
+/wizards/daos/_fbody.c line 63: Undefined variable 'alpha' before , 
+/wizards/daos/_fbody.c line 64: Illegal LHS before the end of line
+/wizards/daos/_fbody.c line 64: parse error before the end of line
+/wizards/daos/_fbody.c line 52: Undefined function query_weapon before  && (query_armour(li
+/wizards/daos/_fbody.c line 52: Undefined function query_armour before ) > 1) {
+/wizards/daos/_fbody.c line 53: parse error before ;
+/wizards/daos/_fbody.c line 54: parse error before query_short()))));
+/wizards/daos/_fbody.c line 63: Undefined variable 'alpha' before , 
+/wizards/daos/_fbody.c line 64: Illegal LHS before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; explode(str, " ");
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before ; explode(str, " ");
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before ; explode(str, " ");
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to explode before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: parse error before the end of file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before the end of line
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to map before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'max' before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before  max); return races;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: parse error before  max); return races;
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'max' before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'max' before ; write(" ", max) + 
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before ; write(" ", max) + 
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'max' before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before ; return races;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function r before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'r' before ; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined function races before ;; }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'VIRTUALMPA' before  }
+/wizards/daos/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ROOM_DEATH' before  }

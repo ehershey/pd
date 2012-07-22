@@ -1,0 +1,460 @@
+wraith under euid wraith Sat Aug 10 20:04:18 2002
+wraithy;set_stats;charisma;10000
+wraith under euid wraith Sat Aug 10 20:04:46 2002
+wraithy;set_stats;constitution;10000
+nightshade under euid nightshade Sat Aug 10 20:52:47 2002
+aldur;query_attackers
+detach under euid detach Sat Aug 10 20:58:07 2002
+cow;set_paralzyed;10000
+nightshade under euid nightshade Sat Aug 10 21:14:35 2002
+tendrick
+wraith under euid wraith Sat Aug 10 21:20:59 2002
+hepualahaole;set_guild;dw
+nightshade under euid nightshade Sat Aug 10 21:24:15 2002
+baudros;query_attackers
+nightshade under euid nightshade Sat Aug 10 21:24:23 2002
+ug;query_attackers
+wraith under euid wraith Sat Aug 10 21:31:15 2002
+hepualahaole;set_guild;DW
+wraith under euid wraith Sat Aug 10 21:36:53 2002
+hepualahaole;set_guild;DW
+wraith under euid wraith Sat Aug 10 22:23:55 2002
+kabaal
+daos under euid daos Mon Aug 12 00:44:17 2002
+ug;query_paralyzed
+wiz under euid wiz Tue Aug 13 01:16:01 2002
+ug
+wiz under euid wiz Tue Aug 13 01:16:05 2002
+ug;query_heal_rate
+stormbringer under euid stormbringer Tue Aug 13 08:19:08 2002
+halo;set_level;5
+stormbringer under euid stormbringer Tue Aug 13 08:19:48 2002
+halo;set_class;"child"
+stormbringer under euid stormbringer Tue Aug 13 08:20:00 2002
+halo;set_subclass
+stormbringer under euid stormbringer Tue Aug 13 08:20:26 2002
+halo;init_skills;"child"
+stormbringer under euid stormbringer Tue Aug 13 08:21:58 2002
+halo;add_exp;_91444
+stormbringer under euid stormbringer Tue Aug 13 08:22:06 2002
+halo;add_exp;-91444
+nightshade under euid nightshade Tue Aug 13 18:59:59 2002
+ug;restart_heart
+nightshade under euid nightshade Tue Aug 13 19:02:03 2002
+ug;new_body
+nightshade under euid nightshade Tue Aug 13 19:02:13 2002
+ug;fix_vital_bonus
+nightshade under euid nightshade Tue Aug 13 19:04:07 2002
+ug;quit
+wraith under euid wraith Tue Aug 13 23:04:27 2002
+drake
+wraith under euid wraith Tue Aug 13 23:06:13 2002
+abzigal
+wraith under euid wraith Tue Aug 13 23:06:19 2002
+klawz
+wraith under euid wraith Tue Aug 13 23:11:27 2002
+fuel
+wraith under euid wraith Tue Aug 13 23:14:17 2002
+hydra
+wraith under euid wraith Wed Aug 14 20:33:22 2002
+leviathas
+wraith under euid wraith Wed Aug 14 20:33:34 2002
+daboura
+wraith under euid wraith Wed Aug 14 21:31:52 2002
+nightshade;new_body
+wraith under euid wraith Wed Aug 14 21:32:18 2002
+nightshade;save_player
+wraith under euid wraith Wed Aug 14 21:32:24 2002
+nightshade;remove living
+wraith under euid wraith Wed Aug 14 21:32:28 2002
+nightshade;remove_living
+stormbringer under euid stormbringer Thu Aug 15 11:20:59 2002
+users
+wraith under euid wraith Thu Aug 15 21:55:42 2002
+abzigal
+wraith under euid wraith Thu Aug 15 23:46:07 2002
+smokey
+stormbringer under euid stormbringer Fri Aug 16 09:33:04 2002
+prator;add_exp;15000000
+nightshade under euid nightshade Fri Aug 16 18:18:44 2002
+rethlan;add_exp;8000000
+wraith under euid wraith Sat Aug 17 18:34:45 2002
+peem
+wraith under euid wraith Sat Aug 17 18:34:57 2002
+ilvec
+wraith under euid wraith Sat Aug 17 18:35:03 2002
+peem
+wraith under euid wraith Sat Aug 17 18:35:05 2002
+ilvec
+wraith under euid wraith Sat Aug 17 18:39:19 2002
+scarab
+wraith under euid wraith Sat Aug 17 18:39:21 2002
+uland
+daos under euid daos Sun Aug 18 04:43:27 2002
+faust;query_deaths
+daos under euid daos Sun Aug 18 04:48:31 2002
+faust;query_deaths
+nightshade under euid nightshade Sun Aug 18 14:13:13 2002
+kajjul;query_paralyzed
+nightshade under euid nightshade Sun Aug 18 18:20:38 2002
+icharus;damage;60
+nightshade under euid nightshade Sun Aug 18 18:21:36 2002
+icharus;revive
+nightshade under euid nightshade Sun Aug 18 18:22:08 2002
+icharus;add_exp;100000000
+nightshade under euid nightshade Sun Aug 18 18:26:22 2002
+icharus;set_skill;blade;85
+nightshade under euid nightshade Sun Aug 18 18:28:00 2002
+icharus;revive
+nightshade under euid nightshade Sun Aug 18 18:28:28 2002
+icharus;fix_vital_bonus
+nightshade under euid nightshade Sun Aug 18 18:29:26 2002
+icharus;revive
+nightshade under euid nightshade Sun Aug 18 18:35:54 2002
+icharus;fix_vital_bonus
+stormbringer under euid stormbringer Sun Aug 18 23:09:38 2002
+nightfire
+wraith under euid wraith Tue Aug 20 17:14:48 2002
+peem;add_exp;3237507
+nightshade under euid nightshade Tue Aug 20 23:40:20 2002
+faust;restart_heart
+wraith under euid wraith Wed Aug 21 20:19:29 2002
+leviathas
+wraith under euid wraith Fri Aug 23 22:09:31 2002
+yakko
+wraith under euid wraith Sat Aug 24 20:18:07 2002
+ashram;query;pk
+wraith under euid wraith Sat Aug 24 20:18:13 2002
+ashram;query;outlaw
+wraith under euid wraith Sat Aug 24 20:18:19 2002
+ashram;query_outlaw
+wraith under euid wraith Tue Aug 27 20:06:06 2002
+gabriel;add_exp;50000000
+stormbringer under euid stormbringer Wed Aug 28 08:28:07 2002
+prator;set_level;1
+stormbringer under euid stormbringer Wed Aug 28 08:28:19 2002
+prator;set_class;"none"
+stormbringer under euid stormbringer Wed Aug 28 08:28:39 2002
+prator;set_subclass;
+stormbringer under euid stormbringer Wed Aug 28 08:28:53 2002
+prator;set_class;"child"
+stormbringer under euid stormbringer Wed Aug 28 08:29:11 2002
+prator;init_skills;"child"
+stormbringer under euid stormbringer Wed Aug 28 08:29:51 2002
+prator;set_exp;0
+stormbringer under euid stormbringer Wed Aug 28 08:30:01 2002
+prator;add_exp;0
+stormbringer under euid stormbringer Wed Aug 28 08:30:13 2002
+prator;add_exp;3
+wraith under euid wraith Wed Aug 28 16:24:40 2002
+spark
+wraith under euid wraith Wed Aug 28 16:24:46 2002
+greg
+wraith under euid wraith Wed Aug 28 16:44:00 2002
+greg
+wraith under euid wraith Wed Aug 28 16:44:08 2002
+cookie
+detach under euid detach Thu Aug 29 01:08:50 2002
+autema;new_body
+detach under euid detach Thu Aug 29 01:14:54 2002
+druss;new_body
+wraith under euid wraith Thu Aug 29 14:34:07 2002
+eiael
+wraith under euid wraith Thu Aug 29 14:34:21 2002
+sreath
+wraith under euid wraith Thu Aug 29 14:34:27 2002
+dagger
+wraith under euid wraith Thu Aug 29 14:34:33 2002
+daboura
+wraith under euid wraith Thu Aug 29 14:34:37 2002
+naktu
+wraith under euid wraith Thu Aug 29 14:34:43 2002
+halo
+wraith under euid wraith Thu Aug 29 14:34:49 2002
+faust
+wraith under euid wraith Thu Aug 29 14:34:53 2002
+wisp
+wraith under euid wraith Thu Aug 29 14:34:55 2002
+leviathas
+wraith under euid wraith Thu Aug 29 14:35:33 2002
+ashram
+wraith under euid wraith Thu Aug 29 17:12:32 2002
+druss
+wraith under euid wraith Thu Aug 29 17:12:34 2002
+sreath
+wraith under euid wraith Thu Aug 29 17:12:38 2002
+hermes
+nightshade under euid nightshade Thu Aug 29 18:31:46 2002
+kilir;new_body
+nightshade under euid nightshade Thu Aug 29 18:31:56 2002
+kilir;fix_vital_bonus
+stormbringer under euid stormbringer Fri Aug 30 09:35:20 2002
+seth
+nightshade under euid nightshade Fri Aug 30 19:35:39 2002
+aldur;query_attackers
+nightshade under euid nightshade Fri Aug 30 19:35:47 2002
+aldur;query_current_attacker
+daos under euid daos Fri Aug 30 19:51:37 2002
+orcha;query_deaths
+stormbringer under euid stormbringer Fri Aug 30 20:06:57 2002
+orcha;add_exp;30000
+stormbringer under euid stormbringer Fri Aug 30 20:09:08 2002
+orcha;add_exp;30000
+stormbringer under euid stormbringer Fri Aug 30 20:10:58 2002
+orcha;add_exp;30000
+stormbringer under euid stormbringer Fri Aug 30 20:11:00 2002
+orcha;add_exp;30000
+stormbringer under euid stormbringer Fri Aug 30 20:11:06 2002
+orcha;add_exp;30000
+stormbringer under euid stormbringer Fri Aug 30 20:12:20 2002
+orcha;set_skills;"breath";67
+stormbringer under euid stormbringer Fri Aug 30 20:12:56 2002
+orcha;set_skill;"breath";67
+whit under euid whit Sun Sep  1 19:25:11 2002
+simic;set_class;fighter
+whit under euid whit Sun Sep  1 19:25:23 2002
+simic;set_subclass;"berserker"
+whit under euid whit Sun Sep  1 19:27:13 2002
+simic;set_level;20
+whit under euid whit Sun Sep  1 19:27:31 2002
+simic;new_body
+whit under euid whit Sun Sep  1 19:27:37 2002
+simic;init_skills
+whit under euid whit Sun Sep  1 19:27:43 2002
+simic;fix_skills
+whit under euid whit Sun Sep  1 19:29:21 2002
+simic;force_me;abilities
+whit under euid whit Sun Sep  1 19:36:29 2002
+simic
+whit under euid whit Sun Sep  1 19:36:41 2002
+simic;set_hunters
+whit under euid whit Sun Sep  1 19:36:43 2002
+simic;set_hunted
+whit under euid whit Sun Sep  1 19:36:53 2002
+simic;add_hunter
+whit under euid whit Sun Sep  1 19:36:56 2002
+simic;add_hunted
+whit under euid whit Sun Sep  1 19:37:35 2002
+simic;set_stats;charisma;100
+whit under euid whit Sun Sep  1 19:39:13 2002
+simic
+whit under euid whit Sun Sep  1 19:44:35 2002
+simic;set_class;unborn
+whit under euid whit Sun Sep  1 19:44:37 2002
+simic;set_class
+whit under euid whit Sun Sep  1 19:44:45 2002
+simic;set_subclass
+whit under euid whit Sun Sep  1 19:44:53 2002
+simic;set_class;child
+whit under euid whit Sun Sep  1 19:44:57 2002
+simic;set_class;"child"
+nightshade under euid nightshade Mon Sep  2 16:59:51 2002
+daboura;query_current_attacker
+nightshade under euid nightshade Mon Sep  2 17:33:07 2002
+daboura;add_skill_bonus;attack;-100
+nightshade under euid nightshade Tue Sep  3 21:30:46 2002
+azire;force_me;give star to nightshade
+daos under euid daos Thu Sep  5 02:05:21 2002
+faust;query_deaths
+stormbringer under euid stormbringer Thu Sep  5 18:34:50 2002
+users
+nightshade under euid nightshade Thu Sep  5 20:48:53 2002
+ruto
+nightshade under euid nightshade Fri Sep  6 11:10:13 2002
+abzigal;force_me;wear necklace
+nightshade under euid nightshade Fri Sep  6 11:10:39 2002
+abzigal;force_me;remove necklace
+nightshade under euid nightshade Fri Sep  6 11:10:51 2002
+abzigal;force_me;give necklace to nightshade
+nightshade under euid nightshade Fri Sep  6 11:12:41 2002
+joey;force_me;wear necklace
+nightshade under euid nightshade Fri Sep  6 11:12:51 2002
+joey;force_me;remove necklace
+nightshade under euid nightshade Fri Sep  6 11:13:21 2002
+joey;force_me;give necklace to nightshade
+stormbringer under euid stormbringer Fri Sep  6 19:01:20 2002
+furion;add_exp;30000
+stormbringer under euid stormbringer Fri Sep  6 19:02:50 2002
+furion;add_exp;300000
+stormbringer under euid stormbringer Sat Sep  7 16:52:10 2002
+rain;add_exp;55000
+stormbringer under euid stormbringer Sat Sep  7 16:55:20 2002
+rain;force_me;exp
+stormbringer under euid stormbringer Sat Sep  7 16:55:26 2002
+rain;force_me;cost
+stormbringer under euid stormbringer Sat Sep  7 16:56:06 2002
+rain;add_exp;720000
+stormbringer under euid stormbringer Sat Sep  7 16:58:34 2002
+rain;add_exp;410000
+stormbringer under euid stormbringer Sat Sep  7 20:21:07 2002
+users
+wraith under euid wraith Sat Sep  7 20:59:34 2002
+lac
+wraith under euid wraith Sat Sep  7 21:00:00 2002
+hermes
+wraith under euid wraith Sat Sep  7 21:00:06 2002
+cookie
+wraith under euid wraith Sat Sep  7 21:00:25 2002
+abzigal
+wraith under euid wraith Sat Sep  7 21:00:39 2002
+galdur
+stormbringer under euid stormbringer Sun Sep  8 20:09:39 2002
+joey;die
+stormbringer under euid stormbringer Sun Sep  8 20:09:43 2002
+ashram;die
+stormbringer under euid stormbringer Sun Sep  8 20:11:49 2002
+daboura;die
+stormbringer under euid stormbringer Mon Sep  9 13:09:55 2002
+buddah
+wraith under euid wraith Mon Sep  9 16:57:54 2002
+lupus
+nightshade under euid nightshade Mon Sep  9 22:33:22 2002
+kilmor;move;pit
+nightshade under euid nightshade Mon Sep  9 22:33:28 2002
+lorenthia;move;pit
+wraith under euid wraith Mon Sep  9 23:03:51 2002
+furion;set_skill;attack;84
+wraith under euid wraith Mon Sep  9 23:04:15 2002
+furion;set_skill;"attack";84
+stormbringer under euid stormbringer Tue Sep 10 07:59:59 2002
+mochaprincess;force_me;quit
+stormbringer under euid stormbringer Tue Sep 10 21:42:35 2002
+aldur;add_exp;1000000
+stormbringer under euid stormbringer Tue Sep 10 21:43:43 2002
+aldur;add_exp;27000000
+nightshade under euid nightshade Wed Sep 11 08:55:08 2002
+navi
+nightshade under euid nightshade Wed Sep 11 08:55:14 2002
+navi;remove_living
+stormbringer under euid stormbringer Wed Sep 11 12:27:47 2002
+abzigal;add_exp;15000000
+stormbringer under euid stormbringer Wed Sep 11 12:42:47 2002
+soulfly
+stormbringer under euid stormbringer Wed Sep 11 12:42:57 2002
+soulfly;die
+stormbringer under euid stormbringer Wed Sep 11 19:34:23 2002
+users
+whit under euid whit Fri Sep 13 20:29:05 2002
+shinkoro;query;TITLE
+whit under euid whit Fri Sep 13 20:29:13 2002
+shinkoro;queryenv;TITLE
+whit under euid whit Fri Sep 13 20:29:17 2002
+shinkoro;getenv;TITLE
+whit under euid whit Sat Sep 14 19:52:37 2002
+dace;getenv;IN
+whit under euid whit Sat Sep 14 19:52:41 2002
+dace;getenv;INMSG
+whit under euid whit Sat Sep 14 19:52:47 2002
+dace;getenv;MMIN
+whit under euid whit Sat Sep 14 19:52:49 2002
+dace;getenv;MIN
+nightshade under euid nightshade Sat Sep 14 20:15:43 2002
+dace
+nightshade under euid nightshade Sat Sep 14 20:15:49 2002
+dace;getenv;MIN
+whit under euid whit Sat Sep 14 20:16:21 2002
+dace
+nightshade under euid nightshade Sat Sep 14 20:19:35 2002
+dace;getenv;MIN
+nightshade under euid nightshade Sat Sep 14 20:21:31 2002
+dace;getenv;MIN
+nightshade under euid nightshade Sat Sep 14 20:22:57 2002
+dace;setenv;MIN;"$N enters."
+nightshade under euid nightshade Sat Sep 14 20:23:01 2002
+dace;getenv;MIN
+whit under euid whit Sun Sep 15 17:20:38 2002
+scarface
+whit under euid whit Sun Sep 15 17:20:44 2002
+scarface
+whit under euid whit Sun Sep 15 17:20:50 2002
+scarface;query_guild_position
+whit under euid whit Sun Sep 15 17:20:58 2002
+soulfly;query_guild_position
+seeker under euid seeker Mon Sep 16 13:19:43 2002
+midnight;query_ip
+nightshade under euid nightshade Mon Sep 16 19:55:25 2002
+azire;set_property;autobag;bag
+stormbringer under euid stormbringer Tue Sep 17 07:23:30 2002
+murdoc;add_exp;47000000
+whit under euid whit Tue Sep 17 14:10:35 2002
+azire
+whit under euid whit Tue Sep 17 14:10:41 2002
+azire;query_guild_position
+nightshade under euid nightshade Wed Sep 18 07:24:19 2002
+narkath;remove_living
+wraith under euid wraith Wed Sep 18 18:17:47 2002
+beanpole
+stormbringer under euid stormbringer Wed Sep 18 20:21:36 2002
+kenjiru;force_me;quit
+stormbringer under euid stormbringer Wed Sep 18 20:21:58 2002
+kenjiru;force_me;quit
+wraith under euid wraith Wed Sep 18 20:31:14 2002
+naeblis;set_married;Single
+wraith under euid wraith Wed Sep 18 20:33:04 2002
+naeblis;divorce_me
+wraith under euid wraith Thu Sep 19 21:21:48 2002
+hermes;new_body
+wraith under euid wraith Thu Sep 19 22:40:51 2002
+stormbringer;new_body
+wraith under euid wraith Thu Sep 19 22:40:55 2002
+stormbringer;save
+wraith under euid wraith Thu Sep 19 22:41:03 2002
+stormbringer;force_me;save
+wraith under euid wraith Thu Sep 19 22:41:07 2002
+stormbringer;force_me;quit
+whit under euid whit Thu Sep 19 22:41:57 2002
+stormbringer
+stormy under euid stormy Thu Sep 19 22:42:13 2002
+stormbringer;quit
+whit under euid whit Thu Sep 19 22:42:37 2002
+stormbringer;new_body
+whit under euid whit Thu Sep 19 22:42:43 2002
+stormbringer;quit
+whit under euid whit Thu Sep 19 22:42:49 2002
+stormbringer;remove
+nightshade under euid nightshade Fri Sep 20 15:30:20 2002
+aselith;force_me;abilities
+whit under euid whit Fri Sep 20 21:00:10 2002
+byblos;query_limbs
+whit under euid whit Fri Sep 20 21:01:46 2002
+byblos;new_body
+whit under euid whit Sat Sep 21 09:51:10 2002
+lac
+whit under euid whit Sat Sep 21 12:13:51 2002
+mochaprincess;set_stats;strength;15
+whit under euid whit Sat Sep 21 12:17:15 2002
+mochaprincess;set_level;34
+whit under euid whit Sat Sep 21 12:19:25 2002
+mochaprincess;revive
+whit under euid whit Sat Sep 21 12:19:59 2002
+mochaprincess;set_level;34
+whit under euid whit Sat Sep 21 12:22:11 2002
+mochaprincess
+whit under euid whit Sat Sep 21 12:25:23 2002
+mochaprincess
+whit under euid whit Sat Sep 21 12:25:29 2002
+mochaprincess;set_attackers
+whit under euid whit Sat Sep 21 12:25:33 2002
+mochaprincess
+whit under euid whit Sat Sep 21 12:28:19 2002
+mochaprincess
+whit under euid whit Sat Sep 21 12:31:53 2002
+mochaprincess
+whit under euid whit Sat Sep 21 12:34:35 2002
+mochaprincess;remove
+whit under euid whit Sat Sep 21 12:34:55 2002
+mochaprincess;quit
+whit under euid whit Sat Sep 21 12:35:35 2002
+mochaprincess;remove
+whit under euid whit Sat Sep 21 12:35:39 2002
+mochaprincess;remove;
+whit under euid whit Sat Sep 21 12:41:29 2002
+mochaprincess;set_stats;charisma;18
+whit under euid whit Sat Sep 21 12:41:39 2002
+mochaprincess;set_stats;constitution;8
+whit under euid whit Sat Sep 21 12:41:51 2002
+mochaprincess;set_stats;desxterity;17
+whit under euid whit Sat Sep 21 12:41:53 2002
+mochaprincess;set_stats;desxterity;18
+whit under euid whit Sat Sep 21 15:05:48 2002
+buddah

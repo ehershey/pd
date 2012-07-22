@@ -1,0 +1,65 @@
+Bug reported by Rathe:
+/d/helgrath/tundra/rooms/room15: I casted fear on a mob it ran, it died, I
+attacked next mob and received the message in combat: Bad argument 1 to
+call_other()
+Bug reported by Cookie:
+/d/helgrath/tundra/rooms/room18: when raged, though "time" works now, the "time"
+in "score" doesn't.
+Typo reported by Cookie:
+/d/helgrath/rooms/temple03: when someone fights wish the mysterious one... his
+spell says Wish's staff dranks life from its. This makes no sense.
+Bug reported by Rathe:
+/d/helgrath/tundra/rooms/room11: ok one more quick bug.. sort of like the fear
+and bump one.. but with "dakzhul" if I cast dakzhul and kill them before it
+hits.. I get similiar message
+Bug reported by Rathe:
+/d/helgrath/tundra/rooms/room10: file: /cmds/skills_dakzhul.c:158 is the
+reference
+Typo reported by Rethlan:
+/d/helgrath/tundra/rooms/room50: several of the animals in this area don't have
+logical key words - some are capitalzed, some may even be colorcoded, but you
+walk into a room and see a moose, you expect to be able to look moose and look
+at it - i can look Moose, but can't kill Moose, but can kill monster 2 (doesn't
+exactly encourage looking around when monster is the only keyword that works :-P
+)
+Typo reported by Shinkoro:
+/d/helgrath/rooms/temple03: Look podeums has a typo on the word note (notes).
+
+Typo reported by Shinkoro:
+/d/helgrath/rooms/mtower13:  and no mages seem to cme back here.   should be
+(come). 
+Typo reported by Rethlan:
+/d/helgrath/rooms/cave07: The sjulls are partially frozen, some still have flesh
+on them.
+Typo reported by Tyste:
+/d/helgrath/mobs/white_wolf#36363: monster when there is two of the wolf it says
+woves instead of wolves
+Bug reported by Rethlan:
+/d/helgrath/rooms/forest_w01: if i am in a room that has a gate as an exit and
+try to gate elsewhere, it takes me through the exit instead of creating a
+portal, even though i have an argument (location) with my gate
+Typo reported by Prator:
+/d/helgrath/rooms/cave05: "look skulls" shows: "The sjulls are partially frozen,
+some still have flesh on them.". Tells my room right?
+Bug reported by Rubicante:
+/d/helgrath/rooms/tundra_path01: buffer takes no mp
+Idea reported by Rashka Wed Oct 30 00:48:04 2002
+/d/helgrath/tundra/rooms/room15: fighters and rogues need an area attack
+Idea reported by Rashka Wed Oct 30 01:05:37 2002
+/d/helgrath/tundra/rooms/room22: tame Allows a ranger to tame a group of animals to fight for him. The quality of the animal the ranger can tame is determined by his nature and his discipline
+Idea reported by Rashka Fri Nov  1 19:34:28 2002
+/d/helgrath/tundra/rooms/room10: tame tame animals for rangers?
+Idea reported by Aethar Fri Nov 15 20:26:48 2002
+/d/helgrath/tundra/rooms/room28: swipe deals too much dmg
+Typo reported by Tyste:
+/d/helgrath/tundra/mobs/articbear#63763: bear he should be arctic bear not artic
+Bug reported by Yakko:
+/d/helgrath/rooms/upgradestore: ship upgrades... doesn't show if boat isn't
+recalled
+Typo reported by Monroe:
+/d/helgrath/rooms/shop_weapons: Light Cutlass it has the same description as the
+Bronze Bow
+Typo reported by Rethlan:
+/d/helgrath/rooms/upgradestore: shope should be shop (sign in jack's shop)
+Bug reported by Rethlan:
+/d/helgrath/tundra/too/room7: my zombie lost its heartbeat

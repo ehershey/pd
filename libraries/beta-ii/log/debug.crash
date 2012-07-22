@@ -1,0 +1,435 @@
+----------------------------------------------------------------------------
+Primal Darkness-II (FluffOS v2.22) starting up on Linux - Mon Sep 26 13:37:36 2011
+
+
+Connected to address server on localhost port 9000
+
+Loading preloaded files ...
+Initializations complete.
+
+Accepting connections on port 5000.
+Accepting connections on port 4001.
+socket_read_select_handler: read on unbound socket 4
+******** FATAL ERROR: Segmentation fault
+FluffOS driver attempting to exit gracefully.
+(current object was /d/saahr/mobs/weimic-adult#593954)
+--- trace ---
+Object: /d/saahr/mobs/weimic-cub#593951, Program: /d/saahr/mobs/weimic-cub.c
+   in heart_beat() at /d/saahr/mobs/weimic-cub.c:47
+arguments were ()
+locals were: /d/saahr/rooms/p6_13
+Object: /d/saahr/mobs/weimic-adult#593954, Program: /d/saahr/mobs/weimic-adult.c
+   in create() at /d/saahr/mobs/weimic-adult.c:46
+arguments were ()
+locals were: ([ /* sizeof() == 2 */
+  "/d/saahr/other/weimicbag" : 1,
+  "/d/saahr/armour/weimictunic" : "wear tunic",
+])
+Object: /d/saahr/mobs/weimic-adult#593954, Program: /std/container.c
+   in set_inventory() at /std/container.c:108
+arguments were (([ /* sizeof() == 2 */
+  "/d/saahr/other/weimicbag" : 1,
+  "/d/saahr/armour/weimictunic" : "wear tunic",
+]))
+locals were: "/d/saahr/other/weimicbag",1
+Object: /d/saahr/mobs/weimic-adult#593954, Program: /std/container.c
+   in load_inventory() at /std/container.c:94
+arguments were ()
+locals were: ({ }),([ ]),0,"/d/saahr/armour/weimictunic","wear tunic",0,1,({ /* sizeof() == 1 */
+  "wear tunic"
+}),0
+'       cmd_hook' in '/std/living/commandhook.c' ('/d/saahr/mobs/weimic-adult#593954') /std/living/commandhook.c:110
+arguments were ("tunic")
+locals were: /d/saahr/mobs/weimic-adult#593954,0,"wear","/cmds/mortal/_wear","wear tunic",0,({ /* sizeof() == 17 */
+  "say",
+  "speak",
+  "yell",
+  "shout",
+  "emote",
+  "whisper",
+  "tell",
+  "emoteto",
+  "converse",
+  "reply",
+  "title",
+  "message",
+  "pretitle",
+  "post",
+  "mail",
+  "store",
+  "reclaim"
+}),0,0
+--- end trace ---
+ "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/wizards/nulvect/bin/_keep.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#211), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update ~/bin/_keep.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "~/bin/_keep.c" })
+    object: OBJ(nulvect /std/user#211)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Wed Sep 28 04:08:38 2011
+   Current object: /adm/obj/simul_efun  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#211 (nulvect)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/nulvect/bin/keep", OBJ(nulvect /std/user#211) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 153
+    function: "get_objects"
+    locals: ({ UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, -1, 4 })
+    arguments: ({ "keep", 0, 1 })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/daemon/refs_d.c"
+    file: "/adm/daemon/refs_d.c"
+    line: 25
+    function: "ref_ob"
+    locals: ({ UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(/cmds/system/_dref)
+
+    program: "/cmds/system/_dref.c"
+    file: "/cmds/system/_dref.c"
+    line: 21
+    function: "cmd_dref"
+    locals: ({ UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(/cmds/system/_dref)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#211), OBJ(/wizards/nulvect/workroom), "dref", "/cmds/system/_dref", "dref keep", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(nulvect /std/user#211)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Wed Sep 28 04:08:38 2011
+   Current object: /adm/obj/simul_efun  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#211 (nulvect)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/wizards/nulvect/bin/keep", OBJ(nulvect /std/user#211) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 153
+    function: "get_objects"
+    locals: ({ UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, -1, 4 })
+    arguments: ({ "keep", 0, 1 })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/daemon/refs_d.c"
+    file: "/adm/daemon/refs_d.c"
+    line: 25
+    function: "ref_ob"
+    locals: ({ UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(/cmds/system/_dref)
+
+    program: "/cmds/system/_dref.c"
+    file: "/cmds/system/_dref.c"
+    line: 21
+    function: "cmd_dref"
+    locals: ({ UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(/cmds/system/_dref)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#211), OBJ(/wizards/nulvect/workroom), "dref", "/cmds/system/_dref", "dref keep", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "keep" })
+    object: OBJ(nulvect /std/user#211)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Wed Sep 28 04:09:26 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#211 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/cmds/skills/_kep.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#211), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update /cmds/skills/_kep.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "/cmds/skills/_kep.c" })
+    object: OBJ(nulvect /std/user#211)
+
+*Error caught
+
+Error: *call_other() couldn't find object
+   Time: Wed Sep 28 12:21:49 2011
+   Current object: /adm/obj/simul_efun  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /adm/obj/simul_efun.c
+   File: "/adm/simul_efun/get_object.c" Line: 72
+---------- TRACE - TRACE - TRACE ----------
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "CATCH"
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 72
+    function: "get_object"
+    locals: ({ 0, UNDEFINED })
+    arguments: ({ "/d/pastarlon/mobs/warblade", OBJ(nulvect /std/user#272622) })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/obj/simul_efun.c"
+    file: "/adm/simul_efun/get_object.c"
+    line: 153
+    function: "get_objects"
+    locals: ({ UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, -1, 8 })
+    arguments: ({ "warblade", UNDEFINED, UNDEFINED })
+    object: OBJ(/adm/obj/simul_efun)
+
+    program: "/adm/daemon/refs_d.c"
+    file: "/adm/daemon/refs_d.c"
+    line: 50
+    function: "resolv_str"
+    locals: ({ UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, 7 })
+    arguments: ({ "warblade" })
+    object: OBJ(/cmds/system/_call)
+
+    program: "/cmds/system/_call.c"
+    file: "/cmds/system/_call.c"
+    line: 113
+    function: "cmd_call"
+    locals: ({ UNDEFINED, ({ "invader", "force_me", "warblade" }), ({ OBJ(drow invader /d/pastarlon/mobs/drowinvader#272686) }), ({ "force_me" }), ({ "warblade" }), ({ "force_me" }), UNDEFINED, UNDEFINED, OBJ(drow invader /d/pastarlon/mobs/drowinvader#272686), 0, 1, UNDEFINED, UNDEFINED })
+    arguments: ({ "invader;force_me;warblade" })
+    object: OBJ(/cmds/system/_call)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "call", "/cmds/system/_call", "call invader;force_me;warblade", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "invader;force_me;warblade" })
+    object: OBJ(nulvect /std/user#272622)
+
+*Error caught
+
+Error: *Error in loading object '/std/object_test'
+   Time: Fri Sep 30 01:43:26 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/std/object_test.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update object_test.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "object_test.c" })
+    object: OBJ(nulvect /std/user#272622)
+
+*Error caught
+
+Error: *Error in loading object '/std/object_test'
+   Time: Fri Sep 30 01:55:38 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/std/object_test.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update object_test.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "object_test.c" })
+    object: OBJ(nulvect /std/user#272622)
+
+*Error caught
+
+Error: *Error in loading object '/std/object_test'
+   Time: Fri Sep 30 01:59:20 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/std/object_test.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update object_test.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "object_test.c" })
+    object: OBJ(nulvect /std/user#272622)
+
+*Error caught
+
+Error: *Error in loading object '/std/bag_logic_test'
+   Time: Fri Sep 30 02:00:11 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/std/bag_logic_test.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update bag_logic_test.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "bag_logic_test.c" })
+    object: OBJ(nulvect /std/user#272622)
+
+*Error caught
+
+Error: *Error in loading object '/std/backpack_test'
+   Time: Fri Sep 30 02:00:26 2011
+   Current object: /cmds/system/_update  (uid: nulvect euid: nulvect)
+   Caller object: /std/user#272622 (nulvect)
+   Current program: /cmds/system/_update.c
+   File: "/cmds/system/_update.c" Line: 99
+---------- TRACE - TRACE - TRACE ----------
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "CATCH"
+    object: OBJ(/cmds/system/_update)
+
+    program: "/cmds/system/_update.c"
+    file: "/cmds/system/_update.c"
+    line: 99
+    function: "cmd_update"
+    locals: ({ UNDEFINED, UNDEFINED, 0, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED, UNDEFINED })
+    arguments: ({ "/std/backpack_test.c" })
+    object: OBJ(/cmds/system/_update)
+
+    program: "/std/living/commandhook.c"
+    file: "/std/living/commandhook.c"
+    line: 110
+    function: "cmd_hook"
+    locals: ({ OBJ(nulvect /std/user#272622), OBJ(/wizards/nulvect/workroom), "update", "/cmds/system/_update", "update backpack_test.c", 0, ({ "say", "speak", "yell", "shout", "emote", "whisper", "tell", "emoteto", "converse", "reply", "title", "message", "pretitle", "post", "mail", "store", "reclaim" }), UNDEFINED, UNDEFINED })
+    arguments: ({ "backpack_test.c" })
+    object: OBJ(nulvect /std/user#272622)
+

@@ -1,0 +1,145 @@
+Bug reported by arcanis Mon Dec 18 16:12:03 2006:
+/d/nopk/tirun/square: this bug involves with one being overweight at 200% and
+then rolling stats to a lower str so your weight is something like 250% if you
+die while your overweight like that and try to buy oils from patrick the oil
+seller he gives you negative oils and you seem to gain money instead.
+Bug reported by axenos Thu Jan  4 10:48:49 2007:
+/d/freepk/merkkerri/jungle/gcity/gcity52: Something's wrong with this chest. I
+can see the contents while it's closed and locked. Also, I was able to get the
+coins while it's locked and closed.
+Bug reported by ideysus Sun Feb 11 23:53:01 2007:
+/d/nopk/tirun/mage/sorceror/sorceror_hall: "history" displays correctly
+except the entry at the bottom should be at the top. 
+Bug reported by thoralac Sat Jun  9 12:29:35 2007:
+/d/coach/rooms/transroom#20523: Broken coach.  I went link dead when on a cart
+due to ISP problems when I reconnected I was still in the cart but It was not
+moving.
+Bug reported by escobar Mon Jul 16 01:57:20 2007:
+/d/roston/drow/room/room90: I bumped a monster then started choking it. It left
+the room normally even though it couldnt break out of my choke hold.
+Bug reported by noxus Tue Sep 11 20:36:10 2007:
+/d/freepk/merkkerri/jungle/merkkirri/mjungle1: the merk raft place when i try
+to fish it says its too crowded with people fishing but i'm the only 1..
+there is 6 rafts here that could have something to do with it but just
+letting you know. 
+Bug reported by zamaki Tue Nov  6 19:34:56 2007:
+/d/lodos/stown5: Ok. I was on the coach to lodos, realized I didnt have a torch,
+recalled, bought a torch and ended up at Lodos when the ride ended.
+Bug reported by kon Wed Mar 18 14:39:49 2009:
+/d/nopk/tirun/square: I set traps in the arena. Morta tripped them when I wasn't
+inside and it counted as an act of war. Outside, I walked in the room and killed
+him. Please make it so arena traps dont cause real combat, please? Thanks
+Bug reported by morcerf Fri Apr  3 11:15:51 2009:
+/d/inferi_island/marshes/rooms/BM_3: using the turn spell when you have a torch
+turns on your torch
+Bug reported by morcerf Tue Apr 14 17:49:18 2009:
+/d/freepk/merkkerri/jungle/merkkirri/mjungle37: i can spam purify
+Bug reported by hissatsu Wed Apr 22 16:39:42 2009:
+/d/lodos/square: if you quit out with undead raised then you can't reraise them
+when you come back in and you cant dismiss them
+Bug reported by ozzymandias Mon Apr 27 14:55:56 2009:
+/wizards/hermes/distopia/room/castle/innent: circling aimee gives a bug
+Bug reported by dink Fri May  1 01:48:41 2009:
+/d/nopk/tirun/locker: When you go to store ointment, which i wanted to do cause
+this character is poor, when you take it back out it has all its uses refreshed.
+IE I put it in with 14 doses left and when I took it out it had 20 again.
+Bug reported by cyan Thu Jul  2 04:37:09 2009:
+/d/nopk/tirun/locker: This is Cyan, I remorted back to my paladin after a good
+while. And I am taking rediculously increased dmg than last I remember as
+paladin. I removed all my EQ, then put it back on. Then even quit out, and came
+back on. So  I don't know if it's a bug with me, or if the paladin's have been
+changed horridly. If so, having 180+ Dex with godspeed, and 180 strength. Losing
+500-800 lp a round to drows when I used to lose like 300 is a major red flag.
+Thank you, and get back at me when you can
+Bug reported by cyan Sun Aug 23 21:01:09 2009:
+/d/freepk/rhondale/rooms/zforest/x21y13: this is trash
+Bug reported by cyan Sun Aug 23 21:02:11 2009:
+/d/freepk/rhondale/rooms/zforest/x21y13: oops, well.. on wimpy. I was hit to
+take my hp below my wimpy, and I used psidrain, which took me back above my
+limit. But then, for for the next 4-6 rounds, it said I was unable to do
+anything. My idles wouldn't even go, and so now, I lost all my gear somewhere in
+Rhondale.
+Bug reported by knuckle Thu Sep  3 14:21:33 2009:
+/d/shadow/rooms/palace13: I am wielding a single weapon ( Sadistic Pike from
+Forsaken shop) but i trained double wielding while in combat for some reason.
+Thanks.
+Bug reported by randalar Thu Sep  3 17:39:35 2009:
+/d/tirunmts/rooms/tirunmts_173: if I don't autofight when resting, I shouldn't
+be able to 'kill'
+Bug reported by lede Mon Sep 28 09:50:04 2009:
+/d/nopk/standard/rain_forest/corinthor/rooms/autumn5: peer is broken
+Bug reported by morcerf Tue Oct  6 12:56:21 2009:
+/d/zolenia/rooms/2: in the new area the spider and rat rooms at the entrances
+spawn a ton of monsters over time. i've seen up to 82 in a room so far
+Bug reported by axenos Mon Oct 19 20:46:37 2009:
+/d/nopk/tirun/wanderer_hall: I tried to "command rabbit to cost". I wondered if
+it was possible to hold onto a pet long enough to alter him through training. I
+got this error message: Error: *Bad argument 1 to explode() (Next Line)
+Expected: string Got: 0. (Next Line) File: "/adm/daemon/advance_d.c" Line: 63
+Bug reported by alorass Tue Oct 20 10:47:26 2009:
+/d/nopk/elven_path/rooms/elven_path_87: when i logged in today all my inventory,
+sinew and meat, that i acquired last night has vanished, also have to
+rewield/wear all equipment
+Bug reported by geddoe Sun Oct 25 09:16:16 2009:
+/d/freepk/rhondale/rooms/zforest/x8y15: Vigor It doesn't give me a message when
+it runs out, only the person with vigor. Not sure if it's a bug or not, but I
+feel I should know when it wears off too.
+Bug reported by piehl Mon Oct 26 23:07:29 2009:
+/d/arena/bet: Bleeding continues after leaving the arena. 
+Bug reported by raskolnikov Tue Oct 27 13:09:23 2009:
+/d/nopk/tirun/swganthus: after druid buffs wear off it says I can't carry
+anymore yet i'm only at 22% capacity
+Bug reported by morcerf Tue Nov  3 12:09:38 2009:
+/d/inferi_island/eyeofhell/rooms/middle_39: not sure if it's a bug but the
+wizards in hell cast coalesce on me which gives me a nice big consitution boost
+Bug reported by morcerf Mon Nov 23 18:03:24 2009:
+/d/zolenia/rooms/44: I can wear the dark shirt in addition to my normal shirt
+Bug reported by morcerf Mon Nov 23 18:30:06 2009:
+/d/zolenia/items/weapons/dragonsfury#13185: dragonsfury and bloody blades have
+no weight
+Bug reported by morcerf Mon Nov 23 18:44:42 2009:
+/d/nopk/tirun/square: when you have multiple dark boots in a sack it shows at
+"dark bootss"
+Bug reported by morcerf Mon Nov 23 18:45:06 2009:
+/d/nopk/tirun/square: dark gloves show as "dark glovess" when you have more than
+1
+Bug reported by morcerf Wed Mar 31 12:51:56 2010:
+/wizards/detach/forbiden/rooms/room195: wolfmaster has a lot of bonus exp it
+appears. 156k for a kill
+Bug reported by morcerf Wed Apr 14 14:17:16 2010:
+/d/freepk/purgatory/room/guest23: not a pure bug, but some bosses in purg castle
+aren't any harder than the trash monsters. the barbarian warmaster for instance
+Bug reported by bellos Sun Apr 25 13:07:42 2010:
+/d/nopk/tirun/square: ""That command exists but is without a help file.  Please
+bug this.""  I typed <help destroy> and thats wot I got.
+Bug reported by amon Thu Apr 29 22:04:03 2010:
+/d/nopk/tirun/square: When I kill a Necromancer's Nightstalker I get 32000 xp,
+whereas all the other ones are worth 0.
+Bug reported by stormbringer Wed May 26 17:58:01 2010:
+/d/nopk/tirun/fighter/paladin/paladin_hall: list command for class halls should
+ignore list newbie
+Bug reported by smite Tue Jun  8 01:14:42 2010:
+/d/nopk/tirun/square: read post in tirun square says to go: south east east
+south but with the new room descs its actually south east tavern etc
+Bug reported by smite Tue Jun  8 01:14:48 2010:
+/d/nopk/tirun/square: 
+Bug reported by uzamaki Sat Jul 17 10:25:09 2010:
+/d/freepk/ridarin/2,0,0: elven hunter in new area shows up as 0
+Bug reported by uzamaki Sun Jul 18 00:31:48 2010:
+/d/nopk/tirun/square: All my mail is gone! you were doing at the time of this
+error and the following information: 
+Bug reported by yun Wed Jul 28 01:43:33 2010:
+/d/lodos/etown7: psicloak yun A happy deer ride deer Deer cannot carry anyone
+else. 
+Bug reported by janos Wed Oct 20 14:47:18 2010:
+/d/sewers/rooms/35: Charge won't let you do anything for a full round after it
+hits. You cannot even check the damage done by the command. It gets corrupted by
+later idles and possibly specials.
+Bug reported by hissatsu Thu Nov 18 13:23:40 2010:
+/d/freepk/rhondale/rooms/zforest/x23y16: i can rub stone while using plague
+Bug reported by ozzymandias Mon Dec  6 19:37:01 2010:
+/d/nopk/newarlon/rooms/25: attacking pelgadiss in arlon bugs you and you cant
+leave or do anyything
+Bug reported by uzamaki Sat Dec 11 03:13:22 2010:
+/d/nopk/tirun/square8: The new event gift rings are bugged. If you type wear all
+don't have the gift ring on but wear different rings, it can stack.

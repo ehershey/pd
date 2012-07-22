@@ -1,0 +1,116 @@
+Bug reported by Nulvect:
+/d/inferi_island/marshes/rooms/BM_15: there is no nw exit in this room, but
+there is a room that leads into here as a se exit.. given the layout of this
+area I think it's supposed to have an nw exit in this room
+Typo reported by Cortoth:
+/d/inferi_island/hamenstomb/rooms/marsh_end: steal should be steel
+Typo reported by Cortoth:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_20: sphinxws should be sphinxes
+Typo reported by Cortoth:
+/d/inferi_island/eyeofhell/rooms/middle_43: arovide should be provide
+Typo reported by Cortoth:
+/d/inferi_island/eyeofhell/rooms/middle_44: thurst should be thirst (on drac's
+description)
+Typo reported by Cortoth:
+/d/inferi_island/eyeofhell/rooms/middle_35: Rips you apart with his claws! -
+probably should have Werewolf rips you apart with his claws.
+Typo reported by Skunk:
+/d/inferi_island/hamenstomb/mobs/anu#74131: anu has a type of the word quick, it
+is spelled auick
+Typo reported by Skunk:
+/d/inferi_island/hamenstomb/rooms/lupper_5: when the vulture circles around it
+just says, "circles around you waiting for death." it doesn't say who circles
+Bug reported by Cortoth:
+/d/inferi_island/eyeofhell/rooms/middle_9: You can move again. The oil goes
+through your wounds and heals them. A golden arc of lightning cracks between
+your wings. Lightning shoots forth into She Raknid, shocking them badly! You
+feel more experienced for the kill. (95,000) She Raknid drops dead before
+you. She Raknid unwields Black Sword (wielded). She Raknid unwields Black
+Sword (wielded). She Raknid unwields Black Sword (wielded). She Raknid
+unwields Black Sword (wielded). She Raknid removes her Widow Armour. She
+Raknid removes her Ring of Raknids. She Raknid removes her Recluse Bracers.
+She Raknid removes her Spider Gauntlets. The lightning shoots from She Raknid
+into Werewolf, shocking them badly! You feel more experienced for the kill.
+(110,000) Werewolf drops dead before you. Werewolf unwields Werewolf Claws
+(wielded). Werewolf unwields Werewolf Claws (wielded). The lightning shoots
+from Werewolf into Banshee, shocking them badly! You feel more experienced
+for the kill. (110,000) Banshee drops dead before you. ERROR: An error has
+occured.  Please mail an immortal with information on what you were doing at
+the time of this error and the following information: Error: *Bad argument 1
+to call_other() Expected: string or array or object Got: 0. File:
+"/d/inferi_island/eyeofhell/mobs/banshee.c" Line: 24   don't suppose it tried
+to scream after dying? 
+Bug reported by Endbringer:
+/d/inferi_island/marshes/rooms/marsh_20: anything that adds extra constitution
+to your stat total does not raise your maximum hit points
+Bug reported by Aximili:
+/d/inferi_island/marshes/rooms/BM_1: you can surpass the party limit, if one
+person is level 20, another level 25, another 30, the level 25 has both in
+partyrange, he inviets them both before either of them join, and they can
+both join, and the level 20 and 30 arent in range 
+Bug reported by Aximili:
+/d/inferi_island/marshes/rooms/marsh_47: not all people appear on peoples
+partyrange, even if they are in range 
+Bug reported by Escobar:
+/d/inferi_island/marshes/rooms/marsh_square: I popped a seal of tirun one
+time before someone ran in n killed me. My body remained, but my ghost went
+to tirun []. can die faster than normal that way 
+Typo reported by Tal:
+/d/inferi_island/marshes/rooms/BM_19: in the undead corpses description it
+says thursty instead of thirsty 
+Typo reported by Escobar:
+/d/inferi_island/marshes/rooms/marsh_25: says lightening instead of lightning
+Typo reported by Escobar:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_7: should be structure, not
+stucture
+Typo reported by Escobar:
+/d/inferi_island/hamenstomb/rooms/mid_3: Wearied One shoots a rock at your head
+with hits (should be its) slingshot!
+Typo reported by Escobar:
+/d/inferi_island/hamenstomb/rooms/rden_11: Criosphinx won't take 'soul' for an
+answer but will take 'a soul'. Also, he won't take 'the match' for an answer,
+but will take 'match'
+Idea reported by Endbringer Thu Aug 17 02:13:31 2006
+/d/inferi_island/marshes/rooms/BM_23: getting unique abilites when your stats reach a certain level that pretain to the stat
+Bug reported by Lanerin:
+/d/inferi_island/marshes/rooms/BM_12: when I type break tirun I get "[1m[31mYou must
+break wax.[0;37;40m"  
+Bug reported by Lanerin:
+/d/inferi_island/marshes/rooms/marsh_13: Jagermister leaves southeast.  there is
+not southeast
+Bug reported by A shadow:
+/d/inferi_island/marshes/rooms/BM_63: Backstab never severs the right limb
+you hit...Your black dagger sinks deep into Inferi Ferrel's tail. Inferi
+Ferrel has his right foot severed! 
+Bug reported by Aizen:
+/d/inferi_island/marshes/rooms/marsh_31: misspelled tired in all rooms  with the
+marsh
+Typo reported by Noxus:
+/d/inferi_island/marshes/rooms/marsh_square: inferi uses the word lightening
+a lot i think it's supposed to be lightning. this is one of the times it's
+used. A large lightening bolt hits the side of the mountain causing rocks to
+fall to the south. 
+Bug reported by Uzamaki:
+/d/inferi_island/eyeofhell/rooms/eye_of_hell_4: Hell Demon is Neutral when I
+sense it. That doesnt seem to make sense to me.
+Bug reported by Batu:
+/d/inferi_island/marshes/rooms/marsh_square: It was too bright in my corona to
+even see the only exit. Hence, my handy spell which just hurts me tried to
+become my handy spell to assassinate me. I did create a light orb earlier and
+drop it. Might be a factor.
+Idea reported by Zack Tue May 13 00:53:28 2008
+/d/inferi_island/marshes/rooms/BM_57: song of the ages and song of fates - a message when they wear off maybe? =]
+Typo reported by Crazylegs:
+/d/inferi_island/hamenstomb/rooms/lupper_2: "Circles around you waiting for
+death." does not have "Vulture "
+Typo reported by Jynteral:
+/d/inferi_island/hamenstomb/rooms/hamen_tomb_40: obviously
+Bug reported by Morcerf:
+/d/inferi_island/marshes/rooms/marsh_14: skeleton and undead corpses are not
+marked as undead
+Bug reported by Morcerf:
+/d/inferi_island/marshes/rooms/BM_3: using the turn spell when you have a torch
+turns on your torch
+Bug reported by Morcerf:
+/d/inferi_island/eyeofhell/rooms/middle_39: not sure if it's a bug but the
+wizards in hell cast coalesce on me which gives me a nice big consitution boost

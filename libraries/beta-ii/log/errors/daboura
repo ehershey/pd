@@ -1,0 +1,253 @@
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable '_snowball' before c->biggie(strike);; 
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before c->biggie(strike);; 
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'strike' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'strike' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before [0]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "object " before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before [1]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Value indexed has a bad type : "object " before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun environment() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun children() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ancient' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function findob before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ancient' before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function findob before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ancient' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function findob before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ancient' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function find before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  return ob;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'users' before 0[; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'users' before 0]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'users' before 1]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'users' before c[1]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before c[1]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'user' before 1]; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'users' before 0]); }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before ; object ob;rm = env
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; object ob;rm = env
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before ob = present("furiae
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ob' before  present("furiae",rm
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  present("furiae",rm
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'rm' before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function abs before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ob' before ; tp = find_player("
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; tp = find_player("
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  new("/d/freepk/merk
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Left argument of -> is not a class before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ); }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ); }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function find_ob before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'ls' before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before ->query_exit("north"
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before ->query_exit("north"
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before ->query_exit("north"
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'wizlounge' before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'reutn' before ("warrick"); }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before ("warrick"); }
+/wizards/daboura/helm.c line 2: Cannot #include waterworld.h before the end of line
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daboura/range.c line 8: parse error before ][];
+/wizards/daboura/range.c line 8: parse error before 0,0];
+/wizards/daboura/range.c line 8: parse error before 0][0];
+/wizards/daboura/range.c line 44: Undefined variable 'party' before  !wizardp(per[x]) &&
+/wizards/daboura/range.c line 47: Undefined variable 'ply' before  ply + ({ per[x] });
+/wizards/daboura/range.c line 47: Illegal lvalue before  ply + ({ per[x] });
+/wizards/daboura/range.c line 46: Undefined variable 'ply' before  ply + ({ per[x] });
+/wizards/daboura/range.c line 46: Illegal lvalue before  ply + ({ per[x] });
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'x' before 2);; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Wrong number of arguments to set
+    Expected: 2  Got: 1 before  = 2;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  2;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad assignment ( void vs int ). before ; }
+/wizards/daboura/range.c line 54: parse error before ;
+/wizards/daboura/range.c line 60: parse error before the end of line
+/wizards/daboura/range.c line 55: Undefined variable 'i' before  0; i < sizeof(ply);
+/wizards/daboura/range.c line 55: Illegal lvalue before  0; i < sizeof(ply);
+/wizards/daboura/range.c line 58: parse error before  = ply + ({ per[x] }
+/wizards/daboura/range.c line 58: Illegal LHS before the end of line
+/wizards/daboura/range.c line 58: parse error before the end of line
+/wizards/daboura/range.c line 65: Illegal LHS before the end of line
+/wizards/daboura/range.c line 58: parse error before  = ply + ({ per[x] }
+/wizards/daboura/range.c line 58: Illegal LHS before the end of line
+/wizards/daboura/range.c line 58: parse error before the end of line
+/wizards/daboura/range.c line 65: Illegal LHS before the end of line
+/wizards/daboura/range.c line 65: parse error before the end of line
+/wizards/daboura/range.c line 84: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 84: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 86: Too few arguments to map_delete before ;
+/wizards/daboura/range.c line 87: Wrong number of arguments to query_name
+    Expected: 0  Got: 1 before ;
+/wizards/daboura/range.c line 88: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 88: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'x' before  find_player("dabour
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  find_player("dabour
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to find_player before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to find_object before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'find_object' before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to find_object before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun find_player() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun find_player() before ; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'l' before  }
+/wizards/daboura/range.c line 90: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 90: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 90: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 89: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 89: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 89: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 89: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 91: Bad argument 1 to efun map_delete() before ;
+/wizards/daboura/range.c line 89: Invalid types to '-' ( object * vs object ) before the end of line
+/wizards/daboura/range.c line 101: parse error before , find_player("dabou
+/wizards/daboura/range.c line 22: Undefined variable 'x' before  0;
+/wizards/daboura/range.c line 22: Illegal lvalue before  0;
+/wizards/daboura/range.c line 23: Undefined variable 'y' before  0;
+/wizards/daboura/range.c line 23: Illegal lvalue before  0;
+/wizards/daboura/range.c line 24: Undefined variable 'lt' before  0;
+/wizards/daboura/range.c line 24: Illegal lvalue before  0;
+/wizards/daboura/range.c line 121: Reserved type name unexpected. before  = 0;
+/wizards/daboura/range.c line 121: parse error before  = 0;
+/wizards/daboura/range.c line 121: Illegal LHS before the end of line
+/wizards/daboura/range.c line 134: Undefined variable 'lt' before  1;           
+/wizards/daboura/range.c line 134: Illegal lvalue before  1;           
+/wizards/daboura/range.c line 136: Undefined variable 'lt' before  0)
+/wizards/daboura/range.c line 121: Reserved type name unexpected. before ;
+/wizards/daboura/range.c line 121: parse error before ;
+/wizards/daboura/range.c line 122: Illegal LHS before the end of line
+/wizards/daboura/range.c line 134: Undefined variable 'lt' before  1;           
+/wizards/daboura/range.c line 134: Illegal lvalue before  1;           
+/wizards/daboura/range.c line 136: Undefined variable 'lt' before  0)
+/wizards/daboura/range.c line 121: Reserved type name unexpected. before ;
+/wizards/daboura/range.c line 121: parse error before ;
+/wizards/daboura/range.c line 124: Illegal LHS before the end of line
+/wizards/daboura/range.c line 138: Undefined variable 'lt' before  1;           
+/wizards/daboura/range.c line 138: Illegal lvalue before  1;           
+/wizards/daboura/range.c line 140: Undefined variable 'lt' before  0)
+/wizards/daboura/range.c line 27: parse error before the end of line
+/wizards/daboura/combat/range.c line 72: parse error before the end of line
+/wizards/daboura/combat/range.c line 73: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 73: parse error before the end of line
+/wizards/daboura/combat/range.c line 86: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 88: Illegal LHS before  x < sizeof(per); x+
+/wizards/daboura/combat/range.c line 95: Illegal LHS before  i < sizeof(ply); i+
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function abs before ;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before -5|;; }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function square_root before ; }
+/wizards/daboura/combat/range.c line 105: parse error before     
+/wizards/daboura/combat/range.c line 114: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 116: Illegal LHS before  x < sizeof(per); x+
+/wizards/daboura/combat/range.c line 123: Illegal LHS before  i < sizeof(ply); i+
+/wizards/daboura/combat/range.c line 127: Illegal LHS before            
+/wizards/daboura/combat/range.c line 131: Undefined variable 'x' before  });
+/wizards/daboura/combat/range.c line 103: parse error before (Mx == Ax) return ab
+/wizards/daboura/combat/range.c line 106: Illegal LHS before    
+/wizards/daboura/combat/range.c line 106: parse error before    
+/wizards/daboura/combat/range.c line 116: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 118: Illegal LHS before  x < sizeof(per); x+
+/wizards/daboura/combat/range.c line 125: Illegal LHS before  i < sizeof(ply); i+
+/wizards/daboura/combat/range.c line 102: parse error before  0;
+/wizards/daboura/combat/range.c line 106: Illegal LHS before    
+/wizards/daboura/combat/range.c line 106: parse error before    
+/wizards/daboura/combat/range.c line 116: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 118: Illegal LHS before  x < sizeof(per); x+
+/wizards/daboura/combat/range.c line 125: Illegal LHS before  i < sizeof(ply); i+
+/wizards/daboura/combat/range.c line 82: parse error before the end of line
+/wizards/daboura/combat/range.c line 101: Undefined variable 'active' before query_attackers();
+/wizards/daboura/combat/range.c line 101: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 101: parse error before the end of line
+/wizards/daboura/combat/range.c line 104: Illegal LHS before  x < sizeof(akrs); x
+/wizards/daboura/combat/range.c line 106: Undefined variable 'x' before );
+/wizards/daboura/combat/range.c line 106: Undefined variable 'd' before  get_distance(active
+/wizards/daboura/combat/range.c line 106: Illegal lvalue before  get_distance(active
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'se' before  }
+/wizards/daboura/combat/range.c line 116: parse error before the end of line
+/wizards/daboura/combat/range.c line 118: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 118: parse error before the end of line
+/wizards/daboura/combat/range.c line 119: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 119: parse error before the end of line
+/wizards/daboura/combat/range.c line 120: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 124: Undefined variable 'x' before ->query_name()" is m
+/wizards/daboura/combat/range.c line 124: parse error before  , environment(activ
+/wizards/daboura/combat/range.c line 337: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 337: parse error before the end of line
+/wizards/daboura/combat/range.c line 340: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 340: parse error before the end of line
+/wizards/daboura/combat/range.c line 124: parse error before  , environment(activ
+/wizards/daboura/combat/range.c line 337: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 337: parse error before the end of line
+/wizards/daboura/combat/range.c line 340: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 340: parse error before the end of line
+/wizards/daboura/combat/range.c line 346: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 223: parse error before  , environment(activ
+/wizards/daboura/combat/range.c line 337: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 337: parse error before the end of line
+/wizards/daboura/combat/range.c line 340: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 340: parse error before the end of line
+/wizards/daboura/combat/range.c line 346: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 129: parse error before (Mx == 11 && My == 1
+/wizards/daboura/combat/range.c line 258: Illegal LHS before  d, Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 258: parse error before the end of line
+/wizards/daboura/combat/range.c line 262: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 262: parse error before the end of line
+/wizards/daboura/combat/range.c line 265: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 256: Reserved type name unexpected. before (object active)
+/wizards/daboura/combat/range.c line 256: parse error before (object active)
+/wizards/daboura/combat/range.c line 258: Illegal LHS before  d, Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 258: Undefined variable 'd' before  Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 258: Undefined variable 'Mx' before  My, Ax, Ay;
+/wizards/daboura/combat/range.c line 258: Undefined variable 'My' before  Ax, Ay;
+/wizards/daboura/combat/range.c line 28: Undefined variable 'dis' before  5;
+/wizards/daboura/combat/range.c line 28: Illegal lvalue before  5;
+/wizards/daboura/combat/range.c line 256: Reserved type name unexpected. before (object active)
+/wizards/daboura/combat/range.c line 256: parse error before (object active)
+/wizards/daboura/combat/range.c line 258: Illegal LHS before  d, Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 258: Undefined variable 'd' before  Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 134: parse error before  if(Mx == 11 && My =
+/wizards/daboura/combat/range.c line 326: parse error before ;                   
+/wizards/daboura/combat/range.c line 231: Reserved type name unexpected. before (object active)
+/wizards/daboura/combat/range.c line 231: parse error before (object active)
+/wizards/daboura/combat/range.c line 233: Illegal LHS before  d, Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 233: Undefined variable 'd' before  Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 233: Undefined variable 'Mx' before  My, Ax, Ay;
+/wizards/daboura/combat/range.c line 233: Undefined variable 'My' before  Ax, Ay;
+/wizards/daboura/combat/range.c line 540: Undefined variable 'active' before );
+/wizards/daboura/combat/range.c line 1: parse error before the end of line
+/wizards/daboura/combat/range.c line 1: parse error before the end of line
+/wizards/daboura/combat/range.c line 1: parse error before the end of line
+/wizards/daboura/combat/range.c line 65: parse error before the end of line
+/wizards/daboura/combat/range.c line 70: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 71: parse error before the end of line
+/wizards/daboura/combat/range.c line 72: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 72: parse error before the end of line
+/wizards/daboura/combat/range.c line 76: Illegal LHS before the end of line
+/wizards/daboura/combat/range.c line 153: Invalid argument types to '+' ( string vs object ) before  environment(active)
+/wizards/daboura/combat/range.c line 97: parse error before ;
+/wizards/daboura/combat/range.c line 134: Illegal LHS before  d, Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 134: Undefined variable 'd' before  Mx, My, Ax, Ay;
+/wizards/daboura/combat/range.c line 134: Undefined variable 'Mx' before  My, Ax, Ay;
+/wizards/daboura/combat/range.c line 134: Undefined variable 'My' before  Ax, Ay;
+/wizards/daboura/combat/range.c line 134: Undefined variable 'Ax' before  Ay;
+/wizards/daboura/combat/range.c line 85: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/daboura/combat/range.c line 85: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/daboura/CMD_EVAL_TMP_FILE.c line 5: Undefined function damage before ; }
+/wizards/daboura/black_dagger.c line 19: Undefined variable 'weapon_hit' before ) );
+/wizards/daboura/black_dagger.c line 20: Undefined variable 'weapon_hit' before ) );
+/wizards/daboura/black_dagger.c line 20: Wrong number of arguments to weapon_hit
+    Expected: 1  Got: 0 before  :) );

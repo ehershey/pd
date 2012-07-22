@@ -1,0 +1,312 @@
+Typo reported by Sheene:
+/d/guilds/unholy/entrance: The room description has 'Aa' when it should only
+have 'A'. :)
+Bug reported by Wraith:
+/d/guilds/darksoul/entrance: Darksoul guild guards attacked each other again
+when Wraith walked in the room
+Bug reported by Wraith:
+/d/guilds/darksoul/entrance: stab dosent work on my guild guards, but backstab
+does
+Bug reported by Wraith:
+/d/guilds/darksoul/entrance: that damn guild guard of mine likes to lose
+something when fightin me and kill everyone else
+Bug reported by Wraith:
+/d/guilds/darksoul/hall: Still cant wear my guild ring
+Typo reported by Staver:
+/d/guilds/meeting: arouse should be arise I think, arousal usually has sexual
+connotations.  subject matter, while possible can arouse people usually
+arises... 
+Bug reported by Wraith:
+/d/guilds/darksoul/ashes: Array index out of bounds.program: /std/living/body.c,
+object: /d/guilds/darksoul/tutenkhamen#20585,file: /std/living/body.c:272 when
+attacking tutenkhamen
+Bug reported by Yakko:
+/d/guilds/darksoul/ashes: soul
+Typo reported by Staver:
+/d/guilds/darksoul/hall: last line, you don't have to fear us inless you're
+alive, not your 
+Typo reported by Staver:
+/d/guilds/darksoul/dungeon: sign
+Typo reported by Staver:
+/d/guilds/darksoul/dungeon: look sign is wrong it should read: It clearly
+reads, (<--Should be in normal colors I think) "Even if you some how escape
+the guardian will destroy you." 
+Typo reported by Staver:
+/d/guilds/darksoul/hall: last part of room long should be you are or you're
+instead of your 
+Bug reported by Ashram:
+/d/guilds/darksoul/praying: prayer rooms dont heal body damage right now
+Bug reported by Ashram:
+/d/guilds/darksoul/shop: the gold from high level areas is very very low
+compared to other areas. Drows and Bfields give almost no gold where as
+merk/tenebrae/temple/lodos give very large amounts
+Typo reported by Sulphur:
+/d/guilds/darksoul/shop: dark cloak description; should be "material" not
+"martial"
+Bug reported by Soulfly:
+/d/guilds/darksoul/hall: trying to log on after getting booted 3 times in a
+row   here currently exists an interactive copy of you. Do you wish to take
+over this interactive copy? (y/n) y Bad argument 2 to exec() program:
+/adm/obj/simul_efun.c, object: /adm/obj/simul_efun, file:
+/adm/simul_efun/overrides.c:56 
+Typo reported by Sulphur:
+/d/guilds/darksoul/hall: You don't have to fear us unless you're alive
+Bug reported by Khale:
+/d/guilds/forsaken/treasury: huy when i am in the forsaken guild where you
+read the plaque i typed l locker and  came up 
+Bug reported by Khale:
+/d/guilds/forsaken/treasury: hey when you look at the plaque in the forsaken
+guild it shows up as program: /std/room/items.c, object:
+/d/guilds/forsaken/treasury, file: /std/room/items.c:33 
+Bug reported by Jumble:
+/d/guilds/illuminati/treasury: using the examine command you get: Value being
+indexed is zero. program: /std/room/items.c, object:
+/d/guilds/illuminati/treasury, file: /std/room/items.c:33
+Bug reported by Soulfly:
+/d/guilds/darksoul/hall: Rings can only be worn on the right hand, even 8
+rings when I only have 4 fingers per hand.  IT gives armour only to the right
+hand. 
+Bug reported by Wraith:
+/d/guilds/darksoul/treasury: DEMON QUEST IS SCRYABLE
+Bug reported by Yakko:
+/d/guilds/darksoul/lockerd: Bad argument 1 to call_other()Expected: string or
+array or object Got: 0.program: /d/guilds/darksoul/lockerd.c,
+object:/d/guilds/darksoul/lockerd, file: /d/guilds/darksoul/lockerd.c:64
+Bug reported by A shadow:
+/d/guilds/forsaken/hall: "commands" command is not working, it's universal i
+believe. " Position=Null...  Please bug this."  check this out. :)
+Bug reported by Aziraphale:
+/d/guilds/illuminati/prayer: This happened to me and loki and we both use
+dispell as our main attack. When we were fighting a mob we tried to run away and
+suddenly we couldn't do anything. We could not wimpy out, we could not move out
+ourselves, we could not use abilities or cast spells, we couldn't use oils or
+stones. For me it happened when I cast dispell, then tried to wimpy in the same
+round. Before that I was fine, after that all I could do was spin halo, lucky
+for that hmm?
+Bug reported by Ashram:
+/d/guilds/darksoul/hall: shroud and soulburn are insanely strong compared to all
+other spells (sear, death touch, lifewarp, ect)
+Bug reported by Ashram:
+/d/guilds/darksoul/view_room: assassins could use track too. seems right for em
+Bug reported by Ashram:
+/d/guilds/darksoul/hall: thornwrack can still land after you leave the room...
+noticed it in the arena... if i leave the room i still get hit by thornwrack
+even tho the caster isnt in the room with me
+Bug reported by Ashram:
+/d/guilds/darksoul/hall: mudarmor is very very overpowered... like old
+staticshield. it lasts around 5 minutes and brings stuff from hardly protected
+to well past fully armored. and it recuded lac's slash to 0 dammage
+Idea reported by Wraith Wed Apr 10 08:37:38 2002
+/d/guilds/darksoul/view_room: when a rogue is cloaked, make it so it says A shadow on lines?
+Bug reported by Wraith:
+/d/guilds/darksoul/hall: buddylist will add multiples of the same name if you do
+a name twice
+Bug reported by Calirynth:
+/d/guilds/unholy/breath#51064: breath "The power of asmodeus is with you..."
+Asmodeus should be capitalized
+Bug reported by Loki:
+/d/guilds/illuminati/itemshop: When you log out with 2 one handed weapons
+wielded, and log back in you cant wield both with out dropping. It says you
+need two hands for that.   -Loki 
+Bug reported by Ashram:
+/d/guilds/darksoul/view_room: druids are very very strong. as their attacks are
+instant it saves them 1 round over mage spells everytime. this means that
+icestorm in the sewers, merk, tenebrae, or lodos is about as effective as having
+shroud around lvl 25. Icestorm/earthmaw are extreemly strong for exp purposes.
+As thornwrack is instant damage it is very strong as well, but it doesnt add as
+much as icestorm/earthmaw does. The same is most likely true about psistorm as
+well. Druids get 4 defense per level which is easy to raise and with vine armour
+they take almost no damage. at lvl 25 i was killing rooms with 4 28k mobs with
+no trouble at all. at lvl 35 i could icestorm the king's room in tenebrae. at
+lvl 50 i took only 50 damage per round from the entire king's room per round.
+Combined with area attacks this made druids insanely powerful
+Bug reported by Wraith:
+/d/guilds/darksoul/shop: Bad argument 1 to call_other() Expected: string or
+array or object Got: 0. program: /cmds/skills/_fireworks.c, object:
+/cmds/skills/_fireworks, file: /cmds/skills/_fireworks.c:65
+Bug reported by Azire:
+/d/guilds/illuminati/hall: i can take anyone who is mounted on me inside the
+guild hall. (illuminati) probably not a good thing...
+Bug reported by Stryder:
+/d/guilds/darksoul/view_room: backstab is extreemly overpowered right now. You
+can backstab, move rooms, backstab all at once. Thus with macros you could clear
+the entire mud in a few minutes with a big enough backstab. Also its damage is
+insanely high right now. With backstab+stab i insta-kill 25k mobs at lvl 40.
+this was the equivelent of my lvl 61 paladin with double my current stats
+Idea reported by Wraith Sun May  5 11:39:12 2002
+/d/guilds/darksoul/hall: Can ya make it so Cloaked people cant be scried?
+Typo reported by Wisp:
+/d/guilds/chosen/entrance: of the boulders which apears to have grown in the 
+Bug reported by Soulfly:
+/d/guilds/darkness/rooms/room2: When I use stones it says im in the middle of a
+spell, but that's not a spell, and it prevents me from casting a spell for
+several seconds
+Idea reported by Yakko Mon Jul  1 11:31:11 2002
+/d/guilds/darksoul/merk/shop: superpowered (oil/guild equivalant)
+Bug reported by Neocount:
+/d/guilds/AoD/hall: if a person pks another and the one killed wimpies out of
+the room or leaves the room then the killer is not given a pk flag or murder
+charge
+Typo reported by Deathshroud:
+/d/guilds/AoD/oil: it says shelfs instead of shelves
+Bug reported by Loki:
+/d/guilds/illuminati/hall: The problem with holyfire has come up agian. I got
+stuck in a room, not being able to do anything and one mob died each
+round.... while still hitting me till i died.   -Loki 
+Typo reported by Staver:
+/d/guilds/darksoul/treasury: room desc
+Typo reported by Staver:
+/d/guilds/darksoul/treasury: in the long descrip of this room, rigor mortis
+should be two words 
+Typo reported by Staver:
+/d/guilds/darksoul/praying: alter as is it is spelled means to change
+something, it should be altar 
+Typo reported by Staver:
+/d/guilds/darksoul/ashes: pieces, not peices.  occasional, not occaisonal.
+doesn't, not dosent. it's not its. 
+Bug reported by Eios:
+/d/guilds/acheron/vote: i get this at my guild vote room when i type 'check
+<name>' Bad argument 1 to wizardp()Bad argument 1 to wizardp() Expected: object
+Got: 0.Expected: object Got: 0. program: /daemon/guild_d.c, object:
+/daemon/guild_d, file: /daemon/guild_d.c:17program: /daemon/guild_d.c, object:
+/daemon/guild_d, file: /daemon/guild_d.c:17
+Bug reported by Shinkoro:
+/d/guilds/darksoul/shop: The Slug-leggings I can buy from the darksouls shop
+will not allow me to wear them.  When i try it says YOU ARE NOT A DARKSOUL! 
+I've worn them before and nothing has changed about my character that im aware
+of and I am  member of darksouls.  Thanks
+Bug reported by Hermes:
+/d/guilds/AoD/oil: maps are screwing up the room descrips of AoD
+Bug reported by Boffa:
+/d/guilds/darksoul/hall: I am getting the unholy guild news, when a darksoul
+Typo reported by Rethlan:
+/d/guilds/blackforce/entrance: still says blackforce guild in the entrance room
+Bug reported by Yakko:
+/d/guilds/darksoul/shop: error trying to go into my guild hall in trium
+Bug reported by Prator:
+/d/guilds/illuminati/prayer: The mana cost for boost doesn't match with how much
+mp you need to cast it. It costs 100 mana to boost me, but with 450 mana can't
+cast it. It is a real problem in combat because I need to almost max my mp
+before I can boost.
+Bug reported by Ashram:
+/d/guilds/darksoul/hall: you can cure out of any negative. i was at -1.2k and
+cured to 1.
+Typo reported by Prator:
+/d/guilds/illuminati/new/newhall: Holy battle armour's set_short has armuor, it
+should be armour.
+Bug reported by Galdur:
+/d/guilds/forsaken/entrance: ok this is really annoying me now for some
+reason i can only wield one sword sometimes and it is very annoying it does
+happen with all sword but it normally happens to a blade type weapon eq wield
+scimitar works but wield scimitar 2 doesn't yeah well thats it 
+Typo reported by Cookie:
+/d/guilds/AoD/helgrath/portal: in "help guild list", the first word is "uilds"
+and should be "Guilds".
+Bug reported by Cookie:
+/d/guilds/AoD/hall: after drinking firebreathers in rapid succession, now I have
+"six empty ah empty bottles" in my inv. I can't drop them, bury them, or even
+look at them. Not sure what's up with that. Maybe it was after using a vial...
+who knows. It's just messed up.
+Bug reported by Rethlan:
+/d/guilds/blackforce/hall: when i go from the guild out the hall exit and then
+return to the guild, the shop exit vanishes - i have to exit the guild and come
+back to get the shop exit bagk
+Typo reported by Rethlan:
+/d/guilds/vote: there should be their
+Bug reported by Yakko:
+/d/guilds/darksoul/merk/shop: i autobaged a diamond into a sack
+Bug reported by Joey:
+/d/guilds/darksoul/hall: BLah i can mark a wax ball 2 down from this room needs
+to be change anyone could get in here with this seal
+Bug reported by Yakko:
+/d/guilds/darksoul/praying: lobos is on my fly list but i can't fly there
+Bug reported by Lac:
+/d/guilds/forsaken/sash#30246: sasys it is a belt, when it is a sash :p 
+Bug reported by Arch:
+/d/guilds/illuminati/new/floor2: spheres also don't seem to be working.. i am
+not sure if this will be any help.. but it might be only to merkkerri..
+Bug reported by Yakko:
+/d/guilds/darksoul/hall: look.... dunno i was hitting l and it bugged
+Bug reported by Nightshade:
+/d/guilds/dw/hall: forsaken hall needs to be set to safe zone
+Typo reported by Sapphron:
+/d/guilds/scorpio/hall: q In the Scorpio guild there is a typo in the board
+room.  It says "...The is a small table...".  3rd sentence. Thanks, Sapphron 
+Typo reported by Sapphron:
+/d/guilds/scorpio/hall: help rogue - under 'Scout:' First sentence is ended
+with comma rather then a period and says "...to anyone save themselces..." 
+Typo reported by Rethlan:
+/d/guilds/scorpio/lounge: alot should be a lot
+Typo reported by Rethlan:
+/d/guilds/scorpio/barracks: should be space after the period
+(neatness.If)->(neatness.  If)
+Idea reported by Lac Mon Oct 28 06:37:36 2002
+/d/guilds/forsaken/hall: sick just wanted to checkout Rubicantes idea, heard it was sick.. :p
+Bug reported by Dante:
+/d/guilds/darksoul/portal#43474: portal in darksoul only lets darksoul members
+enter, but AoD and Darksoul are allied
+Bug reported by Cookie:
+/d/guilds/AoD/store: dark cutlasses are not labled as a "sword". You can't
+"unwield sword" or anything like that... you have to specificly type "cutlass".
+Typo reported by Rethlan:
+/d/guilds/scorpio/meeting: arouse should be arise
+Typo reported by Shinkoro:
+/d/guilds/darksoul/shop: DS's dark leather sack has a few typos in its
+description.  Such as peices and althrough. 
+Idea reported by Rethlan Sat Jan 11 09:42:30 2003
+/d/guilds/scorpio/oilshop: could we make mention of the sign (whereever it is) in the room description?
+Bug reported by Peem:
+/d/guilds/dw/hall: when i am a member of DragonWarriors guild and when i type
+<members> i get "unable to find guild ob" as a reply
+Bug reported by Tyste:
+/d/guilds/vorticon/entrance: Either the <help currency> is wrong or the bank
+system is. My account says 15k electrum = 150 gold, but according to help
+currency it should be 1500 gold. IF the bank system is wrong it should be
+fixed soon because it could be highly abuseable switching gold to electrum.
+:) or maybe help currency just needs updating. 
+Bug reported by Yakko:
+/d/guilds/darksoul/hall: commands
+Typo reported by Kurgan:
+/d/guilds/scorpio/entrance: Scorpio Guild, first room, the gaurd is "The
+Scorpian King
+Typo reported by Kurgan:
+/d/guilds/scorpio/entrance: Scorpio Guild, the guard is "The Scorpian King".
+It's spelt "scorpion", with an "o", not an "a". Sorry 'bout last report, client
+sucks. =/
+Typo reported by Sapphron:
+/d/guilds/scorpio/hall: help shout there is no space after the '.' in the
+first sentence 
+Typo reported by Faust:
+/d/guilds/darksoul/merk/shop: On hermes warblade there are to typos, familer
+should be familiar and east should be ease 
+Bug reported by Rethlan:
+/d/guilds/scorpio/hall: hp: 1170|sp: 698|mp: 1620 >  quit 
+Bug reported by Aziraphale:
+/d/guilds/illuminati/new/roof: Yep, more of following not working in htis room,
+roof of Illuminati.
+Bug reported by Aziraphale:
+/d/guilds/illuminati/new/roof: Hmmm, moving through the Illuminati tower it
+keeps giving the zone change notice, even though it is a similar zone.
+Bug reported by Naktu:
+/d/guilds/forsaken/lockerf2: I stored a DarkMail in one of our guild lockers,
+but now it cannot be found. Help! 
+Bug reported by Aziraphale:
+/d/guilds/illuminati/new/roof: Know the dance of shadows for gypsies? Or
+whatever it is it makes you cloaked while you do it. Thing is anyone can
+'decloak', and the efun set_invis just toggles invisibility. So you can 'dance
+of shadows' 'decloak' and when the dance stops you go invisible. Permenantly
+unless you decloak again.
+Bug reported by Scoff:
+/d/guilds/forsaken/hall: gate
+Bug reported by Scoff:
+/d/guilds/forsaken/hall: gate, when i type gate list, it says that there is an
+error, and i can only seem to reamber one agte loc. thanks
+Bug reported by Lac:
+/d/guilds/forsaken/room1: Scorch help..all mages get it? :p
+Bug reported by Aravi:
+/d/guilds/illuminati/new/board: Despite being removed from the illuminati, I
+start in the illuminati tower. 
+Idea reported by Shadimar Wed Oct  1 12:07:51 2003
+/d/guilds/vorticon/hall: more gates per conj
+Idea reported by Shadimar Tue Oct  7 16:34:51 2003
+/d/guilds/vorticon/hall: cloakable players allowed to login invis so ppl cant see them login on buddy/enemy lists :p just a little after u type in ur passwd sumthang like Would you like to login invisible?y/n

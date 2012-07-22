@@ -1,0 +1,227 @@
+Bug reported by Ashram:
+/d/roston/drow/room/path1: whole bunch of unused local variables after i 'enter
+hole' to entrance of drows in roston
+Bug reported by Ashram:
+/d/roston/cave/cave10: here is my eq... dont know if you should be able to wear
+it all at once - silver cape clasp, full body scalemail, dscale armor, dark
+cloak, wizard robes, long cyan cape, spiked collar, gold embroidered
+breastplate, a magician's cap, acritlite leggings, acrilite mask, acrilite helm,
+dwarven shield, golden platemail vest, acrilite bracers, mages robes of light,
+fancy armour, toughened leather boots, white gloves, leopard skin loincloth, and
+2 dragons teeth --- some of it seems to overlap itself a bunch
+Bug reported by Ashram:
+/d/roston/rooms/roston49: wizard in roston's spells do no damage
+Bug reported by Ashram:
+/d/roston/cave/cave2: acrilite mask responds to 'boots'  ie look boots looks at
+my mask
+Bug reported by Ashram:
+/d/roston/drow/room/room2: when you tell a shadowed person something it says
+'tell whom what?'
+Bug reported by Ashram:
+/d/roston/rooms/roston2: buffer is pretty darn overpowered... mak is lvl 20 and
+killing 3 roston mobs at once...
+Bug reported by Dryfus:
+/d/roston/cave/cave15: body armour appears to overlap itself. can wear more than
+one thing at a time per limb... not sure if this is a bug or not
+Typo reported by Wraith:
+/d/roston/rooms/weaponshop: in the weapon shop and in the room east of it and
+mebbie surrounding rooms: There are tons of metal pices all over the.     peices
+is the word
+Bug reported by Wraith:
+/d/roston/drow/room/room2: death is cutting hp untill you quit and come back
+again
+Bug reported by Ashram:
+/d/roston/rooms/roston44: spells on the roston wizard do low damage for his
+size. hits me ineffectivly with his bolt
+Bug reported by Ashram:
+/d/roston/cave/cave5: money from merk is rather high... easy mobs and about 12k
+gold from clearing it once (10 mins at my level)
+Bug reported by Khale:
+/d/roston/rooms/C_room1: q exit l q q q q q q q 
+Typo reported by Staver:
+/d/roston/rooms/roston17: doesn't, fingers, trained, I, are all misspelled. 
+Typo reported by Staver:
+/d/roston/rooms/roston39: period after mountain. huge, not hudge and period
+after ground also. 
+Bug reported by Ashram:
+/d/roston/rooms/roston7: cure limb does nothing right now
+Bug reported by Ashram:
+/d/roston/drow/room/room3: body damage for torso is very hard to get rid of...
+around 5 cures or oils to reduce it 1%
+Typo reported by Sulphur:
+/d/roston/rooms/C_room6: Spiders don't have pincers.  Crabs do.
+Bug reported by Faust:
+/d/roston/rooms/roston34: help tailspear and help gore are the same thing 
+Bug reported by Wraith:
+/d/roston/rooms/r_crack: Farsi, currently spoken by dwarves, is not listed
+tounges or languages, Dwarven language is dimidium
+Bug reported by Wisp:
+/d/roston/cave/cave6: Bear trys to choke Wisp, but cannot lift his! Bear
+holds Wisp in the air, and lets her choke. hp: 702    sp: 214    mp: 830 
+Typo reported by Wisp:
+/d/roston/rooms/roston49: A dark brown pice of hay  
+Typo reported by Wisp:
+/d/roston/cave/cave4: This is part of the Cave, where there walls seem
+closeing in on you. The vapors here seem to be chaning colors. Its looks as
+if creatures come here to rest.  
+Typo reported by Wisp:
+/d/roston/cave/cave6: This room seems to bevery dark.   
+Bug reported by Wisp:
+/d/roston/cave/cave6: Wisp smooches Nightshade 
+Bug reported by Mochaprincess:
+/d/roston/rooms/C_room4: I was in the arena today and I got Alquerian to kill
+me. But, my heart kept stopping and he couldn't kill me. When I finally was
+killed and he went back to the () he was charged with 37 murder offenses. I
+went under 0 ALOT of times. Just wanted to say that cause I didn't think that
+was fair for him to go to jail for that, I think it was a bug anyway.  
+Bug reported by Wisp:
+/d/roston/cave/cave7: with the choke when a monster tries to choke you, get this
+..Bear trys to choke Wisp, but cannot lift his!.. then you get this..Bear holds
+Wisp in the air, and lets her choke.
+Typo reported by Wisp:
+/d/roston/cave/cave3:  Most PolarBear's just  
+Typo reported by Wisp:
+/d/roston/cave/cave1: ground seem to have vapors pooring out of them. 
+Typo reported by Wisp:
+/d/roston/rooms/roston33: There seems to be vapors comeoing out of the
+ground. 
+Typo reported by Wisp:
+/d/roston/rooms/roston31: Your on the peek of a giant mountain. The snow is
+very deep 
+Typo reported by Wisp:
+/d/roston/rooms/roston34: There seems to be a giant holy in the face of the
+hill. 
+Typo reported by Wisp:
+/d/roston/rooms/roston44: maps off look The hole seems to be never end.  
+Typo reported by Wisp:
+/d/roston/rooms/roston53: comeing out of the cracks in the ground. 
+Typo reported by Wisp:
+/d/roston/rooms/roston31: You are on the peek of a giant mountain. it's peak
+not peek 
+Typo reported by Wisp:
+/d/roston/rooms/roston31: from up here you can see the hole town of
+Roston...it's whole not hole 
+Typo reported by Wisp:
+/d/roston/rooms/roston34: are very large prints on  ground, ... should be on
+the ground 
+Typo reported by Wisp:
+/d/roston/rooms/roston37: To the east there is a large building, to the east
+there .... don't think it makes sense 
+Typo reported by Wisp:
+/d/roston/rooms/roston46: The walls are coverd with ice.... should be covered
+
+Typo reported by Wisp:
+/d/roston/rooms/roston48: The moist here, with....doesn't make sense 
+Typo reported by Wisp:
+/d/roston/rooms/roston47: the walls are coverd...should be covered 
+Typo reported by Wisp:
+/d/roston/rooms/roston50: of giant pices of ice.....should be pieces 
+Typo reported by Wisp:
+/d/roston/rooms/roston51: The ice on the wall is beging to melt..... should
+be beginning 
+Bug reported by Soulfly:
+/d/roston/rooms/roston48: In the ice dragon room in roston it wont let me crack
+skull, my guilds stone.  Instead i go to the wizards room, entrance is crack.
+Bug reported by Boffa:
+/d/roston/rooms/roston48: Rage - I was parad while raging, and still cleaved.
+Typo reported by Cookie:
+/d/roston/drow/room/tent1: in the drow area, where you can go down you read
+"this is a deep black room, blah blah" anyways, there is a typo in where it says
+"there seems to be a golden book in the of the room." that makes no sense.
+Bug reported by Ashram:
+/d/roston/rooms/roston17: he has 20 specters... thats a bug abuse i think
+Typo reported by Aximili:
+/d/roston/rooms/Church: instead of priest it says pirest, in roston from the []
+all east, just reporting it.
+Idea reported by Ashram Mon Jul  1 19:26:05 2002
+/d/roston/rooms/roston: we could really use a way to tell who is an outlaw and who isnt
+Typo reported by Wisp:
+/d/roston/rooms/roston: the statue has heaps of them
+Typo reported by Shinkoro:
+/d/roston/cave/cave20: L ROCK  somthin is mispelled 
+Typo reported by Hermes:
+/d/roston/drow/room/room1: Place where you first find the drow.  It says, "It
+looks as if the whole camp is seting..." 
+Typo reported by Rethlan:
+/d/roston/cave/cave20: This giant Rock seems to be covering somthin
+Bug reported by Rethlan:
+/d/roston/cave/cave20: when i rub oil on my wounds, then try and cast buffer, i
+get that i am busy buffering, instead of being busy doing something else
+Bug reported by Yakko:
+/d/roston/rooms/roston46: trying to put eq in a non existant diamond
+Bug reported by Ashram:
+/d/roston/drow/room/room91: you can holyfire + peace and kill anything
+Typo reported by Rethlan:
+/d/roston/obj/drink#109329: firebreather from the pyromancer in the drow
+encampment - should 'on' be 'only'? (If you have this drink feel special, on one
+man should have it, enjoy.)
+Typo reported by Rethlan:
+/d/roston/rooms/roston50: A very hard and thick pice of ice
+Typo reported by Rethlan:
+/d/roston/cave/cave3: A wired looking mist
+Typo reported by Rethlan:
+/d/roston/rooms/roston53: looks like the description of the mist was copy/pasted
+in - A wired looking mist
+Typo reported by Rethlan:
+/d/roston/cave/cave8: A wired looking mist,with a tint of red
+Typo reported by Rethlan:
+/d/roston/rooms/roston23: middile
+Typo reported by Rethlan:
+/d/roston/rooms/roston55: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/rooms/roston53: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave1: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave20: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave15: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave2: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave3: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave4: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave10: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave6: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave7: wired should be weird?
+Typo reported by Rethlan:
+/d/roston/cave/cave8: wired should be weird?  also, should be a space after the
+comma (in the description of the vapors - weird is misspelled in every room)
+Bug reported by Liquid:
+/d/roston/drow/room/path1: you can sings songs while your dead.
+Typo reported by Shinkoro:
+/d/roston/drow/room/room24: Drow Soldier has a few in his desciption. 
+Typo reported by Ug:
+/d/roston/rooms/roston42: Dazling armour....   you "shover" as midnight air
+winds its way around your body 
+Idea reported by Dante Tue Nov  5 13:45:36 2002
+/d/roston/rooms/roston37: when you type party list, make it show how long you have been in the party
+Typo reported by Prator:
+/d/roston/drow/room/room76: "The drows seem to be very relaxed and clam." -
+Cool, I wanna be clam too (j/k) - In the drow camp.
+Typo reported by Shinkoro:
+/d/roston/drow/room/room91: Drow defender's description protection should be
+protecting 
+Bug reported by Prator:
+/d/roston/rooms/roston17: resurrect stuffs up your hp/sp/mp. I think this
+ability is going to need some work since it gives all of 1.8M exp to a level 50,
+who loses 24 mill in levels alone.
+Typo reported by Nesoo:
+/d/roston/rooms/C_room1: "of Carnage, many adventurers" s/b "of Carnage. Many
+adventurers", "lifes here.The walls" missing space, s/b "lifes here. The walls",
+and "and dust, the floor" s/b "and dust. The floor"
+Typo reported by Nesoo:
+/d/roston/rooms/C_room1: "have lost there lifes here." s/b "have lost their life
+here."
+Typo reported by Nesoo:
+/d/roston/rooms/C_room5: "A slight 'path' continues to the north, and then back
+to the north." What? Not sure exactly what that's supposed to say :)
+Idea reported by Tyste Tue Mar 25 00:59:39 2003
+/d/roston/rooms/roston: make roston [] a peace zone!!
+Bug reported by Amarael:
+/d/roston/drow/room/room91: "error when executing program in destroyed object
+/d/roston/drow/mon/general#7761"

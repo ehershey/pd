@@ -1,0 +1,63 @@
+/d/inferi_island/hamenstomb/mobs/criosphinx.c line 4: Cannot #include amun_riddles.h before #define QUESTION 0
+/d/inferi_island/hamenstomb/mobs/criosphinx.c line 32: Undefined variable 'RIDDLES' before the end of line
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 11: Undefined variable 'x' before ("bracers");
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 11: parse error before ("bracers");
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 11: Undefined variable 'x' before ("bracers");
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 11: parse error before ("bracers");
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 1: parse error before include <std.h>
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 10: Undefined function Set_type before ;
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 22: modifier list may not be empty. before the end of line
+/d/inferi_island/eyeofhell/armour/lava_bracers.c line 10: Undefined function Set_type before ;
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/marshes/rooms/BM_13.c line 21: parse error before the end of line
+/d/inferi_island/eyeofhell/weapons/black_sword.c line 33: Type mismatch ( unknown vs object ) when initializing atk before the end of line
+/d/inferi_island/eyeofhell/weapons/black_sword.c line 33: Missing type for global variable declaration before the end of line
+/d/inferi_island/eyeofhell/weapons/black_sword.c line 34: parse error before (random(100) > 90) {
+/d/inferi_island/hamenstomb/armour/leather_pouch.c line 13: Undefined function set_possible_to_close before ;
+/d/inferi_island/hamenstomb/armour/leather_pouch.c line 13: Undefined function set_possible_to_close before ;
+/d/inferi_island/hamenstomb/armour/leather_pouch.c line 15: Undefined function set_type before ;
+/d/inferi_island/hamenstomb/armour/leather_pouch.c line 16: Undefined function set_limbs before ;
+/d/inferi_island/marshes/mobs/rosie.c line 17: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/inferi_island/marshes/mobs/rosie.c line 24: Undefined function set_menu_short before ;
+/d/inferi_island/marshes/mobs/rosie.c line 31: Undefined function set_my_mess before ;
+/d/inferi_island/hamenstomb/mobs/magi.c line 22: Wrong number of arguments to set_skills
+    Expected: 1  Got: 2 before ;
+/d/inferi_island/hamenstomb/mobs/magi.c line 23: Wrong number of arguments to set_skills
+    Expected: 1  Got: 2 before ;
+/d/inferi_island/hamenstomb/weapons/bronze_sword.c line 14: Undefined function set_element before ;
+/d/inferi_island/hamenstomb/weapons/bronze_sword.c line 14: Undefined function set_element before ;
+/d/inferi_island/marshes/armour/bloody_shirt.c line 3: Illegal to inherit after defining functions. before the end of line
+/d/inferi_island/marshes/armour/bloody_pants.c line 3: Illegal to inherit after defining functions. before                     
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_weapon.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/mobs/zeon.c line 6: parse error before  "weapon" } ) );
+/d/inferi_island/marshes/mobs/zeon.c line 6: parse error before  "weapon" } ) );
+/d/inferi_island/marshes/mobs/zeon.c line 6: parse error before  "weapon" } ) );
+/d/inferi_island/eyeofhell/armour/black_centaur_leggings.c line 14: parse error before  can_wear : ) );
+/d/inferi_island/eyeofhell/armour/black_centaur_leggings.c line 14: parse error before  can_wear : ) );
+/d/inferi_island/eyeofhell/armour/black_horseshoes.c line 14: parse error before  can_wear : ) );
+/d/inferi_island/eyeofhell/armour/black_saddle.c line 14: parse error before  can_wear : ) );
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 
+/d/inferi_island/marshes/rooms/marsh_armour.c line 16: parse error before  "east", "west" } ) 

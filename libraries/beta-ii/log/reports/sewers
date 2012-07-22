@@ -1,0 +1,134 @@
+Bug reported by Mazrim:
+/d/sewers/rooms/bottom11: i'm missing eq
+Bug reported by Nefarious:
+/d/sewers/rooms/2lv49: cant use magic defense spells on other people..you can
+once but after it wears off it says "You are already shielded" even tho im not
+and im trying to shield someone else other then me
+Idea reported by Mazrim Thu Nov 20 18:33:58 2003
+/d/sewers/rooms/bottom16: allow lvl 36 pyro's to gate
+Idea reported by Mazrim Thu Nov 20 18:36:55 2003
+/d/sewers/rooms/bottom11: pyro spell - singe, allow user to cast a spell that destroys clothes on a low % and inflits light damage
+Idea reported by Mazrim Thu Nov 20 18:38:31 2003
+/d/sewers/rooms/bottom9: mudmail me if u gonna use idea's since i'm only active pyro :P and i'm never remorting ;)
+Bug reported by Sasayaki:
+/d/sewers/rooms/16: blast Blast should function without arguments, as almost any
+other spell does. IE: kill monster;blast should blast the current attacker.
+Bug reported by Scamp:
+/d/sewers/rooms/2lv18: tells and newbie line has bug message
+Praise given by Kumi Thu Jan  1 05:23:40 2004
+/d/sewers/obj/arm/helmoj#1060: wowww This is a really relaly cool helm.
+Praise given by Kumi Thu Jan  1 05:24:04 2004
+/d/sewers/obj/arm/helmoj#1060: wowww it is sooo cool that i became an angel just to be able to wear it because my alignment always went sour but there is an alignment pool for angels, that's why i became an angel the end.
+Typo reported by Youjutsu:
+/d/sewers/rooms/2lv29: thornwrack The room message for thornwrack is messed up.
+"his's skin"
+Idea reported by Youjutsu Thu Jan 29 23:19:09 2004
+/d/sewers/rooms/2lv38: With elemental system, it could be cool to have opposing elements. For instance, if you have 30% fire resistance, you loose 15% cold resistance. This would make it harder for a character to have 100% resist to all.
+Idea reported by Tahngarth Thu Apr  1 18:35:59 2004
+/d/sewers/rooms/bottom12: make cleave deal dmg to whole area
+Idea reported by Tahngarth Tue Apr 13 21:08:22 2004
+/d/sewers/rooms/bottom16: remove the fear rage ability cause it sux
+Idea reported by Tahngarth Fri Apr 16 16:48:39 2004
+/d/sewers/rooms/bottom1: make it so that when you kill someone in selfdefense you don't get charged by law
+Idea reported by Tahngarth Sun Apr 18 17:44:29 2004
+/d/sewers/rooms/bottom8: revise the xp cuts idea, too many people are sticking to certain levels, now we have a lack of lvl 38s-49s
+Bug reported by Raiku:
+/d/sewers/rooms/2: heal only uses 1 mp but heals me for about 7-10 hp  
+Idea reported by Smite Fri Jul  9 01:56:21 2004
+/d/sewers/rooms/bottom7: last tell and last party line to have colors
+Idea reported by Mortis Sun Aug 29 19:01:00 2004
+/d/sewers/rooms/2lv37: Explorers Make an explore % at our finger. All rooms of mud will be the 100%
+Idea reported by Sting Thu Nov  4 22:14:34 2004
+/d/sewers/rooms/1: give thieves track?!
+Idea reported by Sting Thu Nov  4 22:17:28 2004
+/d/sewers/rooms/2lv24: great, pick and steal don't work on players now
+Bug reported by Xille:
+/d/sewers/obj/mon/wererat#94305: wererat in tirun sewers level 2 doesn't have
+"rat" as an id
+Idea reported by Vian Wed Nov 10 22:43:46 2004
+/d/sewers/rooms/26: Having the recall command changed, so after level 6, you can still recall, you just go down to 1 hp/sp/mp.
+Idea reported by Tahngarth Thu Nov 11 21:14:38 2004
+/d/sewers/rooms/26: give swashbucklers 'boost-type' songs, like temporary increase in a percentage of skill/stats, increase in attack speed etc
+Typo reported by Tensheapz:
+/d/sewers/rooms/2lv17: second level of sewers, entrance room stifiling should
+be spelt stifling 
+Bug reported by Skunk:
+/d/sewers/rooms/2lv42: when i have done something in a round and i try to use an
+alias i get   !ERROR! This is a bug. Please contact an admin.
+Typo reported by Nesoo:
+/d/sewers/rooms/2lv5: The It's in the long for the ancient wyrm should be Its
+Bug reported by Vian:
+/d/sewers/rooms/bottom1: Marriage doesn't linewrap correctly.  Vian is married
+to Khorne.He is slightly injured.  They should be different lines but are only
+on one.
+Bug reported by Tarfand:
+/d/sewers/rooms/19: if you use backstab during battle by accident, it says
+nothing but still disables you a round, so you can't stab and stuff
+Bug reported by Rueznor:
+/d/sewers/rooms/bottom5: In sewers 3, demons wield their swords, but angels
+don't
+Idea reported by Rueznor Sat Feb 19 15:57:40 2005
+/d/sewers/rooms/bottom7: "Jar of Preservatives", or something, costs around 100,000 gold, and autoloads.  You can open it, put a limb in it, and close it, and seal it.  Then the limb will stop decaying, and it still autoloads.  A neat little trophy type thing, and a money sink
+Idea reported by Landara Thu Nov 17 15:00:45 2005
+/d/sewers/rooms/12: when the 30 second and 5 second auction take goes off tell who had highest bid.  exc. there are only 5 seconds left to bid on Jim's Rock! going to Bill for 5 gold. so if you miss it in the spam that you got out bid.
+Bug reported by Vyce:
+/d/sewers/rooms/bottom13: gore does no damage when santanic uses it on angelic.
+dont know for sure if this is intended
+Idea reported by Otto Wed Jan  4 02:37:03 2006
+/d/sewers/rooms/2lv4: when using brief mode, could the dirs with mobs in them be in green like on the automap??
+Bug reported by Escobar:
+/d/sewers/rooms/2lv42: I can aim for torso on myself in one room, then run into
+the next room and attack the monster in question and hit them in the body at a
+high percentage.
+Bug reported by Arma:
+/d/sewers/rooms/26: You can pick people that arnt even hm yet. 
+Bug reported by Zubaida:
+/d/sewers/rooms/2lv5: druids?
+Bug reported by Zubaida:
+/d/sewers/rooms/2lv5: every so often when i use vinearmour in battle, it wont
+let me use whirlwind or any attack spell. it always says You are busy casting
+a spell! each round i try and use my attack spell. Its not really a big deal
+atm cuz i only kill in s2, but it would be one heck of a problem if i was
+trying to fight bigger mobs. just thought id report it. thnx 
+Idea reported by Lanerin Sun Apr 23 01:46:23 2006
+/d/sewers/rooms/2lv1: [auctioin] say who had bid at what price when you say there is 5 seconds left.
+Praise given by Zondal Sun Jul 16 21:43:37 2006
+/d/sewers/rooms/bottom7: enchant thanks for fixing that error message.
+Praise given by Bahamut Mon Jul 31 15:21:34 2006
+/d/sewers/rooms/2lv17: I just wanna praise this mud as a new player, love the idea of quest races it is something to achieve for. A lot needs to be fixed but I feel there are active immortals working a lot and seeing some new improvements over days all the time. This place is vital and hope it will be so. At a later stage it might be adviceable to try to actively recruit more coders so the development of the game will continue beautifully like a small creek turning into a stream which in turn turns into a lake. Love the mud thanks for the good work.
+Praise given by Bahamut Wed Aug  2 07:50:33 2006
+/d/sewers/rooms/bottom9: rage for making me able to use weapons in rage...real good work you coders. Sorry for the messy praise. using telnet. cONTINUE THE GOOD WORK.
+Bug reported by Martes:
+/d/sewers/rooms/34: i did help destroy and is says that command exists but is
+without a help file. please bug this. and i did what it said 
+Praise given by Uzamaki Sat Sep  2 01:27:06 2006
+/d/sewers/rooms/bottom8: oooh, I see the bug is gone from killing things wearing wingmail. Thanks a lot!
+Typo reported by Afi:
+/d/sewers/rooms/16: Ooze mob description in sewer area.... sentiant should be
+spelled sentient
+Bug reported by Damien:
+/d/sewers/rooms/bottom3: disease
+Bug reported by Damien:
+/d/sewers/rooms/bottom3: disease can be stacked with soulburn, sorry about that
+last one
+Bug reported by Sabado:
+/d/sewers/rooms/bottom18: I am killing demons in s3 and getting no xp.
+Bug reported by Aizen:
+/d/sewers/rooms/2lv9: 50 gold
+Bug reported by Axenos:
+/d/sewers/rooms/2lv19: Damage seems to have trouble showing sometimes using
+cartwheel on mobs. 3 cartwheels, look monster shows top shape, 4th cartwheel
+monster dies
+Bug reported by Axenos:
+/d/sewers/rooms/2lv32: cont. it usually shows when the monster is near death
+Praise given by Axenos Sat Nov 17 14:15:19 2007
+/d/sewers/rooms/2lv24: YAY!!!! Now I know what direction I bump people! Awesome!!!!
+Typo reported by Zack:
+/d/sewers/rooms/21: forsaken spiderweb sack - ancient is misspelled in the long
+desc
+Idea reported by Cenn Sat May 31 00:24:54 2008
+/d/sewers/rooms/24: Instead of a * saying someone or something is in the direction, maybe a green number saying how many mobs are in that room (in the maps command) would be cool
+Bug reported by Janos:
+/d/sewers/rooms/35: Charge won't let you do anything for a full round after it
+hits. You cannot even check the damage done by the command. It gets corrupted by
+later idles and possibly specials.

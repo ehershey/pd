@@ -1,0 +1,67 @@
+/d/freepk/merkkerri/jungle/gcity/treasure.c line 12: Undefined function set_open_long before ;
+/d/freepk/merkkerri/jungle/gcity/treasure.c line 12: Undefined function set_open_long before ;
+/d/freepk/merkkerri/jungle/gcity/treasure.c line 12: Undefined function set_open_long before ;
+/d/freepk/merkkerri/jungle/gcity/treasure.c line 12: Undefined function set_open_long before ;
+/d/freepk/purgatory/mobs/kservant.c line 11: parse error before (11));
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/mobs/kservant.c line 11: parse error before (11));
+/d/freepk/purgatory/mobs/mob2.c line 11: parse error before (15));
+/d/freepk/purgatory/walls/mobs/assassin.c line 53: "#pragma strict_types" requires type of function before ) {
+/d/freepk/purgatory/walls/mobs/assassin.c line 55: Reserved type name unexpected. before all;
+/d/freepk/purgatory/walls/mobs/assassin.c line 55: parse error before all;
+/d/freepk/purgatory/walls/mobs/assassin.c line 58: Illegal LHS before the end of line
+/d/freepk/purgatory/walls/mobs/assassin.c line 58: parse error before the end of line
+/d/freepk/purgatory/walls/mobs/assassin.c line 59: Undefined variable 'all' before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/purgatory/item/chest.c line 13: Undefined function set_open_long before ;
+/d/freepk/purgatory/item/chest.c line 14: Undefined function set_closed_long before ;
+/d/freepk/merkkerri/jungle/gcity/gcity34.c line 17: Undefined function set_items before ;
+/d/freepk/merkkerri/jungle/gcity/gcity34.c line 17: Undefined function set_items before ;
+/d/freepk/merkkerri/mob/gcity/bartender.c line 28: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/d/freepk/merkkerri/mob/gcity/bartender.c line 35: Undefined function set_my_mess before ;
+/d/freepk/merkkerri/mob/gcity/bartender.c line 42: Undefined function set_your_mess before ;
+/d/freepk/merkkerri/mob/gcity/bartender.c line 49: Undefined function set_menu_short before ;
+/d/freepk/merkkerri/mob/gcity/bartender.c line 56: Undefined function set_menu_long before ;
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if (this_player
+/d/freepk/purgatory/weap/gstaff.c line 35: Reserved type name unexpected. before () { if(this_player(
+/d/freepk/purgatory/weap/gstaff.c line 35: parse error before () { if(this_player(
+/d/freepk/purgatory/weap/dhoomhammer.c line 33: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/dhoomhammer.c line 33: parse error before () { if (this_player
+/d/freepk/purgatory/weap/scythe.c line 34: Reserved type name unexpected. before () { if (this_player
+/d/freepk/purgatory/weap/scythe.c line 34: parse error before () { if (this_player
+/d/freepk/purgatory/mobs/barnowl.c line 12: parse error before ;
+/d/freepk/purgatory/mobs/barnowl.c line 12: parse error before ;
+/d/freepk/purgatory/mobs/barnowl.c line 12: parse error before ;
+/d/freepk/merkkerri/mob/merkkirri/queenill.c line 10: Undefined function illu before  :));
+/d/freepk/merkkerri/mob/merkkirri/queenill.c line 10: parse error before ));
+/d/freepk/purgatory/weap/dhoomhammer.c line 17: Undefined variable 'weapon_hit' before ));
+/d/freepk/purgatory/weap/dhoomhammer.c line 17: parse error before ));
+/d/freepk/purgatory/weap/dhoomhammer.c line 29: Illegal LHS before the end of line
+/d/freepk/purgatory/weap/dhoomhammer.c line 29: parse error before the end of line
+/d/freepk/merkkerri/mob/merkkirri/fang.c line 48: Missing type for argument before ) {
+/d/freepk/ridarin/mobs/warthog.c line 51: Undefined variable 'BALANCE3_D' before get_damage(tp, tgt, 
+/d/freepk/ridarin/mobs/warthog.c line 56: Undefined variable 'cost' before  BALANCE3_D->get_cos
+/d/freepk/ridarin/mobs/warthog.c line 56: Illegal lvalue before  BALANCE3_D->get_cos
+/d/freepk/merkkerri/demonquest/dquest10.c line 47: Undefined variable 'SQUARE_LOC' before  "square");

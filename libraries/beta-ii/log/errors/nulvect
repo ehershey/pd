@@ -1,0 +1,740 @@
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function make_array before ;; }
+/wizards/nulvect/combat_d.c line 215: Undefined variable 'mult' before  sizeof(weapons);
+/wizards/nulvect/combat_d.c line 215: Illegal lvalue before  sizeof(weapons);
+/wizards/nulvect/combat_d.c line 374: Bad type for argument 3 of miss_messages ( int vs string ) before ;
+/wizards/nulvect/combat_d.c line 428: Bad type for argument 3 of miss_messages ( int vs string ) before ;
+/wizards/nulvect/combat_d.c line 514: Bad assignment ( string * vs int ). before the end of line
+/wizards/nulvect/combat_d.c line 563: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/combat_d.c line 603: Undefined variable 'theirmsg' before  tp->query_cap_name(
+/wizards/nulvect/combat_d.c line 603: Illegal lvalue before  tp->query_cap_name(
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/bin/_heal2.c line 109: Undefined variable 'all' before  where = "limbs";
+/wizards/nulvect/bin/_ironskin.c line 3: Cannot #include effects_cl.h before the end of line
+/wizards/nulvect/bin/_ironskin.c line 7: Undefined class 'Effect' before );
+/wizards/nulvect/bin/_ironskin.c line 31: Undefined function FAIL before ;
+/wizards/nulvect/bin/_ironskin.c line 48: Undefined class 'Effect' before  iron;
+/wizards/nulvect/bin/_ironskin.c line 61: Undefined variable 'tmp' before  0; break;
+/wizards/nulvect/bin/_ironskin.c line 61: Illegal lvalue before  0; break;
+/wizards/nulvect/bin/_ironskin.c line 85: Undefined variable 'COL' before "Your skin returns t
+/wizards/nulvect/bin/_ironskin.c line 85: Undefined variable 'RES' before the end of line
+/wizards/nulvect/bin/_shadowburst.c line 21: parse error before  return "attack"; }
+/wizards/nulvect/bin/_shadowburst.c line 34: Undefined function FAIL before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function strip_colors before ;; }
+/wizards/nulvect/bin/_bearsrage.c line 108: Undefined variable 'end_bearsrage' before );
+/wizards/nulvect/bin/_bearsrage.c line 108: parse error before );
+/wizards/nulvect/bin/_bearsrage.c line 112: Illegal LHS before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: No class in scope has no member 'endtime' before  }
+/wizards/nulvect/bin/_bisonsmight.c line 109: Wrong number of arguments to start_buff
+    Expected: 6  Got: 5 before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'write' before ); return sprintf("%
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'query_name' before );; }
+/wizards/nulvect/bin/_mybr.c line 150: parse error before ->add_skill_bonus("a
+/wizards/nulvect/bin/_palmstrike.c line 73: Undefined function environemtn before ;
+/wizards/nulvect/bin/_holyarmour.c line 112: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_holyarmour.c line 115: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_openpalm.c line 61: Undefined variable 'DIR_CLASS_CMDS' before "/obj/command")))
+/wizards/nulvect/bin/_openpalm.c line 81: Undefined variable 'fist' before  new(class Effect);
+/wizards/nulvect/bin/_openpalm.c line 81: Illegal lvalue before  new(class Effect);
+/wizards/nulvect/bin/_openpalm.c line 110: Undefined variable 'fist' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before test = ({ 1, 2, 3, 4
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before test = ({ 1, 2, 3, 4
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  foreach (int i in t
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'test' before  { if (i == 2) test 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before n"); }; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before n"); }; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/nulvect/bin/_circlekick.c line 7: Invalid macro name before #define COL RES+"%^W
+/wizards/nulvect/bin/_circlekick.c line 7: Illegal macro symbol before #define COL RES+"%^W
+/wizards/nulvect/bin/_circlekick.c line 102: Illegal to redeclare local name 'tgt' before  in atkrs) {
+/wizards/nulvect/bin/_circlekick.c line 184: Undefined function do_damage before ;
+/wizards/nulvect/bin/_polymorph.c line 23: parse error before  intricate =
+/wizards/nulvect/bin/_polymorph.c line 54: Undefined function FAIL before ;
+/wizards/nulvect/bin/_polymorph.c line 257: Undefined variable 'gender' before  tgt->query_gender()
+/wizards/nulvect/bin/_polymorph.c line 257: Illegal lvalue before  tgt->query_gender()
+/wizards/nulvect/bin/_polymorph.c line 385: Undefined variable 'env' before  tp);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function destroy before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before f;; }
+/wizards/nulvect/bin/_sanctuary.c line 106: Undefined variable 'SANCTUARY_LIGHT_OB' before ;
+/wizards/nulvect/bin/_sanctuary.c line 110: Undefined variable 'DELAY_D' before add_delay(time()+tim
+/wizards/nulvect/bin/_sanctuary.c line 110: Undefined variable 'time' before  this_object(), "san
+/wizards/nulvect/bin/_myplague.c line 82: parse error before  tp );
+/wizards/nulvect/bin/_myplague.c line 86: Undefined variable 'tgt' before ;
+/wizards/nulvect/bin/_myplague.c line 86: Illegal LHS before the end of line
+/wizards/nulvect/bin/_myplague.c line 88: Undefined variable 'can' before  1) {
+/wizards/nulvect/bin/_myplague.c line 91: continue statement outside loop before the end of line
+/wizards/nulvect/bin/_myplague.c line 94: Undefined variable 'dmg' before  BALANCE3_D->get_dam
+/wizards/nulvect/bin/_chistrike.c line 127: Undefined variable 'hit' before  tp->query_stats("de
+/wizards/nulvect/bin/_chistrike.c line 127: Illegal lvalue before  tp->query_stats("de
+/wizards/nulvect/bin/_chistrike.c line 131: Undefined variable 'dodge' before  tgt->query_stats("d
+/wizards/nulvect/bin/_chistrike.c line 131: Illegal lvalue before  tgt->query_stats("d
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'blah' before  { int i; int x; }; 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  int i; int x; }; cl
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'blah' before  = new(class blah); 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'blah' before ; class blah b; a->i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined class 'blah' before ; a->i=5; b = copy(a
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before i=5; b = copy(a); b-
+/wizards/nulvect/monk_combo.c line 80: Invalid simulated efunction override before (tmp[0]);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Invalid simulated efunction override before ( ({ "a" }) );; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Invalid simulated efunction override before ("Blah!");; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '^' : "mixed * " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '^' : "mixed * " before ; }
+/wizards/nulvect/_alias.c line 49: Undefined function FAIL before ;
+/wizards/nulvect/_alias.c line 58: parse error before  {
+/wizards/nulvect/_alias.c line 82: Undefined variable 'verb' before " ("+arg+") ";
+/wizards/nulvect/_alias.c line 82: Undefined variable 'arg' before ") ";
+/wizards/nulvect/_alias.c line 82: Illegal LHS before the end of line
+/wizards/nulvect/_alias.c line 98: parse error before the end of line
+/wizards/nulvect/_alias.c line 61: parse error before  {
+/wizards/nulvect/_alias.c line 85: Illegal LHS before the end of line
+/wizards/nulvect/_alias.c line 101: parse error before the end of line
+/wizards/nulvect/bin/_chiblast.c line 117: parse error before ->query_cap_name()+"
+/wizards/nulvect/bin/_chiblast.c line 122: Illegal LHS before ->query_cap_name()+"
+/wizards/nulvect/bin/_chiblast.c line 122: parse error before ->query_cap_name()+"
+/wizards/nulvect/bin/_chiblast.c line 131: Illegal LHS before the end of line
+/wizards/nulvect/bin/_chiblast.c line 132: parse error before the end of line
+/wizards/nulvect/bin/_chiblast.c line 133: Illegal LHS before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_ip before ;; }
+/wizards/nulvect/exits.c line 116: Undefined variable 'skip_obvious' before  0;
+/wizards/nulvect/exits.c line 116: Illegal lvalue before  0;
+/wizards/nulvect/exits.c line 148: Undefined variable 'Exits' before ;
+/wizards/nulvect/exits.c line 192: Undefined variable 'Exits' before );
+/wizards/nulvect/exits.c line 233: Undefined variable 'Exits' before  ({ ex });
+/wizards/nulvect/exits.c line 233: Illegal lvalue before  ({ ex });
+/wizards/nulvect/exits.c line 193: Undefined variable 'Exits' before the end of line
+/wizards/nulvect/exits.c line 243: Undefined variable 'Exits' before  ({ ex });
+/wizards/nulvect/exits.c line 243: Illegal lvalue before  ({ ex });
+/wizards/nulvect/exits.c line 340: parse error before the end of line
+/wizards/nulvect/exits.c line 341: Illegal LHS before the end of line
+/wizards/nulvect/exits.c line 350: Reserved type name unexpected. before () {
+/wizards/nulvect/exits.c line 385: Illegal to use local variable in functional. before ;
+/wizards/nulvect/exits.c line 404: Illegal to use local variable in functional. before ;
+/wizards/nulvect/exits.c line 420: Type of returned value doesn't match function return type ( function vs string ) before the end of line
+/wizards/nulvect/exits.c line 428: Undefined variable 'dir' before ;
+/wizards/nulvect/exits.c line 430: Type of returned value doesn't match function return type ( function vs string ) before the end of line
+/wizards/nulvect/exits.c line 466: Undefined variable 'skip_obvious' before  x;
+/wizards/nulvect/exits.c line 596: Bad left argument to '&' : "function " before ) &&
+/wizards/nulvect/exits.c line 597: Undefined variable 'block_func' before  tp, this_object(), 
+/wizards/nulvect/exits.c line 604: Undefined variable 'verb' before  tp);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before d/nopk/tirun/obj/mon
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Single '#' in identifier -- use '##' for token pasting before 49);; }
+/wizards/nulvect/testmon.c line 29: Undefined function set_command_check before ;
+/wizards/nulvect/testmon.c line 31: Undefined function set_owner before ;
+/wizards/nulvect/bin/_passive.c line 30: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  = i+1; int cost = n
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  int cost = new*new*
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before  = new*new*new*63; i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  = new*new*new*63; i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before (((1000-100)/20)*i);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  write("Level to "+n
+/wizards/nulvect/advance_d.c line 43: Undefined variable 'SKILLS_D' before training_formula(the
+/wizards/nulvect/advance_d.c line 62: Undefined function apply_race_modifier before ;
+/wizards/nulvect/advance_d.c line 134: parse error before -1):
+/wizards/nulvect/advance_d.c line 135: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 135: parse error before the end of line
+/wizards/nulvect/advance_d.c line 136: Undefined variable 'exprange' before  vl / NORMAL_EXP_LEV
+/wizards/nulvect/advance_d.c line 142: parse error before -1 :
+/wizards/nulvect/advance_d.c line 143: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 143: parse error before the end of line
+/wizards/nulvect/advance_d.c line 144: Undefined variable 'exprange' before  vl / NORMAL_EXP_LEV
+/wizards/nulvect/advance_d.c line 144: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 144: parse error before the end of line
+/wizards/nulvect/advance_d.c line 144: parse error before :
+/wizards/nulvect/advance_d.c line 145: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 145: parse error before the end of line
+/wizards/nulvect/advance_d.c line 146: Undefined variable 'exprange' before  vl / NORMAL_EXP_LEV
+/wizards/nulvect/advance_d.c line 146: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 146: parse error before the end of line
+/wizards/nulvect/advance_d.c line 144: parse error before  :
+/wizards/nulvect/advance_d.c line 145: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 145: parse error before the end of line
+/wizards/nulvect/advance_d.c line 146: Undefined variable 'exprange' before  vl / NORMAL_EXP_LEV
+/wizards/nulvect/advance_d.c line 146: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 146: parse error before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before : write("Yay!"); bre
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ..9: write("Yay!"); 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before : case 9: write("Yay
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: $var illegal outside of function pointer. before (a): case 9: write("
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before (a): case 9: write("
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before : write("Stuff."); b
+/wizards/nulvect/advance_d.c line 173: parse error before  (vl < kl*75/100) {
+/wizards/nulvect/advance_d.c line 174: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 175: Reserved type name unexpected. before  = kl * 50 / 100;
+/wizards/nulvect/advance_d.c line 175: parse error before  = kl * 50 / 100;
+/wizards/nulvect/advance_d.c line 175: Undefined variable 'kl' before  50 / 100;
+/wizards/nulvect/advance_d.c line 175: Illegal LHS before the end of line
+/wizards/nulvect/advance_d.c line 260: Undefined variable 'amount' before  tp->query_exp()) {
+/wizards/nulvect/advance_d.c line 285: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/nulvect/advance_d.c line 384: Bad type for argument 3 of query_stat_cost ( string vs int ) before ;
+/wizards/nulvect/monster.c line 264: parse error before the end of line
+/wizards/nulvect/hall.c line 24: Undefined function set_properies before ;
+/wizards/nulvect/advance_d.c line 56: Undefined variable 'cl' before  subcl, race, stat);
+/wizards/nulvect/advance_d.c line 56: Undefined variable 'subcl' before  race, stat);
+/wizards/nulvect/advance_d.c line 56: Undefined function query_stat_mod before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before 7*1.42;; }
+/wizards/nulvect/bin/_bane.c line 77: Undefined function abil before ) return 0;
+/wizards/nulvect/bin/_bloodlust.c line 116: parse error before ->add_stat_bonus("st
+/wizards/nulvect/queendemon.c line 33: Undefined variable 'GCITY' before )->move(this_object(
+/wizards/nulvect/queendemon.c line 33: parse error before )->move(this_object(
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'invis' before  }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/bin/_corrupt.c line 87: Illegal to use local variable in functional. before  );
+/wizards/nulvect/bin/_corrupt.c line 89: Undefined variable 'wepname' before the end of line
+/wizards/nulvect/bin/_corrupt.c line 90: Undefined function strip_colors before );
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: No class in scope has no member 'misc' before 1] == this_player()-
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: No class in scope has no member 'misc' before 1]);; }
+/wizards/nulvect/bin/_mazegen.c line 33: parse error before ;
+/wizards/nulvect/bin/_mazegen.c line 37: parse error before  maze, int w, int h,
+/wizards/nulvect/bin/_expbonus.c line 26: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function sort before ; return b;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad argument number 1 to '-': "string " before ; }
+/wizards/nulvect/bin/_wither.c line 13: Undefined class 'Effect' before  wither);
+/wizards/nulvect/bin/_wither.c line 75: Undefined class 'Effect' before  wither;
+/wizards/nulvect/bin/_wither.c line 117: Undefined function cost_sp before )
+/wizards/nulvect/bin/_wither.c line 119: Undefined function cost_mp before )
+/wizards/nulvect/bin/_wither.c line 123: Undefined class 'Effect' before ;
+/wizards/nulvect/bin/_wither.c line 124: No class in scope has no member 'name' before  "wither";
+/wizards/nulvect/bin/_wither.c line 118: Undefined function cost_sp before )
+/wizards/nulvect/bin/_wither.c line 120: Undefined function cost_mp before )
+/wizards/nulvect/bin/_wither.c line 141: Undefined function sort before ;
+/wizards/nulvect/bin/_wither.c line 142: Undefined variable 'wep' before  weps[0];
+/wizards/nulvect/bin/_wither.c line 142: Illegal lvalue before  weps[0];
+/wizards/nulvect/bin/_wither.c line 143: Undefined variable 'wepname' before  remove_article(stri
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function dump_socket_status before );; }
+/wizards/nulvect/bin/_damnation.c line 125: Wrong number of arguments to do_damnation
+    Expected: 1  Got: 2 before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before 78;; }
+/wizards/nulvect/bin/_newupdate.c line 61: Illegal to redeclare local name 'inv' before ;
+/wizards/nulvect/bin/_newupdate.c line 63: Illegal to redeclare local name 'master' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function master before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function master before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  "");; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before get_path(), "here");
+/wizards/nulvect/bin/_newls.c line 6: Undefined class 'FileEntry' before  {
+/wizards/nulvect/bin/_newls.c line 6: parse error before  {
+/wizards/nulvect/bin/_newls.c line 117: Undefined variable 'finishtext' before the end of line
+/wizards/nulvect/bin/_newls.c line 117: Illegal lvalue before the end of line
+/wizards/nulvect/bin/_newls.c line 119: == always false because of incompatible types ( int vs string ). before )))+" directories.";
+/wizards/nulvect/bin/_newls.c line 121: Bad argument 1 to efun implode() before , "system", (: this_
+/wizards/nulvect/bin/_newls.c line 121: Undefined variable 'show_errors' before  errors, finishtext 
+/wizards/nulvect/bin/_newls.c line 121: Illegal to use local variable in functional. before  );
+/wizards/nulvect/bin/_newls.c line 122: Undefined variable 'show_errors' before  $(errors), $(finish
+/wizards/nulvect/bin/_newls.c line 128: Undefined variable 'finish_ls' before  finishtext :) );
+/wizards/nulvect/bin/_newls.c line 128: Illegal to use local variable in functional. before  );
+/wizards/nulvect/bin/_newls.c line 162: Undefined function resolve_wildcards before ;
+/wizards/nulvect/bin/_newls.c line 209: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_newls.c line 285: Undefined variable 'output' before  sprintf(
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before int x) { return x+2;
+/wizards/nulvect/bin/_newls.c line 122: $var illegal outside of function pointer. before (errors), $(finishte
+/wizards/nulvect/bin/_newls.c line 122: $var illegal outside of function pointer. before (finishtext) :) );
+/wizards/nulvect/bin/_newls.c line 128: Undefined variable 'finish_ls' before  $(finishtext) :) );
+/wizards/nulvect/bin/_newls.c line 162: Undefined function resolve_wildcards before ;
+/wizards/nulvect/bin/_newls.c line 209: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_newls.c line 285: Undefined variable 'output' before  sprintf(
+/wizards/nulvect/bin/_newls.c line 128: Undefined variable 'finish_ls' before  $(finishtext) :) );
+/wizards/nulvect/bin/_newls.c line 162: Undefined function resolve_wildcards before ;
+/wizards/nulvect/bin/_newls.c line 209: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_newls.c line 285: Undefined variable 'output' before  sprintf(
+/wizards/nulvect/bin/_newls.c line 285: Illegal lvalue before  sprintf(
+/wizards/nulvect/bin/_newls.c line 298: parse error before the end of line
+/wizards/nulvect/bin/_newls.c line 129: Bad argument 1 to efun explode() before , "system", (: this_
+/wizards/nulvect/bin/_newls.c line 210: Bad assignment ( string * vs string ). before the end of line
+/wizards/nulvect/bin/_newls.c line 286: Undefined variable 'output' before  sprintf(
+/wizards/nulvect/bin/_newls.c line 286: Illegal lvalue before  sprintf(
+/wizards/nulvect/bin/_newls.c line 299: parse error before the end of line
+/wizards/nulvect/bin/_newls.c line 304: Reserved type name unexpected. before (class FileEntry ent
+/wizards/nulvect/bin/_newls.c line 326: Undefined variable 'type' before the end of line
+/wizards/nulvect/bin/_newls.c line 114: Wrong number of arguments to get_entry_output
+    Expected: 3  Got: 4 before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ;; }
+/wizards/nulvect/bin/_newls.c line 354: Bad type of argument used for range: : "int " before  == "_")
+/wizards/nulvect/bin/_newls.c line 193: Bad type for argument 3 of resolve_wildcards ( string vs string * ) before ;
+/wizards/nulvect/bin/_newls.c line 208: Reserved type name unexpected. before path = path_file(re)
+/wizards/nulvect/bin/_newls.c line 208: parse error before path = path_file(re)
+/wizards/nulvect/bin/_newls.c line 208: Undefined variable 're' before ;
+/wizards/nulvect/bin/_newls.c line 208: Illegal LHS before the end of line
+/wizards/nulvect/bin/_newls.c line 209: parse error before  FileEntry f = new(c
+/wizards/nulvect/bin/_newls.c line 209: Illegal LHS before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function dir_stat before ;; }
+/wizards/nulvect/bin/_puncture.c line 84: Wrong number of arguments to can_cast
+    Expected: 2  Got: 3 before ) return 0;
+/wizards/nulvect/bin/_puncture.c line 136: parse error before  = dmg * 20 / 100;
+/wizards/nulvect/bin/_puncture.c line 136: Illegal LHS before the end of line
+/wizards/nulvect/bin/_psishield.c line 112: Undefined variable 'end_psishield' before );
+/wizards/nulvect/bin/_psishield.c line 112: parse error before );
+/wizards/nulvect/bin/_psishield.c line 116: parse error before ->query_cap_name()+"
+/wizards/nulvect/bin/_psishield.c line 118: Illegal LHS before the end of line
+/wizards/nulvect/bin/_psishield.c line 118: parse error before the end of line
+/wizards/nulvect/bin/_psishield.c line 132: Illegal LHS before the end of line
+/wizards/nulvect/bin/_psishield.c line 130: Undefined variable 'env' before  tgt);
+/wizards/nulvect/bin/_psishield.c line 138: parse error before  }) );
+/wizards/nulvect/bin/_fracture.c line 108: parse error before  = BALANCE3_D->get_c
+/wizards/nulvect/bin/_fracture.c line 108: Illegal LHS before the end of line
+/wizards/nulvect/bin/_psicloak.c line 96: parse error before ->endtime = time()+t
+/wizards/nulvect/bin/_psicloak.c line 96: Illegal LHS before the end of line
+/wizards/nulvect/bin/_mindshock.c line 186: Undefined variable 'env' before  ({tp, tgt}) );
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: No class in scope has no member 'endtime' before ; }
+/wizards/nulvect/bin/_ps.c line 78: parse error before ), tp);
+/wizards/nulvect/bin/_ps.c line 84: Illegal LHS before the end of line
+/wizards/nulvect/bin/_ps.c line 84: parse error before the end of line
+/wizards/nulvect/bin/_ps.c line 97: Undefined variable 'args' before 0];
+/wizards/nulvect/bin/_ps.c line 97: Illegal LHS before the end of line
+/wizards/nulvect/bin/_ps.c line 97: parse error before the end of line
+/wizards/nulvect/bin/_ps.c line 176: Undefined variable 'info' before ;
+/wizards/nulvect/bin/_ps.c line 178: Undefined variable 'info' before " crashes into "+tgt
+/wizards/nulvect/bin/_myps.c line 100: Undefined variable 'rounds' before  5; break;
+/wizards/nulvect/bin/_myps.c line 100: Illegal lvalue before  5; break;
+/wizards/nulvect/bin/_suppress.c line 198: Undefined variable 'dmg' before  BALANCE3_D->get_dam
+/wizards/nulvect/bin/_suppress.c line 198: Illegal lvalue before  BALANCE3_D->get_dam
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before query_search_paths()
+/wizards/nulvect/bin/_teleport.c line 174: Undefined variable 'COL2' before "glow+"+COL1+"."+RES
+/wizards/nulvect/bin/_teleport.c line 174: Undefined variable 'COL1' before "."+RES, tp);
+/wizards/nulvect/bin/_teleport.c line 215: Undefined variable 'COL2' before "glow"+COL+" surroun
+/wizards/nulvect/bin/_teleport.c line 231: Undefined variable 'COL2' before "The glow increases 
+/wizards/nulvect/bin/_teleport.c line 235: Undefined variable 'LAY' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal character constant before  }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/nulvect/bin/_typo.c line 81: Undefined variable 'tp' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/nulvect/bin/_amnesia.c line 119: Undefined variable 'RES' before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad argument 1 to efun keys() before ;; }
+/wizards/nulvect/racedaemon/race_d.c line 20: Unrecognised # directive before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 83: Undefined variable 'RACE_DIR' before ;
+/wizards/nulvect/racedaemon/race_d.c line 89: Undefined function remove_race before ;
+/wizards/nulvect/racedaemon/race_d.c line 98: Undefined variable 'RACE_DIR' before file) < 1) return;
+/wizards/nulvect/racedaemon/race_d.c line 180: Reserved type name unexpected. before ;
+/wizards/nulvect/racedaemon/race_d.c line 180: parse error before ;
+/wizards/nulvect/racedaemon/race_d.c line 89: Undefined function remove_race before ;
+/wizards/nulvect/racedaemon/race_d.c line 180: Reserved type name unexpected. before ;
+/wizards/nulvect/racedaemon/race_d.c line 180: parse error before ;
+/wizards/nulvect/racedaemon/race_d.c line 181: Undefined variable 'exp' before ;
+/wizards/nulvect/racedaemon/race_d.c line 181: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 182: Undefined variable 'parent' before  r->limbs[exp[0]]["p
+/wizards/nulvect/racedaemon/race_d.c line 181: Reserved type name unexpected. before ;
+/wizards/nulvect/racedaemon/race_d.c line 181: parse error before ;
+/wizards/nulvect/racedaemon/race_d.c line 182: Undefined variable 'exp' before ;
+/wizards/nulvect/racedaemon/race_d.c line 182: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 183: Undefined variable 'parent' before  r->limbs[exp[0]]["p
+/wizards/nulvect/racedaemon/race_d.c line 183: Illegal lvalue before  r->limbs[exp[0]]["p
+/wizards/nulvect/racedaemon/race_d.c line 323: Undefined variable 'name' before  || query_race_data(
+/wizards/nulvect/racedaemon/race_d.c line 324: Type of returned value doesn't match function return type ( string vs int ) before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 328: Undefined variable 'name' before ;
+/wizards/nulvect/racedaemon/race_d.c line 335: Undefined variable 'name' before ;
+/wizards/nulvect/racedaemon/race_d.c line 368: parse error before (limbs[limb])
+/wizards/nulvect/racedaemon/race_d.c line 372: Illegal LHS before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '&' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '&' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '|' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '|' : "mapping " before ; }
+/wizards/nulvect/racedaemon/race_d.c line 426: Undefined variable 'r' before limbs[limb]);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/sefuns/translate_define.c line 18: Undefined variable 'data' before ";\n"
+/wizards/nulvect/bin/_mindblast.c line 134: Undefined variable 'env' before  tgt);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to unique_array before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '^' : "mixed * " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '^' : "mixed * " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before DIR_SECURE_DAEMONS+"
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before +"/daemon"+"/race_d"
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  string *races = RAC
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before races = RACE_D->quer
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before races = RACE_D->quer
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  foreach (string r i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'race' before  stat); rollavg += R
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'race' before  avg, rollavg); }; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before 85;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ", "Blah", "Crap");;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to sort_array before ;; }
+/wizards/nulvect/racedaemon/race_d.c line 107: Undefined function parse_stat_info before ;
+/wizards/nulvect/racedaemon/race_d.c line 213: Undefined variable 'AllStatCosts' before  ({ r->stats[exp[0]]
+/wizards/nulvect/racedaemon/race_d.c line 213: Illegal lvalue before  ({ r->stats[exp[0]]
+/wizards/nulvect/racedaemon/race_d.c line 730: Type mismatch ( string vs int ) when initializing pos before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 733: Invalid types to '-' ( string vs int ) before ;
+/wizards/nulvect/racedaemon/race_d.c line 735: Bad type of left index to range operator: "string " before ;
+/wizards/nulvect/racedaemon/race_d.c line 738: parse error before ;
+/wizards/nulvect/racedaemon/race_d.c line 739: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 739: parse error before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 738: parse error before ;
+/wizards/nulvect/racedaemon/race_d.c line 739: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 739: parse error before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 741: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 758: Illegal LHS before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 758: parse error before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 80: "#pragma strict_types" requires type of function before string race, string 
+/wizards/nulvect/racedaemon/race_d.c line 667: "#pragma strict_types" requires type of function before string race, string 
+/wizards/nulvect/racedaemon/race_d.c line 776: Too many local variables before , int amt in query_r
+/wizards/nulvect/racedaemon/race_d.c line 776: Too many local variables before  in query_resistance
+/wizards/nulvect/racedaemon/race_d.c line 777: Undefined variable 'type' before  lower_case(type[7..
+/wizards/nulvect/racedaemon/race_d.c line 777: Illegal lvalue before  lower_case(type[7..
+/wizards/nulvect/racedaemon/race_d.c line 777: Undefined variable 'type' before 7..<1]);
+/wizards/nulvect/racedaemon/race_d.c line 778: Undefined variable 'amt' before  {
+/wizards/nulvect/racedaemon/race_d.c line 738: Undefined variable 'arms' before ;
+/wizards/nulvect/racedaemon/race_d.c line 741: Undefined variable 'legs' before ;
+/wizards/nulvect/racedaemon/race_d.c line 701: Undefined variable 'arms' before  sizeof(regexp(query
+/wizards/nulvect/racedaemon/race_d.c line 701: Illegal lvalue before  sizeof(regexp(query
+/wizards/nulvect/racedaemon/race_d.c line 702: Undefined variable 'legs' before  sizeof(regexp(query
+/wizards/nulvect/racedaemon/race_d.c line 702: Illegal lvalue before  sizeof(regexp(query
+/wizards/nulvect/racedaemon/race_d.c line 171: Bad type of index: "string " before  += line + " ";
+/wizards/nulvect/racedaemon/race_d.c line 263: Bad type of index: "string " before  = "";
+/wizards/nulvect/racedaemon/race_d.c line 263: Bad assignment ( int vs string ). before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 692: Bad type of index: "string " before  = text;
+/wizards/nulvect/racedaemon/race_d.c line 692: Bad assignment ( int vs string ). before the end of line
+/wizards/nulvect/racedaemon/race_d.c line 699: Wrong number of arguments to query_help_file
+    Expected: 3  Got: 1 before ,
+/wizards/nulvect/racedaemon/race_d.c line 171: Bad type of index: "string " before  += line + " ";
+/wizards/nulvect/racedaemon/race_d.c line 699: Wrong number of arguments to query_help_file
+    Expected: 3  Got: 1 before ,
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_senset before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before )) :) );; }
+/wizards/nulvect/multiwep.c line 257: End of file in text block at the end of the file
+/wizards/nulvect/multiwep.c line 257: parse error at the end of the file
+/wizards/nulvect/multiwep.c line 19: parse error before  a;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: $var illegal outside of function pointer. before 1) :) );; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ) :) );; }
+/wizards/nulvect/bin/_examine.c line 65: Undefined variable 'tgtname' before ".", tp);
+/wizards/nulvect/bin/_examine.c line 55: Undefined variable 'tgtobjetive' before  tgt->query_objectiv
+/wizards/nulvect/bin/_examine.c line 55: Illegal lvalue before  tgt->query_objectiv
+/wizards/nulvect/bin/_mymeasure.c line 35: Undefined variable 'allowed' before  " | ")+"] [living]\
+/wizards/nulvect/bin/_myevaluate.c line 113: Undefined variable 'rep' before  RES+limbs[0]+COL+" 
+/wizards/nulvect/bin/_myevaluate.c line 113: Illegal lvalue before  RES+limbs[0]+COL+" 
+/wizards/nulvect/bin/_wield.c line 18: Undefined variable 'tp' before  ?
+/wizards/nulvect/bin/_wield.c line 31: Undefined variable 'tp' before the end of line
+/wizards/nulvect/bin/_wield.c line 145: Undefined variable 'tp' before query_subclass() == 
+/wizards/nulvect/bin/_wield.c line 146: Undefined variable 'tp' before query_skill("double 
+/wizards/nulvect/bin/_unwield.c line 45: Undefined function query_short before )+".", env, tp);
+/wizards/nulvect/std/weapon.c line 141: Undefined function set_damage_flags before ;
+/wizards/nulvect/std/weapon.c line 230: parse error before "wielded"] = 0;
+/wizards/nulvect/std/weapon.c line 281: Undefined function force_decay before ;
+/wizards/nulvect/std/weapon.c line 224: Undefined function envronment before )
+/wizards/nulvect/bin/_mywield.c line 120: parse error before lower ? WARRIOR_WIEL
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function adminp before ;; }
+/wizards/nulvect/voteroom.c line 34: parse error before  create() {
+/wizards/nulvect/voteroom.c line 35: No such inherited function ::create before ;
+/wizards/nulvect/voteroom.c line 36: Undefined function set_properties before ;
+/wizards/nulvect/voteroom.c line 37: Undefined function set_short before ;
+/wizards/nulvect/voteroom.c line 44: Undefined function set_long before ;
+/wizards/nulvect/voteroom.c line 53: Undefined function set_items before ;
+/wizards/nulvect/voteroom.c line 54: parse error before  CURRENT_ISSUE );
+/wizards/nulvect/voteroom.c line 55: parse error before  CURRENT_ISSUE );
+/wizards/nulvect/voteroom.c line 72: Illegal LHS before the end of line
+/wizards/nulvect/voteroom.c line 72: parse error before the end of line
+/wizards/nulvect/voteroom.c line 84: Undefined variable 'str' before  " ");
+/wizards/nulvect/voteroom.c line 84: Illegal LHS before the end of line
+/wizards/nulvect/voteroom.c line 84: parse error before the end of line
+/wizards/nulvect/voteroom.c line 56: parse error before  CURRENT_ISSUE );
+/wizards/nulvect/voteroom.c line 73: Illegal LHS before the end of line
+/wizards/nulvect/voteroom.c line 73: parse error before the end of line
+/wizards/nulvect/voteroom.c line 85: Undefined variable 'str' before  " ");
+/wizards/nulvect/voteroom.c line 85: Illegal LHS before the end of line
+/wizards/nulvect/voteroom.c line 85: parse error before the end of line
+/wizards/nulvect/voteroom.c line 58: Undefined variable 'TIRUN' before "pubstart",
+/wizards/nulvect/voteroom.c line 154: Undefined variable 'current_vote' before  ([]);
+/wizards/nulvect/voteroom.c line 154: Illegal lvalue before  ([]);
+/wizards/nulvect/voteroom.c line 164: Undefined variable 'DIR_VOTES' before "/votingbooth");
+/wizards/nulvect/voteroom.c line 170: Undefined variable 'DIR_VOTES' before "/votingbooth");
+/wizards/nulvect/query_allies.c line 11: Undefined function query_party_members before ;
+/wizards/nulvect/query_allies.c line 24: Undefined variable 'query_allies' before allies[i]];
+/wizards/nulvect/query_allies.c line 24: Undefined variable 'query_allies' before allies[i]];
+/wizards/nulvect/query_allies.c line 25: Bad assignment ( object * vs object ). before the end of line
+/wizards/nulvect/bin/_mykill.c line 93: Undefined function try_to_kill before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'lostserver' before c->query_random_inve
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before c->query_random_inve
+/wizards/nulvect/bin/_mindblast.c line 80: Undefined variable 'ai' before  filter(all_inventor
+/wizards/nulvect/bin/_mindblast.c line 80: Illegal lvalue before  filter(all_inventor
+/wizards/nulvect/bin/_mindblast.c line 116: parse error before  (object tgt in tgts
+/wizards/nulvect/bin/_mindblast.c line 216: Undefined variable 'DAMAGE_PSIONIC' before  40);
+/wizards/nulvect/bin/_mindblast.c line 218: Undefined variable 'DAMAGE_PSIONIC' before  40 }) );
+/wizards/nulvect/bin/_mindblast.c line 99: Undefined variable 'do_hit' before );
+/wizards/nulvect/bin/_mindblast.c line 99: parse error before );
+/wizards/nulvect/bin/_mindblast.c line 100: Illegal to use local variable in a functional. before ;
+/wizards/nulvect/bin/_mindblast.c line 100: Illegal LHS before the end of line
+/wizards/nulvect/bin/_mindblast.c line 252: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/wizards/nulvect/bin/_mylp.c line 81: Bad assignment ( int vs object ). before the end of line
+/wizards/nulvect/bin/format_columns.c line 31: parse error before the end of line
+/wizards/nulvect/bin/format_columns.c line 18: Undefined function strip_colors before );
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( int vs mixed * ) when initializing a before  return a[0..x] + a[
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before  + a[x+1..];; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( int vs mixed * ) when initializing a before  return a[0..x] + a[
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before  + a[x+1..];; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Type mismatch ( int vs mixed * ) when initializing a before  return a[0..x] + a[
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before  + a[x+1..];; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad type of argument used for range: : "int " before ;; }
+/wizards/nulvect/bin/_combine.c line 35: Undefined variable 'ALCHEMY_D' before query_recipe(recipen
+/wizards/nulvect/bin/_combine.c line 90: Undefined variable 'ALCHEMY_D' before check_step_requireme
+/wizards/nulvect/bin/_combine.c line 92: Undefined variable 'i' before ->failure_yield;
+/wizards/nulvect/bin/_combine.c line 124: Undefined variable 'env' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function strip_colors before ;; }
+/wizards/nulvect/bin/_myenchant.c line 121: Undefined variable 'DELAY_D' before add_delay(time, this
+/wizards/nulvect/bin/_myenchant.c line 148: Reserved type name unexpected. before  = ob->query_curr_va
+/wizards/nulvect/bin/_myenchant.c line 148: parse error before  = ob->query_curr_va
+/wizards/nulvect/bin/_myenchant.c line 148: Undefined variable 'ob' before query_curr_value();
+/wizards/nulvect/bin/_myenchant.c line 148: Illegal LHS before the end of line
+/wizards/nulvect/bin/_myenchant.c line 149: Undefined variable 'vals' before "gold"])
+/wizards/nulvect/bin/_myenchant.c line 149: Reserved type name unexpected. before  = ob->query_curr_va
+/wizards/nulvect/bin/_myenchant.c line 149: parse error before  = ob->query_curr_va
+/wizards/nulvect/bin/_myenchant.c line 149: Undefined variable 'ob' before query_curr_value();
+/wizards/nulvect/bin/_myenchant.c line 149: Illegal LHS before the end of line
+/wizards/nulvect/bin/_myenchant.c line 150: Undefined variable 'vals' before "gold"])
+/wizards/nulvect/bin/_myenchant.c line 151: Undefined variable 'bonus' before ;
+/wizards/nulvect/bin/_mindprobe.c line 79: Undefined variable 'subcl' before  magic_subs) != -1) 
+/wizards/nulvect/bin/_mindprobe.c line 85: parse error before  {
+/wizards/nulvect/bin/_mindprobe.c line 92: parse error before  (spells && sizeof(s
+/wizards/nulvect/bin/_mindprobe.c line 93: Illegal LHS before the end of line
+/wizards/nulvect/bin/_mindprobe.c line 96: Undefined variable 'subcl' before +(cl == "dragon" ? "
+/wizards/nulvect/bin/_mindprobe.c line 100: Only '=' is legal in initializers. before the end of line
+/wizards/nulvect/bin/_mindprobe.c line 100: Type mismatch ( unknown vs string ) when initializing ret before the end of line
+/wizards/nulvect/bin/_mindprobe.c line 100: Missing type for global variable declaration before the end of line
+/wizards/nulvect/bin/_mindprobe.c line 96: Undefined variable 'subcl' before +(cl == "dragon" ? "
+/wizards/nulvect/bin/_mindprobe.c line 98: Undefined variable 'CMD_D' before find_cmd(spell, path
+/wizards/nulvect/bin/_mindprobe.c line 84: Undefined variable 'level' before  20 && ma+md+intel+w
+/wizards/nulvect/bin/_recipe.c line 101: Reserved type name unexpected. before , tmp2;
+/wizards/nulvect/bin/_recipe.c line 101: parse error before , tmp2;
+/wizards/nulvect/bin/_recipe.c line 114: Illegal LHS before the end of line
+/wizards/nulvect/bin/_recipe.c line 115: parse error before  Recipe *show;
+/wizards/nulvect/bin/_recipe.c line 120: Illegal LHS before the end of line
+/wizards/nulvect/bin/_recipe.c line 122: parse error before  if (str == "unsaved
+/wizards/nulvect/bin/_recipe.c line 146: Class 'Recipe' has no member 'yield' before  value); }
+/wizards/nulvect/bin/_recipe.c line 146: == always false because of incompatible types ( unknown vs string ). before ; }
+/wizards/nulvect/bin/_recipe.c line 196: Undefined variable 'check' before  low) == 2) {
+/wizards/nulvect/bin/_recipe.c line 196: Illegal lvalue before  low) == 2) {
+/wizards/nulvect/bin/_recipe.c line 265: Undefined variable 'f' before  (: filter_type :);
+/wizards/nulvect/bin/_recipe.c line 265: Illegal lvalue before  (: filter_type :);
+/wizards/nulvect/bin/_recipe.c line 399: Class 'Recipe' has no member 'yield' before  arg;
+/wizards/nulvect/bin/_recipe.c line 543: Class 'Recipe' has no member 'yield' before  !strlen(r->yield))
+/wizards/nulvect/bin/_recipe.c line 543: Class 'Recipe' has no member 'yield' before )
+/wizards/nulvect/bin/_recipe.c line 554: Class 'RecipeStep' has no member 'method' before  !strlen(r->steps[i]
+/wizards/nulvect/bin/_recipe.c line 554: Class 'RecipeStep' has no member 'method' before )
+/wizards/nulvect/bin/_recipe.c line 613: Undefined variable 'name' before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function check_memory before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function num_classes before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function exclude_array before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function exclude_array before ;; }
+/wizards/nulvect/bin/_focus.c line 73: Undefined variable 'DIR_CLASS_CMDS' before "/obj/command")))
+/wizards/nulvect/bin/_focus.c line 76: Undefined variable 'FOCUS_STOP_ID' before ) );
+/wizards/nulvect/bin/_slashcheck.c line 107: Undefined variable 'focus' before  (check = tp->query_
+/wizards/nulvect/bin/_slashcheck.c line 107: Illegal lvalue before  (check = tp->query_
+/wizards/nulvect/bin/_slashcheck.c line 107: Undefined variable 'focus' before  (check = tp->query_
+/wizards/nulvect/bin/_slashcheck.c line 107: Illegal lvalue before  (check = tp->query_
+/wizards/nulvect/bin/_bash.c line 202: Undefined variable 'focus' before  ) {
+/wizards/nulvect/bin/_hack.c line 193: Undefined variable 'focus' before  tp->query_skill(TYP
+/wizards/nulvect/bin/_mysmite.c line 103: Undefined variable 'mod' before  -((tgt->query_align
+/wizards/nulvect/bin/_mysmite.c line 103: Illegal lvalue before  -((tgt->query_align
+/wizards/nulvect/bin/_mysmite.c line 109: Undefined variable 'spcost' before  BALANCE3_D->get_cos
+/wizards/nulvect/bin/_mysmite.c line 109: Illegal lvalue before  BALANCE3_D->get_cos
+/wizards/nulvect/bin/_mysmite.c line 110: Undefined variable 'mpcost' before  BALANCE3_D->get_cos
+/wizards/nulvect/bin/_mysmite.c line 110: Illegal lvalue before  BALANCE3_D->get_cos
+/wizards/nulvect/bin/_mysmite.c line 135: Undefined variable 'dis' before  2+random(2);
+/wizards/nulvect/bin/_mysmite.c line 135: Illegal lvalue before  2+random(2);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '^' : "mixed * " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '^' : "mixed * " before ; }
+/wizards/nulvect/std/armour.c line 96: Undefined function query_base_ac before  + query_ac_bonus();
+/wizards/nulvect/std/armour.c line 96: Undefined function query_ac_bonus before ;
+/wizards/nulvect/std/armour.c line 111: Wrong number of arguments to query_worn_limbs
+    Expected: 0  Got: 1 before ; }
+/wizards/nulvect/std/armour.c line 114: Undefined variable 'FP_LOCAL' before  functionp(val) & FP
+/wizards/nulvect/std/armour.c line 114: Undefined variable 'FP_NOT_BINDABLE' before ) {
+/wizards/nulvect/std/armour.c line 175: Wrong number of arguments to unequip
+    Expected: 0  Got: 1 before ;
+/wizards/nulvect/std/armour.c line 157: Wrong number of arguments to query_worn_limbs
+    Expected: 0  Got: 1 before ; }
+/wizards/nulvect/bin/_wear.c line 39: Undefined function do_equip before ;
+/wizards/nulvect/bin/_wear.c line 95: Undefined variable 'errorcheck' before  armour->equip(tp, l
+/wizards/nulvect/bin/_wear.c line 95: Illegal lvalue before  armour->equip(tp, l
+/wizards/nulvect/std/armour.c line 157: Wrong number of arguments to query_worn_limbs
+    Expected: 0  Got: 1 before ; }
+/wizards/nulvect/brass/dull_brass_boots.c line 18: Wrong number of arguments to toggle_brass
+    Expected: 1  Got: 0 before ;
+/wizards/nulvect/brass/dull_brass_boots.c line 39: Undefined variable 'COL' before "Your crystal boots 
+/wizards/nulvect/brass/dull_brass_boots.c line 39: Undefined variable 'RES' before  tp);
+/wizards/nulvect/brass/dull_brass_boots.c line 57: Undefined variable 'COL' before "Your brass boots tr
+/wizards/nulvect/brass/dull_brass_boots.c line 57: Undefined variable 'RES' before  tp);
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '|' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '|' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '|' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '|' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '&' : "mapping " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '&' : "mapping " before ; }
+/wizards/nulvect/test/identity_d.c line 335: Undefined class 'Connection' before  *oldconns;
+/wizards/nulvect/test/identity_d.c line 336: Undefined variable 'IP_D' before query_all_connection
+/wizards/nulvect/test/identity_d.c line 338: Undefined class 'Connection' before  oc in oldconns)
+/wizards/nulvect/test/identity_d.c line 242: '; use a cast to disambiguate before  $3 : 1 )&&
+/wizards/nulvect/test/identity_d.c line 243: '; use a cast to disambiguate before  $4 : 1)
+/wizards/nulvect/test/identity_d.c line 256: '; use a cast to disambiguate before  $1->time }) :) );
+/wizards/nulvect/test/identity_d.c line 256: '; use a cast to disambiguate before ) :) );
+/wizards/nulvect/test/identity_d.c line 337: Undefined variable 'IP_D' before query_all_connection
+/wizards/nulvect/test/identity_d.c line 338: '; use a cast to disambiguate before  $2 :), ip);
+/wizards/nulvect/test/identity_d.c line 258: '; use a cast to disambiguate before  $1->time }) :) );
+/wizards/nulvect/test/identity_d.c line 258: '; use a cast to disambiguate before ) :) );
+/wizards/nulvect/test/identity_d.c line 339: Undefined variable 'IP_D' before query_all_connection
+/wizards/nulvect/test/identity_d.c line 340: '; use a cast to disambiguate before  $2 :), ip);
+/wizards/nulvect/test/identity_d.c line 349: '; use a cast to disambiguate before  $3) ||
+/wizards/nulvect/test/identity_d.c line 350: '; use a cast to disambiguate before  $4)
+/wizards/nulvect/test/identity_d.c line 259: '; use a cast to disambiguate before  (int)$1->time }) :)
+/wizards/nulvect/test/identity_d.c line 259: '; use a cast to disambiguate before ) :) );
+/wizards/nulvect/test/identity_d.c line 341: '; use a cast to disambiguate before  $2 :), ip);
+/wizards/nulvect/test/identity_d.c line 355: '; use a cast to disambiguate before  (int)$1->time }) :)
+/wizards/nulvect/test/identity_d.c line 355: '; use a cast to disambiguate before ) :) );
+/wizards/nulvect/test/identity_d.c line 363: '; use a cast to disambiguate before  $3
+/wizards/nulvect/test/identity_d.c line 345: '; use a cast to disambiguate before  $2 :), ip);
+/wizards/nulvect/test/identity_d.c line 416: '; use a cast to disambiguate before  $2
+/wizards/nulvect/test/identity_d.c line 425: Illegal to use local variable in functional. before , ip);
+/wizards/nulvect/test/identity_d.c line 425: Illegal to use local variable in functional. before , $2);
+/wizards/nulvect/test/identity_d.c line 425: $var illegal outside of function pointer. before 2);
+/wizards/nulvect/test/identity_d.c line 425: parse error before );
+/wizards/nulvect/test/identity_d.c line 453: Illegal LHS before the end of line
+/wizards/nulvect/test/identity_d.c line 456: Illegal LHS before the end of line
+/wizards/nulvect/test/identity_d.c line 456: parse error before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function function_profile before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'lpc_info' before  }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to debug_info before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Too few arguments to random before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad argument number 1 to '-': "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad argument number 1 to '-': "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Invalid types to '-' ( string vs int ) before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '^' : "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '^' : "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad left argument to '|' : "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad right argument to '|' : "string " before ; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function dump_socket_status before );; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function query_privs before ;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined function destroy before ; }
+/wizards/nulvect/tmp/vplainserv.c line 55: Undefined function make_river_list before ;
+/wizards/nulvect/bin/_remort.c line 231: Undefined variable 'col1' before  "Class", col2, capi
+/wizards/nulvect/bin/_remort.c line 231: Undefined variable 'col2' before  capitalize(SKILLS_D
+/wizards/nulvect/bin/_remort.c line 234: Undefined function query_alignment_title before )
+/wizards/nulvect/bin/_remort.c line 240: parse error before , "Level", col2, dat
+/wizards/nulvect/bin/_remort.c line 331: Illegal LHS before the end of line
+/wizards/nulvect/bin/_remort.c line 331: parse error before the end of line
+/wizards/nulvect/bin/_remort.c line 310: Undefined variable 'sub' before ;
+/wizards/nulvect/bin/_remort.c line 381: Too few arguments to message before ;
+/wizards/nulvect/bin/_remort.c line 406: Undefined variable 'DRAGON_SUBS' before  != -1) tmp=sub+" dr
+/wizards/nulvect/bin/_remort.c line 421: == always false because of incompatible types ( mixed * vs int ). before )
+/wizards/nulvect/bin/_remort.c line 421: Bad argument 2 to efun member_array() before )
+/wizards/nulvect/bin/_myremort.c line 245: parse error before , "Level", col2, dat
+/wizards/nulvect/bin/_myremort.c line 340: Illegal LHS before the end of line
+/wizards/nulvect/bin/_myremort.c line 340: parse error before the end of line
+/wizards/nulvect/bin/_myremort.c line 341: Undefined variable 'race' before ;
+/wizards/nulvect/bin/_myremort.c line 341: Illegal LHS before the end of line
+/wizards/nulvect/bin/_myremort.c line 341: parse error before the end of line
+/wizards/nulvect/bin/_myremort.c line 348: Undefined variable 'race' before ;
+/wizards/nulvect/multiwep.c line 7: Illegal to inherit after defining global variables. before the end of line
+/wizards/nulvect/multiwep.c line 63: Undefined variable 'initial_alignments' before , this_player());
+/wizards/nulvect/bin/_remort.c line 124: Undefined function cmd_remort_clear before ;
+/wizards/nulvect/bin/_remort.c line 277: Undefined function ask_clearsub before ;
+/wizards/nulvect/bin/_keep.c line 98: Undefined variable 'DELAY_D' before add_delay(time, this
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Reserved type name unexpected. before ; a["blah"][5]["stuf
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before ; a["blah"][5]["stuf
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  return a;; }
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'a' before ; }
+/wizards/nulvect/tmp/death.c line 100: Bad assignment ( object vs string ). before the end of line
+/wizards/nulvect/bin/_mywrap.c line 105: parse error before  "off":
+/wizards/nulvect/bin/_mywrap.c line 115: Reserved type name unexpected. before (class Effect wrap) 
+/wizards/nulvect/bin/_mywrap.c line 115: parse error before (class Effect wrap) 
+/wizards/nulvect/bin/_mywrap.c line 116: Undefined variable 'wrap' before caster;
+/wizards/nulvect/bin/_mywrap.c line 116: Illegal LHS before the end of line
+/wizards/nulvect/bin/_mywrap.c line 117: Undefined variable 'tp' before  return;
+/wizards/nulvect/bin/_mygate.c line 73: Undefined function FAIL before ;
+/wizards/nulvect/bin/_mygate.c line 89: Undefined variable 'tp' before ) return 0;
+/wizards/nulvect/bin/_mygate.c line 211: Undefined variable 'DAMAGE_MAGIC' before the end of line
+/wizards/nulvect/bin/_mygate.c line 212: Undefined variable 'DAMAGE_BYPASS_ARMOUR' before  DAMAGE_NO_PLAYER_RE
+/wizards/nulvect/bin/_mygate.c line 212: Undefined variable 'DAMAGE_NO_PLAYER_REDUCE' before the end of line
+/wizards/nulvect/bin/_mygate.c line 213: Undefined variable 'DAMAGE_BYPASS_STRENGTHS' before  DAMAGE_NONLETHAL | 
+/wizards/nulvect/bin/_enchant_multi.c line 116: Undefined function do_enchant before  , env);
+/wizards/nulvect/bin/_enchant_multi.c line 130: Undefined variable 'msg' before  "Nothing happens.";
+/wizards/nulvect/bin/_enchant_multi.c line 130: Illegal lvalue before  "Nothing happens.";
+/wizards/nulvect/bin/_enchant_multi.c line 166: Undefined variable 'ret' before the end of line
+/wizards/nulvect/bin/_enchant_multi.c line 199: Undefined variable 'ob' before query_short()))+
+/wizards/nulvect/bin/psiblades_ob.c line 46: Undefined variable 'COL' before "a whirling collecti
+/wizards/nulvect/bin/psiblades_ob.c line 54: Undefined variable 'COL' before "psionic"+RES+" ener
+/wizards/nulvect/bin/psiblades_ob.c line 54: Undefined variable 'RES' before " energy.";
+/wizards/nulvect/bin/_psiblades.c line 20: Type mismatch ( string vs mixed * ) when initializing psiblades_cmds before the end of line
+/wizards/nulvect/bin/_psiblades.c line 110: Undefined variable 'DIR_SKILLS' before "obj/command");
+/wizards/nulvect/bin/_psiblades.c line 265: Reserved type name unexpected. before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: parse error before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: Illegal LHS before  // seconds, not rou
+/wizards/nulvect/bin/_psiblades.c line 266: Reserved type name unexpected. before  = tp->query_skill("
+/wizards/nulvect/bin/_psiblades.c line 110: Undefined variable 'DIR_CLASS_SKILLS' before "obj/command");
+/wizards/nulvect/bin/_psiblades.c line 265: Reserved type name unexpected. before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: parse error before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: Illegal LHS before  // seconds, not rou
+/wizards/nulvect/bin/_psiblades.c line 266: Reserved type name unexpected. before  = tp->query_skill("
+/wizards/nulvect/bin/_psiblades.c line 266: parse error before  = tp->query_skill("
+/wizards/nulvect/bin/_psiblades.c line 265: Reserved type name unexpected. before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: parse error before  = 6; // seconds, no
+/wizards/nulvect/bin/_psiblades.c line 265: Illegal LHS before  // seconds, not rou
+/wizards/nulvect/bin/_psiblades.c line 266: Reserved type name unexpected. before  = tp->query_skill("
+/wizards/nulvect/bin/_psiblades.c line 266: parse error before  = tp->query_skill("
+/wizards/nulvect/bin/_psiblades.c line 266: Undefined variable 'tp' before query_skill("psionic
+/wizards/nulvect/bin/_psiblades.c line 110: Undefined variable 'DIR_CLASS_SKILLS' before "obj/command");
+/wizards/nulvect/bin/_light.c line 84: Undefined variable 'DIR_CLASS_SKILLS' before "/obj/light_orb.c");
+/wizards/nulvect/bin/_light.c line 88: Undefined variable 'BALANCE3_D' before diminishing_returns(
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'tp' before query_effect("light"
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: No class in scope has no member 'endtime' before  }
+/wizards/nulvect/bin/_radiance.c line 102: parse error before the end of line
+/wizards/nulvect/bin/_radiance.c line 104: Illegal LHS before the end of line
+/wizards/nulvect/bin/_radiance.c line 104: parse error before the end of line
+/wizards/nulvect/bin/_radiance.c line 125: Illegal LHS before the end of line
+/wizards/nulvect/bin/_radiance.c line 125: parse error before the end of line
+/wizards/nulvect/bin/_radiance.c line 126: Illegal LHS before the end of line
+/wizards/nulvect/bin/_radiance.c line 146: Illegal to redeclare local name 'tgt_light' before , eff_light, new_lig
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'exp' before  1000; for (i = 1; i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  1000; for (i = 1; i
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before  1; i <= 2; i++) { e
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  1; i <= 2; i++) { e
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'i' before  1; i <= 2; i++) { e
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal lvalue before  1; i <= 2; i++) { e
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  $(blah); :); int bl
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  $(blah); :); blah =
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  :); blah = 3; print
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  $(blah) :); blah = 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal to use local variable in functional. before ; blah = 3; printf("
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before (blah) :)) :); blah 
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Illegal LHS before  printf("%d\n", eval
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: parse error before  (random(2)) p->set_
+/wizards/nulvect/bin/_charge.c line 149: Undefined variable 'tgtname' before  == 1) {
+/wizards/nulvect/bin/_charge.c line 149: Illegal lvalue before  == 1) {
+/wizards/nulvect/bin/_charge.c line 166: Wrong number of arguments to can_cast
+    Expected: 7  Got: 6 before ) return 0;
+/wizards/nulvect/bin/_charge.c line 371: Wrong number of arguments to can_cast
+    Expected: 7  Got: 6 before )
+/wizards/nulvect/bin/_charge.c line 149: Undefined variable 'tgtname' before  == 1) {
+/wizards/nulvect/bin/_charge.c line 149: Illegal lvalue before  == 1) {
+/wizards/nulvect/bin/_charge.c line 166: Wrong number of arguments to can_cast
+    Expected: 7  Got: 6 before ) return 0;
+/wizards/nulvect/bin/_charge.c line 371: Wrong number of arguments to can_cast
+    Expected: 7  Got: 6 before )
+/wizards/nulvect/bin/_charge.c line 66: Undefined function can_charge_swiftly before ;
+/wizards/nulvect/bin/_nulinv.c line 130: Undefined function cmd_inventory_number before ;
+/wizards/nulvect/bin/_nulinv.c line 205: Undefined variable 'width' before  capitalize(consolid
+/wizards/nulvect/bin/_nulinv.c line 263: Too few arguments to repeat_string before  +
+/wizards/nulvect/bin/_nulinv.c line 99: Undefined variable 'pname' before  str);
+/wizards/nulvect/bin/_nulinv.c line 99: Illegal lvalue before  str);
+/wizards/nulvect/bin/_nulinv.c line 312: Wrong number of arguments to msg
+    Expected: 1  Got: 2 before ;
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 5: Bad argument number 1 to '-': "string " before ; }
+/wizards/nulvect/bin/_nulinv.c line 216: Undefined variable 'linearr' before  values(lines);
+/wizards/nulvect/bin/_nulinv.c line 216: Illegal lvalue before  values(lines);
+/wizards/nulvect/bin/_nulinv.c line 217: Undefined variable 'sort_type' before  "none") {
+/wizards/nulvect/bin/_nulinv.c line 393: Bad left argument to '>' : "class  " before  return 1;
+/wizards/nulvect/bin/_nulinv.c line 394: Bad left argument to '>' : "class  " before  return -1;
+/wizards/nulvect/bin/_nulinv.c line 234: Undefined function get_color before ;
+/wizards/nulvect/bin/_nulinv.c line 314: Undefined variable 'COLOR_AUTOLOAD' before the end of line
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: End of file in string at the end of the file
+/wizards/nulvect/CMD_EVAL_TMP_FILE.c line 6: parse error at the end of the file

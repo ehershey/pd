@@ -1,0 +1,69 @@
+Praise given by Mortis Sat Sep 18 19:57:04 2004
+/d/citrin/rooms/shack1: "You will not go empty handed-Alverest deed" - Jesus... Where is the prize? :(
+Typo reported by Cortoth:
+/d/citrin/rooms/46: accross should be across
+Bug reported by Cortoth:
+/d/citrin/rooms/den/16: dunno if this is a bug, but based on multiple buffers
+being removed, i suspect this may get adjusted  tail wrap seems to last a
+maximum of 10 rounds for me, and atm, i can do a tail wrap for every round 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Attack            151  (33%)  153        Conjuring         102 (MAX) 102   
+Defense           1501 (94%)  187        Magic attack      136 (MAX) 136   
+Melee             167  (53%)  170        Magic defense     102 (MAX) 102     
+Wizardry          170 (MAX) 170
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
+Other            Points       Max        Weapons          Points      Max
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Bargaining        83   (1%)   85         Breath            148 (0%)  153   
+Flying            119  (MAX)  119        Claw              132 (45%) 136   
+Perception        132  (44%)  136        Tail              132 (5%)  136 hp:
+1381|sp: 781|mp: 1980 >  ww   creating a rather impressive defense rating in
+the process 
+Typo reported by Caliphys:
+/d/citrin/rooms/den/16: carcus The one here is spelled "corcus", not "carcus"
+Typo reported by Caliphys:
+/d/citrin/rooms/58: in the long desc, "left" should be west.
+Typo reported by Guile:
+/d/citrin/rooms/29: Inscription reads may find there way, should be may find
+their way.
+Typo reported by Guile:
+/d/citrin/rooms/29: And glimpse is misspelled when you <face moon>
+Idea reported by Rueznor Sun Feb 20 14:05:30 2005
+/d/citrin/rooms/29: When I buffer someone and it wears off it says "Your buffer wears off."  maybe it could say "Your buffer on Dubbya wears off."
+Typo reported by Cortoth:
+/d/citrin/rooms/20: help alignment thieir should be their alignent should be
+alignment follws should be follows 
+Typo reported by Cortoth:
+/d/citrin/rooms/72: both on look roof and look wall roofthat needs a space to
+-> roof that 
+Bug reported by Cortoth:
+/d/citrin/rooms/hive/7: Slave bee hits you ineffectively in the torso. The
+oil goes through your wounds and heals them. chainlightning A golden arc of
+lightning cracks between your wings. Lightning shoots forth into Hive keeper,
+shocking them badly! The lightning shoots from Hive keeper into Slave bee,
+shocking them badly! You feel more experienced for the kill. (35,000) Slave
+bee drops dead before you. hp: 2070|sp: 1236|mp: 2880 >   Hive keeper hits
+you ineffectively in the torso. Hive keeper hits you ineffectively in the
+front right claw. Hive keeper hits you ineffectively in the front right claw.
+Hive keeper hits you ineffectively in the front right leg. dragonfury You are
+not in combat. hp: 2070|sp: 1236|mp: 3025 >  dragonfury You are not in
+combat. hp: 2070|sp: 1236|mp: 3025 >   Hive keeper hits you ineffectively in
+the torso. Hive keeper hits you ineffectively in the back right leg. hp: 1991
+sp: 1236    mp: 3025 Hive keeper punches you. Hive keeper hits you
+ineffectively in the back right leg. dragonfury You are not in combat. hp:
+1991|sp: 1236|mp: 3025 >  dragonfury  Hive keeper hits you ineffectively in
+the torso. hp: 1918    sp: 1236    mp: 3025 Hive keeper strikes you badly in
+the torso with her left foot. hp: 1887    sp: 1236    mp: 3025 Hive keeper
+kicks you. hp: 1811    sp: 1236    mp: 3025 Hive keeper punches you. You are
+not in combat. hp: 1811|sp: 1236|mp: 3025 >   
+Idea reported by Smite Thu Jun  2 00:03:33 2005
+/d/citrin/rooms/hive/1: demonfire para is way uber. if its gonna para it should only para those who are close to neutral and are not able to fight off the demons unlike someone who is holy. or something needs to be toned down its just insane. nuff said.
+Typo reported by Cortoth:
+/d/citrin/rooms/72: l roof There are many holes in the roof and the walls are
+about to collapse.  There is a small pipe running off the roofthat empties
+out onto the ground.   roofthat should be roof that 
+Typo reported by Cortoth:
+/d/citrin/rooms/shacks/shack1: The corpse is rotting where is stands. should
+'be where "it" stands' 
+Typo reported by Kilir:
+/d/citrin/rooms/den/12: citrin, inside the cave, the smell message 

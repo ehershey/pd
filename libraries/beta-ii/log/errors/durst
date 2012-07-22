@@ -1,0 +1,8 @@
+/d/durst/mob/nes_nomad.c line 56: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/durst/mob/nes_nomad.c line 8: parse error before  yran = random(100);
+/d/durst/mob/nes_nomad.c line 8: parse error before  yran = random(100);
+/d/durst/mob/nes_nomad.c line 8: parse error before  yran = random(100);
+/d/durst/mob/nes_nomad.c line 5: parse error before  MONSTER;
+/d/durst/mob/nes_nomad.c line 5: parse error before  MONSTER;
+/d/durst/mob/nes_nomad.c line 5: parse error before  MONSTER;
+/d/durst/mob/nes_nomad.c line 5: parse error before  MONSTER;

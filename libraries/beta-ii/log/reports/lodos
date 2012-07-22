@@ -1,0 +1,266 @@
+Typo reported by Aziraphale:
+/d/lodos/ntower7: noble has 'sneering' twice in set_long()
+Bug reported by Pyro:
+/d/lodos/alchem: I used the thief miniquest and the second it said "the
+alchemist teaches the thief the lesson of her life..." I got an error
+message. 
+Bug reported by Sasayaki:
+/d/lodos/obj/mon/jay#16401: monster This monster has incorrect limbs.
+Bug reported by Daos:
+/d/lodos/farm/room/house1: The stoker that the man should wield in the farm
+house is missing.
+Bug reported by Daos:
+/d/lodos/farm/room/house2: Wife is missing her pan that she should wield.
+Bug reported by Vyce:
+/d/lodos/ntower1: eq bug took starscream for me. just letting you know
+Bug reported by Vyce:
+/d/lodos/egarden2: eq bug also took my centaur eq (ties, shoes, saddle)
+Bug reported by Sasayaki:
+/d/lodos/ntown6: demonstrength The error for insufficient magical powers uses
+the wrong 'your'.
+Bug reported by Sasayaki:
+/d/lodos/obj/weapon/katana#37829: katana This Katana's description is flawed,
+missing an 'and'.
+Bug reported by Tyste:
+/d/lodos/obj/mon/lord#78700: lord he still doesn't respond to monster means he
+is missing set_id :P unless he is meant to be a horse and ridable^_^ he's
+missing that yeah
+Bug reported by Daboura:
+/d/lodos/l2se4: I have an imaginary mail box in my inventory :P 
+Praise given by Kumi Thu Jan  1 05:22:24 2004
+/d/lodos/obj/armour/agplate#1076: thanks!
+Bug reported by Aravi:
+/d/lodos/ltower9: In the south Lodos tower, if you start fighting the guard and
+cast an attack spell on the lord, the guard dies from the attack.
+Bug reported by Youjutsu:
+/d/lodos/ltower5: deathtouch When you type just deathtouch out of combat it says
+0 is not there. Remember to check if the str is 0
+Praise given by Youjutsu Fri Jan 30 00:00:45 2004
+/d/lodos/ltower7: deathtouch I really enjoy the spell message for this spell. It's of high quality and really raises the atmosphere of Necromancers. Good work guys!
+Praise given by Youjutsu Mon Feb  9 02:51:22 2004
+/d/lodos/stown2: deathtouch Although I already put in a praise about this spell's messages, I thought I should point out how much I *love* how Deathtouch can't be cast against undead. That's awesome!
+Bug reported by Gor:
+/d/lodos/wtower5: report i am unable to wield weapons of various types even
+after using them for long periods of time and despite the fact that i have the
+talent to use them
+Bug reported by Milenko:
+/d/lodos/ltower3: i was just casting Chaoswave in lodos south tower and when
+i got to low mana i then tried to cast shadow burst and lost my heart beat
+and got a !ERROR! this is a bug message 
+Bug reported by Milenko:
+/d/lodos/ntown8: i keep losing my heartbeat when casting shadowburst 
+Idea reported by Tahngarth Mon Mar 29 22:37:51 2004
+/d/lodos/l1ne1: put minimum bet raise to be 5% of previous bet to prevent betting 1 coin spam
+Idea reported by Tahngarth Tue Apr  6 21:14:45 2004
+/d/lodos/l2se3: in arena, when you're rage and someone runs out, it makes you follow them and keep raging to prevent people from going in and out to stop your rage and get rid of your sp
+Bug reported by Azriel:
+/d/lodos/gates: daos
+Typo reported by Endbringer:
+/d/lodos/etower6: You cast s a dazzling bolt of holy levin at Knight!
+Bug reported by Hyru:
+/d/lodos/l1m3: 'heal <target> all' doesn't give me a "You heal <target>'s wounds
+through prayer." message like healing a specific limb does.
+Bug reported by Spades:
+/d/lodos/mount1: throw was telling my partner that I was hitting him with my
+thrown weapon
+Bug reported by Spades:
+/d/lodos/etower11: when missing a 'trip', "You spin at Soldier, miss his and
+fall to the ground.", his s/b him, I'd guess her for females is also the wrong
+version of her
+Idea reported by Raiku Tue Jul 13 05:34:33 2004
+/d/lodos/ltower3: iventory-command would it be possible so that there is a little slot in your inventory command to see how much money one is carrying?
+Praise given by Raiku Tue Jul 13 05:39:07 2004
+/d/lodos/wroad3: lodos I love the new area added to the path to lodos, itd dope. great job who ever
+Bug reported by Asonti:
+/d/lodos/square: when you ride another player into a room with a board, it shows
+the Unread message count for the player you are riding instead of your own
+Bug reported by Asonti:
+/d/lodos/armoury: the armour and weapon shops in lodos do not let you sell
+things to them
+Typo reported by Talkerahn:
+/d/lodos/wroad4: The tall, silver gates stand to the west of this part of the
+|          road. The road glimmers in the frosty mountain air. Several   |   
+trees line the side of the road. Off to the west, Lodos' most |     [X]-[ ]
+recognisable structure stands tall  the temple.               |              
+|            There is only one obvious exit: east.  >     Autosaving. l
+temple It is to the east of here. 
+Bug reported by Jarta:
+/d/lodos/ltower2: bloodlust adds back 2 def skill too much when it wears off so
+over time your def skill gets really high
+Typo reported by Kaster:
+/d/lodos/tower7: in the daggers special for AoD: You thrust at your opponent
+multiple time spiling thier blood on the floor.
+Idea reported by Tahngarth Mon Aug  9 04:55:16 2004
+/d/lodos/l1sw2: alltime arena list
+Praise given by Charity Sun Aug 22 23:09:37 2004
+/d/lodos/square: LodosStatue Fantastic!Saved my rl day!
+Praise given by Mortis Sat Aug 28 16:29:12 2004
+/d/lodos/square: I loved
+Bug reported by Smite:
+/d/lodos/square: ok something isnt right. either my para on my breath needs to
+be increased as i progress in wisdom or levels and skills..or the breath should
+be changed so people can't run while frozen or spin halo or open rift etc
+Typo reported by Necrite:
+/d/lodos/etower11: the room 4 north,e,u,n,e,s,w,u,n,e,s,w of lodos [] has a
+typo. " stairway ends here, comming to a stop" 
+Bug reported by Smite:
+/d/lodos/square: u can reply when gagged heh :P
+Idea reported by Set Sun Oct 31 18:23:10 2004
+/d/lodos/ltower4: honey line needs a history, last honey or whatever
+Idea reported by Guile Sat Nov 13 10:08:51 2004
+/d/lodos/cafe: Make the prices here more reasonable.  If armor costs as much as a crab, isn't that a little lopsided?
+Bug reported by Skunk:
+/d/lodos/ltower6: i think stuntouch is broken i can spam it and it won't hit at
+all, just says "You cannot find an opening." and it also doesn't take sp or mp
+Idea reported by Set Sun Dec 26 18:43:13 2004
+/d/lodos/square: Just an idea for an addition to the advance command, Could it be possible so that there is a command which will remove a level and give you that amount of EXP back, just incase ya level by accident.
+Bug reported by Rull:
+/d/lodos/l1m8: the guardian angel inside the entrance to lodos temple has race
+of "angel", whereas all the others are "archangel"
+Bug reported by Endbringer:
+/d/lodos/ntower2: possible bug: you go outlaw when you fail stealing in lawless
+zones
+Bug reported by Endbringer:
+/d/lodos/ntower7: when you sever a monsters primary limb, such as an arm or a
+leg, the hand or foot does not come off along with the leg/hand
+Bug reported by Endbringer:
+/d/lodos/ntower8: if you spam stealth on then move, your stealth goes up at a
+very high rate
+Bug reported by Penance:
+/d/lodos/ntown7: rage/d/nopk/standard/obj/magic/zerk.c line 29: Undefined
+function destroy before    
+Bug reported by Penance:
+/d/lodos/ntown7: hah, i gota figure this out hehe 
+Bug reported by Penance:
+/d/lodos/ntown7: rage
+Bug reported by Penance:
+/d/lodos/ntown7: /d/nopk/standard/obj/magic/zerk.c line 29: Undefined
+function destroy before   
+Bug reported by Penance:
+/d/lodos/ntown7: Error: *Error in loading object
+'/d/nopk/standard/obj/magic/zerk'   File: "/cmds/skills/_rage.c" Line: 38    
+Well, i hope that helps, not sure if i did more good than bad hehe. Walked
+into room, went Rage and that error came up, i was in lodos to if you need to
+know, K, thamks :)   Penance. 
+Bug reported by Xille:
+/d/lodos/etower8: cut always chooses a random target from your current attackers
+if you are in combat, even if you give it a specific thing to target, I think it
+should only do this when you don't give it a target, more details in a post on
+wanderer board
+Idea reported by Rueznor Sat Feb 19 16:00:38 2005
+/d/lodos/square: "kills players", "kills monsters", new variations of the "kills" list.
+Bug reported by Rueznor:
+/d/lodos/ntower2: You can spam "bump", would make more sense if you could only
+do it once a round.
+Bug reported by Naeblis:
+/d/lodos/ntower2: u can charge while in battle
+Bug reported by Olin:
+/d/lodos/etower1: 13
+Bug reported by Ploo:
+/d/lodos/healer: ERROR: An error has occured.  Please mail an immortal with
+information on what you were doing at the time of this error and the
+following information: Error: *Bad argument 1 to sscanf Expected: string Got:
+0 File: "/d/lodos/healer.c" Line: 49 
+Bug reported by Tench:
+/d/lodos/ltower2: buffer me  q q q c c c l q q l q l l  c l cl l 
+Bug reported by Goldenberry:
+/d/lodos/wtower8: apply ointment all LAN Registration Syntax: <apply now> hp:
+893|sp: 360|mp: 403 >   apply ointment all LAN Registration Syntax: <apply
+now> hp: 893|sp: 360|mp: 403 >   apply ointment all You feel the ointment
+healing you.   supplication goldenberry i have a lot of ointments but it
+keeps saying that..then eventually works. 
+Idea reported by Narsimha Thu Sep 29 12:21:33 2005
+/d/lodos/etower3: skillcost a command allowing the player to see how much experience is nessecary to raise it to the next point
+Bug reported by Knuckle:
+/d/lodos/square: Gore : If im am out of sp and i type gore monster the mob
+attacks me though i get a message "you are too tired." umm thats about it Thank
+you :).
+Bug reported by Otto:
+/d/lodos/wtower7: you can backstab, then unwield dagger before it hits.. gives
+an error, does no damage, puts you in combat still
+Bug reported by Sabado:
+/d/lodos/wroad3: Skinning a corpse doesnt allow you to autobag
+Idea reported by Sabado Fri Mar 17 10:51:30 2006
+/d/lodos/etower12: I was wondering...would it be possible to get a message of some kind when a bag hits 100%? Like: 'You squeeze the last item into the top of the bag'?
+Bug reported by Valas:
+/d/lodos/stown2: Saw this trying to use stab  ERROR: An error has occured. 
+Please mail an immortal with information on what you were doing at the time
+of this error and the following information: Error: *Array index out of
+bounds. File: "/cmds/skills/_stab.c" Line: 80 
+Bug reported by Arma:
+/d/lodos/wtower7: Ignore bug when you ignore someone they can still send you
+replys...  arma the bug finder :) 
+Bug reported by Ardhanarishvara:
+/d/lodos/square: at 6east, south from lodos [] when the half-dragon warrior
+removes it's wingclaws as it dies, it says to me: You struggle to get out of
+your wing claws. i think this is a message that only the wearer of wingclaws
+should see  kind regards ardhanarishvara 
+Bug reported by Endbringer:
+/d/lodos/ntown8: Bump is spammable, possible bug?
+Idea reported by Endbringer Fri Aug 25 16:04:21 2006
+/d/lodos/etower8: mage bags: limit the amount a mage can use based on stats/skills. increase their capacity to create a slight demand for mages and lessen the demand for black diamonds slightly
+Idea reported by Endbringer Fri Aug 25 16:05:41 2006
+/d/lodos/etower11: Mages: add more items to create such as, various foods/drinks, more advanced weaponry/armoury, torches, and other various supplies, perhaps even oil/ointment type objects that are slightly more desirable than standard issue to create a demand for them.
+Bug reported by Endbringer:
+/d/lodos/ntower1: I'm not sure if this is a typo or bug, but my backstab will
+hit a limb such as a leg or arm, and i will sever hands or feet respectively.
+Bug reported by Kilik:
+/d/lodos/square: levin is bugged its stackable... yeah are these even bugs
+are do you do that on purpose? 
+Idea reported by Darwyn Wed May 30 02:05:46 2007
+/d/lodos/npath5: Consider sharpen working for spears.
+Idea reported by Darwyn Wed May 30 02:06:00 2007
+/d/lodos/npath5: Consider Tea pots to AL for rangers
+Bug reported by Zamaki:
+/d/lodos/stown5: Ok. I was on the coach to lodos, realized I didnt have a torch,
+recalled, bought a torch and ended up at Lodos when the ride ended.
+Praise given by Dragosani Thu Nov 22 02:49:26 2007
+/d/lodos/square: I love this pumpkin pie!!!
+Bug reported by Dragosani:
+/d/lodos/etown7: I have noticed a bug with absorb. I can run in, absorb and run
+out before the spell harms the monster...but I still get the hp. Using this, I
+could have a steed handy and milk em without hurting em and never need oils. If
+the inherit could come with the damage, I am sure that'd solve the problem.
+Thanks for listening. :)
+Bug reported by Dage:
+/d/lodos/ltower6: when using choke, sometimes the mob continues to be choked
+after I receive the 'Guard breaks out of your grasp!' messages. Usually, the npc
+will be choked a few more times, then I will begin attacking but the npc doesn't
+swing back. This is just generically using 'choke guard' in Lodos.
+Typo reported by Dage:
+/d/lodos/ntown7: the exit to the west in this room is 'door' the door to the
+east is 'door 2'. Wouldn't it make more sense to have it be 'door east' and
+'door west'? Or at least adds those names to the list of things to target them.
+Idea reported by Zehauresh Thu Mar  6 01:30:56 2008
+/d/lodos/npath5: Instead of having satanic as an alignment we could have vile.  as satanic would be a referernce to a main stream rl religious icon.
+Typo reported by Jynteral:
+/d/lodos/farm/room/paddockw3: look at dam. Message is screwy.
+Idea reported by Axenos Tue Aug  5 19:41:00 2008
+/d/lodos/square: We should have a delivery system like the auction house used ta be but for a fee. :D
+Idea reported by Amaki Wed Aug  6 14:46:29 2008
+/d/lodos/l1se3: I think that empty bottles should be able to be sold back to vendors for like 10 silver. It'd cut down on bottles being left everywhere or some kind of auto-discard where thebottles don't remain in inventory. Thanks!
+Bug reported by Geddoe:
+/d/lodos/stown4: the demonic plate doesnt show the color. It's all gray, but
+when I enchanted it, the colors showed. 
+Idea reported by Hook Sat Oct  4 12:38:46 2008
+/d/lodos/square: With the help file for divest, I think it would sound better to say armour worn on the torso cannot be removed. Otherwise, great command and great idea!
+Idea reported by Mathiu Thu Oct  9 14:06:45 2008
+/d/lodos/square: enchant something to enchant everything at once
+Bug reported by Ozzymandias:
+/d/lodos/square: pin is bugged
+Idea reported by Nanaimo Fri Nov 28 10:43:24 2008
+/d/lodos/etown5: It would be super cool if there was a message that said "You have enough experience to advance." This wouldnt mean tho, that all requirements had been satisfied like skills. Thanks!
+Bug reported by Hissatsu:
+/d/lodos/square: if you quit out with undead raised then you can't reraise them
+when you come back in and you cant dismiss them
+Idea reported by Dage Wed Feb 10 21:15:21 2010
+/d/lodos/armoury: Please implement a command which repeats the last command entered. For example: put hammer in backpack, !, !, !, !.  Where ',' represents another command and '!' represents the 'repeat' command.  This would put 5 hammers in the backpack.
+Idea reported by Dage Wed Feb 10 21:16:55 2010
+/d/lodos/armoury: Please implement a system for manipulating 'all' of an object type in the players inventory.  For example: put all.sword in backpack, would put all available sword in the inventory into the backpack.  Alternatives could be: put sword all in backpack.  It seems that put sword 2 in backpack already works, adding the 'all' argument shouldn't require too much coding (then again, I  know nothing).
+Idea reported by Yinn Sun Apr 25 19:44:57 2010
+/d/lodos/etower1: xpbonus kinda wierd that i get 18k xp for a soldier in lodos at lvl 19 but get 11k at lvl 34.  but when i kill in the temple i get the same xp amount no bonus =(
+Bug reported by Yun:
+/d/lodos/etown7: psicloak yun A happy deer ride deer Deer cannot carry anyone
+else. 
+Idea reported by Star Sat Oct 23 10:24:27 2010
+/d/lodos/square: a map for brief mode

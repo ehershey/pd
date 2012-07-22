@@ -1,0 +1,834 @@
+/d/events/halloween2007/items/costume.c line 14: Wrong number of arguments to set
+    Expected: 2  Got: 1 before ;
+/d/events/halloween2007/mobs/shade.c line 87: Undefined variable 'ob' before  new(H2K7ITEMS+"pump
+/d/events/halloween2007/mobs/shade.c line 87: Illegal lvalue before  new(H2K7ITEMS+"pump
+/d/events/halloween2007/rooms/room3_2.c line 4: parse error before ;
+/d/events/halloween2007/rooms/room2_5.c line 4: parse error before ;
+/d/events/halloween2007/rooms/room2_5.c line 4: parse error before ;
+/d/events/halloween2007/rooms/server2.c line 37: parse error before  "It is gone, but it
+/d/events/halloween2007/rooms/room1_0.c line 29: No such inherited function room::reset before ;
+/d/events/halloween2007/items/pumpkinspirit.c line 33: Undefined function move_me before ;
+/d/events/halloween2007/items/pumpkinspirit.c line 80: Undefined variable 'spirit' before  new(H2K7MOBS"trappe
+/d/events/halloween2007/items/pumpkinspirit.c line 80: Illegal lvalue before  new(H2K7MOBS"trappe
+/d/events/halloween2007/items/pumpkinspirit.c line 33: Undefined function move_me before ;
+/d/events/halloween2007/items/pumpkinspirit.c line 80: Undefined variable 'spirit' before  new(H2K7MOBS"trappe
+/d/events/halloween2007/items/pumpkinspirit.c line 80: Illegal lvalue before  new(H2K7MOBS"trappe
+/d/events/halloween2007/items/pumpkinspirit.c line 81: Undefined variable 'spirit' before  new(H2K7MOBS"trappe
+/d/events/halloween2007/items/pumpkinspirit.c line 81: Illegal lvalue before  new(H2K7MOBS"trappe
+/d/events/4thjuly2008/items/cage.c line 3: Cannot #include id4.h before #include <rest.h>
+/d/events/4thjuly2008/items/cage.c line 69: Undefined variable 'ITEMS' before "token") &&
+/d/events/4thjuly2008/items/cage.c line 134: Undefined variable 'MOBS' before "white_dragon");
+/d/events/4thjuly2008/items/flames.c line 66: Undefined variable 'dragon' before  new(MOBS+"blue_drag
+/d/events/4thjuly2008/items/flames.c line 66: Illegal lvalue before  new(MOBS+"blue_drag
+/d/events/4thjuly2008/items/token.c line 11: Undefined function set_shortandlong before ; }
+/d/events/4thjuly2008/items/token.c line 50: Wrong number of arguments to query_long
+    Expected: 1  Got: 0 before +"\nIt is a gift to 
+/d/events/4thjuly2008/mobs/blue_dragon.c line 32: No such inherited function ::create before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 33: Undefined function set_property before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 34: Undefined function set_name before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 35: Undefined function set_id before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 36: Undefined function set_short before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 41: Undefined function set_long before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 68: Undefined function wait before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 83: Undefined variable 'ob' before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/blue_dragon.c line 83: Illegal lvalue before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/blue_dragon.c line 100: Undefined variable 'people' before  {
+/d/events/4thjuly2008/mobs/blue_dragon.c line 126: Undefined variable 'name' before +"? "
+/d/events/4thjuly2008/mobs/blue_dragon.c line 85: Undefined variable 'ob' before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/blue_dragon.c line 85: Illegal lvalue before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/blue_dragon.c line 102: Undefined variable 'people' before  {
+/d/events/4thjuly2008/mobs/blue_dragon.c line 128: Undefined variable 'name' before +"? "
+/d/events/4thjuly2008/mobs/iceblock.c line 24: Wrong number of arguments to set_paralyzed
+    Expected: 3  Got: 1 before ; return 0; }
+/d/events/4thjuly2008/mobs/iceblock.c line 50: parse error before ()->remove();
+/d/events/4thjuly2008/mobs/iceblock.c line 53: Wrong number of arguments to set_paralyzed
+    Expected: 3  Got: 1 before ;
+/d/events/4thjuly2008/mobs/iceblock.c line 24: Wrong number of arguments to set_paralyzed
+    Expected: 3  Got: 2 before ; return 0; }
+/d/events/4thjuly2008/mobs/iceblock.c line 53: Wrong number of arguments to set_paralyzed
+    Expected: 3  Got: 2 before ;
+/d/events/4thjuly2008/mobs/red_dragon.c line 52: Undefined function find_most_hits before ;
+/d/events/4thjuly2008/mobs/red_dragon.c line 62: Undefined function wait before ;
+/d/events/4thjuly2008/mobs/red_dragon.c line 77: Undefined variable 'ob' before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/red_dragon.c line 77: Illegal lvalue before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/red_dragon.c line 108: Undefined variable 'name' before +"? "
+/d/events/4thjuly2008/mobs/red_dragon.c line 119: parse error before ++;
+/d/events/4thjuly2008/mobs/red_dragon.c line 81: Undefined variable 'ob' before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/red_dragon.c line 81: Illegal lvalue before  new(ITEMS+"token");
+/d/events/4thjuly2008/mobs/red_dragon.c line 112: Undefined variable 'name' before +"? "
+/d/events/4thjuly2008/mobs/red_dragon.c line 123: parse error before ++;
+/d/events/4thjuly2008/mobs/white_dragon.c line 120: Undefined variable 'name' before +"? "
+/d/events/4thjuly2008/mobs/start_dragon.c line 13: Illegal to declare local variable of type void. before () {
+/d/events/4thjuly2008/mobs/start_dragon.c line 13: parse error before ) {
+/d/events/4thjuly2008/mobs/start_dragon.c line 42: No such inherited function ::heart_beat before ;
+/d/events/4thjuly2008/mobs/start_dragon.c line 44: Undefined variable 'said' before  0;
+/d/events/4thjuly2008/mobs/start_dragon.c line 44: Illegal lvalue before  0;
+/d/events/4thjuly2008/mobs/start_dragon.c line 49: Undefined function strip_colors before ;
+/d/events/4thjuly2008/mobs/start_dragon.c line 51: Undefined function strip_colors before ;
+/d/events/4thjuly2008/mobs/blue_dragon.c line 34: Bad assignment ( string * vs object * ). before  }
+/d/events/4thjuly2008/mobs/blue_dragon.c line 107: Undefined variable 'who' before  find_player(pname))
+/d/events/4thjuly2008/mobs/blue_dragon.c line 107: Illegal lvalue before  find_player(pname))
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 27: Wrong number of arguments to query_property
+    Expected: 1  Got: 2 before ) {
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 27: Wrong number of arguments to query_property
+    Expected: 1  Got: 2 before ) {
+/d/events/4thjuly2008/id4_d.c line 26: Undefined function close_quest before ; }
+/d/events/4thjuly2008/id4_d.c line 49: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 67: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 53: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 71: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 53: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 71: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 54: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 72: Bad argument 2 to efun present() before ;
+/d/events/4thjuly2008/id4_d.c line 56: Undefined variable 'entrance' before  return;
+/d/events/dragonaug2008/mobs/ogre1.c line 20: Undefined variable 'DRAG_ARM' before )->move(this_object(
+/d/events/dragonaug2008/mobs/ogre1.c line 20: parse error before )->move(this_object(
+/d/events/dragonaug2008/rooms/docks.c line 13: Undefined variable 'ROOMS' before the end of line
+/d/events/dragonaug2008/rooms/docks.c line 13: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre1.c line 12: Undefined variable 'DRAG_ROOMS' before , "southwest" : DRAG
+/d/events/dragonaug2008/rooms/ogre1.c line 12: parse error before , "southwest" : DRAG
+/d/events/dragonaug2008/rooms/voidroom.c line 14: Undefined variable 'ROOM_VOID' before ) );
+/d/events/dragonaug2008/rooms/voidroom.c line 15: Undefined variable 'ROOM_VOID' before ) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: Undefined variable 'DRAGROOMS' before  ]) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: parse error before  ]) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: Undefined variable 'DRAGROOMS' before  ]) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: parse error before  ]) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: Undefined variable 'DRAGROOMS' before  ]) );
+/d/events/dragonaug2008/rooms/ogre56.c line 12: parse error before  ]) );
+/d/events/dragonaug2008/rooms/ogre43.c line 26: Redeclaration of function create. before the end of line
+/d/events/dragonaug2008/rooms/dragnorth05.c line 27: Undefined variable 'SKY_D' before get_room(({ 32, 23, 
+/d/events/dragonaug2008/rooms/dragnorth05.c line 54: Undefined variable 'severed' before  regexp(this_player(
+/d/events/dragonaug2008/rooms/dragnorth05.c line 54: Illegal lvalue before  regexp(this_player(
+/d/events/dragonaug2008/rooms/dragnorth05.c line 64: Undefined variable 'room' before  "into the sky");
+/d/events/dragonaug2008/rooms/dragnorth05.c line 65: Undefined variable 'room' before  "into the sky");
+/d/events/dragonaug2008/rooms/dragnorth05.c line 28: parse error before this_player()->query
+/d/events/dragonaug2008/mobs/flydrag.c line 17: Arguments to < do not have compatible types : ( string vs int ) before  "small" :
+/d/events/dragonaug2008/mobs/flydrag.c line 8: Reserved type name unexpected. before  = 43+random(12);
+/d/events/dragonaug2008/mobs/flydrag.c line 8: parse error before  = 43+random(12);
+/d/events/dragonaug2008/mobs/flydrag.c line 8: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/flydrag.c line 9: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/mobs/flydrag.c line 9: parse error before ;
+/d/events/dragonaug2008/mobs/flydrag.c line 19: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flymob.c line 77: parse error before ()+" has been mortal
+/d/events/dragonaug2008/mobs/flymob.c line 11: Undefined variable 'check_sky' before ) );
+/d/events/dragonaug2008/mobs/flymob.c line 11: parse error before ) );
+/d/events/dragonaug2008/mobs/flymob.c line 31: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flymob.c line 32: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flymob.c line 33: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flymob.c line 34: Illegal LHS before  break;
+/d/events/dragonaug2008/rooms/dragnorth05.c line 37: Undefined variable 'obj' before ;
+/d/events/dragonaug2008/rooms/dragnorth05.c line 37: parse error before ;
+/d/events/dragonaug2008/rooms/dragnorth05.c line 40: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/dragnorth05.c line 41: Undefined variable 'newMob' before move(this_object());
+/d/events/dragonaug2008/rooms/dragnorth05.c line 44: parse error before the end of line
+/d/events/dragonaug2008/rooms/dragnorth05.c line 37: Undefined variable 'obj' before ;
+/d/events/dragonaug2008/rooms/dragnorth05.c line 37: parse error before ;
+/d/events/dragonaug2008/rooms/dragnorth05.c line 40: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/dragnorth05.c line 41: Undefined variable 'newMob' before move(this_object());
+/d/events/dragonaug2008/rooms/dragnorth05.c line 44: parse error before the end of line
+/d/events/dragonaug2008/rooms/dragnorth05.c line 42: Left argument of -> is not a class before ), 1, "fly");
+/d/events/dragonaug2008/rooms/dragnorth05.c line 42: Illegal to use local variable in functional. before , 1, "fly");
+/d/events/dragonaug2008/rooms/dragnorth05.c line 43: Undefined variable 'drag_fly' before ), 1, newMob);
+/d/events/dragonaug2008/rooms/dragnorth05.c line 43: parse error before ), 1, newMob);
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 32: Reserved type name unexpected. before  = new("/wizards/dao
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 32: parse error before  = new("/wizards/dao
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 32: Illegal LHS before the end of line
+/d/events/4thjuly2008/rooms/moltenlava/final.c line 33: Undefined variable 'ob' before set_destination("/d/
+/d/events/4thjuly2008/rooms/icystuff/1.c line 31: parse error before d/events/4thjuly2008
+/d/events/4thjuly2008/rooms/icystuff/1.c line 35: End of file in string at the end of the file
+/d/events/dragonaug2008/drag_d.c line 17: Undefined function init_data before ;
+/d/events/dragonaug2008/drag_d.c line 18: Undefined function restoreme before ;
+/d/events/dragonaug2008/drag_d.c line 70: Wrong number of arguments to map
+    Expected: 0  Got: 3 before , "\n"), to);
+/d/events/dragonaug2008/drag_d.c line 70: Bad argument 1 to efun implode() before , to);
+/d/events/dragonaug2008/drag_d.c line 82: Undefined function set_data before ;
+/d/events/dragonaug2008/drag_d.c line 90: Undefined function query_data before ;
+/d/events/dragonaug2008/drag_d.c line 76: Wrong number of arguments to map
+    Expected: 0  Got: 3 before , "\n"), to);
+/d/events/dragonaug2008/drag_d.c line 76: Bad argument 1 to efun implode() before , to);
+/d/events/dragonaug2008/drag_d.c line 126: Wrong number of arguments to map
+    Expected: 0  Got: 2 before , "\n")
+/d/events/dragonaug2008/drag_d.c line 126: Bad argument 1 to efun implode() before the end of line
+/d/events/dragonaug2008/drag_d.c line 154: Wrong number of arguments to map
+    Expected: 0  Got: 3 before ;
+/d/events/dragonaug2008/drag_d.c line 154: Bad assignment ( string * vs void ). before the end of line
+/d/events/dragonaug2008/drag_d.c line 76: Wrong number of arguments to map
+    Expected: 0  Got: 3 before , "\n"), to);
+/d/events/dragonaug2008/drag_d.c line 76: Bad argument 1 to efun implode() before , to);
+/d/events/dragonaug2008/drag_d.c line 126: Wrong number of arguments to map
+    Expected: 0  Got: 2 before , "\n")
+/d/events/dragonaug2008/drag_d.c line 126: Bad argument 1 to efun implode() before the end of line
+/d/events/dragonaug2008/drag_d.c line 154: Wrong number of arguments to map
+    Expected: 0  Got: 3 before ;
+/d/events/dragonaug2008/drag_d.c line 154: Bad assignment ( string * vs void ). before the end of line
+/d/events/dragonaug2008/drag_d.c line 196: Undefined variable 'str' before ": "+myData[key]);
+/d/events/dragonaug2008/drag_d.c line 198: Undefined variable 'str' before ": "+myData[key]);
+/d/events/dragonaug2008/drag_d.c line 218: Undefined variable 'ret' before  restore_object(file
+/d/events/dragonaug2008/drag_d.c line 218: Illegal lvalue before  restore_object(file
+/d/events/dragonaug2008/mobs/dragon.c line 37: Wrong number of arguments to query_long
+    Expected: 1  Got: 0 before +
+/d/events/dragonaug2008/mobs/dragon.c line 43: Undefined variable 'dragon' before ) );
+/d/events/dragonaug2008/mobs/dragon.c line 45: Wrong number of arguments to query_long
+    Expected: 1  Got: 0 before +
+/d/events/dragonaug2008/mobs/dragon.c line 49: Undefined variable 'SLEEP' before ;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 5: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 5: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 5: Illegal to redefine 'nomask' function "cmd_hook" before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 5: Illegal to redefine 'nomask' function "query_forced" before the end of line
+/d/events/dragonaug2008/mobs/dragoncook.c line 51: Undefined function emote before ;
+/d/events/dragonaug2008/mobs/dragondoctor.c line 44: Undefined function emote before ;
+/d/events/dragonaug2008/rooms/bluepath1.c line 42: Undefined variable 'RACE_D' before query_limbs(tp->quer
+/d/events/dragonaug2008/rooms/bluepath1.c line 42: Undefined variable 'RACE_D' before query_limbs(tp->quer
+/d/events/dragonaug2008/rooms/bluelake.c line 22: parse error before  "The carving shows 
+/d/events/dragonaug2008/rooms/bluelake.c line 40: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/bluelake.c line 40: parse error before the end of line
+/d/events/dragonaug2008/rooms/bluelake.c line 43: Undefined variable 'i' before )) {
+/d/events/dragonaug2008/rooms/bluelake.c line 43: Illegal LHS before ) {
+/d/events/dragonaug2008/rooms/bluelake.c line 43: parse error before ) {
+/d/events/dragonaug2008/rooms/battleroom.c line 12: Left argument of -> is not a class before );
+/d/events/dragonaug2008/rooms/battleroom.c line 9: Undefined variable 'DRAG_ROOMS' before  ]) );
+/d/events/dragonaug2008/rooms/battleroom.c line 9: parse error before  ]) );
+/d/events/dragonaug2008/rooms/battleroom.c line 9: Undefined variable 'DRAG_ROOMS' before  ]) );
+/d/events/dragonaug2008/rooms/battleroom.c line 9: parse error before  ]) );
+/d/events/dragonaug2008/rooms/instance.c line 59: parse error before  ::query_exit(dir);
+/d/events/dragonaug2008/rooms/instance.c line 60: parse error before  ::query_exit(dir);
+/d/events/dragonaug2008/rooms/instance.c line 65: No such inherited function ::receive_object before ;
+/d/events/dragonaug2008/rooms/instance.c line 66: Undefined variable 'INSTANCE_D' before get_instance_room(th
+/d/events/dragonaug2008/rooms/instance.c line 66: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 65: No such inherited function ::receive_object before ;
+/d/events/dragonaug2008/rooms/instance.c line 66: Undefined variable 'INSTANCE_D' before get_instance_room(th
+/d/events/dragonaug2008/rooms/instance.c line 66: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 65: No such inherited function ::receive_object before ;
+/d/events/dragonaug2008/rooms/instance.c line 66: Undefined variable 'INSTANCE_D' before get_instance_room(th
+/d/events/dragonaug2008/rooms/instance.c line 66: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 66: Undefined variable 'INSTANCE_D' before get_instance_room(th
+/d/events/dragonaug2008/rooms/instance.c line 66: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 68: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 68: parse error before  int receive_objects
+/d/events/dragonaug2008/rooms/instance.c line 16: Left argument of -> is not a class before ) return ::query_exi
+/d/events/dragonaug2008/rooms/ogre95.c line 14: parse error before  DRAG_ROOMS "ogrekin
+/d/events/dragonaug2008/rooms/ogre95.c line 14: parse error before  DRAG_ROOMS "ogrekin
+/d/events/dragonaug2008/rooms/ogreking4.c line 11: parse error before the end of line
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 25: Undefined variable 'event_die' before ) );
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 25: parse error before ) );
+/d/events/dragonaug2008/drag_d.c line 212: Undefined variable 'UID_EVENT' before ;
+/d/events/dragonaug2008/drag_d.c line 221: Undefined variable 'UID_EVENT' before ;
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 27: Undefined variable 'event_die' before ) );
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 27: parse error before ) );
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 7: Illegal to declare local variable of type void. before () {
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 7: parse error before ) {
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 36: Redeclaration of function event_die. before the end of line
+/d/events/dragonaug2008/drag_d.c line 240: Wrong number of arguments to map
+    Expected: 0  Got: 2 before ;
+/d/events/dragonaug2008/drag_d.c line 240: Type mismatch ( object * vs void ) when initializing players before the end of line
+/d/events/dragonaug2008/drag_d.c line 246: Undefined variable 'DRAG_ROOMS' before );
+/d/events/dragonaug2008/drag_d.c line 246: parse error before );
+/d/events/dragonaug2008/drag_d.c line 246: Undefined variable 'DRAG_ROOMS' before );
+/d/events/dragonaug2008/drag_d.c line 246: parse error before );
+/d/events/4thjuly2008/rooms/moltenlava/1.c line 29: parse error before the end of line
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 52: parse error before  write(file_name(env
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 55: Too few arguments to message before , find_player("pyro"
+/d/events/dragonaug2008/mobs/ogrekingguard.c line 55: parse error before ;
+/d/events/dragonaug2008/drag_d.c line 242: Arguments to > do not have compatible types : ( string vs int ) before "s rush":" rushes"+"
+/d/events/dragonaug2008/drag_d.c line 242: Arguments to > do not have compatible types : ( string vs int ) before "s rush":" rushes"+"
+/d/events/dragonaug2008/drag_d.c line 318: "#pragma strict_types" requires type of function before "ogreKingSpawns:"+pN
+/d/events/dragonaug2008/drag_d.c line 318: parse error before +pName, currSpawns);
+/d/events/dragonaug2008/drag_d.c line 318: "#pragma strict_types" requires type of function before "ogreKingSpawns:"+pN
+/d/events/dragonaug2008/drag_d.c line 318: parse error before +pName, currSpawns);
+/d/events/dragonaug2008/drag_d.c line 318: "#pragma strict_types" requires type of function before "ogreKingSpawns:"+pN
+/d/events/dragonaug2008/drag_d.c line 318: parse error before +pName, currSpawns);
+/d/events/dragonaug2008/drag_d.c line 317: Wrong number of arguments to event_reset
+    Expected: 1  Got: 0 before ;
+/d/events/dragonaug2008/drag_d.c line 317: Wrong number of arguments to event_reset
+    Expected: 1  Got: 0 before ;
+/d/events/dragonaug2008/items/pheonixring.c line 15: Undefined variable 'wear_ring' before ) );
+/d/events/dragonaug2008/items/pheonixring.c line 15: parse error before ) );
+/d/events/dragonaug2008/items/pheonixring.c line 22: Illegal LHS before the end of line
+/d/events/dragonaug2008/items/pheonixring.c line 22: parse error before the end of line
+/d/events/dragonaug2008/items/pheonixring.c line 65: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 9: Undefined function createInstanceId before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 14: Undefined function initialize before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 1: parse error before ==** /d/events/drago
+/d/events/dragonaug2008/rooms/instance_d.c line 310: Illegal to inherit after defining global variables. before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 329: Redeclaration of function create. before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 356: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 357: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 357: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 359: Undefined variable 'rm' before , (: $1->is_player()
+/d/events/dragonaug2008/rooms/instance_d.c line 62: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 63: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 63: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 65: Undefined variable 'rm' before , (: $1->is_player()
+/d/events/dragonaug2008/rooms/instance_d.c line 65: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 65: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 81: Reserved type name unexpected. before groupsWithInstance =
+/d/events/dragonaug2008/rooms/instance_d.c line 81: parse error before groupsWithInstance =
+/d/events/dragonaug2008/rooms/instance_d.c line 81: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 83: Undefined variable 'instanceId' before ) {
+/d/events/dragonaug2008/rooms/instance_d.c line 84: Undefined variable 'groupsWithInstance' before  group;
+/d/events/dragonaug2008/rooms/instance_d.c line 84: Illegal lvalue before  group;
+/d/events/dragonaug2008/rooms/instance_d.c line 84: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 105: Undefined variable 'instance' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 123: Undefined function loadObject before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: parse error before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Undefined variable 'filePath' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 105: Undefined variable 'instance' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 123: Undefined function loadObject before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: parse error before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Undefined variable 'filePath' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 123: Undefined function loadObject before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: parse error before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Undefined variable 'filePath' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 165: Undefined variable 'groupId' before [instanceId][filePat
+/d/events/dragonaug2008/rooms/instance_d.c line 126: Undefined function loadObject before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: parse error before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Undefined variable 'filePath' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 165: Undefined variable 'groupId' before [instanceId][filePat
+/d/events/dragonaug2008/rooms/instance_d.c line 161: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 161: parse error before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Undefined variable 'filePath' before ;
+/d/events/dragonaug2008/rooms/instance_d.c line 164: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 165: Undefined variable 'groupId' before [instanceId][filePat
+/d/events/dragonaug2008/rooms/instance_d.c line 165: Undefined variable 'instanceId' before [filePath] = newRoom
+/d/events/dragonaug2008/rooms/instance_d.c line 204: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 204: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 215: Illegal to redeclare local name 'GroupId' before  in GroupIdsToRemove
+/d/events/dragonaug2008/rooms/instance_d.c line 225: parse error before the end of file
+/d/events/dragonaug2008/rooms/instance_d.c line 64: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 65: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 65: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 67: Undefined variable 'rm' before , (: $1->is_player()
+/d/events/dragonaug2008/rooms/instance_d.c line 67: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/instance_d.c line 67: parse error before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 10: Illegal to inherit after defining global variables. before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 21: Undefined function query_instance_group_id before ), query_verb());
+/d/events/dragonaug2008/rooms/ogreking1.c line 23: Left argument of -> is not a class before  query_instance_grou
+/d/events/dragonaug2008/items/pillar.c line 71: Undefined function do_pillar_win before ;
+/d/events/dragonaug2008/rooms/ogre74.c line 17: parse error before reset();
+/d/events/dragonaug2008/rooms/ogre74.c line 17: parse error before reset();
+/d/events/dragonaug2008/items/kingeventob.c line 14: Undefined variable 'DRAG_ROOMS' before )->destruct_instance
+/d/events/dragonaug2008/items/kingeventob.c line 14: parse error before )->destruct_instance
+/d/events/dragonaug2008/items/pillar.c line 49: Undefined variable 'ob' before query_charged()) {
+/d/events/dragonaug2008/items/pillar.c line 49: Undefined variable 'ob' before query_charged()) {
+/d/events/dragonaug2008/items/pillar.c line 49: Undefined variable 'ob' before query_charged()) {
+/d/events/dragonaug2008/drag_d.c line 239: Undefined function ogre_king_giveup before ;
+/d/events/dragonaug2008/drag_d.c line 268: Reserved type name unexpected. before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 268: parse error before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 239: Undefined function ogre_king_giveup before ;
+/d/events/dragonaug2008/drag_d.c line 268: Reserved type name unexpected. before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 268: parse error before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 270: Reserved type name unexpected. before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 270: parse error before (string killer) {
+/d/events/dragonaug2008/drag_d.c line 291: parse error before (find_player(loser))
+/d/events/dragonaug2008/mobs/ogreking.c line 9: Undefined variable 'set' before ("ogre king");
+/d/events/dragonaug2008/mobs/ogreking.c line 9: parse error before ("ogre king");
+/d/events/dragonaug2008/drag_d.c line 297: Undefined variable 'killer' before  DRAG_ROOMS"ogreking
+/d/events/dragonaug2008/drag_d.c line 297: Undefined variable 'killer' before  DRAG_ROOMS"ogreking
+/d/events/dragonaug2008/rooms/instance.c line 15: parse error before  set_instance_dump_a
+/d/events/dragonaug2008/rooms/instance.c line 86: Undefined variable 'ob' before query_name(),
+/d/events/dragonaug2008/rooms/instance.c line 86: Undefined variable 'ob' before query_name(),
+/d/events/dragonaug2008/rooms/ogre86.c line 15: Left argument of -> is not a class before ) );
+/d/events/dragonaug2008/drag_d.c line 357: parse error before the end of line
+/d/events/dragonaug2008/drag_d.c line 362: Illegal LHS before the end of line
+/d/events/dragonaug2008/drag_d.c line 368: Undefined function ogre_king_event_start before ;
+/d/events/dragonaug2008/rooms/ogre86.c line 15: Left argument of -> is not a class before ) );
+/d/events/dragonaug2008/rooms/ogre86.c line 15: Left argument of -> is not a class before ) );
+/d/events/dragonaug2008/rooms/ogre75.c line 21: parse error before  0 :) );
+/d/events/dragonaug2008/rooms/ogre75.c line 34: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre75.c line 34: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre75.c line 21: parse error before  0) :) );
+/d/events/dragonaug2008/rooms/ogre75.c line 34: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre75.c line 34: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre75.c line 21: parse error before  0;) :) );
+/d/events/dragonaug2008/rooms/ogre75.c line 34: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre75.c line 34: parse error before the end of line
+/d/events/dragonaug2008/drag_d.c line 371: Undefined variable 'DOOR_D' before set_door_closed("Ogr
+/d/events/dragonaug2008/drag_d.c line 371: Undefined variable 'DOOR_D' before set_closed("Ogre Kin
+/d/events/dragonaug2008/rooms/ogre63.c line 17: parse error before  0) :));
+/d/events/dragonaug2008/rooms/ogre63.c line 27: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 27: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 17: parse error before  0 :));
+/d/events/dragonaug2008/rooms/ogre63.c line 27: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 27: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 18: parse error before  0) :));
+/d/events/dragonaug2008/rooms/ogre63.c line 27: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 27: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 18: parse error before  0 :));
+/d/events/dragonaug2008/rooms/ogre63.c line 27: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 27: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 18: parse error before  0; :));
+/d/events/dragonaug2008/rooms/ogre63.c line 27: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre63.c line 27: parse error before the end of line
+/d/events/dragonaug2008/mobs/gemogre.c line 31: Undefined variable 'check_die' before ) );
+/d/events/dragonaug2008/mobs/gemogre.c line 31: parse error before ) );
+/d/events/dragonaug2008/mobs/gemogre.c line 38: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/gemogre.c line 38: parse error before the end of line
+/d/events/dragonaug2008/mobs/gemogre.c line 44: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/gemogre.c line 44: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/base.c line 6: parse error before  create() {
+/d/events/dragonaug2008/rooms/py/5.c line 28: parse error before  return;
+/d/events/dragonaug2008/rooms/py/5.c line 34: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 39: Reserved type name unexpected. before (object tp) {
+/d/events/dragonaug2008/rooms/py/5.c line 39: parse error before (object tp) {
+/d/events/dragonaug2008/rooms/py/5.c line 48: parse error before , 3
+/d/events/dragonaug2008/rooms/py/5.c line 49: parse error before , 3,
+/d/events/dragonaug2008/rooms/py/5.c line 55: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 24: Undefined variable 'this_player' before ;
+/d/events/dragonaug2008/rooms/py/5.c line 24: Undefined function stage_0 before ;
+/d/events/dragonaug2008/rooms/py/base.c line 26: Undefined function continue_conversation before ;
+/d/events/dragonaug2008/rooms/py/1.c line 58: Reserved type name unexpected. before  = capitalize(this_p
+/d/events/dragonaug2008/rooms/py/1.c line 58: parse error before  = capitalize(this_p
+/d/events/dragonaug2008/rooms/py/1.c line 58: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/1.c line 59: Undefined variable 'tp' before  ({
+/d/events/dragonaug2008/rooms/py/1.c line 61: parse error before +", "+name+", "+name
+/d/events/dragonaug2008/rooms/py/1.c line 57: Reserved type name unexpected. before  = capitalize(this_p
+/d/events/dragonaug2008/rooms/py/1.c line 57: parse error before  = capitalize(this_p
+/d/events/dragonaug2008/rooms/py/1.c line 57: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/1.c line 58: Undefined variable 'tp' before query_name(), 1);
+/d/events/dragonaug2008/rooms/py/1.c line 61: parse error before +", "+name+", "+name
+/d/events/dragonaug2008/rooms/py/1.c line 61: parse error before +", "+name+", "+name
+/d/events/dragonaug2008/items/dragon_prison.c line 22: Type mismatch ( string vs int ) when initializing num before the end of line
+/d/events/dragonaug2008/items/dragon_prison.c line 30: Type mismatch ( string vs int ) when initializing num before the end of line
+/d/events/dragonaug2008/drag_d.c line 105: != always true because of incompatible types ( int vs string ). before  to_int(v) : v));
+/d/events/dragonaug2008/items/ogrekingreward.c line 52: Undefined variable 'environment' before ) {
+/d/events/dragonaug2008/items/ogrekingreward.c line 54: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 59: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 64: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 76: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 81: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 54: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 59: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 64: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 76: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 81: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/items/ogrekingreward.c line 86: Arguments to < do not have compatible types : ( string vs int ) before the end of line
+/d/events/dragonaug2008/mobs/dragonmage.c line 3: Cannot #include dragonevents.h before #include <id4.h>
+/d/events/dragonaug2008/mobs/dragonmage.c line 54: Undefined variable 'DRAG_D' before query_data("canfindp
+/d/events/dragonaug2008/mobs/dragonmage.c line 103: Undefined variable 'portal' before  new(ID4BASE+"items/
+/d/events/dragonaug2008/mobs/dragonmage.c line 103: Illegal lvalue before  new(ID4BASE+"items/
+/d/events/dragonaug2008/rooms/py/1.c line 90: parse error before , 15,
+/d/events/dragonaug2008/rooms/py/1.c line 109: parse error before ", 12, tp, ({
+/d/events/dragonaug2008/rooms/py/1.c line 110: Illegal character constant before  back.", 6,
+/d/events/dragonaug2008/rooms/py/1.c line 111: Illegal character constant before  you get out?", 3,
+/d/events/dragonaug2008/rooms/py/1.c line 113: Illegal character constant before  dealing with a slip
+/d/events/dragonaug2008/rooms/py/1.c line 126: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/2.c line 3: parse error before "py/base";
+/d/events/dragonaug2008/mobs/finalboss.c line 27: parse error before );
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: parse error before  = 1;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 35: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 36: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 37: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 38: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: parse error before  = 1;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 35: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 36: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 37: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 38: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: parse error before  = 1;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 35: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 36: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 37: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 38: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: parse error before  = 1;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 14: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/flyingdragon.c line 35: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 36: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 37: Illegal LHS before  break;
+/d/events/dragonaug2008/mobs/flyingdragon.c line 38: Illegal LHS before  break;
+/d/events/4thjuly2008/rooms/icystuff/29.c line 36: Undefined variable 'gem' before  load_object(DRAG_IT
+/d/events/4thjuly2008/rooms/icystuff/29.c line 36: Illegal lvalue before  load_object(DRAG_IT
+/d/events/dragonaug2008/rooms/py/daroqscave.c line 9: Undefined function set_shart before ;
+/d/events/dragonaug2008/rooms/py/base.c line 9: No such inherited function convo::create before ;
+/d/events/dragonaug2008/rooms/py/dump.c line 33: Undefined variable 'tp' before query_name())+", our
+/d/events/dragonaug2008/rooms/py/dump.c line 88: parse error before , 8,
+/d/events/dragonaug2008/drag_d.c line 372: Undefined variable 'winnerObj' before ;
+/d/events/dragonaug2008/drag_d.c line 381: Undefined variable 'pl' before query_base_stats("in
+/d/events/dragonaug2008/rooms/ogre119.c line 18: Undefined variable 'this_object' before ;
+/d/events/4thjuly2008/rooms/moltenlava/1.c line 34: Undefined variable 'DRAG_ROOMS' before );
+/d/events/4thjuly2008/rooms/moltenlava/1.c line 34: parse error before );
+/d/events/dragonaug2008/items/portalmaker.c line 21: Redeclaration of function create. before the end of line
+/d/events/dragonaug2008/drag_d.c line 57: Wrong number of arguments to set_long
+    Expected: 1  Got: 5 before ;
+/d/events/dragonaug2008/items/caveob.c line 12: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/d/events/dragonaug2008/items/caveob.c line 20: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 24: Illegal LHS before )
+/d/events/dragonaug2008/items/caveob.c line 24: parse error before )
+/d/events/dragonaug2008/items/caveob.c line 34: Undefined function check_stone before ;
+/d/events/dragonaug2008/items/caveob.c line 36: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 12: Wrong number of arguments to set_read
+    Expected: 2  Got: 1 before ;
+/d/events/dragonaug2008/items/caveob.c line 20: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 24: Illegal LHS before )
+/d/events/dragonaug2008/items/caveob.c line 24: parse error before )
+/d/events/dragonaug2008/items/caveob.c line 34: Undefined function check_stone before ;
+/d/events/dragonaug2008/items/caveob.c line 36: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 23: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 27: Illegal LHS before )
+/d/events/dragonaug2008/items/caveob.c line 27: parse error before )
+/d/events/dragonaug2008/items/caveob.c line 39: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 39: parse error before the end of line
+/d/events/dragonaug2008/items/caveob.c line 39: parse error before the end of line
+/d/events/dragonaug2008/items/crystal_statue.c line 23: parse error before  "Deep pinpoints of 
+/d/events/dragonaug2008/items/crystal_statue.c line 33: Illegal LHS before the end of line
+/d/events/dragonaug2008/items/crystal_statue.c line 33: parse error before the end of line
+/d/events/dragonaug2008/items/crystal_statue.c line 37: Illegal LHS before the end of line
+/d/events/dragonaug2008/items/crystal_statue.c line 37: parse error before the end of line
+/d/events/dragonaug2008/items/crystal_statue.c line 24: Wrong number of arguments to set_items
+    Expected: 1  Got: 2 before ;
+/d/events/dragonaug2008/rooms/bluelake.c line 15: parse error before BOLD%^%^BLUE%^The la
+/d/events/dragonaug2008/rooms/bluelake.c line 22: Illegal character constant before  be "
+/d/events/dragonaug2008/rooms/bluelake.c line 51: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/2.c line 9: Undefined function set_feel before ;
+/d/events/dragonaug2008/rooms/py/2.c line 9: Undefined function set_feel before ;
+/d/events/dragonaug2008/rooms/py/base.c line 5: parse error before ;
+/d/events/dragonaug2008/rooms/py/base.c line 5: parse error before ;
+/d/events/dragonaug2008/rooms/instance.c line 94: Undefined variable 'MOVE_OVERRIDE' before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 94: Undefined variable 'MOVE_OVERRIDE' before the end of line
+/d/events/dragonaug2008/rooms/instance.c line 41: Undefined variable 'player' before move_player(this_obj
+/d/events/dragonaug2008/drag_d.c line 228: Undefined function ogre_king_event_start before ;
+/d/events/dragonaug2008/rooms/instance.c line 99: Undefined variable 'ob' before )
+/d/events/dragonaug2008/rooms/instance.c line 99: Undefined function this_playerject before ->accept_player_into
+/d/events/dragonaug2008/rooms/instance.c line 99: Undefined variable 'ob' before )
+/d/events/dragonaug2008/rooms/py/1.c line 17: Undefined variable 'tp' before query_name()))
+/d/events/dragonaug2008/rooms/py/1.c line 20: Undefined variable 'tp' before query_name()), tp);
+/d/events/dragonaug2008/rooms/py/ogre4.c line 1: parse error before stdh>
+/d/events/dragonaug2008/rooms/py/ogre4.c line 1: parse error before stdh>
+/d/events/dragonaug2008/rooms/py/1.c line 31: Invalid argument types to '+' ( string vs object ) before +"\", 0, "+tp->query
+/d/events/dragonaug2008/rooms/py/1.c line 31: Too few arguments to message before +"\", 0, "+tp->query
+/d/events/dragonaug2008/rooms/py/1.c line 31: parse error before ;
+/d/events/dragonaug2008/rooms/py/convo.c line 33: Too few arguments to message before ;
+/d/events/dragonaug2008/rooms/py/convo.c line 35: Too few arguments to message before ;
+/d/events/dragonaug2008/rooms/py/convo.c line 36: Reserved type name unexpected. before (object tp, mixed *a
+/d/events/dragonaug2008/rooms/py/convo.c line 36: parse error before (object tp, mixed *a
+/d/events/dragonaug2008/rooms/py/convo.c line 47: "#pragma strict_types" requires type of function before tp, args);
+/d/events/dragonaug2008/rooms/py/convo.c line 47: Missing type for argument before , args);
+/d/events/dragonaug2008/rooms/py/convo.c line 47: Missing type for argument before );
+/d/events/dragonaug2008/rooms/py/convo.c line 48: parse error before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 46: parse error before  "The ice below has 
+/d/events/dragonaug2008/rooms/py/2.c line 95: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 99: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 99: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 114: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 123: Undefined variable 'item' before  this_player())))
+/d/events/dragonaug2008/rooms/py/2.c line 123: Illegal LHS before )
+/d/events/dragonaug2008/rooms/py/2.c line 88: Undefined variable 'icicleFalling' before  return;
+/d/events/dragonaug2008/rooms/py/2.c line 98: Undefined variable 'icicleFalling' before  {
+/d/events/dragonaug2008/rooms/py/2.c line 132: Undefined variable 'icicleHanging' before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 145: Undefined variable 'icicleFalling' before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 145: Illegal lvalue before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 152: parse error before ;
+/d/events/dragonaug2008/rooms/py/2.c line 98: Undefined variable 'icicleFalling' before  {
+/d/events/dragonaug2008/rooms/py/2.c line 132: Undefined variable 'icicleHanging' before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 145: Undefined variable 'icicleFalling' before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 145: Illegal lvalue before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 152: parse error before ;
+/d/events/dragonaug2008/rooms/py/2.c line 161: Undefined variable 'itemStr' before  this_player());
+/d/events/dragonaug2008/rooms/py/2.c line 132: Undefined variable 'icicleHanging' before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 145: Undefined variable 'icicleFalling' before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 145: Illegal lvalue before  1;
+/d/events/dragonaug2008/rooms/py/2.c line 152: parse error before ;
+/d/events/dragonaug2008/rooms/py/2.c line 161: Undefined variable 'itemStr' before  this_player());
+/d/events/dragonaug2008/rooms/py/2.c line 161: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 151: parse error before ;
+/d/events/dragonaug2008/rooms/py/2.c line 160: Undefined variable 'itemStr' before  this_player());
+/d/events/dragonaug2008/rooms/py/2.c line 160: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 163: Undefined variable 'itemObj' before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 166: Bad assignment ( string vs int ). before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 155: Undefined function impale_icicle_in_ground before ;
+/d/events/dragonaug2008/rooms/py/2.c line 166: "#pragma strict_types" requires type of function before string noun, string 
+/d/events/dragonaug2008/rooms/py/2.c line 189: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 269: Undefined variable 'You' before  up and down on the 
+/d/events/dragonaug2008/rooms/py/2.c line 269: parse error before  up and down on the 
+/d/events/dragonaug2008/rooms/py/2.c line 269: Illegal character constant before  budge.");
+/d/events/dragonaug2008/rooms/py/2.c line 278: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/2.c line 270: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 274: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 268: Reserved type name unexpected. before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 268: parse error before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 273: Undefined variable 'str' before  str == "")) {
+/d/events/dragonaug2008/rooms/py/2.c line 268: Reserved type name unexpected. before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 268: parse error before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 273: Undefined variable 'str' before  str == "")) {
+/d/events/dragonaug2008/rooms/py/2.c line 268: Reserved type name unexpected. before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 268: parse error before (string str) {
+/d/events/dragonaug2008/rooms/py/2.c line 273: Undefined variable 'str' before  str == "")) {
+/d/events/dragonaug2008/rooms/py/2.c line 263: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 267: Type of returned value doesn't match function return type ( int vs void ) before the end of line
+/d/events/dragonaug2008/mobs/guidedragon.c line 136: Undefined variable 'SQUARE_LOC' before ;
+/d/events/dragonaug2008/mobs/guidedragon.c line 144: Undefined variable 'ROOM_CACHE' before ;
+/d/events/dragonaug2008/rooms/ogre120.c line 34: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre120.c line 34: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre120.c line 34: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 66: Invalid argument types to '+' ( string vs string * ) before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 51: Undefined variable 'this_object' before )
+/d/events/dragonaug2008/rooms/py/icebase.c line 60: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 61: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 60: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 61: Bad assignment ( string * vs string ). before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 33: Undefined function make_exits_invis before ;
+/d/events/dragonaug2008/rooms/py/icebase.c line 94: parse error before  message("info", "Th
+/d/events/dragonaug2008/rooms/py/icebase.c line 108: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 109: Undefined variable 'items' before -1); i++) {
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Undefined variable 'out' before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Illegal lvalue before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 112: Undefined variable 'out' before  "and "+items[<1];
+/d/events/dragonaug2008/rooms/py/icebase.c line 94: parse error before  message("info", "Th
+/d/events/dragonaug2008/rooms/py/icebase.c line 108: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 109: Undefined variable 'items' before -1); i++) {
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Undefined variable 'out' before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Illegal lvalue before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 112: Undefined variable 'out' before  "and "+items[<1];
+/d/events/dragonaug2008/rooms/py/icebase.c line 94: parse error before  message("info", "Th
+/d/events/dragonaug2008/rooms/py/icebase.c line 108: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 109: Undefined variable 'items' before -1); i++) {
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Undefined variable 'out' before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 110: Illegal lvalue before  items[i] + ", ";
+/d/events/dragonaug2008/rooms/py/icebase.c line 112: Undefined variable 'out' before  "and "+items[<1];
+/d/events/dragonaug2008/mobs/guidedragon.c line 260: Bad argument 2 to efun present() before ;
+/d/events/dragonaug2008/rooms/py/2.c line 318: parse error before +str+" would not hel
+/d/events/dragonaug2008/rooms/py/2.c line 320: Undefined variable 'tp' before query_name(), 5);
+/d/events/dragonaug2008/rooms/py/1.c line 157: parse error before ) );
+/d/events/dragonaug2008/rooms/py/icebase.c line 57: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/icebase.c line 62: Bad left argument to '>' : "string * " before ?"s":"")+" out of th
+/d/events/dragonaug2008/rooms/py/icebase.c line 62: Bad left argument to '>' : "string * " before ?"s":"")+" out of th
+/d/events/dragonaug2008/rooms/py/icebase.c line 62: Bad left argument to '>' : "string * " before ?"s":"")+" out of th
+/d/events/dragonaug2008/rooms/py/maze/19.c line 51: parse error before ;
+/d/events/dragonaug2008/rooms/py/maze/19.c line 51: parse error before ;
+/d/events/dragonaug2008/rooms/py/fall1.c line 8: parse error before  0);
+/d/events/dragonaug2008/rooms/py/fall1.c line 18: Undefined variable 'ob' before ;
+/d/events/dragonaug2008/rooms/py/fall1.c line 18: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 18: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 26: parse error before  return 1;:), ({"fly
+/d/events/dragonaug2008/rooms/py/fall1.c line 26: parse error before  return 1:), ({"fly"
+/d/events/dragonaug2008/mobs/bee.c line 12: parse error before  \ `%^RESET%^%^ORANG
+/d/events/dragonaug2008/mobs/bee.c line 28: End of file in string at the end of the file
+/d/events/dragonaug2008/mobs/bee.c line 15: Wrong number of arguments to set_long
+    Expected: 1  Got: 0 before ;
+/d/events/dragonaug2008/mobs/bee.c line 26: parse error before ;
+/d/events/dragonaug2008/rooms/ogre68.c line 45: parse error before the end of line
+/d/events/dragonaug2008/rooms/ogre68.c line 34: parse error before  {
+/d/events/dragonaug2008/rooms/ogre68.c line 36: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/ogre68.c line 44: parse error before the end of line
+/d/events/dragonaug2008/items/beehive.c line 18: Undefined variable 'env' before  environment(this_ob
+/d/events/dragonaug2008/items/beehive.c line 18: Illegal lvalue before  environment(this_ob
+/d/events/dragonaug2008/items/beehive.c line 30: Illegal to redeclare local name 'i' before  = random(4)+3; i > 
+/d/events/dragonaug2008/items/beehive.c line 30: Illegal to redeclare local name 'i' before  = random(4)+3; i > 
+/d/events/dragonaug2008/rooms/ogre68.c line 55: Undefined variable 'scenes' before ) {
+/d/events/dragonaug2008/mobs/dragonelder.c line 101: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/mobs/dragonelder.c line 101: parse error before ;
+/d/events/dragonaug2008/mobs/dragonelder.c line 103: Undefined variable 'env' before ;
+/d/events/dragonaug2008/mobs/dragonelder.c line 103: Illegal LHS before the end of line
+/d/events/dragonaug2008/mobs/dragonelder.c line 104: Undefined variable 'dr' before  {
+/d/events/dragonaug2008/mobs/dragonelder.c line 106: Undefined variable 'DRAG_ROOMS' before "beach");
+/d/events/dragonaug2008/mobs/dragonmage.c line 153: Undefined variable 'ROOM_CACHE' before ;
+/d/events/dragonaug2008/mobs/dragonmage.c line 160: Bad argument 2 to efun present() before ;
+/d/events/dragonaug2008/rooms/py/3.c line 9: parse error before ^GREEN%^A dense fore
+/d/events/dragonaug2008/rooms/py/3.c line 14: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/fallbase.c line 28: Reserved type name unexpected. before () {
+/d/events/dragonaug2008/rooms/py/fallbase.c line 28: parse error before () {
+/d/events/dragonaug2008/rooms/py/fallbase.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fallbase.c line 36: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/2.c line 263: Undefined function query_verbs before +"s on the icicle.",
+/d/events/dragonaug2008/rooms/py/fall1.c line 26: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 26: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 26: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 65: Reserved type name unexpected. before  = random(3)+1;
+/d/events/dragonaug2008/rooms/py/fall1.c line 65: parse error before  = random(3)+1;
+/d/events/dragonaug2008/rooms/py/fall1.c line 65: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 66: Undefined variable 'i' before )+" of the branches 
+/d/events/dragonaug2008/rooms/py/fall1.c line 68: break statement outside loop before the end of line
+/d/events/dragonaug2008/rooms/py/fall1.c line 97: Undefined function damage_player before ;
+/d/events/dragonaug2008/rooms/py/fall1.c line 102: parse error before the end of file
+/d/events/dragonaug2008/rooms/py/fall1.c line 102: parse error before the end of file
+/d/events/dragonaug2008/rooms/py/fall2.c line 8: Illegal to inherit after defining global variables. before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 8: Illegal to inherit after defining global variables. before the end of line
+/d/events/dragonaug2008/mobs/ogre3.c line 28: Undefined variable 'env' before  environment())) ret
+/d/events/dragonaug2008/mobs/ogre3.c line 28: Illegal lvalue before  environment())) ret
+/d/events/dragonaug2008/rooms/py/fall2.c line 52: Left argument of -> is not a class before random(sizeof(player
+/d/events/dragonaug2008/rooms/py/fall2.c line 52: Left argument of -> is not a class before )], player()->query_
+/d/events/dragonaug2008/rooms/py/fall2.c line 50: Left argument of -> is not a class before )], player()->query_
+/d/events/dragonaug2008/rooms/py/fall2.c line 52: Left argument of -> is not a class before random(sizeof(player
+/d/events/dragonaug2008/rooms/py/fall2.c line 52: Left argument of -> is not a class before )], player()->query_
+/d/events/dragonaug2008/rooms/py/fall2.c line 15: Reserved type name unexpected. before (object ob) {
+/d/events/dragonaug2008/rooms/py/fall2.c line 15: parse error before (object ob) {
+/d/events/dragonaug2008/rooms/py/fall2.c line 16: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 71: Undefined variable 'tube' before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 77: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 83: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 87: Reserved type name unexpected. before (string str) {
+/d/events/dragonaug2008/rooms/py/fall2.c line 87: parse error before (string str) {
+/d/events/dragonaug2008/rooms/py/fall2.c line 106: Undefined variable 'branch' before  str != "tree" && st
+/d/events/dragonaug2008/rooms/py/fall2.c line 67: parse error before ;
+/d/events/dragonaug2008/rooms/py/fall2.c line 80: Undefined variable 'str' before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 80: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall2.c line 82: Undefined variable 'noun' before  "wall" && noun != "
+/d/events/dragonaug2008/rooms/py/fall2.c line 87: Undefined variable 'obStr' before  {
+/d/events/dragonaug2008/rooms/py/fall2.c line 88: Undefined variable 'ob' before  present(obStr, this
+/d/events/dragonaug2008/rooms/py/fall5.c line 13: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall3.c line 46: Wrong number of arguments to sway_log
+    Expected: 1  Got: 2 before ;
+/d/events/dragonaug2008/rooms/py/fall3.c line 97: parse error before  seem to have settle
+/d/events/dragonaug2008/rooms/py/fall3.c line 102: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/fall3.c line 103: parse error before  seem to have settle
+/d/events/dragonaug2008/rooms/py/fall3.c line 109: End of file in string at the end of the file
+/d/events/dragonaug2008/rooms/py/fall3.c line 42: Undefined function start_sway before ;
+/d/events/dragonaug2008/rooms/py/fall4.c line 34: Undefined function start_sway before ) return;
+/d/events/dragonaug2008/rooms/py/fall4.c line 40: Undefined variable 'swaying' before  { start_sway("over"
+/d/events/dragonaug2008/rooms/py/fall4.c line 36: Undefined variable 'swaying' before  { start_sway("over"
+/d/events/dragonaug2008/rooms/py/fall4.c line 36: Undefined function start_sway before ; return; }
+/d/events/dragonaug2008/rooms/py/fall5.c line 39: Reserved type name unexpected. before  = DRAG_D->query_dat
+/d/events/dragonaug2008/rooms/py/fall5.c line 39: parse error before  = DRAG_D->query_dat
+/d/events/dragonaug2008/rooms/py/fall5.c line 39: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall5.c line 40: Reserved type name unexpected. before  = "The log is ";
+/d/events/dragonaug2008/rooms/py/fall5.c line 40: parse error before  = "The log is ";
+/d/events/dragonaug2008/rooms/py/fall5.c line 40: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 90: Bad argument 2 to efun present() before ;
+/d/events/dragonaug2008/rooms/py/fall5.c line 71: Undefined function player before ->move(DRAG_ROOMS"py
+/d/events/dragonaug2008/rooms/py/fall5.c line 71: Undefined function player before ->move(DRAG_ROOMS"py
+/d/events/dragonaug2008/rooms/py/fall3.c line 28: Undefined function set_real_long before ;
+/d/events/dragonaug2008/rooms/py/fall4.c line 24: Undefined function set_real_long before ;
+/d/events/dragonaug2008/rooms/py/fall5.c line 50: Undefined function SAY before ;
+/d/events/dragonaug2008/rooms/py/fall5.c line 50: Undefined function SAY before ;
+/d/events/dragonaug2008/rooms/py/fallbase.c line 12: parse error before ("no map", 1);
+/d/events/dragonaug2008/rooms/py/fallbase.c line 31: Undefined function player before )
+/d/events/dragonaug2008/rooms/py/fallbase.c line 38: Redeclaration of function init. before the end of line
+/d/events/dragonaug2008/rooms/py/fallbase.c line 38: Redeclaration of function init. before the end of line
+/d/events/dragonaug2008/rooms/py/fallbase.c line 26: Undefined variable 'play' before  play->is_player()) 
+/d/events/dragonaug2008/rooms/py/logbase.c line 47: parse error before (i < 0) out += "west
+/d/events/dragonaug2008/rooms/py/logbase.c line 47: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/logbase.c line 48: parse error before  out += "east";
+/d/events/dragonaug2008/rooms/py/logbase.c line 48: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 14: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 18: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 32: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 33: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 33: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 21: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 25: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 40: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 40: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 41: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 41: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 21: Undefined variable 'do_look' before );
+/d/events/dragonaug2008/rooms/py/fall6.c line 21: parse error before );
+/d/events/dragonaug2008/rooms/py/fall6.c line 26: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 41: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 41: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 42: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 23: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 28: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 43: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 43: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 44: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 44: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall6.c line 116: Undefined variable 'INSTANCE_D' before get_instance_room(th
+/d/events/dragonaug2008/rooms/py/fall6.c line 116: parse error before  ) != MOVE_OK) {
+/d/events/dragonaug2008/rooms/py/fall6.c line 117: parse error before  ) != MOVE_OK) {
+/d/events/dragonaug2008/rooms/py/fall6.c line 117: parse error before  MOVE_OK) {
+/d/events/dragonaug2008/rooms/py/fall6.c line 81: parse error before  if(str == "object")
+/d/events/dragonaug2008/rooms/py/fall6.c line 88: parse error before  1;
+/d/events/dragonaug2008/rooms/py/fall6.c line 81: parse error before  if(str == "object")
+/d/events/dragonaug2008/rooms/py/fall6.c line 88: parse error before  1;
+/d/events/dragonaug2008/rooms/py/fall7.c line 14: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 18: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 14: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 18: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 14: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 18: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 25: Reserved type name unexpected. before () {
+/d/events/dragonaug2008/rooms/py/fall7.c line 25: parse error before () {
+/d/events/dragonaug2008/rooms/py/fall7.c line 32: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: Undefined variable 'i' before  1+random(2);
+/d/events/dragonaug2008/rooms/py/fall7.c line 33: Illegal lvalue before  1+random(2);
+/d/events/dragonaug2008/rooms/py/fall7.c line 40: parse error before  (query_print_status
+/d/events/dragonaug2008/rooms/py/fall9.c line 46: Undefined variable 'ob' before set_rest_type(LAY);
+/d/events/dragonaug2008/rooms/py/fall3.c line 36: Too many arguments to add_action before ;
+/d/events/dragonaug2008/rooms/py/3.c line 39: Undefined function SAY before ;
+/d/events/dragonaug2008/rooms/ogre58.c line 8: parse error before  "Natural formations
+/d/events/dragonaug2008/rooms/py/4.c line 13: Undefined function set_exit before ;
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 79: Reserved type name unexpected. before  = 60;
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 79: parse error before  = 60;
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 79: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 80: Reserved type name unexpected. before ;
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 80: parse error before ;
+/d/events/dragonaug2008/rooms/py/judgeroom.c line 81: Undefined variable 'count' before 5;
+/d/events/dragonaug2008/rooms/py/4.c line 37: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/4.c line 38: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/4.c line 50: Illegal LHS before  || && ob->query_rid
+/d/events/dragonaug2008/rooms/py/4.c line 50: parse error before  && ob->query_rider(
+/d/events/dragonaug2008/rooms/py/4.c line 47: parse error before  str != "in", && str
+/d/events/dragonaug2008/rooms/py/4.c line 51: Illegal LHS before  || && ob->query_rid
+/d/events/dragonaug2008/rooms/py/4.c line 51: parse error before  && ob->query_rider(
+/d/events/dragonaug2008/rooms/py/4.c line 51: parse error before  ob->query_rider() !
+/d/events/dragonaug2008/drag_d.c line 451: parse error before  = load_object(DRAG_
+/d/events/dragonaug2008/drag_d.c line 451: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/4.c line 98: Undefined function filename before [0..sizeof(DRAG_ITEM
+/d/events/dragonaug2008/rooms/py/4.c line 105: parse error before  (!vineOb) {
+/d/events/dragonaug2008/rooms/py/5.c line 19: parse error before  "It is filled with 
+/d/events/dragonaug2008/rooms/py/5.c line 36: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 37: Illegal LHS before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 37: parse error before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 42: Undefined variable 'ob' before the end of line
+/d/events/dragonaug2008/rooms/py/5.c line 42: Illegal LHS before the end of line
+/d/events/dragonaug2008/items/beehive.c line 20: Undefined variable 'message' before  "%^YELLOW%^"+capita
+/d/events/dragonaug2008/items/beehive.c line 20: Illegal lvalue before  "%^YELLOW%^"+capita
+/d/events/dragonaug2008/items/beehive.c line 21: Reserved type name unexpected. before  = environment(this_
+/d/events/dragonaug2008/items/beehive.c line 21: parse error before  = environment(this_
+/d/events/dragonaug2008/items/beehive.c line 21: Illegal LHS before the end of line
+/d/events/dragonaug2008/items/beehive.c line 27: Undefined variable 'env' before  return;
+/d/events/dragonaug2008/items/beehive.c line 29: Undefined variable 'messaged' before  env->is_living()
+/d/events/dragonaug2008/mobs/beedog.c line 18: Undefined variable 'env' before [0..sizeof(DRAG_ROOM
+/d/events/dragonaug2008/mobs/beedog.c line 18: == always false because of incompatible types ( int vs string ). before  return 0;
+/d/events/dragonaug2008/mobs/beedog.c line 19: == always false because of incompatible types ( int vs string ). before  return 0;
+/d/events/dragonaug2008/mobs/beedog.c line 19: == always false because of incompatible types ( int vs string ). before  return 0;
+/d/events/dragonaug2008/items/caveob.c line 56: Undefined variable 'DRAG_ROOMs' before );
+/d/events/dragonaug2008/items/caveob.c line 56: parse error before );
+/d/events/dragonaug2008/mobs/bee.c line 28: parse error before ->query_name()); ret
+/d/events/dragonaug2008/rooms/py/8.c line 112: Undefined variable 'ob' before  present(thing, tp))
+/d/events/dragonaug2008/rooms/py/8.c line 112: Illegal lvalue before  present(thing, tp))
+/d/events/dragonaug2008/rooms/py/8.c line 171: Undefined variable 'DELAY_D' before add_delay(16+random(
+/d/events/dragonaug2008/rooms/py/8.c line 112: Undefined variable 'ob' before  present(thing, tp))
+/d/events/dragonaug2008/rooms/py/8.c line 112: Illegal lvalue before  present(thing, tp))
+/d/events/dragonaug2008/rooms/py/8.c line 171: Undefined variable 'DELAY_D' before add_delay(16+random(
+/d/events/dragonaug2008/rooms/py/8.c line 172: Undefined variable 'DELAY_D' before add_delay(16+random(
+/d/events/dragonaug2008/rooms/py/9.c line 93: Undefined variable 'tp' before query_gender()=="mal
+/d/events/dragonaug2008/mobs/guidedragon.c line 343: Undefined function do_follow before ;
+/d/events/dragonaug2008/mobs/guidedragon.c line 147: Undefined variable 'freakCount' before  freakCount = 0;
+/d/events/dragonaug2008/rooms/ogrebeach.c line 40: parse error before  "It looks a little 
+/d/events/dragonaug2008/rooms/beachrealnew.c line 33: Undefined function check_entrance before ;
+/d/events/dragonaug2008/rooms/py/8.c line 131: != always true because of incompatible types ( mixed * vs int ). before ) {
+/d/events/dragonaug2008/rooms/py/8.c line 131: Bad argument 2 to efun member_array() before ) {
+/d/events/dragonaug2008/rooms/ogrebeach.c line 64: Undefined variable 'ob' before  new("/wizards/pyro/
+/d/events/dragonaug2008/rooms/ogrebeach.c line 64: Illegal lvalue before  new("/wizards/pyro/
+/d/events/dragonaug2008/rooms/py/2.c line 365: Undefined variable 'stoneName' before  == 2);
+/d/events/dragonaug2008/rooms/py/2.c line 365: Illegal lvalue before  == 2);
+/d/events/dragonaug2008/rooms/py/maze/23.c line 60: Undefined function use_stone_on_wall before ;
+/d/events/dragonaug2008/mobs/dragon_swim1.c line 81: Undefined variable 'START_ROOM' before the end of line
+/d/events/dragonaug2008/mobs/dragon_swim1.c line 85: Undefined variable 'SWIM_ROOM' before  "into the water");
+/d/events/dragonaug2008/mobs/dragon_swim1.c line 87: Undefined variable 'SWIM_TIME' before 1;
+/d/events/dragonaug2008/mobs/dragon_swim1.c line 92: Undefined variable 'END_ROOM' before  "onto the beach");

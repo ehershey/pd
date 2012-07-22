@@ -1,0 +1,226 @@
+Bug reported by Nightshade:
+/d/sewers/rooms/2lv17: make query_disabled() return true if query_casting is
+true
+Bug reported by Ashram:
+/d/sewers/rooms/5: when i try to use mudthrow in combat it says "you are already
+in combat with something else" -- dont know if this is a bug or not
+Bug reported by Aziraphale:
+/d/sewers/rooms/bottom18: Skills related: When I am wielding only one sword, I
+still train double wielding with normal attacks. This is as a paladin, and not
+using combat ablities, just dispell.
+Idea reported by Rhuan Wed Apr 10 13:41:13 2002
+/d/sewers/rooms/bottom9: guild wars... like angel and demons... pk isnt punished for pk of members of a waring guild
+Typo reported by Scifi:
+/d/sewers/rooms/bottom3: firey s/b fiery for all rooms in this area, when you
+examine the pit
+Bug reported by Rhuan:
+/d/sewers/rooms/bottom15: could we please get an ignore command? there are some
+EXTREEMLY annoying people who wont stop sending tells
+Bug reported by Kilmor:
+/d/sewers/rooms/14: butcher corpse  maul doesn't seem to be working but on
+the littlest of stuff 
+Bug reported by Neocount:
+/d/sewers/rooms/27: using trip each round i can keep a monster permanently
+sitting and they never hit me. extreemly strong at low levels
+Bug reported by Neocount:
+/d/sewers/rooms/20: flash is under other in abilities instead of attack
+Bug reported by Neocount:
+/d/sewers/rooms/2: at lvl 20 bladedance is about the strength of a lvl 10
+fighter's slash. also our normal attacks do much less damage that fighter
+Bug reported by Enigma:
+/d/sewers/rooms/41: when i use rage i dont use weapons (slash drains sp too
+fast), however rage has me trying to slash or whirl very very often which i
+cannot do without weapons. Can rage please cause your abilities that go off to
+be ones that are based around what your using?
+Idea reported by Enigma Thu Apr 25 11:56:21 2002
+/d/sewers/rooms/7: make it so people have to allow you to be on their buddylist before you can add them. that way you cant add people who are out to kill you and be alerted when they come on
+Idea reported by Stryder Fri Apr 26 13:11:20 2002
+/d/sewers/rooms/2lv41: a command to be able to tell how much exp it would take to lvl multiple times or to raise a skill to a certain point. this would allow people to not accidently waste exp, and it would let them konw just how much they need to raise
+Typo reported by Naeblis:
+/d/sewers/rooms/35: gypsie attack, flame dance, Scarfacespins his flame and
+burns Rat! needs a space
+Bug reported by Naeblis:
+/d/sewers/rooms/35: trip needs to be fixed so you cant do it every round
+Bug reported by Silth:
+/d/sewers/rooms/2lv6: slug in the sewer 
+Bug reported by Silth:
+/d/sewers/rooms/2lv5: umm, k, try again, its a giant ooze on dying on the 2nd
+lvl of the sewers. it is on dying and every time u hit it it gets severed so
+yeah, dunno exact location. 
+Bug reported by Slys:
+/d/sewers/rooms/2lv51: help choke tells me the syntax to choke is <jab
+[(living)]>
+Bug reported by Halogen:
+/d/sewers/rooms/2lv3: Just letting you know. Oozes (Giant and Normal) lose their
+heartbeat VERY often. I get 3 a run sometimes. Oh yeah I am reffering to the
+ones in sewers incase you wondered.
+Bug reported by Arim:
+/d/sewers/rooms/2lv13: wear cant wear something on a limb
+Idea reported by Rashka Thu Aug  1 22:46:55 2002
+/d/sewers/rooms/2lv51: CTF Capture the Flag :P
+Bug reported by Rashka:
+/d/sewers/rooms/2lv50: ChargeText I usually get destroyed utterly on sewer mobs,
+but after the server change, the text is changed to scraped barely sometimes, i
+think the dmg dealt is the same, only the text is changed.
+Bug reported by Rashka:
+/d/sewers/rooms/2lv40: traps On ranger board
+Idea reported by Rashka Mon Aug  5 16:19:08 2002
+/d/sewers/rooms/2lv1: hunterslist lists the mobs attacking you
+Typo reported by Drake:
+/d/sewers/rooms/bottom: unal  stand q    q h helsjfi dsfdkdsf
+fdsljsdfkjsdflsdjf 
+Idea reported by Rashka Wed Aug  7 14:54:48 2002
+/d/sewers/rooms/2lv27: autosac_into_container Refer to merentha's new autosac function, allows automatic placement of loot into containers.
+Bug reported by Kilmor:
+/d/sewers/rooms/bottom9: don't know if it's me or what: i'm using a massive
+steel hammer at lvl 35.  i maul lots.  i have yet to see it "temporarily
+immobilize" my target...  just curious =) 
+Bug reported by Kilmor:
+/d/sewers/rooms/bottom17: Raknid Warrior, 30th Level Wielding: Four-Bladed
+Axe & Massive Steel Hammer  Bug: When using the skill "hack", the hammer
+hacks as well.  I get the proper number of hacks, but it is reported to me
+that it is the hammer doing the "hacking" (no pun intended). 
+Bug reported by Kilmor:
+/d/sewers/rooms/bottom18: Raknid Warrior, 30th Level Wielding: 2 dblades, 2
+daggers  Bug: Using hack, only hacks twice, rather than 4 times.  was
+wielding 2 twohanders previously.  mixes weapons up in hack, just always 2
+hacks, no more, on less. 
+Typo reported by Daboura:
+/d/sewers/rooms/14: In the sewer... kinda buggy in this room. 
+Idea reported by Sreath Tue Sep  3 22:16:57 2002
+/d/sewers/rooms/2lv17: perception Lower the costs on perception. I have calculated out that to raise it by 20 points as a level 10 white dragon, it cost me in the neighborhood of 3 million.  I'm level 10! That is just insane.  And since stealth raises so fast that you can go from 5 - 200 in less then two minutes without spending a single XP on it. It becomes even more incredulous.
+Bug reported by Lily:
+/d/sewers/rooms/2lv51: this: | A pile of coins                               |  
+No     |   0    | (out of my inventory) you probably want to look at the sac
+command and make sure it's not giving me the actual coins object
+Bug reported by Rubicante:
+/d/sewers/rooms/2lv11: you can still cure out of negatives. it takes you to 1 hp
+but you are essentially unkillable like that
+Bug reported by Pyro:
+/d/sewers/rooms/33: there is a bug in the sewers descrip right b4 you limb
+down:     [32mA large hole is in the middle of the floor here and the water |
+[32mdribbles down into it.  
+Bug reported by Aldur:
+/d/sewers/rooms/bottom17: coupedegrace, sometimes mobs don't seem to die.. just
+just lose their heartbeat
+Bug reported by Prator:
+/d/sewers/rooms/bottom15: When I cast shield, even if it fails because I am
+already shielded - I cannot cast holyfire that round. Also, if I cast heal or
+peace I cannot cast holyfire for 2 rounds, rather than just one. (Don't know if
+this has been brought up before, so here you go).
+Bug reported by Ug:
+/d/sewers/rooms/2lv25: a room in the tirun sewers has some strange code
+showing up in the description.. 
+Bug reported by Prator:
+/d/sewers/rooms/bottom7: When you kill a monster wearing wingmail(demons/angels
+in 3rd level sewers) it paralyzes you for a round, since the monster removes the
+armour as it dies.
+Bug reported by Shinkoro:
+/d/sewers/rooms/bottom7: Curved Dagger has an extra line after its special
+message. 
+Bug reported by Prator:
+/d/sewers/rooms/bottom1: When a demon here loses it's right arm and dies I get
+"!ERROR! This is a bug. Please contact an admin." - I am using "kill all" /
+"holyfire".
+Bug reported by Rethlan:
+/d/sewers/rooms/2lv17: when my buffer on delphi expired, it still won't let me
+buffer her, saying she is already buffered
+Idea reported by Rashka Sun Oct 27 23:51:53 2002
+/d/sewers/rooms/2lv35: Scratch high level weimics use this attack to scratch at a certain enemy's body parts dealing tremendous damage to their limbs.
+Idea reported by Rashka Sun Oct 27 23:53:27 2002
+/d/sewers/rooms/2lv35: weimics Not much special abil/equipment for weimics, they're currently just like centaurs with worse stats...
+Bug reported by Rubicante:
+/d/sewers/rooms/2lv13: boost doesnt cost the right mp. boost 120 only takes
+about 250 mp
+Idea reported by Rashka Fri Nov  1 15:36:43 2002
+/d/sewers/rooms/bottom9: swipe shouldn't swipe be gained a a higher lvl? newbies get too much advantage after the placement of swipe at lvl 1
+Idea reported by Rashka Sun Nov  3 19:30:26 2002
+/d/sewers/rooms/bottom4: weimics shouldn't we get claw skill and mount allow function too?
+Bug reported by Rubicante:
+/d/sewers/rooms/2lv46: annihilate can be stacked with any other spell in a round
+Typo reported by Rubicante:
+/d/sewers/rooms/2lv31: "you impale blah with a deep wound"   thats digusting to
+think about.... maybe "you impale blah causing a deep wound" would work hehe
+Bug reported by Daigotsu:
+/d/sewers/rooms/bottom4: Bloodlust don't work no more, not sure if it was
+being changed or what 
+Bug reported by Shadimar:
+/d/sewers/rooms/2lv23: none of my necromancer spells except fireball are raising
+MA
+Idea reported by Shadimar Wed Dec  4 18:05:08 2002
+/d/sewers/rooms/2lv19: can u make it so my raise monsters dont go on kill monster?
+Idea reported by Shadimar Thu Dec  5 02:26:04 2002
+/d/sewers/rooms/29: undeads commanded by vampire or necromancer or kataan can level up. like every 4 levels u do. they get 1 or something
+Bug reported by Rubicante:
+/d/sewers/rooms/bottom18: you can annihilate in the same round you cast another
+spell
+Idea reported by Aethar Tue Dec 10 15:30:12 2002
+/d/sewers/rooms/bottom14: On monks board
+Bug reported by Fossil:
+/d/sewers/rooms/15: headbutt does no damage even though i have 180 melee/attack
+Praise given by Thoth Tue Jan 21 12:56:57 2003
+/d/sewers/rooms/2lv44: sewers nice place to xp, from n00b to mid :)
+Idea reported by Titanis Thu Jan 23 13:19:10 2003
+/d/sewers/rooms/27: king to be the king of Tenebrae should you have to kill the current king
+Idea reported by Shadow Fri Jan 31 16:32:05 2003
+/d/sewers/rooms/26: assassin throw u can throw daggers from one room away
+Bug reported by Shadow:
+/d/sewers/rooms/29: the help scout file is buggerred
+Bug reported by Shadow:
+/d/sewers/rooms/2lv11: make summons/raises not on monster command
+Bug reported by Gruber:
+/d/sewers/rooms/1: liquify this spell is way too weak. I'm level 31 and it hits
+1 9K mob ineffectively
+Idea reported by Sting Sat Feb  8 20:15:20 2003
+/d/sewers/rooms/1: remove stealing from assassins
+Idea reported by Anguish Tue Feb 11 06:41:20 2003
+/d/sewers/rooms/38: flying make it like sailing :)
+Idea reported by Sting Tue Feb 11 17:21:08 2003
+/d/sewers/rooms/36: give thieves track
+Typo reported by Rubicante:
+/d/sewers/rooms/bottom17: impale. "you thrust and impale blah with a deep wound"
+thats pretty sick... should be something like "you thrust and impale blah
+causing a deep wound"
+Typo reported by Blackivory:
+/d/sewers/rooms/2lv11: 
+Typo reported by Blackivory:
+/d/sewers/rooms/2lv11: help decay corpse, "allows a necromancer to decay a
+corpse and feed of the energies of death." I beleive of should be off
+Bug reported by Smite:
+/d/sewers/rooms/41: dispell should be a faith spell?
+Bug reported by Smite:
+/d/sewers/rooms/2lv27: rot should be a healing spell?
+Bug reported by Smite:
+/d/sewers/rooms/2lv22: i think ointments are overpowered. 80 instant sp. at
+least put a delay on it like oils
+Bug reported by Polk:
+/d/sewers/rooms/2lv35: when i died no death msg came up and even after a
+ressurection i was stuck in some room
+Idea reported by Chia Wed May  7 21:22:07 2003
+/d/sewers/rooms/2lv51: mboost like mheal
+Bug reported by Rashka:
+/d/sewers/rooms/1: tame monsters that u tame should be stopped being assigned
+'monster' target. To prevent  the tamer keep killing his animals
+Bug reported by Rashka:
+/d/sewers/rooms/1: tame tamed mobs don't do anything
+Idea reported by Rashka Fri Aug 22 21:29:01 2003
+/d/sewers/rooms/bottom7: remove exp cut lvls, instead make exp cuts drop gradually lvl by lvl
+Bug reported by Rashka:
+/d/sewers/rooms/2lv10: races are inbalanced, eg, raknids have 4 arms and equal
+dex and consitution to weimics who have 2 arms poor night vision and inability
+to wear most armour
+Bug reported by Kai:
+/d/sewers/rooms/2lv44: When I buffer someone, after it runs out on them I am
+unable to buffer them as it says they are already bufferd. Please fix this.
+Idea reported by Tahngarth Thu Aug 28 22:26:35 2003
+/d/sewers/rooms/13: make it so u can talk and do who and help, idea, bug commands while in rage
+Idea reported by Barrin Sat Sep 13 17:34:38 2003
+/d/sewers/rooms/42: put in skills costs command
+Idea reported by Barrin Sat Sep 13 17:35:02 2003
+/d/sewers/rooms/43: hunters command which shows all the mobs and players attacking u
+Idea reported by Barrin Sat Sep 13 17:36:09 2003
+/d/sewers/rooms/42: give centaur, weimic and bastets charging damage bonus of 1.4 coefficient
+Idea reported by Barrin Tue Sep 16 12:19:04 2003
+/d/sewers/rooms/35: fix damage descriptions, so that a 'slam mercilessly' isn't dealing 40 dmg only
+Idea reported by Sting Fri Sep 26 18:31:13 2003
+/d/sewers/rooms/13: put steal from players in , in lawless areas

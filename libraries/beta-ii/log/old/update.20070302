@@ -1,0 +1,54 @@
+Update reported by Nulvect Fri Oct  6 14:39:26 2006
+* Lots of work on clerics: dispell, turn, pain, wound, paralyze, boost, and resurrect have been rewritten; lifewarp, mheal, and replace had some bugfixes and changes (mheal changed names); also clerics have gained 5 brand new spells and have 5 more to come
+
+Update reported by Nulvect Tue Oct 10 13:28:32 2006
+* Another new cleric spell, as well as a new sorceror spell since they haven't gained anything in a long time.
+
+Update reported by Nulvect Sat Oct 14 17:40:41 2006
+* I helped Whit get his new save system put in and spent a couple days ironing bugs out of it. Added an ability for jesters since they're severely lacking in them.
+
+Update reported by Nulvect Wed Oct 18 13:36:33 2006
+* Been fixing remort bugs a lot lately. Today I added a new kataan ability and changed the requirements for darkshift.
+
+Update reported by Nulvect Mon Oct 23 15:57:35 2006
+* I've rewritten dakzhul, demonfire, and fear, added another kataan ability, a new spell, changed hellfire a bit, removed demonbolt, and moved all kataan attacks over to the new balance system.
+
+Update reported by Stormbringer Thu Oct 26 01:58:15 2006
+* Added Carina's wax belt to the game. Fixed the "m" bug in Forbidden Forest.
+
+Update reported by Stormbringer Thu Oct 26 02:01:15 2006
+* Fixed some help files such as help credits and the reboot shutdown screen.
+
+Update reported by Stormbringer Thu Oct 26 12:06:27 2006
+* Added lockers to Warwick's Castle for hm, elite, and legend.
+
+Update reported by Stormbringer Wed Nov  1 19:55:03 2006
+* I finished updating the website to the new design. Not all areas of the website are functioning yet, they will go live as we finish them.
+
+Update reported by Nulvect Wed Nov 15 04:19:03 2006
+* Been doing a lot of bugfixes lately including one involving the sky. Changed how some of Inferi works (nothing major). Working on a lot of stuff at once so we can have better summoned/raised/etc monsters as well as new spell affects. Lastly, I've been working on my area in between everything else.
+
+Update reported by Nulvect Tue Nov 21 06:02:41 2006
+* Replaced kataans' buffer with a new md spell, added a new gypsy ability, added a new md spell for necros, and wrote new racial abilities for demons and archangels (one each so far).
+
+Update reported by Nulvect Sat Dec  2 13:35:28 2006
+* Necros: added a couple attack spells, a couple def spells, modified decay to be useful, added a utility spell, and removed a few conjuring/other spells.
+
+Update reported by Nulvect Mon Dec  4 16:10:19 2006
+* In the past few days I've fixed a bunch of bugs, added a warrior ability, a bard song, and a kataan ability, also modified stun, and made some updates to corpses.
+
+Update reported by Nulvect Tue Dec 12 06:36:30 2006
+* Modified several kataan spells and abilities in regards to alignment, added the last kataan physical ability, changed deathtouch completely, necros lost annihilate, and I rewrote slice. Bug fixes scattered around. Working on raises/summons/tames/etc.
+
+Update reported by Nulvect Mon Dec 18 16:50:59 2006
+* New headbutt, new soulburn, bunch of tweaks to things put in recently.
+
+Update reported by Nulvect Sat Jan 27 22:17:17 2007
+* Added a few abilities for berserkers, rewrote charge.
+
+Update reported by Nulvect Fri Feb  2 13:16:24 2007
+* Gave berserkers another ability, rogues got a couple, and put in a new spell.
+
+Update reported by Nulvect Mon Feb 26 02:13:46 2007
+* New rush ability, fixed up container code to fix some bugs.
+

@@ -1,0 +1,34 @@
+Bug reported by Assassin:
+/wizards/marduk/mine_shaft/ms_room5: some mobs will come back when none has
+died, like the elven wanderer and the bandit
+Bug reported by Staver:
+/wizards/marduk/mine_shaft/ms_room7: guard guard doesn't seem to protect and it
+doesn't train skills
+Bug reported by Myal:
+/wizards/marduk/mine_shaft/ms_room4: Value being indexed is zero.
+Typo reported by Calirynth:
+/wizards/marduk/mine_shaft/ms_room7: tlingit drunkinly -> drunkenly
+Bug reported by Calirynth:
+/wizards/marduk/mine_shaft/drunk#20004: drunk does not respond to 'tlingit' or
+'worker'
+Typo reported by Jillian:
+/wizards/marduk/mine_shaft/clipboard#15754: clipboard the clipboard carriers a
+list of names?
+Bug reported by Gracelda:
+/wizards/marduk/mine_shaft/ms_room5: why is cut under 'other' on abilities..
+it's an attack skill
+Idea reported by Alquerian Mon Apr 15 11:07:50 2002
+/wizards/marduk/mine_shaft/ms_room3:          inventory     join          kill          kills
+Bug reported by Tarfand:
+/wizards/marduk/mine_shaft/ms_room13: I can backstab while resting
+Typo reported by Nesoo:
+/wizards/marduk/mine_shaft/ms_room13: "The flesh of the corpses here, have
+started to rot, and bone shows through the rotting flesh of some corpses."
+"corpses here, have started" s/b "corpses here has started"
+Typo reported by Nesoo:
+/wizards/marduk/mine_shaft/ms_room14: "and all that remains is bare, naked
+walls, and piles of bones." "is bare, naked walls, and" s/b "are bare walls and"
+I removed "naked" in that fix since it's redundant.
+Typo reported by Nesoo:
+/wizards/marduk/mine_shaft/ms_room12: "fresh limbs, and corpses" No comma
+needed.

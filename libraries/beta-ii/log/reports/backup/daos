@@ -1,0 +1,11 @@
+Typo reported by Daos:
+/wizards/daos/workroom: when a player leaves with someone on their back, it
+should only say their back if the mount is indefinite (ie a shadow), otherwise
+shoudl say his or her back
+Bug reported by Daos:
+/wizards/daos/workroom: when a player leaves with someone on their back, it
+should only say their back if the mount is indefinite (ie a shadow), otherwise
+shoudl say his or her back
+Bug reported by Daos:
+/wizards/daos/workroom: in the vault in the bank, when i look at the vault,
+says: look_at_vault

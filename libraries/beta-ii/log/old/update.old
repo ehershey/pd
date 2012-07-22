@@ -1,0 +1,96 @@
+Update reported by Stormbringer Tue Jul  4 17:29:53 2006
+* The rules have been updated.
+
+Update reported by Nulvect Tue Jul  4 18:59:40 2006
+* I started working on some bugs today. Fixed one in remort and one with gag.
+
+Update reported by Nulvect Thu Jul  6 01:49:16 2006
+* Bugfixes: Problems with going outlaw in lawless zones via pick, filch, steal should be fixed; Minor bugs in flyingkick/flyingstab fixed.
+
+Update reported by Stormbringer Thu Jul  6 02:03:34 2006
+* The mob bugs in Amun's area have been fixed.
+
+Update reported by Nulvect Fri Jul  7 00:17:16 2006
+* Fixed a minor bug in deathtouch and another in steal.
+
+Update reported by Daos Fri Jul  7 01:18:05 2006
+* Fixed a bug in mage bags.
+
+Update reported by Daos Fri Jul  7 04:34:35 2006
+* Fixed a bug in auction.
+
+Update reported by Nulvect Sat Jul  8 01:31:56 2006
+* Fixed and reinstated supplication, fixed a typo in monsters that prevented them from having a stealing skill, and fixed up necro undeads and kataan summons so their spell lists match up with what they actually cast.
+
+Update reported by Nulvect Sun Jul  9 03:11:03 2006
+* Fixed some bugs in the party and partyrange commands, as well as a room bug in merk, and worked on a weird limb bug with limited success.
+
+Update reported by Nulvect Tue Jul 11 01:44:48 2006
+* Tirun seals cannot teleport ghosts anymore, did another gag update, fixed a minor bug with oils, an item description in inferi, three items and two mobs from aekari, fixed newbie sorcs not having "novice" in their title, and mostly rewrote the auction system
+
+Update reported by Stormbringer Tue Jul 11 23:02:36 2006
+* The help system got an update today, mostly just the different topics being moved around to different headings, though alot of duplicate help files were removed and some files were corrected or rewritten. Anything missing or wrong, please mudmail me.
+
+Update reported by Nulvect Thu Jul 13 04:31:18 2006
+* Minor bug in party command fixed, spent most of the day working on thieves
+
+Update reported by Nulvect Thu Jul 13 04:31:44 2006
+* Oh, and I changed the vitals bonuses so everyone gets some now.
+
+Update reported by Daos Fri Jul 14 02:05:38 2006
+* Backpacks changed to show the % full.
+
+Update reported by Daos Fri Jul 14 02:21:38 2006
+* Players who are ignored cannot send replies.
+
+Update reported by Daos Fri Jul 14 03:11:16 2006
+* Fixed a bug in backstab.
+
+Update reported by Nulvect Fri Jul 14 03:20:56 2006
+* Changed a bunch of daggers so they don't break at random, put in a new pick command for rogues, added cauterize for pyros, and riposte for swashes.
+
+Update reported by Nulvect Mon Jul 17 04:14:58 2006
+* Ok, things I've forgotten to post recently: Raised the effectiveness of several songs, fixed a bug where bastets weren't getting some melee specials, added vigor spell for clerics, fixed up abilities and spells commands so things are in the right categories now, added special warrior double wield ability, fixed some typos in a few areas and abilities
+
+Update reported by Nulvect Thu Jul 20 21:18:01 2006
+* This week I did a bunch of updates for dragons: added spire, iceblast, crystallize, pyrestrike, fireshot, sunder, chaosvapor; changed eat, dragonfury, breathe, solarflare, bite, faithwing, shadowfang; removed the spell corrupt entirely
+
+Update reported by Nulvect Sat Jul 22 04:35:26 2006
+* Spent today getting balance guidelines set; wrote twelve new weapon abilities and put three into play for the moment: chop, pierce, and lash; a while back I fixed who so you can check for any guild; and fixed a few bugs here and there
+
+Update reported by Nulvect Mon Jul 24 22:28:35 2006
+* Skill maxes and costs got changed for just about everyone, put in the rest of the new generic weapon abilities, as well as warblade for all fighters and hew for berserkers
+
+Update reported by Nulvect Wed Jul 26 02:31:57 2006
+* Added debilitate and corona today.
+
+Update reported by Nulvect Fri Jul 28 07:03:25 2006
+* Added new firebomb and inferno spells, as well as flamewall; updated all pyromancer attack spells to use new balance system; removed annihilate from sorcerors
+
+Update reported by Nulvect Sat Jul 29 05:44:28 2006
+* Added flamebraid spell, did a lot of balancing of pyro spells today, also made a slight change to buffer.
+
+Update reported by Nulvect Mon Jul 31 18:33:47 2006
+* Some tweaks to pyro spells, a couple bug fixes, and rewrote rage.
+
+Update reported by Nulvect Sun Aug  6 04:47:06 2006
+* New shoot command, rewrote forage and build.
+
+Update reported by Nulvect Sun Aug 13 01:48:58 2006
+* Make and trap were fixed up; added a new ability: barrage.
+
+Update reported by Nulvect Fri Aug 18 02:04:53 2006
+* Added "spear" ability; reworked the song and dance systems; "dances" command added; changes to sing and perform; minor changes including name changes to some songs and dances
+
+Update reported by Nulvect Sun Aug 20 03:18:30 2006
+* Gypsies lost flirt, pirouette, dance of the fang, dance in the shadows, dance of the wind, veil dance, and song of fates; they gained pick, sonata of inebriety, twining of nine tails, spinning dervish and beguiling step
+
+Update reported by Nulvect Tue Aug 29 13:40:45 2006
+* Lots of gypsy work has been going on. They lost sonata of inebriety, but gained a bunch of new and reworked songs and dances, along with a spell. I also put in flog, which gypsies can use.
+
+Update reported by Nulvect Sun Sep  3 12:16:44 2006
+* Added barter for gypsies, rewrote throw, changed the name of the druid spell "fortitude" to "bisonsmight", and changed the category some things show up under on spells and abilities commands.
+
+Update reported by Nulvect Fri Sep 22 11:31:59 2006
+* I've been doing a lot of bug fixes in random places lately, also working on a couple gypsy spells, as well as a new draft of the rules.
+

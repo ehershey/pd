@@ -1,0 +1,35 @@
+Bug reported by Sasayaki:
+/d/distopia/weapon/warblade#58378: warblade Employ is spelt incorrectly on this
+weapon.
+Bug reported by Sasayaki:
+/d/distopia/item/bloodwings#58379: wings This item's description does not end in
+a full stop.
+Bug reported by Sammuel:
+/d/distopia/room/nexus: newbie
+Idea reported by Aethar Tue Aug  3 06:02:20 2004
+/d/distopia/room/forest15: make monks regen a percentage of hp sp from their melee attack damage
+Bug reported by Cortoth:
+/d/distopia/room/forest45: Bad argument 1 to terminal_colour() Expected:
+string Got: 104. program: /adm/obj/simul_efun.c, object: /adm/obj/simul_efun,
+file: /adm/simul_efun/wrap.c:20 --- trace --- Object:
+/d/distopia/monsters/lelk#15722, Program: /std/monster.c    in heart_beat()
+at /std/monster.c:165 arguments were () locals were: 0,0,"",0,0 Object:
+/std/user#8167, Program: /std/user.c    in receive_message() at
+/std/user.c:1340 arguments were ("environment",104) locals were:
+0,"130",0,0,130 '           wrap' in '/adm/obj/simul_efun.c' ('/ 
+adm/obj/simul_efun') /adm/simul_efun/wrap.c:20 arguments were (104,130)
+locals were: 0,0,0,0,0,0 --- end trace --- Heart beat in
+/d/distopia/monsters/lelk#15722 turned off.  
+Bug reported by Vyce:
+/d/distopia/room/startlod: some bug when i tried to look sky
+Idea reported by Endbringer Tue Aug 22 03:34:53 2006
+/d/distopia/room/path3: Make a little score like sheet that shows total kills, total exp earned, average exp per kill, damage taken, and other random assorted things for refrence and fun
+Typo reported by Cortoth:
+/d/distopia/room/hhall: 'The floors creek' should be The floors creak
+Bug reported by Uzamaki:
+/d/distopia/room/nexus: Amun tells me that all healing items share the same
+source code. But, I was fighting a brigand and got from 870 hp down to 251. 3
+oils fully restored my hp. Fought another brigand and had my hp reduced to 316.
+It took 9 souls from the Darksoul hall to restore hp to 870. It did exactly 60hp
+every time without fail. Would you be so kind as to look into this for me? Thank
+you.

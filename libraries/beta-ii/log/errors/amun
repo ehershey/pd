@@ -1,0 +1,369 @@
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/workroom.c line 2: parse error before ;
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/amun_plushie.c line 32: parse error before  no!"\n");
+/wizards/amun/amun_plushie.c line 34: Illegal LHS before the end of line
+/wizards/amun/amun_plushie.c line 34: parse error before the end of line
+/wizards/amun/amun_plushie.c line 35: Illegal LHS before the end of line
+/wizards/amun/amun_plushie.c line 35: parse error before the end of line
+/wizards/amun/amun_plushie.c line 37: Illegal LHS before the end of line
+/wizards/amun/sky/objects/angelskin_backpack.c line 13: Undefined function set_possible_to_close before ;
+/wizards/amun/sky/objects/angelskin_backpack.c line 4: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/builders/guilds/rooms/bank.c line 5: Cannot #include boat.h before the end of line
+/wizards/amun/builders/guilds/rooms/bank.c line 64: Undefined variable 'GROOM' before  ]));
+/wizards/amun/builders/guilds/rooms/bank.c line 64: parse error before  ]));
+/wizards/amun/builders/guilds/rooms/bank.c line 101: Undefined variable 'amount' before 10;
+/wizards/amun/builders/guilds/rooms/bank.c line 101: Illegal LHS before the end of line
+/wizards/amun/builders/guilds/rooms/bank.c line 101: parse error before the end of line
+/wizards/amun/builders/guilds/rooms/board_room.c line 3: Cannot #include boat.h before inherit ROOM;
+/wizards/amun/builders/guilds/rooms/board_room.c line 18: Undefined variable 'GROOM' before , "west" : GROOM"ban
+/wizards/amun/builders/guilds/rooms/board_room.c line 18: parse error before , "west" : GROOM"ban
+/wizards/amun/builders/guilds/rooms/board_room.c line 19: Illegal LHS before the end of line
+/wizards/amun/builders/guilds/rooms/board_room.c line 19: parse error before the end of line
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/builders/guilds/rooms/clerghall.c line 20: Undefined variable 'SKYROOM' before );
+/wizards/amun/builders/guilds/rooms/clerghall.c line 20: parse error before );
+/wizards/amun/builders/guilds/rooms/board_room.c line 58: Undefined variable 'SQUARE_LOC' before ;
+/wizards/amun/builders/guilds/rooms/locker.c line 20: Undefined variable 'GROOMS' before , "east" : "/d/guild
+/wizards/amun/builders/guilds/rooms/locker.c line 20: parse error before , "east" : "/d/guild
+/wizards/amun/builders/guilds/rooms/shop1.c line 20: Undefined variable 'GROOM' before ]) );
+/wizards/amun/builders/guilds/rooms/shop1.c line 20: parse error before ]) );
+/wizards/amun/builders/guilds/rooms/shop1.c line 34: Illegal LHS before the end of line
+/wizards/amun/builders/guilds/rooms/shop1.c line 34: parse error before the end of line
+/wizards/amun/builders/guilds/rooms/shop1.c line 20: Undefined variable 'GROOM' before ]) );
+/wizards/amun/builders/guilds/rooms/shop1.c line 20: parse error before ]) );
+/wizards/amun/builders/guilds/rooms/shop1.c line 34: Illegal LHS before the end of line
+/wizards/amun/builders/guilds/rooms/shop1.c line 34: parse error before the end of line
+/wizards/amun/builders/guilds/rooms/shop1.c line 44: parse error before int)ob->get_price("m
+/wizards/amun/builders/guilds/rooms/shop1.c line 44: parse error before int)ob->get_price("m
+/wizards/amun/builders/guilds/mobs/dru.c line 37: parse error before ."\n",
+/wizards/amun/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'main' before  }
+/wizards/amun/builders/guilds/rooms/lodos_holding.c line 26: parse error before  "horse" : "%^BOLD%^
+/wizards/amun/vampire/room.c line 2: Cannot #include vampq.h before inherit WORKROOM;
+/wizards/amun/vampire/room.c line 3: parse error before ;
+/wizards/amun/vampire/room.c line 3: parse error before ;
+/wizards/amun/vampire/room.c line 3: parse error before ;
+/wizards/amun/builders/guilds/rooms/msstorage.c line 30: parse error before the end of file
+/wizards/amun/builders/guilds/rooms/roghall.c line 17: Line too long. before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/roghall.c line 17: parse error before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/l_main4.c line 17: Line too long. before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/l_main4.c line 17: parse error before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/l_main4.c line 17: Line too long. before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/l_main4.c line 17: parse error before     set_items(([ "pa
+/wizards/amun/builders/guilds/rooms/g50.c line 18: parse error before  GROOM "g37" ]) );
+/wizards/amun/newbuildings/roston/mobs/gypsy_child.c line 11: parse error before 100);
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 5: No such inherited function lightning::create before ;
+/wizards/amun/sky/rooms/p6.c line 10: parse error before );
+/wizards/amun/sky/rooms/p11.c line 10: Line too long. before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: parse error before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: Line too long. before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: parse error before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: Line too long. before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: parse error before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: Line too long. before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: parse error before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: Line too long. before     set_items((["pat
+/wizards/amun/sky/rooms/p11.c line 10: parse error before     set_items((["pat
+/wizards/amun/sky/rooms/p13.c line 1: parse error before c
+/wizards/amun/sky/lightningroom.c line 18: Undefined variable 'victim' before query_cap_name()+"%^
+/wizards/amun/sky/lightningroom.c line 27: Illegal to redeclare local name 'who' before  in all) {
+/wizards/amun/sky/lightningroom.c line 29: Undefined variable 'victim' before query_cap_name()+"%^
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: Cannot #include PERIODIC.h before inherit AMUNLIGHTNIN
+/wizards/amun/sky/rooms/rs_10.c line 4: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: Cannot #include PERIODIC.h before inherit ROOM;
+/wizards/amun/sky/rooms/rs_10.c line 5: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: Cannot #include PERIODIC.h before inherit AMUNLIGHTNIN
+/wizards/amun/sky/rooms/rs_10.c line 4: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: Cannot #include PERIODIC.h before inherit AMUNLIGHTNIN
+/wizards/amun/sky/rooms/rs_10.c line 4: parse error before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/summer.c line 24: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/sky/mobs/summer.c line 28: Undefined function set_my_mess before ;
+/wizards/amun/sky/mobs/summer.c line 32: Undefined function set_your_mess before ;
+/wizards/amun/sky/mobs/summer.c line 36: Undefined function set_menu_short before ;
+/wizards/amun/sky/mobs/summer.c line 40: Undefined function set_menu_long before ;
+/wizards/amun/sky/mobs/spring.c line 48: parse error before the end of file
+/wizards/amun/CMD_EVAL_TMP_FILE.c line 5: Undefined variable 'damien' before  }
+/wizards/amun/sky/mobs/saber_tooth_tiger.c line 14: Wrong number of arguments to add_limb
+    Expected: 5  Got: 1 before ;
+/wizards/amun/sky/mobs/autumn.c line 4: parse error before std/vendor;
+/wizards/amun/sky/mobs/faishyth.c line 10: Undefined function set_stat before ;
+/wizards/amun/sky/mobs/winter.c line 8: Undefined variable 'set_id' before  "winter", "monster"
+/wizards/amun/sky/mobs/winter.c line 8: parse error before  "winter", "monster"
+/wizards/amun/fallenangels/armour/blackiron_chestplate.c line 4: parse error before create();
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/rs_10.c line 3: parse error before ;
+/wizards/amun/sky/rooms/alcohol_shop.c line 5: Illegal to declare local variable of type void. before () {
+/wizards/amun/sky/rooms/alcohol_shop.c line 5: parse error before ) {
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 25: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 32: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 22: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 31: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 40: Undefined function set_your_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 49: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 58: Undefined function set_menu_long before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 25: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 32: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 25: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 32: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 25: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 32: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 21: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 24: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 21: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 24: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 22: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 31: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 40: Undefined function set_your_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 49: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 58: Undefined function set_menu_long before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 18: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 21: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 24: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/mick.c line 40: parse error before  "%^RESET%^%^ORANGE%
+/wizards/amun/builders/guilds/mobs/dru.c line 22: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 31: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 40: Undefined function set_your_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 49: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 58: Undefined function set_menu_long before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 22: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 31: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 40: Undefined function set_your_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 49: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 58: Undefined function set_menu_long before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 22: Wrong number of arguments to set_menu
+    Expected: 1  Got: 3 before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 31: Undefined function set_my_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 40: Undefined function set_your_mess before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 49: Undefined function set_menu_short before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 58: Undefined function set_menu_long before ;
+/wizards/amun/builders/guilds/mobs/dru.c line 56: parse error before  : ([
+/wizards/amun/workroom.c line 3: parse error before ;
+/wizards/amun/workroom.c line 29: Undefined function allow_read_access before ;
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before T%^", "waves" : "%^B
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before T%^", "waves" : "%^B
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before T%^", "waves" : "%^B
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before T%^", "waves" : "%^B
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before T%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before T%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before T%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before T%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: String too long before et!%^RESET%^" ]) );
+/wizards/amun/builders/guilds/rooms/docks.c line 27: parse error before et!%^RESET%^" ]) );

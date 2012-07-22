@@ -1,0 +1,80 @@
+/d/guilds/blacksails/treasury.c line 24: Undefined variable 'BLACKSAILS' before ,
+/d/guilds/blacksails/treasury.c line 24: parse error before ,
+/d/guilds/blacksails/treasury.c line 24: Undefined variable 'BLACKSAILS' before ,
+/d/guilds/blacksails/treasury.c line 24: parse error before ,
+/d/guilds/blacksails/treasury.c line 16: parse error before ;
+/d/guilds/blacksails/treasury.c line 16: parse error before ;
+/d/guilds/blacksails/bow.c line 2: Cannot #include gob.h before inherit ROOM;
+/d/guilds/blacksails/bow.c line 26: Undefined variable 'MOB' before "robillard")->move(t
+/d/guilds/blacksails/bow.c line 5: No such inherited function room::create before ;
+/d/guilds/blacksails/bow.c line 26: Undefined variable 'GUILDS' before "robillard")->move(t
+/d/guilds/blacksails/bow.c line 26: Undefined variable 'GUILDS' before "robillard")->move(t
+/d/guilds/blacksails/robillard.c line 2: Cannot #include gob.h before inherit MONSTER;
+/d/guilds/darksoul/hall.c line 85: Undefined variable 'SQUARE_LOC' before ;
+/d/guilds/forsaken/obj/sack.c line 17: Undefined function query_worn before ) return 0;
+/d/guilds/forsaken/obj/sack.c line 17: Undefined function query_worn before ) return 0;
+/d/guilds/lastsaints/objects/leather_sack.c line 13: Undefined function set_possible_to_close before ;
+/d/guilds/forsaken/mob/shengar.c line 147: parse error before the end of file
+/d/guilds/forsaken/mob/shengar.c line 147: parse error before the end of file
+/d/guilds/illuminati/obj/portal.c line 40: parse error before the end of file
+/d/guilds/forsaken/hall.c line 2: No such inherited function ::init before ;
+/d/guilds/forsaken/hall.c line 12: No such inherited function ::create before ;
+/d/guilds/forsaken/hall.c line 13: Undefined function set_name before ;
+/d/guilds/forsaken/hall.c line 18: Undefined function set_long before ;
+/d/guilds/forsaken/hall.c line 27: Undefined function set_properties before ;
+/d/guilds/forsaken/hall.c line 32: Undefined function set_items before ;
+/d/guilds/illuminati/rooms/floor2.c line 20: parse error before  ILROOM"stoneshop.c"
+/d/guilds/illuminati/rooms/floor2.c line 20: parse error before  ILROOM"stoneshop.c"
+/d/guilds/illuminati/rooms/floor2.c line 20: parse error before  "/d/guilds/illumina
+/d/guilds/unholy/storage_room.c line 30: Redeclaration of function reset. before the end of line
+/d/guilds/unholy/storage_room.c line 30: Redeclaration of function reset. before the end of line
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/forsaken/hall.c line 78: Undefined variable 'GROOM' before );
+/d/guilds/forsaken/hall.c line 78: parse error before );
+/d/guilds/dw/hall.c line 8: Unexpected #endif before     add_action("fbuy
+/d/guilds/dw/hall.c line 8: parse error before the end of line
+/d/guilds/forsaken/obj/sword.c line 16: Undefined function set_element before ;
+/d/guilds/lastsaints/weapons/renegade.c line 26: Undefined variable 'atkr' before query_cap_name()+"."
+/d/guilds/forsaken/obj/forsakenhealingring.c line 46: Undefined variable 'THIS_ID' before  &&
+/d/guilds/darksoul/deathmask.c line 14: Wrong number of arguments to set_curr_value
+    Expected: 2  Got: 1 before ;
+/d/guilds/darksoul/deathmask.c line 21: Undefined variable 'guilds' before  != -1) return 1;
+/d/guilds/knightsofvalor/hall.c line 20: Undefined variable 'KOVOBJ' before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: parse error before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: Undefined variable 'KOVOBJ' before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: parse error before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: Undefined variable 'KOVOBJ' before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: parse error before ->eject(this_player(
+/d/guilds/knightsofvalor/ejection.c line 6: parse error before BOLD%^Your presence 
+/d/guilds/knightsofvalor/ejection.c line 18: End of file in string at the end of the file
+/d/guilds/knightsofvalor/hall.c line 20: Undefined variable 'KOVOBJ' before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: parse error before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: Undefined variable 'KOVOBJ' before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 20: parse error before ->eject(this_player(
+/d/guilds/knightsofvalor/hall.c line 27: parse error before the end of line
+/d/guilds/knightsofvalor/hall.c line 18: Type mismatch ( unknown vs object ) when initializing board before the end of line
+/d/guilds/knightsofvalor/hall.c line 18: Missing type for global variable declaration before the end of line
+/d/guilds/knightsofvalor/hall.c line 19: parse error before  set_name("board");
+/d/guilds/knightsofvalor/pool.c line 34: parse error before    if (!t) set_heart
+/d/guilds/knightsofvalor/pool.c line 34: parse error before    if (!t) set_heart
+/d/guilds/knightsofvalor/pool.c line 34: parse error before  if (!t) set_heart_b
+/d/guilds/knightsofvalor/hall.c line 16: parse error before  KOVROOM"treasury.c"
+/d/guilds/knightsofvalor/hall.c line 18: Illegal LHS before the end of line
+/d/guilds/knightsofvalor/hall.c line 18: parse error before the end of line
+/d/guilds/forsaken/obj/book.c line 5: Illegal to inherit after defining functions. before the end of line
+/d/guilds/forsaken/obj/book.c line 5: Illegal to inherit after defining functions. before the end of line
+/d/guilds/forsaken/obj/book.c line 5: Illegal to inherit after defining functions. before the end of line
+/d/guilds/lastsaints/weapons/renegade.c line 26: Undefined variable 'atkr' before query_cap_name()+"."

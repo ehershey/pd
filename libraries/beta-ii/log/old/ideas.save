@@ -1,0 +1,686 @@
+Idea reported by Kartoffel Fri Feb  1 23:23:29 2002
+/d/tirun/square: with the <body> command.  i think that when i limb gets
+severed it should show the lime and where it normally has the % it should say
+something like "SEVERED!" it would be alot eaiser.  as it is, when i limb is
+severed it just doesnt show it on body list at all you have to look at yourself
+to figure it out or remember what limb it was that got severed.
+
+Idea reported by Kartoffel Fri Feb 15 23:22:41 2002
+/d/tirun/square: it would be cool if you could set the who list to show only
+ppl of certain classes or sub-classes by flagging it like you can with races
+
+Idea reported by Yakko Sat Feb 16 00:11:32 2002
+/d/shadow/rooms/first: how about a quest to make the death sense shorter?
+
+Idea reported by Kalidas Mon Feb 18 00:52:37 2002
+/d/lodos/etower1: "get # <item> from <item>" would be usefull
+
+Idea reported by Leviathas Fri Feb 22 16:24:43 2002
+/d/tirun/square: emotions that have effects.  There could be a special kind of
+emotion, perhaps highlighted as grey or something, where you can ":returns the
+blade that he stole." and somehow attach "give blade to person", so that it
+cuts off the normal message and after "Player returns blade to person" it would
+be in their inventory!
+
+Idea reported by Kartoffel Wed Feb 27 00:13:34 2002
+/d/tirun/square: a "honeyemote" and a "last honey" would be helpfull
+
+Idea reported by Leviathas Fri Mar  1 13:43:38 2002
+/d/tirun/square: wimpy/wimpy off   I say we make it so wimpy is automatically
+on and for people who have it off, they get like a 5% xp bonus or something.
+
+Idea reported by Tarsis Sat Mar  9 06:42:20 2002
+/d/tirun/rogue_hall: have a 'help agility' file
+
+Idea reported by Leviathas Sat Mar  9 10:12:50 2002
+/d/lodos/square: war an evil monk spell that causes every mob/player to attack
+each other.
+
+Idea reported by Bork Sat Mar  9 11:25:42 2002
+/d/standard/cult/ent: If you're resting and you try to move, you should 'stand'
+automatically.
+
+Idea reported by Asoc Sat Mar  9 16:05:44 2002
+/d/standard/cult/cave2: Give everyone access to the same help files.  Newbies
+can't type 'help remort' and get something.  I don't know why this is in
+effect, but it's definitely not helping anybody.
+
+Idea reported by Naeblis Tue Apr  9 12:11:13 2002
+/d/standard/rain_forest/ghut2: recall should last untill lvl 5
+
+Idea reported by Wraith Wed Apr 10 08:37:38 2002
+/d/guilds/darksoul/view_room: when a rogue is cloaked, make it so it says A
+shadow on lines?
+
+Idea reported by Wraith Wed Apr 10 08:45:54 2002
+/d/tirun/sage_room: is there going to be an actuall visual mud calandar we can
+look at that shows us what months go where?
+
+Idea reported by Wraith Wed Apr 10 08:48:43 2002
+/d/tirun/sage_room: a command 'study time' to check on how long you have left
+to study
+
+Idea reported by Azire Wed Apr 10 10:35:12 2002
+/d/lodos/square: it would be fun to have a wandering bard... even neater if you
+could hire that bard to seek out a player and have him sing to them.. he could
+sing an annoying song, love song, hate song..
+
+Idea reported by Rhuan Wed Apr 10 13:41:13 2002
+/d/sewers/rooms/bottom9: guild wars... like angel and demons... pk isnt
+punished for pk of members of a waring guild
+
+Idea reported by Azire Sun Apr 14 18:13:41 2002
+/d/tirun/square: i think PD needs a line for foul comments, dirty minds, etc.
+*laughs* call it gutter or something. that way ppl can block the nasty thoughts
+we all have from time to time.
+
+Idea reported by Alquerian Mon Apr 15 11:07:50 2002
+/wizards/marduk/mine_shaft/ms_room3:          inventory     join          kill 
+kills
+
+Idea reported by Azire Mon Apr 15 12:51:54 2002
+/d/tirun/square: perhaps a 'mount allow/follow allow' list? letting you know
+who at present you have allowed to mount/follow you?
+
+Idea reported by Stormbringer Tue Apr 23 09:03:43 2002
+/wizards/stormbringer/workroom: be able to search a board for all of a single
+players posts
+
+Idea reported by Wraith Wed Apr 24 19:12:02 2002
+/d/tirun/pubstart: for rogues with the disguise ability, let them have a 'speak
+as <player>' while they are disguised, but have it drain sp or disguise time
+
+Idea reported by Enigma Thu Apr 25 11:56:21 2002
+/d/sewers/rooms/7: make it so people have to allow you to be on their buddylist
+before you can add them. that way you cant add people who are out to kill you
+and be alerted when they come on
+
+Idea reported by Stryder Fri Apr 26 13:11:20 2002
+/d/sewers/rooms/2lv41: a command to be able to tell how much exp it would take
+to lvl multiple times or to raise a skill to a certain point. this would allow
+people to not accidently waste exp, and it would let them konw just how much
+they need to raise
+
+Idea reported by Azire Fri Apr 26 13:40:35 2002
+/d/tirun/square: DRAGON SADDLES! *smirk*
+
+Idea reported by Azire Wed May  1 19:35:56 2002
+/d/tirun/square: code me a giant dragon litter box, please, Daos. *snickers*
+
+Idea reported by Wraith Sun May  5 11:39:12 2002
+/d/guilds/darksoul/hall: Can ya make it so Cloaked people cant be scried?
+
+Idea reported by Azire Thu May 16 18:33:22 2002
+/d/tirun/dragon_hall: how about a 'stretch' emote?
+
+Idea reported by Azire Mon May 20 16:47:17 2002
+/d/tirun/square: make roses wieldable... to all races.
+
+Idea reported by Slai Fri May 24 11:40:20 2002
+/d/arena/looser: I think we should add more things to the paintball arena such as. 1. Maybe some traps like triplines that slow down people from running, 2. sniper towers that let you use sniper turrets to hit players in far away rooms, 3. a paint grenade (maybe 1 per game?) that when thrown, it sets a timer of about 7 seconds for you to get out of the area and when the timer expires it will explode and hit every player in the area adding 1 point for each target hit to the thrower.
+
+Idea reported by Azire Tue Jun  4 16:17:09 2002
+/d/tirun/square: let dragons wear amulets/crowns
+
+Idea reported by Daos Sat Jun 29 23:05:01 2002
+/wizards/daos/workroom: What about level restriction on Angels VS Demons (5) to prevent instant kills?
+
+Idea reported by Yakko Mon Jul  1 11:31:11 2002
+/d/guilds/darksoul/merk/shop: superpowered (oil/guild equivalant)
+
+Idea reported by Ashram Mon Jul  1 19:26:05 2002
+/d/roston/rooms/roston: we could really use a way to tell who is an outlaw and who isnt
+
+Idea reported by Hermes Wed Jul  3 21:07:00 2002
+/wizards/inferno/angel/pool: Area Alright, here's a rough idea of what I have in mind for a new area. I would attach it to Lodos with perhaps a small forest or lake along the way with monsters that are around 20k in difficulty. Anyway, I propose interactive instead of reactive.  In keeping wiht the holy war, after the forest thins  out the player finds himself on a battlefield that is about 5x5 in rooms. Some rooms have dead bodies, others have nothing but descriptions that speak of recent violence with blood and decomposing bodies, others have soliders in them.  For now I shall call them sides G and E for Good and Evil.  Here is th e first oddity, they are fighting each other.  Both of them are roughly equal with the good side leaning towards mild magic and side E leaning towards more physicality.  Neither will kill each other and will only hit each other with one attack so it doens't spam up the screen very badly, but what happens is they ask the player for help, whispering to the player to help their side.  -Continued
+
+Idea reported by Hermes Wed Jul  3 21:11:03 2002
+/wizards/inferno/angel/pool: continued Whichever the player chooses, a flag is planted until he heads back to lodos and a repop hits so that the other side will auto him on sight.  The player is given directions to the commander of the side he choose and makes his way there, fighting when needed. Somtimes its 1 on 3, other times its 1 on 1 or 2 on 2... Neither mob will kill the other but just give the illusion that they are fighting by giving hits that do zero damage to the opposite mob. A way this could be accomplished is making a spell or attack for each side that does zero damage to the other side.  In any case. The commander will tell the player that he needs his/her help to seige the castle and gives directions to said castle.  The player is then followed by three mobs from his side as he makes his way to the castle.  If the player goes link dead or disappears or whatever, the flag will reset and the mobs will return to their position.  Anyway, once the opposite castle is reached the player operates a catapult to breach -cont
+
+Idea reported by Hermes Wed Jul  3 21:14:24 2002
+/wizards/inferno/angel/pool: cont2 to breach the wall, enters in, and kills the opposite king. As soon as this is done he gets a reward and a quest/deed (whichever is wished by the admins) and at that point a permenate flag is planted into the player that now allows him to breach the wall without having to talk to the leader first.  If it's his first time and he hasn't talked to the leader he will have no flag and can't breach the wall.  Further expansions include rogues being asked by the opposing king to betray his side when he gets to the throne room.  If both sides are killed by a player, they will both attack him until he goes back to lodos and a repop happens.  Also, the leaders can NOT be killed. They give the instructions so they are invincible.  But they will not attack so no fear of the player being killed my the leaders... I think that covered the bases, any questions? Ask
+
+Idea reported by Romeo Wed Jul 10 08:10:31 2002
+/d/lodos/etown4: trip should be stackable or its para length should increase as you get stronger
+
+Idea reported by Ashram Wed Jul 24 17:53:47 2002
+/wizards/detach/forbiden/rooms/room18: after a certain point mobs should stop having exp cuts. For example a 52k mob on the bfields will always be plenty hard to kill even if i'm level 100. The damage they do alone slows people down as much as an exp cut would. I say mobs bigger than 50K shouldnt get cut. just my thoughts tho
+
+Idea reported by Rashka Thu Aug  1 22:46:55 2002
+/d/sewers/rooms/2lv51: CTF Capture the Flag :P
+
+Idea reported by Rashka Fri Aug  2 17:50:31 2002
+/d/standard/rain_forest/path1: tame rangers and druids get tame,
+Idea reported by Aldur Sat Aug  3 14:21:39 2002
+/d/merkkerri/jungle/merkkirri/mjungle46: Demon/Angel Well, i believe there was an idea about demon and angels having their own class, but instead have it just the same as it is now except maybe change the abilities around like abilities for subclasses or mages... this'd be easier i think
+
+Idea reported by Aldur Sun Aug  4 16:21:50 2002
+/d/tirun/square: Rage(for demons) ok how about this, for gore to be in Melee rage and melee rage only, u need max melee for lvl 25, 125 ferocity, and max attack, i think that is 150 attack,125 ferocity and 150 melee, and maybe rage should be a lvl 20 or 30 ability, for starters its not that useful at low levels and it is pretty good except for the good chance of dying. As for Massacre i'd say lvl 50 maxes in ferocity, melee, attack and... 50 str... just trying to make it a lil more realistic for u guys
+
+Idea reported by Aldur Sun Aug  4 16:23:55 2002
+/d/tirun/square: ferocity say at lvl 25 max ferocity, rage would disregaurd some of the lower abilities like jab, whirl and headbutt... because really they don't do much at all, i'm not even sure if headbutt does anything at all.
+
+Idea reported by Rashka Mon Aug  5 16:19:08 2002
+/d/sewers/rooms/2lv1: hunterslist lists the mobs attacking you
+
+Idea reported by Rashka Fri Aug  9 20:41:47 2002
+/d/tirun/sxelan2: TeleportScrolls Demons/Dragons/Angels get fly and normal people don't :( That's just unfair
+
+Idea reported by Baudros Sun Aug 11 01:26:00 2002
+/d/lodos/ntown6: Swoop with rider, a fighter with rider can assist in the dmg that swoop does depending on the riding skill of the rider kinda like charge
+
+Idea reported by Rethlan Wed Aug 14 20:18:16 2002
+/d/tirun/square: slur the 'say's when a character is drunk - most common i've seen has been s=sh, r=rr, and g=' (appostrophe)
+
+Idea reported by Baudros Fri Aug 16 01:15:49 2002
+/d/tirun/square: Black and White dragons, these dragons are missing something, they lack a advantage over the other dragons like blue has cure and boost and shield, all very useful, red has dirt cheap skills compared to all other dragons... yet the only usful spell black gets is shield (which all but red get), and white its the same except for maybe peace.. in some situations
+
+Idea reported by Leviathas Sun Aug 18 16:06:38 2002
+/d/tirun/pubstart: death I think that when PlayerA kills PlayerB, PlayerB should have a smaller death penalty (stats, skills, etc.) than they would have if they were killed by a monster.  Why?  Because, harassment has always been an issue with PK.  If someone was PKed 3 times in a row, it could cause them to want to quit playing.  But they probably WOULDN'T be killed by the monster three times in a row.  I don't think players should have that kind of power over other players.  I mean, killing another player for RP and such is good, but if it is done simply to punish another PLAYER, that's just wrong and out of the spirit of fair play.
+
+Idea reported by Kilir Tue Aug 27 17:53:34 2002
+/d/tirun/pubstart: ability I think there should be a abilitie so you can dig up the stuff someone burried in that area...only way you can get it is if you have a certain amount of skills....just putting up an idea i think that alot of people would like.
+
+Idea reported by Azire Fri Aug 30 12:58:30 2002
+/d/tirun/square: how about making dragons immune to their breath weapon type? makes sense.. otherwise whites would be poisoning themselves all the time.
+
+Idea reported by Azire Fri Aug 30 12:59:02 2002
+/d/tirun/square: how about some tail rings or horn bands for dragons, same attributes as the small rings, only .. well.. different!
+
+Idea reported by Azire Fri Aug 30 17:42:32 2002
+/d/tirun/square: let's let dragons wear crowns, for no armour bonus!
+
+Idea reported by Azire Tue Sep  3 18:14:24 2002
+/d/tirun/square: let dragons wear amulet thingies!
+
+Idea reported by Sreath Tue Sep  3 22:16:57 2002
+/d/sewers/rooms/2lv17: perception Lower the costs on perception. I have calculated out that to raise it by 20 points as a level 10 white dragon, it cost me in the neighborhood of 3 million.  I'm level 10! That is just insane.  And since stealth raises so fast that you can go from 5 - 200 in less then two minutes without spending a single XP on it. It becomes even more incredulous.
+
+Idea reported by Azire Wed Sep 18 14:29:44 2002
+/d/tirun/square: how about you make a separate place for the pit.. it gets waay too spammy in the [] from people dropping tons of meat, etc.
+
+Idea reported by Yakko Sat Sep 21 23:50:32 2002
+/d/merkkerri/jungle/merkkirri/mjungle27: ointments for cleric on merk
+
+Idea reported by Lucifer Mon Sep 23 05:47:14 2002
+/d/arena/bet: "assist" this command will make you attack the monster for the person you assist. Assist <name> you attack the monster that <name> is fighting.
+
+Idea reported by Galdur Mon Sep 23 05:53:58 2002
+/d/shadow/rooms/palace18: make a new race! Were-Wolves, they are there own class and race, they are mixed between anti-paladin and berserker , so they get a move like bloodlust, some abilities, claw, leap, bite, scratch, drink blood (drinks the blood of an dead enemy which gives hp and sp, 60 hp max and 30 sp max per each corpse, takes 5 seconds to do.)
+
+Idea reported by Yakko Tue Sep 24 12:41:56 2002
+/d/lodos/l1m9: make a blacksmith to re sharpen weapons
+
+Idea reported by Yakko Tue Sep 24 12:42:16 2002
+/d/lodos/l1m9: when you look at weapon it shows wear amount
+
+Idea reported by Pyro Tue Sep 24 14:48:03 2002
+/d/tirun/square: guilds what if the word online on the members list were highlighted?
+
+Idea reported by Pyro Tue Sep 24 14:48:23 2002
+/d/tirun/square: wholist what if buddyy on the who list were highlighted?
+
+Idea reported by Yakko Tue Sep 24 15:03:14 2002
+/wizards/detach/forbiden/rooms/room86: guild wars
+
+Idea reported by Yakko Thu Sep 26 23:51:16 2002
+/d/lodos/l1se4: guild wars
+
+Idea reported by Azire Mon Oct 14 13:31:27 2002
+/d/tirun/pier2: random whale attacks on the fishing pier.. you get pulled into the water and tossed up on the beach near arlon. hee
+
+Idea reported by Yakko Tue Oct 15 19:55:38 2002
+/d/merkkerri/jungle/merkkirri/mjungle11: i like it better when ppl didn't know who was going into the arena
+Idea reported by Dante Fri Oct 18 11:02:13 2002
+/d/lodos/tower5: who who fighter, like merentha!
+
+Idea reported by Dante Fri Oct 18 13:37:23 2002
+/d/tirun/square: lead horse...
+
+Idea reported by Rubicante Sun Oct 20 13:34:50 2002
+/d/shadow/rooms/palace02: A newbie help with directions to basic exping areas for brand new players.
+
+Idea reported by Rubicante Sun Oct 20 13:38:06 2002
+/d/shadow/rooms/gate: also the newbie help guide could have directions to the delivery system. so they could make money
+
+Idea reported by Rubicante Sun Oct 27 16:36:21 2002
+/d/shadow/rooms/palace21: bounty system. we can place bounties on people and there is a list made of people and the bounties on them. It is all anonymous so no-one knows who placed the bounty (not even the assassin). When you place the bounty you deposit your money and when the person is killed the money transfers to them
+
+Idea reported by Rashka Sun Oct 27 23:51:53 2002
+/d/sewers/rooms/2lv35: Scratch high level weimics use this attack to scratch at a certain enemy's body parts dealing tremendous damage to their limbs.
+
+Idea reported by Rashka Sun Oct 27 23:53:27 2002
+/d/sewers/rooms/2lv35: weimics Not much special abil/equipment for weimics, they're currently just like centaurs with worse stats...
+
+Idea reported by Azire Mon Oct 28 20:25:10 2002
+/d/tirun/square: with the new fly system.. you could have random encounters with ROCS, and other airborne foes..
+
+Idea reported by Rashka Wed Oct 30 00:48:04 2002
+/d/helgrath/tundra/rooms/room15: fighters and rogues need an area attack
+
+Idea reported by Rashka Wed Oct 30 01:05:37 2002
+/d/helgrath/tundra/rooms/room22: tame Allows a ranger to tame a group of animals to fight for him. The quality of the animal the ranger can tame is determined by his nature and his discipline
+
+Idea reported by Rashka Wed Oct 30 01:16:20 2002
+/d/tirun/oil_shop: Weimics need some good armour
+
+Idea reported by Rashka Wed Oct 30 23:14:17 2002
+/d/shadow/rooms/gate: weimicsagain Shouldn't cats see in the dark clearly?
+
+Idea reported by Rashka Thu Oct 31 00:35:53 2002
+/d/tirun/square: mountallow allows someone to ride you, if you're a race with charging skill
+
+Idea reported by Rashka Fri Nov  1 00:16:48 2002
+/adm/save/boats/rashka: hunters hunterslist shows who is attacking you
+
+Idea reported by Rashka Fri Nov  1 15:36:43 2002
+/d/sewers/rooms/bottom9: swipe shouldn't swipe be gained a a higher lvl? newbies get too much advantage after the placement of swipe at lvl 1
+
+Idea reported by Rashka Fri Nov  1 19:34:28 2002
+/d/helgrath/tundra/rooms/room10: tame tame animals for rangers?
+
+Idea reported by Rashka Sun Nov  3 19:30:26 2002
+/d/sewers/rooms/bottom4: weimics shouldn't we get claw skill and mount allow function too?
+
+Idea reported by Rashka Sun Nov  3 19:47:00 2002
+/d/shadow/rooms/roof03: meleespecials Flying Drop kicks, jab blah blah blah
+
+Idea reported by Yakko Mon Nov  4 11:53:50 2002
+/d/merkkerri/jungle/merkkirri/tent1: show wear damage on weapons...
+
+Idea reported by Yakko Mon Nov  4 11:54:06 2002
+/d/merkkerri/jungle/merkkirri/tent1: quest to make death scene faster
+
+Idea reported by Dante Tue Nov  5 13:45:36 2002
+/d/roston/rooms/roston37: when you type party list, make it show how long you have been in the party
+
+Idea reported by Daboura Mon Nov 11 11:41:48 2002
+/d/shadow/rooms/palace17: party I thought it would be cool if parties had a timer on them so you could see how long you have been partied. then you could compare more closely who you really xp faster with in grps
+
+Idea reported by Aethar Mon Nov 11 14:04:14 2002
+/d/tirun/square: please read post24 on pyromancer's board
+
+Idea reported by Daboura Fri Nov 15 19:56:15 2002
+/d/tirun/square: I don't think anyone should be able to steal things in the arena, the arena should be about friendly competition, not about finding a place to steal from people
+
+Idea reported by Aethar Fri Nov 15 20:26:48 2002
+/d/helgrath/tundra/rooms/room28: swipe deals too much dmg
+
+Idea reported by Aethar Thu Nov 21 00:21:09 2002
+/d/tirun/mage_hall: swipe needs balancing badly
+
+Idea reported by Aldur Sun Nov 24 07:28:53 2002
+/d/tirun/sage_room: gore, maybe it shouldn't be a demon only, make it like swipe.. a lvl 1 move that anything with horns can do, make it similar to a dragon swipe, and minotaurs and saurans could have maybe a slightly weaker one.
+
+Idea reported by Aldur Sun Nov 24 07:30:01 2002
+/d/tirun/sage_room: swipe, all clawed creatures get this a lvl 1, but some shouldn't be as good as others.. i think a easy way to fix this is make the Claw skill have a minor part in dmg.. so dragons would have a slightly more powerful swipe.
+
+Idea reported by Aldur Sun Nov 24 07:30:29 2002
+/d/tirun/sage_room: swoop, maybe everything with wings could do this ability, some better then others depending on coding ect.
+
+Idea reported by Shadimar Tue Nov 26 00:42:04 2002
+/d/standard/outlands/cover2: magic defense spells last longer with higher conj/md. also stronger more effective with higher conj/md?
+
+Idea reported by Shadimar Tue Nov 26 02:18:05 2002
+/d/standard/daroq/cave9: necros shouldnt get boost/absorb or absorb should be a magic attack spell not healing
+Idea reported by Shadimar Tue Nov 26 02:18:25 2002
+/d/standard/daroq/cave9: necros shouldnt get boost/absorb or absorb should be a magic attack spell not healing becuz necros dont have healing skill and shouldnt get healing spells
+
+Idea reported by Prator Tue Nov 26 03:25:06 2002
+/wizards/powerman/room/patha: Either make these mobs in Dunsinane worth 150k (but don't raise their level), or make them not use abilities. These mobs are SO BS! You cannot kill them. I was in here with everyone casting their defense spells on me and I still took 2k damage in a round because one mob walked in and 8 guys slashed/rushed me instantly. Remember that a level40 mob that uses abils is harder than a level40 mob that doesn't. Yet both give the same exp for killing them. Also, WTF is up with the eq, it weighs more than anything else in the game, it SUCKS for the difficulty of getting it, and it is worth almost NOTHING. This is the worst exp place in the entire mud, and I am including purgatory in my comparison there. I'd get more exp jsut expn in Arlon for crying out loud. This area may have been ok in PD1 when palyers got so buff it wa stupid, but it doesn't balance right on PD2. *Rant off*
+
+Idea reported by Muramasa Sun Dec  1 14:25:55 2002
+/d/merkkerri/jungle/merkkirri/mjungle22: partys add a partytime thing to it.
+
+Idea reported by Shadimar Wed Dec  4 00:11:58 2002
+/d/tirun/whonin4: vampires shouldnt lose stats/restart when they become one. vamps in myth grow stronger when becoming undead
+
+Idea reported by Taz Wed Dec  4 03:36:34 2002
+/d/lodos/square: order of protection lvl
+
+Idea reported by Shadimar Wed Dec  4 18:05:08 2002
+/d/sewers/rooms/2lv19: can u make it so my raise monsters dont go on kill monster?
+
+Idea reported by Shadimar Thu Dec  5 00:55:10 2002
+/d/tirun/square7: raise vampires??
+
+Idea reported by Shadimar Thu Dec  5 01:18:50 2002
+/d/tirun/square: vampires should have ethereal ability. or called gaseous form making them a mist that cant be hit by attacks. but..can be effected by wind spells if there is any in this game. fire spells..most definately.
+
+Idea reported by Shadimar Thu Dec  5 02:26:04 2002
+/d/sewers/rooms/29: undeads commanded by vampire or necromancer or kataan can level up. like every 4 levels u do. they get 1 or something
+
+Idea reported by Aethar Sat Dec  7 21:04:05 2002
+/d/lodos/stown4: Making autosac automatically put the loot into a named container of choice.
+
+Idea reported by Aethar Sat Dec  7 21:53:47 2002
+/wizards/inferno/angel/pool: deeds that allow people to erase some of their criminal records.
+
+Idea reported by Aethar Sun Dec  8 13:54:49 2002
+/d/tirun/square: Archangel quest should be made to be around the same difficulty as the demon quest. Since, both races are quite similar in certain aspects.
+
+Idea reported by Aethar Mon Dec  9 13:58:02 2002
+/d/merkkerri/jungle/merkkirri/tomb3: meditate Allowing a monk or kataan to concentrate their energy and regen their hp/sp/mp more quickly
+
+Idea reported by Daos Fri Dec 27 01:21:56 2002
+/d/tirun/fighter/fighter_hall: add ld option to who
+
+Idea reported by Keyoke Fri Jan  3 02:24:30 2003
+/d/tirun/square: allow minotaurs to use the charge command without a mount since they can't ride one anyways
+
+Idea reported by Leviathas Fri Jan  3 13:48:19 2003
+/d/tirun/pubstart: (last-tell) I would really like to see the time that a message was sent to me in 'last tell', maybe like this: Leviathas tells you: Howdy     (30 minutes ago)
+
+Idea reported by Rethlan Sat Jan 11 08:59:34 2003
+/d/tirun/bank: instead of saying zombie rethlan shouts, could it say rethlan's zombie shouts?
+
+Idea reported by Rethlan Sat Jan 11 09:42:30 2003
+/d/guilds/scorpio/oilshop: could we make mention of the sign (whereever it is) in the room description?
+
+Idea reported by Titanis Thu Jan 23 13:19:10 2003
+/d/sewers/rooms/27: king to be the king of Tenebrae should you have to kill the current king
+
+Idea reported by Snohball Sun Jan 26 03:58:19 2003
+/d/tirun/shaven1: helpfiles would you consider adding the command 'search' to the list of 'help commands'?
+
+Idea reported by Maldane Wed Jan 29 00:24:21 2003
+/d/tirun/clergy/kataan/kataan_hall: (auction command) Can the auction command be changed so that when a person auctions an item, there is another message that asks "At what price do you wish the bidding to start at" so that once the person sets a price, thats it and he/she cant bid anymore.  This would in theory reduce the time and spam of auctions.
+
+Idea reported by Shadow Fri Jan 31 16:32:05 2003
+/d/sewers/rooms/26: assassin throw u can throw daggers from one room away
+
+Idea reported by Shadow Sun Feb  2 02:26:09 2003
+/d/tirun/rogue/assassin/assassin_hall: buff rogues should eb able to login cloaked becuz anyone can add ya to their buddylist and see that you sign on and havent signed off.
+
+Idea reported by Sting Sat Feb  8 20:15:20 2003
+/d/sewers/rooms/1: remove stealing from assassins
+
+Idea reported by Anguish Tue Feb 11 06:41:20 2003
+/d/sewers/rooms/38: flying make it like sailing :)
+
+Idea reported by Sting Tue Feb 11 17:21:08 2003
+/d/sewers/rooms/36: give thieves track
+
+Idea reported by Shadimar Fri Feb 14 10:04:29 2003
+/d/tirun/square: absorb should be a magic attack spell not a healing. and necros shouldnt get boost. no healing spells!
+
+Idea reported by Shadimar Thu Feb 20 21:57:46 2003
+/d/lodos/ntower8: aid command. when running to the aid of someone you attack whatever that target is attacking. also for summons they can aid you whatever your fighting
+
+Idea reported by Shadimar Sat Feb 22 17:58:29 2003
+/d/lodos/ntower6: necros get darkshift
+
+Idea reported by Rashka Sat Feb 22 20:01:13 2003
+/d/tirun/fighter_hall: Weimics charge should take one less round to hit, same as centaurs, they can charge instantly and any any other race has to spur their mount into a charge.
+Idea reported by Infinatous Fri Feb 28 10:45:49 2003
+/d/lodos/etower2: mages should get a identify spell, have it say wether a item is poor, decent, average, good, great, excellent, incredible, divine (you can just make each a certain ac range like poor could be 0-1, decent 2-3 and so on) just a idea
+Idea reported by Wraith Sat Mar  8 19:05:52 2003
+/d/rhondale/keep/rooms/zforest/path95: Well, hers an idea for backstab. As you know its shoving a large sharp object into something. Well I was thinking about this and I came up with an idea that I dont know if its in play or not. When a backstab hits, you can let it do normal damage if it hits extremities like arms, feet and such, but if it hits a vital part (torso, head) it would increase the damage because the knife just went into a vital organ. I dont know how much more it would do, mebbie double a normal backstab or so. or at least a 300 hp boost for a vital hit.
+Idea reported by Infinatous Sun Mar  9 22:16:04 2003
+/d/tirun/clergy/monk/monk_hall: I think the command "read new" for reading posts would *very* useful, instead of read 1, read 2, read 3, it would just read the newest post you haven't read so far
+Idea reported by Smite Wed Mar 12 02:08:42 2003
+/d/tirun/square: eat for dragons should fill up your stuffed status bar
+Idea reported by Anguish Tue Mar 18 14:47:15 2003
+/d/lodos/tower6: you know how you can see mobs on the map, why not make the + or - change to green if theres a mob up or down from you?
+Idea reported by Oosen Thu Mar 20 21:17:33 2003
+/d/nopk/tirun/armour: alter the list command to accpet a body part as an argument, so I could type list torso and get all items that could be equipped on the torso instead of having to do list armor, list armour, list platemail, list chainmail, etc.
+Idea reported by Tyste Tue Mar 25 00:59:39 2003
+/d/roston/rooms/roston: make roston [] a peace zone!!
+Idea reported by Madoc Tue Mar 25 02:36:52 2003
+/d/forest/forest46: The you run away message from wimpy would be more handy if it indicated which direction you ran away in
+Idea reported by Smite Wed Mar 26 00:58:24 2003
+/d/lodos/ltower3: if u remort. i think ur offences should go away
+Idea reported by Sting Sat Mar 29 23:01:00 2003
+/d/nopk/tirun/square: give thieves track
+Idea reported by Yakko Mon Apr  7 16:11:34 2003
+/d/freepk/merkkerri/jungle/gcity/gcity25: You don't have the Talent to use that weapon to You don't have the talent to use that <type of weapon>
+Idea reported by Anguish Mon Apr 14 04:25:37 2003
+/d/freepk/merkkerri/jungle/merkkirri/mjungle14: Make colors customize..like...combat_youhit..combat_monsterhit..combat_youmiss..combat_monstermiss..combat_other
+Idea reported by Anguish Mon Apr 14 06:18:35 2003
+/d/nopk/tirun/square: make it possible for you to train/improve in guild halls..maybe just not advance.
+Idea reported by Anguish Mon Apr 14 06:47:19 2003
+/d/freepk/merkkerri/jungle/merkkirri/mjungle23: a time on party line..how long uve been in party
+Idea reported by Yakko Fri May  2 13:48:58 2003
+/wizards/detach/forbiden/rooms/room89: super powered ointments
+Idea reported by Glance Fri May  2 23:13:09 2003
+/d/forest/nwvforest1/erooms/room21: levels A command: "levels" that tells you what the cost for each level is.
+Idea reported by Glance Fri May  2 23:31:50 2003
+/d/nopk/tirun/tannery: Every skin sold is worth 2 silver.  A fox, bear, bear, or predatory cat's skin should be worth more than a skunk or chipmunks skin.
+Idea reported by Glance Sat May  3 03:49:34 2003
+/wizards/detach/forbiden/obj/a8#51228: Why should I have to have a right arm to where a cloak they fit around your neck and drape over you.
+Idea reported by Yakko Wed May  7 19:04:29 2003
+/d/freepk/merkkerri/jungle/merkkirri/tomb12: last honey line
+Idea reported by Chia Wed May  7 21:22:07 2003
+/d/sewers/rooms/2lv51: mboost like mheal
+Idea reported by Rashka Fri Aug 22 21:12:00 2003
+/d/shadow/rooms/roof05: backstab overpowered... charge should deal more dmg than bs since it uses way more sp
+Idea reported by Rashka Fri Aug 22 21:16:45 2003
+/d/shadow/rooms/palace03: make the rifts work
+Idea reported by Rashka Fri Aug 22 21:29:01 2003
+/d/sewers/rooms/bottom7: remove exp cut lvls, instead make exp cuts drop gradually lvl by lvl
+Idea reported by Muramasa Mon Aug 25 07:30:03 2003
+/d/nopk/tirun/fighter_hall: Dragons..too many..make less..1 of each maybe, etc. Delete inactive ones, etc. blah blah <The four hatchlings of the age have been chosen!><quest closes><5-10 mud years later><quest opens><The four blah blah etc etc.
+Idea reported by Anguish Mon Aug 25 11:34:51 2003
+/d/nopk/tirun/pub: Lars...buy number drinkname
+Idea reported by Tahngarth Thu Aug 28 22:26:35 2003
+/d/sewers/rooms/13: make it so u can talk and do who and help, idea, bug commands while in rage
+Idea reported by Tahngarth Thu Aug 28 22:30:57 2003
+/d/nopk/standard/daroq/cave3: berserkers should get 6 points of axe since viking berserkers are reknowned for their axe wielding abilities
+Idea reported by Barrin Sat Sep 13 17:34:38 2003
+/d/sewers/rooms/42: put in skills costs command
+Idea reported by Barrin Sat Sep 13 17:35:02 2003
+/d/sewers/rooms/43: hunters command which shows all the mobs and players attacking u
+Idea reported by Barrin Sat Sep 13 17:36:09 2003
+/d/sewers/rooms/42: give centaur, weimic and bastets charging damage bonus of 1.4 coefficient
+Idea reported by Blind Mon Sep 15 06:58:43 2003
+/d/lodos/square: bank give us an exchange all <currency> command, that would be nice
+Idea reported by Cookie Mon Sep 15 12:29:32 2003
+/d/nopk/tirun/sage_room: Offenses should have a time limit. After like a year in game time... 1 major offense should be removed... or like, 3 minor offenses. Maybe remove 1 minor offense every 4 months or so. Major offenses have the priority, so minor offenses won't disapear until the major offenses are gone. Kinda like you have to pay off your biggest crime first in real life. Anyways... just my thought. thanks.
+Idea reported by Barrin Tue Sep 16 12:19:04 2003
+/d/sewers/rooms/35: fix damage descriptions, so that a 'slam mercilessly' isn't dealing 40 dmg only
+Idea reported by Shadimar Tue Sep 16 20:06:20 2003
+/d/shadow/rooms/palace19: only mages should be able to wear mage robes :P hehe
+Idea reported by Barrin Mon Sep 22 00:11:33 2003
+/d/shadow/rooms/tower3: make blast better
+Idea reported by Sting Fri Sep 26 18:31:13 2003
+/d/sewers/rooms/13: put steal from players in , in lawless areas
+Idea reported by Shadimar Wed Oct  1 12:07:51 2003
+/d/guilds/vorticon/hall: more gates per conj
+Idea reported by Rashka Thu Oct  2 12:35:03 2003
+/d/nopk/tirun/fighter/ranger/ranger_hall: Ranger balance please read on Rangers Subclass Board
+Idea reported by Yakko Mon Oct  6 20:19:55 2003
+/wizards/detach/forbiden/rooms/room182: super powered ointments
+Idea reported by Shadimar Tue Oct  7 16:34:51 2003
+/d/guilds/vorticon/hall: cloakable players allowed to login invis so ppl cant see them login on buddy/enemy lists :p just a little after u type in ur passwd sumthang like Would you like to login invisible?y/n
+Idea reported by Thoth Fri Oct 31 03:48:08 2003
+/d/freepk/merkkerri/demonquest/dquest115: <last shout> shows the last 25 shouts in any of the languageas that you know.
+Idea reported by Thoth Sat Nov  8 18:23:40 2003
+/d/freepk/rhondale/rooms/zforest/x6y5: remove all into <container> selfexplanatory?
+Idea reported by Mazrim Thu Nov 20 18:09:33 2003
+/d/shadow/rooms/palace01: pyro spell - firewall, creates a large flaming body of armour around the caster, rendering damage to any opponent who is close enough to attack (anyone engaged on)
+Idea reported by Mazrim Thu Nov 20 18:10:41 2003
+/d/shadow/rooms/tene11: make firebomb an abil
+Idea reported by Mazrim Thu Nov 20 18:11:37 2003
+/d/shadow/rooms/tene12: pryo spell - burn corpse, allows caster to burn the corpse of it's victim and suck the mana out of the body (gives lots of mp but no hp/sp) maybe 75 mp
+Idea reported by Mazrim Thu Nov 20 18:12:36 2003
+/d/shadow/rooms/roof05: give scald a low % chance to melt the attackers weapon
+Idea reported by Mazrim Thu Nov 20 18:13:38 2003
+/d/shadow/rooms/roof07: make most pyro spells do random damage based on burns being lasting wounds IE in mid fight you see "Opponent cringes as a cool breeze enflames his burns
+Idea reported by Mazrim Thu Nov 20 18:33:58 2003
+/d/sewers/rooms/bottom16: allow lvl 36 pyro's to gate
+Idea reported by Mazrim Thu Nov 20 18:36:55 2003
+/d/sewers/rooms/bottom11: pyro spell - singe, allow user to cast a spell that destroys clothes on a low % and inflits light damage
+Idea reported by Mazrim Thu Nov 20 18:38:31 2003
+/d/sewers/rooms/bottom9: mudmail me if u gonna use idea's since i'm only active pyro :P and i'm never remorting ;)
+Idea reported by Mazrim Sat Nov 22 12:47:41 2003
+/d/freepk/merkkerri/jungle/merkkirri/tent1: once every 3 rounds firebomb does double damage, makes sense cause molotov cocktails dont just go out :P could be like "Your opponent is smothed by %^RED%^%^BOLD%^F%^YELLOW%^%^BOLD%^l%^RED%^%^BOLD%^a%^YELLOW%^%^BOLD%^m%^RED%^%^BOLD%^e%^YELLOW%^%^BOLD%^s%^RED%^%^BOLD%^!
+Idea reported by Mazrim Sat Nov 22 12:48:05 2003
+/d/freepk/merkkerri/jungle/merkkirri/tent1: smothered* in flames
+Idea reported by Mazrim Sat Nov 22 12:48:21 2003
+/d/freepk/merkkerri/jungle/merkkirri/tent1: and they see The surrounding flames scorch your skin!
+Idea reported by Daos Sat Nov 22 17:34:02 2003
+/d/nopk/forest/forest98: Can you add wimpy to score command?
+Idea reported by Adema Thu Dec 11 14:53:09 2003
+/d/nopk/forest/forest94: change consider to when u type it in combat, it shows the health rating of the mob
+Idea reported by Checkers Mon Dec 22 20:47:20 2003
+/d/nopk/tirun/pub: just a thought, think that the wear all command should be unusable in battle, don't see nekkid people kicking and putting on clothes at the same time
+Idea reported by Shadimar Sun Dec 28 20:04:26 2003
+/d/guilds/vorticon/hall: undeads should leave a murder charge in a law zone (on the player/pker)
+Idea reported by Lac Mon Dec 29 21:01:27 2003
+/d/guilds/leadermeet: cant remember if i ideaded it before or not..: guildline for all guildmembers in PD: eg; <Guild> Lac <Forsaken> ... | so we can have guils arguements and stuff without spamming newbie :)
+Idea reported by Eios Mon Jan 26 21:27:03 2004
+/d/roston/drow/room/room86: make cost more accurate
+Idea reported by Youjutsu Thu Jan 29 23:19:09 2004
+/d/sewers/rooms/2lv38: With elemental system, it could be cool to have opposing elements. For instance, if you have 30% fire resistance, you loose 15% cold resistance. This would make it harder for a character to have 100% resist to all.
+Idea reported by Galdur Sun Feb  1 20:23:44 2004
+/d/guilds/forsaken/hall: Wiz me?
+Idea reported by Galdur Mon Feb 16 02:08:47 2004
+/d/nopk/tirun/square: event why cant we have an event that stays around for a certain amout of time?, say an invasion of demons. so demons randomly appear in rooms, stay for a short time then leave... they are very strong but have very good eq, and have 1 General demon that is very rare and has the best eq in the game, and is extremely hard and make his time for staying in one place shorter. say this lasts for a week or untill the general dies? just an idea. the demons invading was just an example.. it could be invading lizard men or something. i donno, fairies invading.... i would like to see that hahaha
+Idea reported by Mazrim Wed Feb 18 13:57:05 2004
+/d/nopk/tirun/square: a pwn command IE *pwn davyn* davyn sees Mazrim Totally PWNS YOU
+Idea reported by Aldur Mon Mar 15 21:36:39 2004
+/d/nopk/tirun/square: Coupe de grace
+Idea reported by Aldur Mon Mar 15 21:37:39 2004
+/d/nopk/tirun/square: Coupe de grace, should instead of just putting things into negative hp it should also remove their head to stop anyone or anything cureing out of the negatives.
+Idea reported by Aldur Mon Mar 15 21:55:59 2004
+/d/nopk/tirun/pubstart: Coupe de grace, should instead of just putting things into negative hp it should also remove their head to stop anyone or anything cureing out of the negatives.
+Idea reported by Blits Sat Mar 20 08:35:08 2004
+/d/freepk/rhondale/rooms/zforest/x16y10: can we make the line that tells you "you've severed a limb" come up in blood red or something like that?
+Idea reported by Badkrull Sat Mar 20 16:09:20 2004
+/d/nopk/tirun/square: new class "undead" new subclasses "zombie" "ghoul" "ghost"
+Idea reported by Badkrull Sat Mar 20 16:10:37 2004
+/d/nopk/tirun/square: abils for zombies - Bite, Tear, Vomit, Scratch, drain
+Idea reported by Badkrull Sat Mar 20 16:11:25 2004
+/d/nopk/tirun/square: ok who cares about ghouls and ghosts just zombies :P
+Idea reported by Blits Sat Mar 20 18:27:09 2004
+/d/freepk/rhondale/rooms/zforest/x10y30: Could sharpen make weapons indestructable as well as increasing their Damage class? My scout would like to play one day. lol
+Idea reported by Blits Sun Mar 21 18:48:51 2004
+/d/freepk/rhondale/rooms/zforest/x9y5: Minataur race should have gore *thumbs up*
+Idea reported by Blits Mon Mar 22 06:38:35 2004
+/d/freepk/rhondale/rooms/zforest/x5y22: Faeries should be able to fly.
+Idea reported by Wraith Fri Mar 26 23:56:07 2004
+/d/nopk/tirun/sage_room: how about a way to change your primary language, but only if you are fluent in that language
+Idea reported by Tahngarth Mon Mar 29 22:37:51 2004
+/d/lodos/l1ne1: put minimum bet raise to be 5% of previous bet to prevent betting 1 coin spam
+Idea reported by Draven Tue Mar 30 15:14:21 2004
+/d/nopk/tirun/square: who class who female who male who subclass commands to show a who list. merentha has that shit..because i suggested it a long time ago..so if ur worrying about stealing from mer..dont cuz i came upw ith it :P
+Idea reported by Tahngarth Thu Apr  1 18:35:59 2004
+/d/sewers/rooms/bottom12: make cleave deal dmg to whole area
+Idea reported by Tahngarth Tue Apr  6 13:44:39 2004
+/d/nopk/tirun/square8: make break tirun work on tirun seals
+Idea reported by Tahngarth Tue Apr  6 21:14:45 2004
+/d/lodos/l2se3: in arena, when you're rage and someone runs out, it makes you follow them and keep raging to prevent people from going in and out to stop your rage and get rid of your sp
+Idea reported by Tahngarth Sat Apr 10 15:29:53 2004
+/d/shadow/rooms/roof09: the damage description scale isn't all that right, destroy utterly in cyan shouldn't deal 40 dmg... damage descrip system needs revising
+Idea reported by Tahngarth Tue Apr 13 21:08:22 2004
+/d/sewers/rooms/bottom16: remove the fear rage ability cause it sux
+Idea reported by Tahngarth Fri Apr 16 16:12:39 2004
+/d/shadow/rooms/palace17: CTF game like on mer
+Idea reported by Tahngarth Fri Apr 16 16:48:39 2004
+/d/sewers/rooms/bottom1: make it so that when you kill someone in selfdefense you don't get charged by law
+Idea reported by Tahngarth Sun Apr 18 17:44:29 2004
+/d/sewers/rooms/bottom8: revise the xp cuts idea, too many people are sticking to certain levels, now we have a lack of lvl 38s-49s
+Idea reported by Dojima Fri Apr 30 05:59:15 2004
+/wizards/marduk/mine_shaft/ms_room9: if packs bags and diamonds showed the % of weight in them.
+Idea reported by Lac Sat May 15 19:20:16 2004
+/std/obj/ointment#47799: make it heal body damage again. It doesnt give enough SP to be an Sp only thing.
+Idea reported by Wisp Thu Jul  8 01:47:02 2004
+/d/nopk/tirun/square: A viewing room for the arena
+Idea reported by Smite Thu Jul  8 23:30:56 2004
+/d/nopk/tirun/square: i kinda stole this from another game but..for those who are married can 'hold ring' or some command and teleport to their spouse...with an ability delay so it's not instant
+Idea reported by Smite Fri Jul  9 01:56:21 2004
+/d/sewers/rooms/bottom7: last tell and last party line to have colors
+Idea reported by Smite Sun Jul 11 00:15:08 2004
+/d/freepk/rhondale/rooms/zforest/x13y18: last newbie last hm last every line in color too :D
+Idea reported by Tahngarth Tue Jul 13 00:37:48 2004
+/d/nopk/tirun/pubstart: have a skills costs command to show much much exp you should use to train 1 skill
+Idea reported by Raiku Tue Jul 13 05:34:33 2004
+/d/lodos/ltower3: iventory-command would it be possible so that there is a little slot in your inventory command to see how much money one is carrying?
+Idea reported by Rull Tue Jul 13 22:38:28 2004
+/d/nopk/tirun/square: make it so you can sell to lodos shopkeepers
+Idea reported by Raiku Sat Jul 17 15:07:37 2004
+/d/nopk/tirun/bank: exchnage can we have an exchange all for <currency> command like "exchange all for platinum" and it will exchange all coins for that money type, anything that is excess or over become's taxed...just a thought
+Idea reported by Eios Sun Jul 25 03:55:27 2004
+/d/nopk/tirun/pubstart: Give Eios super powers so that he may rule all!
+Idea reported by Smite Thu Jul 29 23:29:36 2004
+/d/nopk/tirun/dragon_hall: level 50 rogues and kataans can sign on with the option to log in cloaked
+Idea reported by Smite Sat Jul 31 20:26:53 2004
+/d/guilds/forsaken/hall: rogues can fake idle times..like "set idle 5 30" would set idle 5 hours 30 minutes..and it would then continue to count up from there..:p
+Idea reported by Tahngarth Mon Aug  2 06:29:17 2004
+/d/roston/drow/room/room35: notify limbs warns the player if their body dmg is over 70% for any limb
+Idea reported by Tahngarth Mon Aug  2 06:32:25 2004
+/d/roston/drow/room/room20: make a cleric outside arena entrance that cures body dmg, purifys poison and regenerates limbs for a small price
+Idea reported by Tahngarth Mon Aug  2 06:33:21 2004
+/d/roston/drow/room/room18: allow players to purchase personal pets, and train them up with exp or by direct combat
+Idea reported by Aethar Tue Aug  3 06:02:20 2004
+/d/distopia/room/forest15: make monks regen a percentage of hp sp from their melee attack damage
+Idea reported by Smite Wed Aug  4 16:01:38 2004
+/d/freepk/rhondale/rooms/zforest/x2y16: i was thinkin this but dunno if i suggested it arleady...magic def spells...should last longer with higher skill/level
+Idea reported by Tahngarth Mon Aug  9 04:55:16 2004
+/d/lodos/l1sw2: alltime arena list
+Idea reported by Tahngarth Tue Aug 10 05:26:45 2004
+/d/arena/arena5: let me be the help file writer!
+Idea reported by Yorq Wed Aug 11 20:02:21 2004
+/d/nopk/tirun/square: all mayhap the all command could apply to a specific item.. like 'drop all stone' or 'drop all oil' I duno, i'm just a dorq.
+Idea reported by Galdur Tue Aug 17 04:38:55 2004
+/d/nopk/standard/obj/magic/sky#10567: fly i think it would make flying abit more realistic if you had to mark the location of where you can fly too... so in other words... you have to explore the place for... or get gated... but first you gotta go there.. because flying in the sky and distant islands is abit hard to believe... and to land where you have never been before.
+Idea reported by Set Tue Aug 24 01:30:50 2004
+/d/nopk/tirun/square: snowball Snowballs should get better.. like fireworks do!, more mp the better the snowball!
+Idea reported by Yunalesca Fri Aug 27 01:52:43 2004
+/d/guilds/dw/hall: help mounts - A help file documenting the commands for mounts, as well as what mounts are so that newbies are aware of their existance.
+Idea reported by Mortis Sun Aug 29 19:01:00 2004
+/d/sewers/rooms/2lv37: Explorers Make an explore % at our finger. All rooms of mud will be the 100%
+Idea reported by Mortis Sun Aug 29 19:53:42 2004
+/d/nopk/tirun/bank: Exchange all for type
+Idea reported by Mortis Sun Aug 29 22:56:12 2004
+/d/shadow/rooms/tene10: Auction View item like shops before bid on it
+Idea reported by Smite Sun Sep 12 05:42:24 2004
+/d/nopk/tirun/dragon_hall: enemylist all:P
+Idea reported by Smite Sun Sep 12 20:28:31 2004
+/d/freepk/rhondale/rooms/zforest/x8y7: fly should drain sp
+Idea reported by Smite Sun Sep 12 20:53:29 2004
+/d/nopk/tirun/square: dragons should get 12 hp per con and maybe 11 mp per int and 6 mp per wis...:D
+Idea reported by Tahngarth Wed Sep 15 22:08:17 2004
+/d/guilds/darksoul/view_room: trainable pets that can be commanded and gain abilities as they lvl
+Idea reported by Tahngarth Wed Sep 15 22:08:45 2004
+/d/guilds/darksoul/view_room: arena record, wins/losses average level of player fought
+Idea reported by Smite Sun Sep 19 23:04:10 2004
+/d/shadow/rooms/tene10: for mages: mirror, mirage, void, or some kind of name like that a level 50 spell for mages so they cant be scryed ever. not from clergy/other mages or guild halls
+Idea reported by Smite Tue Sep 21 02:41:30 2004
+/wizards/powerman/room/foresteastb7: any race should be able to ride dragons
+Idea reported by Smite Wed Sep 29 19:42:08 2004
+/d/freepk/rhondale/rooms/zforest/x16y20: jazz up the last hm/newbie/tells command so it keeps the color codes of the line like tells/replies come in red for example
+Idea reported by Smite Wed Sep 29 20:24:25 2004
+/d/freepk/rhondale/rooms/zforest/x14y16: notify body % (for body damage above the % you put in there)
+Idea reported by Smite Fri Oct  1 01:48:43 2004
+/d/nopk/tirun/dragon_hall: necros need their undeads to automatically attack whtever their master is fighting when they spawn or if they are already spawned
+Idea reported by Dantares Fri Oct  1 09:21:08 2004
+/d/coach/rooms/transroom#72326: godspeed and demonstrength should have higher caps based on level
+Idea reported by Set Wed Oct 27 21:18:59 2004
+/d/arena/arena7: i think it would be neato if there were top ten lists for classes/sub classes based on stats  :D
+Idea reported by Set Wed Oct 27 22:10:31 2004
+/d/shadow/rooms/palace04: We should have continental kingdoms!
+Idea reported by Set Wed Oct 27 22:10:43 2004
+/d/shadow/rooms/palace04: I think people need to use this command more
+Idea reported by Smite Thu Oct 28 00:35:45 2004
+/d/nopk/tirun/square: alphabatize kill lists somehow:D plzz!
+Idea reported by Smite Thu Oct 28 01:21:07 2004
+/d/nopk/tirun/eganthus2: MD spells should last longer based on skill lvl + wis :(
+Idea reported by Set Thu Oct 28 12:28:43 2004
+/d/freepk/merkkerri/jungle/merkkirri/mjungle18: could it be made so we can rub more than 1 angreal/stone at a time e.g rub angreal 1 rub angreal 2. So that you get double the mp but also you are draining them twice as fast
+Idea reported by Set Thu Oct 28 14:16:57 2004
+/d/nopk/tirun/pubstart: Quote: Loves poison at first blinds, Then kills the heart - Set (1986-7402)
+Idea reported by Dubbya Sat Oct 30 14:49:56 2004
+/d/nopk/tirun/pubstart: a new quote "Can't we all just get along?" - Rodney King
+Idea reported by Dubbya Sat Oct 30 14:50:22 2004
+/d/nopk/tirun/pubstart: new quote "I will not rest until I find the real killer" - O.J. Simpson
+Idea reported by Dubbya Sat Oct 30 14:50:42 2004
+/d/nopk/tirun/pubstart: new quote "I find your lack of faith disturbing" - Darth Vader
+Idea reported by Dubbya Sat Oct 30 14:51:56 2004
+/d/nopk/tirun/pubstart: new quote "Saddam Hussein is capable of making, and in all probability already has weapons of mass destruction" - Me
+Idea reported by Dubbya Sat Oct 30 14:52:48 2004
+/d/nopk/tirun/pubstart: new quote "My only regret is that I have but one life to give for my country" - some guy.. :P nathaniel something
+Idea reported by Kya Sat Oct 30 22:07:33 2004
+/d/freepk/rhondale/rooms/zforest/x8y22: Make an 'allies' section so if you type "kill all' you don't attack people on that list
+Idea reported by Set Sun Oct 31 18:23:10 2004
+/d/lodos/ltower4: honey line needs a history, last honey or whatever
