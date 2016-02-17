@@ -7,7 +7,7 @@ room::create();
     set_short("Raknid's Nest");
     set_long(
       "It's very busy in here.  Guards work very hard at "
-      "keeping intruders out of thier newly formed nest."
+      "keeping intruders out of their newly formed nest."
          
     );
     set_items(([
